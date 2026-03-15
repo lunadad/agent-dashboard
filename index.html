@@ -22,7 +22,16 @@
             <h2>오늘의 브리핑</h2>
             <span id="todayDate" class="chip"></span>
           </div>
+          <input id="briefingSearch" class="search" placeholder="브리핑 검색 (예: FT, AMZN, Artnet)" />
           <ul id="briefingList" class="briefing-list"></ul>
+        </section>
+
+        <section class="news-panel" style="margin-top:12px;">
+          <div class="panel-title-row">
+            <h2>알림센터</h2>
+            <span class="chip">Unread</span>
+          </div>
+          <ul id="noticeList" class="briefing-list"></ul>
         </section>
       </aside>
 
@@ -42,6 +51,16 @@
           <div id="agentDetail" class="agent-detail">
             카드를 클릭하면 최근 브리핑 원문/요약이 표시됩니다.
           </div>
+        </section>
+
+        <section class="timeline-wrap">
+          <h3>브리핑 품질 지표</h3>
+          <div id="qualityBoard" class="timeline"></div>
+        </section>
+
+        <section class="timeline-wrap">
+          <h3>출처 투명성 카드</h3>
+          <div id="sourceBoard" class="timeline"></div>
         </section>
 
         <section class="timeline-wrap">
