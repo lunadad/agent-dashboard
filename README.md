@@ -1,46 +1,74 @@
 # Agent Dashboard
 
-루나봇 · 머스크 · 카리나를 위한 로컬/웹 대시보드입니다.
+<div align="center">
 
-![preview](https://img.shields.io/badge/status-live-22c55e)
+루나봇 · 머스크 · 카리나를 위한 브리핑 대시보드  
+A lightweight command center for LunaBot, Musk, and Karina.
 
-## ✨ 기능
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-22c55e)](https://lunadad.github.io/agent-dashboard/)
+[![Repo](https://img.shields.io/badge/GitHub-lunadad%2Fagent--dashboard-111827?logo=github)](https://github.com/lunadad/agent-dashboard)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![Theme](https://img.shields.io/badge/Theme-Dark%2FLight-7c3aed)](#)
 
-- 주인공 에이전트 3명 카드
-  - **루나봇** (총괄 오케스트레이터)
-  - **머스크** (투자/시장 분석)
-  - **카리나** (아트/브랜드/UX)
-- 좌측 사이드바에 **매일 브리핑 일정** 표시
-- 카드 클릭 시 **상세 브리핑 패널** 표시
+</div>
+
+---
+
+## 🌐 Links
+
+- **Live Demo**: https://lunadad.github.io/agent-dashboard/
+- **Repository**: https://github.com/lunadad/agent-dashboard
+
+---
+
+## 🇰🇷 한국어 소개
+
+`Agent Dashboard`는 에이전트 3인(루나봇/머스크/카리나)의 역할, 브리핑, 운영 타임라인을 한 화면에서 보는 로컬/웹 대시보드입니다.
+
+### 주요 기능
+
+- **주인공 에이전트 카드 3개**
+  - 루나봇 (총괄 오케스트레이터)
+  - 머스크 (투자/시장 분석)
+  - 카리나 (아트/브랜드/UX)
+- **사이드바 일일 브리핑**
+  - 08:00 FT 포워딩
+  - 09:00 아트/주식 브리핑
+  - 21:00 저녁 시장 브리핑
+- **카드 클릭 상세 패널** (최근 브리핑 요약/원문)
 - **다크/라이트 테마 토글**
-- `data.json` 기반 데이터 로딩(없으면 기본 데이터 fallback)
+- `data.json` 기반 데이터 바인딩 (fallback 포함)
 
 ---
 
-## 🌐 Live Demo
+## 🇺🇸 English Overview
 
-- GitHub Pages: https://lunadad.github.io/agent-dashboard/
+`Agent Dashboard` is a lightweight local/web dashboard that visualizes:
 
-## 📦 Repository
+- three hero agents (LunaBot, Musk, Karina),
+- daily briefing sidebar,
+- clickable agent detail panel,
+- operation timeline,
+- dark/light theme toggle.
 
-- GitHub: https://github.com/lunadad/agent-dashboard
+Data is loaded from `data.json` with graceful fallback.
 
 ---
 
-## 🚀 로컬 실행
+## 🚀 Run Locally
 
 ```bash
 cd agent-dashboard
 python3 -m http.server 8787
 ```
 
-브라우저에서:
+Open:
 
 - http://localhost:8787
 
 ---
 
-## 🗂️ 파일 구조
+## 🗂️ Project Structure
 
 ```text
 agent-dashboard/
@@ -53,29 +81,25 @@ agent-dashboard/
 
 ---
 
-## 🔧 커스터마이징
+## 🔧 Customization
 
-### 1) 에이전트/브리핑 내용 바꾸기
+Edit **`data.json`** only:
 
-`data.json`만 수정하면 화면이 바로 바뀝니다.
+- `agents`: card profile + detail panel text
+- `briefings`: sidebar briefing list
+- `timeline`: operation timeline rows
 
-- `agents`: 카드 정보 + 상세 브리핑
-- `briefings`: 사이드바 브리핑 목록
-- `timeline`: 하단 운영 타임라인
-
-### 2) 테마
-
-- 우측 상단 버튼으로 다크/라이트 전환
-- 선택값은 브라우저 `localStorage`에 저장
+Theme preference is stored in browser `localStorage`.
 
 ---
 
-## 📌 다음 확장 아이디어
+## 🧪 Roadmap Ideas
 
-- 크론 결과를 자동 반영하는 실시간 데이터 동기화
-- 브리핑 검색/필터
-- 알림센터 패널(읽음/안읽음)
-- 브리핑 히스토리 아카이브
+- Auto-sync from cron outputs to `data.json`
+- Briefing search/filter
+- Notification center (read/unread)
+- Historical briefing archive
+- Mini chart panel (market + art sentiment)
 
 ---
 
