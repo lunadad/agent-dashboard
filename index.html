@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agent Command Center</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="logo">◆</div>
+          <div>
+            <h1>Agent Command</h1>
+            <p>Daily Briefing Hub</p>
+          </div>
+        </div>
+
+        <section class="news-panel">
+          <div class="panel-title-row">
+            <h2>오늘의 브리핑</h2>
+            <span id="todayDate" class="chip"></span>
+          </div>
+          <ul id="briefingList" class="briefing-list"></ul>
+        </section>
+      </aside>
+
+      <main class="main">
+        <header class="header">
+          <h2>주인공 에이전트</h2>
+          <div class="header-actions">
+            <button id="themeToggle" class="theme-btn">🌙 다크</button>
+            <div class="status">● ONLINE</div>
+          </div>
+        </header>
+
+        <section class="cards" id="agentCards"></section>
+
+        <section class="detail-wrap">
+          <h3>에이전트 상세 브리핑</h3>
+          <div id="agentDetail" class="agent-detail">
+            카드를 클릭하면 최근 브리핑 원문/요약이 표시됩니다.
+          </div>
+        </section>
+
+        <section class="timeline-wrap">
+          <h3>오늘의 운영 타임라인</h3>
+          <div id="timeline" class="timeline"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="agentCardTemplate">
+      <article class="agent-card">
+        <div class="card-top">
+          <div class="avatar"></div>
+          <div>
+            <h3 class="name"></h3>
+            <p class="role"></p>
+          </div>
+          <span class="mode"></span>
+        </div>
+        <p class="desc"></p>
+        <div class="tags"></div>
+      </article>
+    </template>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
