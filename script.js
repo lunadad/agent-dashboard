@@ -177,6 +177,10 @@ function renderAgents() {
   });
 }
 
+function setDockActive(agentId) {
+  document.querySelectorAll(".dock-item").forEach((d) => d.classList.toggle("active", d.dataset.id === agentId));
+}
+
 function selectAgent(cardEl, detailText) {
   document.querySelectorAll(".agent-card").forEach((c) => {
     c.classList.remove("active");
@@ -184,6 +188,7 @@ function selectAgent(cardEl, detailText) {
   });
   cardEl.classList.add("active");
   cardEl.setAttribute("aria-selected", "true");
+  setDockActive(cardEl.dataset.id);
   renderDetail(detailText);
 }
 
@@ -461,6 +466,54 @@ function renderNoticeBadge() {
   badge.textContent = count;
 }
 
+function renderDock() {
+  const dock = document.getElementById("agentDock");
+  if (!dock) return;
+  dock.innerHTML = "";
+
+  state.agents.forEach((agent) => {
+    const status = agent.status || DEFAULT_STATUSES[agent.id] || "idle";
+    const label = status === "working" ? "작업중" : "대기";
+
+    const item = document.createElement("button");
+    item.className = "dock-item";
+    item.dataset.id = agent.id;
+    item.setAttribute("aria-label", `${agent.name} 도크 버튼`);
+
+    const bubble = document.createElement("div");
+    bubble.className = "dock-bubble";
+    bubble.textContent = `${agent.name} · ${label}`;
+
+    const avatar = document.createElement("div");
+    avatar.className = "dock-avatar";
+    if (agent.avatar) {
+      avatar.style.backgroundImage = `url('${agent.avatar}')`;
+    } else {
+      avatar.style.background = AGENT_COLORS[agent.id]?.gradient || "linear-gradient(135deg,#38bdf8,#6366f1)";
+    }
+
+    const statusEl = document.createElement("span");
+    statusEl.className = `dock-status ${status}`;
+    statusEl.textContent = label;
+
+    const name = document.createElement("div");
+    name.className = "dock-name";
+    name.textContent = agent.name;
+
+    item.appendChild(bubble);
+    item.appendChild(avatar);
+    item.appendChild(statusEl);
+    item.appendChild(name);
+
+    item.addEventListener("click", () => {
+      const card = document.querySelector(`.agent-card[data-id='${agent.id}']`);
+      if (card) card.click();
+    });
+
+    dock.appendChild(item);
+  });
+}
+
 // ── Date display ──
 
 function renderDate() {
@@ -546,6 +599,7 @@ function showContent() {
 function renderAll() {
   renderDate();
   renderAgents();
+  renderDock();
   renderFilters();
   renderList("briefingList", getFilteredBriefings(""));
   renderList("noticeList", state.notices || []);
