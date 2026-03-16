@@ -190,6 +190,11 @@ body {
   padding: 6px 10px;
   border-radius: 999px;
 }
+body.light .status {
+  color: #15803d;
+  border-color: #bbf7d0;
+  background: #f0fdf4;
+}
 
 /* ── Skeleton loading ── */
 .skeleton-wrap {
@@ -209,7 +214,9 @@ body {
   0% { background-position: 200% 0; }
   100% { background-position: -200% 0; }
 }
-.main-content { /* shown after load */ }
+/* Hidden until JS calls showContent() via try/finally (guaranteed) */
+.main-content { display: none; }
+.main-content.loaded { display: block; }
 
 /* ── Agent Cards ── */
 .cards {
@@ -272,6 +279,7 @@ body {
   border-radius: 999px;
   padding: 4px 8px;
   color: var(--mode-color);
+  background: var(--card);
 }
 .desc { color: var(--desc-color); font-size: 13px; line-height: 1.5; margin: 12px 0; }
 .tags { display: flex; gap: 8px; flex-wrap: wrap; }
