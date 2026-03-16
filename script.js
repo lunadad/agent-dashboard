@@ -35,6 +35,7 @@ const defaultData = {
       desc: "FT/WSJ/NYT와 미국장 흐름을 빠르게 분석해 AMZN·INTC 중심으로 실행 가능한 투자 아이디어를 제시합니다.",
       tags: ["매크로", "주식", "리스크", "아이디어"],
       detail: "[최근 브리핑]\n- AMZN: AI 인프라 CapEx 이슈 추적\n- INTC: 공정/파트너십 모멘텀 점검\n- 오늘 밤 미국장 변동성 주의 권고",
+      avatar: "./assets/musk.png",
     },
     {
       id: "kurina",
