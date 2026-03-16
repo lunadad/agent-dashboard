@@ -449,6 +449,43 @@ body.light .status {
 .tl-item.current .tl-label { font-weight: 600; color: var(--accent); }
 
 /* ── Responsive ── */
+/* ── Daily report list (collapsible) ── */
+.report-list { display: grid; gap: 10px; }
+.report-item {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--detail-bg);
+  padding: 10px;
+}
+.report-head {
+  display:flex; align-items:center; justify-content:space-between; gap:10px;
+}
+.report-title { font-size: 13px; font-weight: 700; color: var(--text); }
+.report-meta { font-size: 11px; color: var(--muted); }
+.report-body {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--desc-color);
+  line-height: 1.5;
+  white-space: pre-wrap;
+}
+.report-body.clamped {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.report-toggle {
+  margin-top: 8px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--item-bg);
+  color: var(--text);
+  font-size: 11px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
 /* ── Character Dock (desktop fixed) ── */
 .agent-dock {
   position: fixed;

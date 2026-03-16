@@ -80,6 +80,20 @@ const defaultData = {
     ["09:30", "복약 누락 여부 자동 체크"],
     ["21:00", "미국장 저녁 브리핑 발송"],
   ],
+  dailyReports: [
+    {
+      time: "08:00",
+      agent: "루나봇",
+      title: "FT 원문 포워딩",
+      content: "오늘 도착한 FT 주요 뉴스 브리핑 원문을 그대로 전달했습니다."
+    },
+    {
+      time: "09:00",
+      agent: "카리나",
+      title: "아트 브리핑",
+      content: "Artnet 최신 기사 4건을 신규도 점수와 함께 브리핑했습니다. 출처 링크를 포함하고, 중복 주제는 제외했습니다."
+    }
+  ]
 };
 
 let state = structuredClone(defaultData);
@@ -600,6 +614,44 @@ function showContent() {
 
 // ── Render all ──
 
+function renderDailyReports(items) {
+  const wrap = document.getElementById("dailyReports");
+  if (!wrap) return;
+  wrap.innerHTML = "";
+
+  (items || []).forEach((r, idx) => {
+    const item = document.createElement("div");
+    item.className = "report-item";
+
+    const head = document.createElement("div");
+    head.className = "report-head";
+    head.innerHTML = `<div><div class="report-title">${r.title}</div><div class="report-meta">${r.time} · ${r.agent}</div></div>`;
+
+    const body = document.createElement("div");
+    body.className = "report-body clamped";
+    body.textContent = r.content || "";
+
+    const toggle = document.createElement("button");
+    toggle.className = "report-toggle";
+    toggle.textContent = "펼치기";
+    toggle.addEventListener("click", () => {
+      const expanded = !body.classList.contains("clamped");
+      body.classList.toggle("clamped", expanded);
+      toggle.textContent = expanded ? "펼치기" : "접기";
+    });
+
+    item.appendChild(head);
+    item.appendChild(body);
+
+    // 길면 버튼 표시
+    if ((r.content || "").length > 120) {
+      item.appendChild(toggle);
+    }
+
+    wrap.appendChild(item);
+  });
+}
+
 function renderAll() {
   renderDate();
   renderAgents();
@@ -610,6 +662,7 @@ function renderAll() {
   renderNoticeBadge();
   renderQuality(state.quality || []);
   renderMatrix("sourceBoard", state.sources || []);
+  renderDailyReports(state.dailyReports || []);
   renderTimeline(state.timeline || []);
 }
 
