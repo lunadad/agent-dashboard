@@ -527,8 +527,8 @@ function setupAutoRefresh() {
 function showContent() {
   const skeleton = document.getElementById("skeletonLoader");
   const content = document.getElementById("mainContent");
-  skeleton.style.display = "none";
-  content.style.display = "block";
+  if (skeleton) skeleton.style.display = "none";
+  if (content) content.classList.add("loaded");
 }
 
 // ── Render all ──
@@ -548,11 +548,23 @@ function renderAll() {
 // ── Init ──
 
 (async function init() {
-  await loadData();
-  setupThemeToggle();
-  renderAll();
-  setupBriefingSearch();
-  setupKeyboardNav();
-  showContent();
+  try {
+    await loadData();
+  } catch {
+    // fallback to defaultData – already set
+  }
+
+  try {
+    setupThemeToggle();
+    renderAll();
+    setupBriefingSearch();
+    setupKeyboardNav();
+  } catch (err) {
+    console.error("[Agent Dashboard] render error:", err);
+  } finally {
+    // Always show content – never leave the page blank
+    showContent();
+  }
+
   setupAutoRefresh();
 })();
