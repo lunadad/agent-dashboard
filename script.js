@@ -44,6 +44,7 @@ const defaultData = {
       desc: "Artnet/경매/전시 정보를 바탕으로 아트 브리핑을 큐레이션하고, 제품의 브랜드/UX 톤을 설계합니다.",
       tags: ["아트뉴스", "경매", "브랜드", "UX"],
       detail: "[최근 브리핑]\n- Artnet 최신 기사 4건 큐레이션\n- 중복 뉴스 제거 규칙 적용\n- 내일 전시/경매 관전 포인트 정리",
+      avatar: "./assets/karina.jpg",
     },
   ],
   briefings: [
