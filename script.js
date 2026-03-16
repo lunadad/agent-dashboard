@@ -627,17 +627,18 @@ function renderDailyReports(items) {
     head.className = "report-head";
     head.innerHTML = `<div><div class="report-title">${r.title}</div><div class="report-meta">${r.time} · ${r.agent}</div></div>`;
 
+    const fullText = r.raw || r.content || "";
     const body = document.createElement("div");
     body.className = "report-body clamped";
-    body.textContent = r.content || "";
+    body.textContent = fullText;
 
     const toggle = document.createElement("button");
     toggle.className = "report-toggle";
-    toggle.textContent = "펼치기";
+    toggle.textContent = "원문 펼치기";
     toggle.addEventListener("click", () => {
       const expanded = !body.classList.contains("clamped");
       body.classList.toggle("clamped", expanded);
-      toggle.textContent = expanded ? "펼치기" : "접기";
+      toggle.textContent = expanded ? "원문 펼치기" : "접기";
     });
 
     item.appendChild(head);
