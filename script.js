@@ -21,6 +21,7 @@ const defaultData = {
       id: "luna",
       name: "루나봇",
       role: "총괄 비서 · 오케스트레이터",
+      model: "google/gemini-3.1-flash-lite",
       mode: "MAIN",
       desc: "일정/복약/자동화/리포트를 총괄하고 머스크·카리나의 결과를 통합해 최종 브리핑을 전달합니다.",
       tags: ["스케줄", "복약", "통합 리포트", "메모리"],
@@ -31,6 +32,7 @@ const defaultData = {
       id: "musku",
       name: "머스크",
       role: "투자 전략 · 시장 분석",
+      model: "google/gemini-3.1-flash-lite",
       mode: "SUB",
       desc: "FT/WSJ/NYT와 미국장 흐름을 빠르게 분석해 AMZN·INTC 중심으로 실행 가능한 투자 아이디어를 제시합니다.",
       tags: ["매크로", "주식", "리스크", "아이디어"],
@@ -41,6 +43,7 @@ const defaultData = {
       id: "kurina",
       name: "카리나",
       role: "아트 마켓 · 크리에이티브",
+      model: "google/gemini-3.1-pro",
       mode: "SUB",
       desc: "Artnet/경매/전시 정보를 바탕으로 아트 브리핑을 큐레이션하고, 제품의 브랜드/UX 톤을 설계합니다.",
       tags: ["아트뉴스", "경매", "브랜드", "UX"],
@@ -122,6 +125,7 @@ function renderAgents() {
     card.setAttribute("aria-label", `${agent.name} - ${agent.role}`);
     node.querySelector(".name").textContent = agent.name;
     node.querySelector(".role").textContent = agent.role;
+    node.querySelector(".model").textContent = `model: ${agent.model || 'default'}`;
     node.querySelector(".mode").textContent = agent.mode;
     node.querySelector(".desc").textContent = agent.desc;
 
