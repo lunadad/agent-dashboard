@@ -8,77 +8,92 @@
   </head>
   <body>
     <div class="app">
-      <aside class="sidebar">
+      <aside class="sidebar" role="complementary" aria-label="브리핑 사이드바">
         <div class="brand">
-          <div class="logo">◆</div>
+          <div class="logo" aria-hidden="true">&#9670;</div>
           <div>
             <h1>Agent Command</h1>
             <p>Daily Briefing Hub</p>
           </div>
         </div>
 
-        <section class="news-panel">
+        <section class="news-panel" aria-label="오늘의 브리핑">
           <div class="panel-title-row">
             <h2>오늘의 브리핑</h2>
             <span id="todayDate" class="chip"></span>
           </div>
+          <div class="filter-row" id="filterRow" role="toolbar" aria-label="카테고리 필터"></div>
+          <label for="briefingSearch" class="sr-only">브리핑 검색</label>
           <input id="briefingSearch" class="search" placeholder="브리핑 검색 (예: FT, AMZN, Artnet)" />
-          <ul id="briefingList" class="briefing-list"></ul>
+          <ul id="briefingList" class="briefing-list" role="list"></ul>
         </section>
 
-        <section class="news-panel" style="margin-top:12px;">
+        <section class="news-panel" style="margin-top:12px;" aria-label="알림센터">
           <div class="panel-title-row">
             <h2>알림센터</h2>
-            <span class="chip">Unread</span>
+            <span id="noticeBadge" class="chip">0</span>
           </div>
-          <ul id="noticeList" class="briefing-list"></ul>
+          <ul id="noticeList" class="briefing-list" role="list"></ul>
         </section>
       </aside>
 
-      <main class="main">
-        <header class="header">
-          <h2>주인공 에이전트</h2>
-          <div class="header-actions">
-            <button id="themeToggle" class="theme-btn">🌙 다크</button>
-            <div class="status">● ONLINE</div>
-          </div>
-        </header>
+      <main class="main" role="main">
+        <div id="skeletonLoader" class="skeleton-wrap" aria-live="polite" aria-label="로딩 중">
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+        </div>
 
-        <section class="cards" id="agentCards"></section>
+        <div id="mainContent" class="main-content" style="display:none;">
+          <header class="header">
+            <h2>주인공 에이전트</h2>
+            <div class="header-actions">
+              <button id="themeToggle" class="theme-btn" aria-label="테마 전환">다크</button>
+              <div class="status" role="status" aria-label="시스템 상태">&#9679; ONLINE</div>
+            </div>
+          </header>
 
-        <section class="detail-wrap">
-          <h3>에이전트 상세 브리핑</h3>
-          <div id="agentDetail" class="agent-detail">
-            카드를 클릭하면 최근 브리핑 원문/요약이 표시됩니다.
-          </div>
-        </section>
+          <section class="cards" id="agentCards" role="tablist" aria-label="에이전트 목록"></section>
 
-        <section class="timeline-wrap">
-          <h3>브리핑 품질 지표</h3>
-          <div id="qualityBoard" class="timeline"></div>
-        </section>
+          <section class="detail-wrap">
+            <h3>에이전트 상세 브리핑</h3>
+            <div id="agentDetail" class="agent-detail" role="tabpanel" aria-label="에이전트 상세 정보">
+              카드를 클릭하면 최근 브리핑 원문/요약이 표시됩니다.
+            </div>
+          </section>
 
-        <section class="timeline-wrap">
-          <h3>출처 투명성 카드</h3>
-          <div id="sourceBoard" class="timeline"></div>
-        </section>
+          <section class="timeline-wrap" aria-label="브리핑 품질 지표">
+            <h3>브리핑 품질 지표</h3>
+            <div id="qualityBoard" class="quality-board"></div>
+          </section>
 
-        <section class="timeline-wrap">
-          <h3>오늘의 운영 타임라인</h3>
-          <div id="timeline" class="timeline"></div>
-        </section>
+          <section class="timeline-wrap" aria-label="출처 투명성">
+            <h3>출처 투명성 카드</h3>
+            <div id="sourceBoard" class="timeline"></div>
+          </section>
+
+          <section class="timeline-wrap" aria-label="운영 타임라인">
+            <h3>오늘의 운영 타임라인</h3>
+            <div id="timeline" class="timeline-visual"></div>
+          </section>
+        </div>
       </main>
     </div>
 
     <template id="agentCardTemplate">
-      <article class="agent-card">
+      <article class="agent-card" role="tab" tabindex="0" aria-selected="false">
         <div class="card-top">
-          <div class="avatar"></div>
+          <div class="avatar" aria-hidden="true">
+            <span class="avatar-initial"></span>
+          </div>
           <div>
             <h3 class="name"></h3>
             <p class="role"></p>
           </div>
-          <span class="mode"></span>
+          <div class="card-top-right">
+            <span class="agent-status-dot" aria-label="에이전트 상태"></span>
+            <span class="mode"></span>
+          </div>
         </div>
         <p class="desc"></p>
         <div class="tags"></div>
