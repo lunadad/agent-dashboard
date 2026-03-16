@@ -629,16 +629,16 @@ function renderDailyReports(items) {
 
     const fullText = r.raw || r.content || "";
     const body = document.createElement("div");
-    body.className = "report-body clamped";
+    body.className = "report-body";
     body.textContent = fullText;
 
     const toggle = document.createElement("button");
     toggle.className = "report-toggle";
-    toggle.textContent = "원문 펼치기";
+    toggle.textContent = "접기";
     toggle.addEventListener("click", () => {
-      const expanded = !body.classList.contains("clamped");
-      body.classList.toggle("clamped", expanded);
-      toggle.textContent = expanded ? "원문 펼치기" : "접기";
+      const collapsed = body.classList.contains("clamped");
+      body.classList.toggle("clamped", !collapsed);
+      toggle.textContent = collapsed ? "접기" : "원문 펼치기";
     });
 
     item.appendChild(head);
