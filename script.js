@@ -644,10 +644,8 @@ function renderDailyReports(items) {
     item.appendChild(head);
     item.appendChild(body);
 
-    // 길면 버튼 표시
-    if ((r.content || "").length > 120) {
-      item.appendChild(toggle);
-    }
+    // 항상 토글 버튼 표시 (원문 확인용)
+    item.appendChild(toggle);
 
     wrap.appendChild(item);
   });
