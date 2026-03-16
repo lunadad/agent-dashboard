@@ -25,6 +25,7 @@ const defaultData = {
       desc: "일정/복약/자동화/리포트를 총괄하고 머스크·카리나의 결과를 통합해 최종 브리핑을 전달합니다.",
       tags: ["스케줄", "복약", "통합 리포트", "메모리"],
       detail: "[최근 브리핑]\n- 오전 데일리 브리핑 발송\n- 복약 기록 동기화 완료\n- FT 원문 포워딩 자동화 점검 완료",
+      avatar: "./assets/luna.jpg"
     },
     {
       id: "musku",
@@ -122,10 +123,17 @@ function renderAgents() {
     node.querySelector(".mode").textContent = agent.mode;
     node.querySelector(".desc").textContent = agent.desc;
 
-    // Avatar with initial
+    // Avatar with optional image + fallback initial
+    const avatarEl = node.querySelector(".avatar");
     const avatarInitial = node.querySelector(".avatar-initial");
     const agentColor = AGENT_COLORS[agent.id];
-    if (agentColor) avatarInitial.textContent = agentColor.initial;
+    if (agent.avatar) {
+      avatarEl.style.backgroundImage = `url('${agent.avatar}')`;
+      avatarEl.classList.add("has-img");
+      if (avatarInitial) avatarInitial.textContent = "";
+    } else if (agentColor && avatarInitial) {
+      avatarInitial.textContent = agentColor.initial;
+    }
 
     // Agent status dot
     const statusDot = node.querySelector(".agent-status-dot");

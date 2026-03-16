@@ -244,6 +244,12 @@ body.light .status {
   width: 36px; height: 36px; border-radius: 50%;
   display: grid; place-items: center;
   position: relative;
+  background: linear-gradient(135deg, #38bdf8, #f59e0b);
+  background-size: cover;
+  background-position: center;
+}
+.avatar.has-img {
+  border: 1px solid var(--line);
 }
 .avatar-initial {
   font-size: 14px; font-weight: 800; color: #fff;
