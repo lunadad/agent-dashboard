@@ -127,6 +127,16 @@ function getNowMinutes() {
 
 // ── Render: Agents ──
 
+function getAgentCurrentTask(agent) {
+  if (agent.currentTask) return agent.currentTask;
+  if (!agent.detail) return "현재 작업 정보 없음";
+  const line = agent.detail
+    .split("\n")
+    .map((s) => s.trim())
+    .find((s) => s.startsWith("- "));
+  return line ? line.replace(/^-\s*/, "") : "현재 작업 정보 없음";
+}
+
 function renderAgents() {
   const wrap = document.getElementById("agentCards");
   const tpl = document.getElementById("agentCardTemplate");
@@ -142,6 +152,11 @@ function renderAgents() {
     node.querySelector(".model").textContent = `model: ${agent.model || 'default'}`;
     node.querySelector(".mode").textContent = agent.mode;
     node.querySelector(".desc").textContent = agent.desc;
+
+    const taskBtn = node.querySelector(".task-btn");
+    const currentTask = getAgentCurrentTask(agent);
+    taskBtn.textContent = `🛠 ${currentTask}`;
+    taskBtn.title = currentTask;
 
     // Avatar with optional image + fallback initial
     const avatarEl = node.querySelector(".avatar");
@@ -500,7 +515,8 @@ function renderDock() {
 
     const bubble = document.createElement("div");
     bubble.className = "dock-bubble";
-    bubble.textContent = `${agent.name} · ${label}`;
+    const currentTask = getAgentCurrentTask(agent);
+    bubble.textContent = `${agent.name} · ${label} · ${currentTask}`;
 
     const avatar = document.createElement("div");
     avatar.className = "dock-avatar";
