@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "lastUpdate": "2026-03-18 07:00",
+  "lastUpdate": "2026-03-18 07:10",
   "agents": [
     {
       "id": "luna",
@@ -16,7 +16,7 @@
         "통합 리포트",
         "메모리"
       ],
-      "detail": "[최근 브리핑]\n- 복약 기록 동기화 및 07:00 스케줄 확인\n- 2026-03-18 FOMC 전 최종 시장 상황 모니터링\n- 대시보드 자동 데이터 동기화 완료 (07:00)",
+      "detail": "[최근 브리핑]\n- 복약 기록 동기화 및 07:10 스케줄 확인\n- 2026-03-18 FOMC 전 최종 시장 상황 모니터링\n- 대시보드 자동 데이터 동기화 완료 (07:10)",
       "avatar": "./assets/luna.jpg"
     },
     {
@@ -86,8 +86,8 @@
       "headline": "FT 원문 + 08:05 인사이트 2단 전송 활성화"
     },
     {
-      "time": "07:00",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 07:00)"
+      "time": "07:10",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 07:10)"
     }
   ],
   "quality": [
@@ -150,7 +150,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-18 07:00",
+    "updatedAt": "2026-03-18 07:10",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
