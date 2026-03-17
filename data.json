@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "lastUpdate": "2026-03-18 05:50",
+  "lastUpdate": "2026-03-18 06:00",
   "agents": [
     {
       "id": "luna",
@@ -16,7 +16,7 @@
         "통합 리포트",
         "메모리"
       ],
-      "detail": "[최근 브리핑]\n- 복약 기록 동기화 완료\n- 'tiny-masterpiece-tarot' MVP 구성 및 로컬 폴백 해석기 구현\n- LAN 개발 서버 바인딩을 통한 모바일 테스트 환경 구축\n- Artnet 뉴스 검색 크론 작업 설정",
+      "detail": "[최근 브리핑]\n- 복약 기록 동기화 완료\n- 2026-03-18 FOMC 관망세 및 아트 마켓 리포트 분석 완료\n- 오늘 미국장 변동성 대비 대시보드 데이터 동기화 완료",
       "avatar": "./assets/luna.jpg"
     },
     {
@@ -33,7 +33,7 @@
         "리스크",
         "아이디어"
       ],
-      "detail": "[최근 브리핑]\n- AMZN: AI 인프라 CapEx 이슈 추적\n- INTC: 공정/파트너십 모멘텀 점검\n- 금일 미국장 변동성 주의 및 포트폴리오 재점검 권고",
+      "detail": "[최근 브리핑]\n- FOMC(3/18) 금리 동결 예상 (3.50-3.75%)\n- 중동 지정학 리스크에 따른 유가 변동성 체크\n- AI 기술주 포트폴리오 유지 및 에너지/방산주 리스크 분산 권고",
       "avatar": "./assets/musk.png"
     },
     {
@@ -50,7 +50,7 @@
         "브랜드",
         "UX"
       ],
-      "detail": "[최근 브리핑]\n- Artnet 최신 큐레이션 완료 (확정된 템플릿 준수)\n- 신규 아트 브리핑 포맷 슬기님 만족도 최상 유지\n- 내일 주요 전시 관전 포인트 리서치 진행 중",
+      "detail": "[최근 브리핑]\n- 2026 아트 바젤 & UBS 글로벌 아트 마켓 리포트 요약 완료\n- 글로벌 아트 마켓 2025년 $59.6B (4%↑) 성장\n- 올드 마스터즈(Old Masters) 및 전통 분야 강세 재확인",
       "avatar": "./assets/karina.jpg"
     }
   ],
@@ -86,8 +86,8 @@
       "headline": "FT 원문 + 08:05 인사이트 2단 전송 활성화"
     },
     {
-      "time": "00:00",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 05:50)"
+      "time": "06:00",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 06:00)"
     }
   ],
   "quality": [
@@ -150,7 +150,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-18 05:50",
+    "updatedAt": "2026-03-18 06:00",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
