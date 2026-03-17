@@ -84,8 +84,8 @@
       "headline": "FT 원문 + 08:05 인사이트 2단 전송 활성화"
     },
     {
-      "time": "23:50",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 23:50)"
+      "time": "00:00",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 00:00)"
     }
   ],
   "quality": [
@@ -148,7 +148,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-17 23:30",
+    "updatedAt": "2026-03-18 00:00",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
