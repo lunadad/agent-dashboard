@@ -230,6 +230,10 @@
     {
       "time": "23:10",
       "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 23:10)"
+    },
+    {
+      "time": "23:20",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 23:20)"
     }
   ],
   "quality": [
@@ -292,7 +296,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-17 23:10",
+    "updatedAt": "2026-03-17 23:20",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
