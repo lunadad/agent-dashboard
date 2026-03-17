@@ -14,7 +14,7 @@
         "통합 리포트",
         "메모리"
       ],
-      "detail": "[최근 브리핑]\n- 복약 기록 동기화 완료\n- 'tiny-masterpiece-tarot' MVP 프로젝트 구성 완료 (Next.js/Supabase)\n- LAN 바인딩을 통한 모바일 접속 테스트 환경 구축",
+      "detail": "[최근 브리핑]\n- 복약 기록 동기화 완료\n- 'tiny-masterpiece-tarot' MVP 구성 및 로컬 폴백 해석기 구현\n- LAN 개발 서버 바인딩을 통한 모바일 테스트 환경 구축\n- Artnet 뉴스 검색 크론 작업 설정",
       "avatar": "./assets/luna.jpg"
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "time": "00:00",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 12:50)"
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 01:10)"
     }
   ],
   "quality": [
