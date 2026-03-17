@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "lastUpdate": "2026-03-18 02:10",
+  "lastUpdate": "2026-03-18 02:40",
   "agents": [
     {
       "id": "luna",
@@ -87,7 +87,7 @@
     },
     {
       "time": "00:00",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 02:30)"
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 02:40)"
     }
   ],
   "quality": [
@@ -150,7 +150,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-18 02:10",
+    "updatedAt": "2026-03-18 02:40",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
