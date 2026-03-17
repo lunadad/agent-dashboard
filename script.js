@@ -413,8 +413,8 @@ function renderCostBoard(cost) {
   const totalDailyTokens = rows.reduce((s, r) => s + (Number(r.dailyTokens) || 0), 0);
   const totalMonthlyTokens = rows.reduce((s, r) => s + (Number(r.monthlyTokens) || 0), 0);
 
-  const budgetDailyUsd = Number(cost?.budgetDailyUsd ?? cost?.budgetDaily || 0);
-  const budgetMonthlyUsd = Number(cost?.budgetMonthlyUsd ?? cost?.budgetMonthly || 0);
+  const budgetDailyUsd = Number((cost?.budgetDailyUsd ?? cost?.budgetDaily) || 0);
+  const budgetMonthlyUsd = Number((cost?.budgetMonthlyUsd ?? cost?.budgetMonthly) || 0);
   const budgetDailyTokens = Number(cost?.budgetDailyTokens || 0);
   const budgetMonthlyTokens = Number(cost?.budgetMonthlyTokens || 0);
 
