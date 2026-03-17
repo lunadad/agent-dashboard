@@ -72,6 +72,17 @@ const defaultData = {
     ["Artnet", "아트 브리핑 · 09:00"],
     ["NYSE/Nasdaq News", "주식 브리핑 · 09:00/21:00"],
   ],
+  costMonitoring: {
+    currency: "USD",
+    updatedAt: "-",
+    budgetDaily: 1.5,
+    budgetMonthly: 35,
+    byAgent: [
+      { agent: "루나봇", daily: 0.18, monthly: 4.2, calls: 34 },
+      { agent: "카리나", daily: 0.27, monthly: 7.8, calls: 21 },
+      { agent: "머스크", daily: 0.23, monthly: 6.5, calls: 26 }
+    ]
+  },
   timeline: [
     ["07:50", "지메일 체크 시작"],
     ["08:00", "FT 이메일 원문 전달"],
@@ -387,6 +398,38 @@ function renderMatrix(targetId, rows) {
   });
 }
 
+function renderCostBoard(cost) {
+  const wrap = document.getElementById("costBoard");
+  if (!wrap) return;
+  wrap.innerHTML = "";
+
+  const currency = cost?.currency || "USD";
+  const rows = cost?.byAgent || [];
+  const totalDaily = rows.reduce((s, r) => s + (Number(r.daily) || 0), 0);
+  const totalMonthly = rows.reduce((s, r) => s + (Number(r.monthly) || 0), 0);
+  const budgetDaily = Number(cost?.budgetDaily || 0);
+  const budgetMonthly = Number(cost?.budgetMonthly || 0);
+
+  const summary = document.createElement("div");
+  summary.className = "cost-summary";
+  summary.innerHTML = `
+    <div><strong>일간</strong> ${currency} ${totalDaily.toFixed(2)} / ${budgetDaily ? budgetDaily.toFixed(2) : "-"}</div>
+    <div><strong>월간</strong> ${currency} ${totalMonthly.toFixed(2)} / ${budgetMonthly ? budgetMonthly.toFixed(2) : "-"}</div>
+    <div><strong>업데이트</strong> ${cost?.updatedAt || "-"}</div>
+  `;
+  wrap.appendChild(summary);
+
+  rows.forEach((r) => {
+    const item = document.createElement("div");
+    item.className = "cost-item";
+    item.innerHTML = `
+      <div class="cost-head"><span>${r.agent}</span><span>${currency} ${(Number(r.daily)||0).toFixed(2)} /day</span></div>
+      <div class="cost-sub">월 누적 ${currency} ${(Number(r.monthly)||0).toFixed(2)} · 호출 ${Number(r.calls)||0}회</div>
+    `;
+    wrap.appendChild(item);
+  });
+}
+
 // ── Render: Visual Timeline ──
 
 function renderTimeline(rows) {
@@ -677,6 +720,7 @@ function renderAll() {
   renderNoticeBadge();
   renderQuality(state.quality || []);
   renderMatrix("sourceBoard", state.sources || []);
+  renderCostBoard(state.costMonitoring || {});
   renderDailyReports(state.dailyReports || []);
   renderTimeline(state.timeline || []);
 }
