@@ -148,7 +148,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-18 01:40",
+    "updatedAt": "2026-03-18 01:50",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
