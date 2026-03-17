@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "lastUpdate": "2026-03-18 06:10",
+  "lastUpdate": "2026-03-18 06:20",
   "agents": [
     {
       "id": "luna",
@@ -205,6 +205,14 @@
             "tokens": 28200
           },
           {
+            "name": "google/gemini-3-flash-preview",
+            "tokens": 18800
+          }
+        ]
+      }
+    ]
+  }
+} {
             "name": "google/gemini-3-flash-preview",
             "tokens": 18800
           }
