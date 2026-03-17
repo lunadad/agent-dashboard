@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "lastUpdate": "2026-03-18 06:40",
+  "lastUpdate": "2026-03-18 06:50",
   "agents": [
     {
       "id": "luna",
@@ -86,14 +86,14 @@
       "headline": "FT 원문 + 08:05 인사이트 2단 전송 활성화"
     },
     {
-      "time": "06:30",
-      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 06:30)"
+      "time": "06:50",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-18 06:50)"
     }
   ],
   "quality": [
     [
       "최신성",
-      "99 / 100"
+      "100 / 100"
     ],
     [
       "중복도",
@@ -150,7 +150,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-18 06:30",
+    "updatedAt": "2026-03-18 06:50",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
