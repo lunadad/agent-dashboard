@@ -212,6 +212,10 @@
       "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 18:50)"
     },
     {
+      "time": "19:00",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 19:00)"
+    },
+    {
       "time": "19:30",
       "headline": "사용자 피드백 반영: 아트 브리핑 템플릿 표준화 완료"
     }
@@ -276,7 +280,7 @@
   ],
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-17 18:40",
+    "updatedAt": "2026-03-17 19:00",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
