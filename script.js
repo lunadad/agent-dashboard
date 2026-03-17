@@ -516,17 +516,35 @@ function renderCostBoard(cost) {
 
 // ── Render: Visual Timeline ──
 
+function compressTimelineRows(rows) {
+  const refreshKey = "데이터 대시보드 자동 갱신";
+  const refreshRows = rows.filter(([, label]) => String(label || "").includes(refreshKey));
+  const normalRows = rows.filter(([, label]) => !String(label || "").includes(refreshKey));
+
+  if (!refreshRows.length) return rows;
+
+  const latest = refreshRows[refreshRows.length - 1][0];
+  const summarized = [latest, `${refreshKey} × ${refreshRows.length}회 (중복 묶음)`];
+
+  const merged = [...normalRows];
+  const insertAt = Math.max(0, rows.findIndex(([t, l]) => t === latest && String(l || "").includes(refreshKey)));
+  merged.splice(insertAt, 0, summarized);
+  return merged;
+}
+
 function renderTimeline(rows) {
   const wrap = document.getElementById("timeline");
   wrap.innerHTML = "";
+
+  const compactRows = compressTimelineRows(rows || []);
   const now = getNowMinutes();
 
   let currentIdx = -1;
-  rows.forEach(([time], i) => {
+  compactRows.forEach(([time], i) => {
     if (timeToMinutes(time) <= now) currentIdx = i;
   });
 
-  rows.forEach(([time, label], i) => {
+  compactRows.forEach(([time, label], i) => {
     const item = document.createElement("div");
     item.className = "tl-item";
 
