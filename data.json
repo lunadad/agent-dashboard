@@ -116,6 +116,10 @@
       "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 14:20)"
     },
     {
+      "time": "14:30",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 14:30)"
+    },
+    {
       "time": "19:30",
       "headline": "사용자 피드백 반영: 아트 브리핑 템플릿 표준화 완료"
     }
@@ -217,6 +221,10 @@
     ],
     [
       "12:30",
+      "데이터 대시보드 자동 갱신"
+    ],
+    [
+      "14:30",
       "데이터 대시보드 자동 갱신"
     ],
     [
@@ -574,7 +582,17 @@
         "monthlyUsd": 5.1,
         "dailyTokens": 38000,
         "monthlyTokens": 910000,
-        "calls": 38
+        "calls": 38,
+        "models": [
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 26600
+          },
+          {
+            "name": "openai-codex/gpt-5.3-codex",
+            "tokens": 11400
+          }
+        ]
       },
       {
         "agent": "카리나",
@@ -582,7 +600,17 @@
         "monthlyUsd": 8.3,
         "dailyTokens": 56000,
         "monthlyTokens": 1310000,
-        "calls": 24
+        "calls": 24,
+        "models": [
+          {
+            "name": "google/gemini-3.1-pro",
+            "tokens": 36400
+          },
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 19600
+          }
+        ]
       },
       {
         "agent": "머스크",
@@ -590,7 +618,17 @@
         "monthlyUsd": 7.0,
         "dailyTokens": 47000,
         "monthlyTokens": 1090000,
-        "calls": 29
+        "calls": 29,
+        "models": [
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 28200
+          },
+          {
+            "name": "google/gemini-3-flash-preview",
+            "tokens": 18800
+          }
+        ]
       }
     ]
   }

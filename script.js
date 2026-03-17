@@ -15,6 +15,14 @@ const FILTER_CATEGORIES = [
 
 const REFRESH_INTERVAL = 60_000;
 
+const MODEL_COLORS = {
+  "google/gemini-3.1-flash-lite": "#38bdf8",
+  "google/gemini-3.1-pro": "#a78bfa",
+  "google/gemini-3-flash-preview": "#34d399",
+  "openai-codex/gpt-5.3-codex": "#f59e0b",
+  "default": "#94a3b8"
+};
+
 const defaultData = {
   agents: [
     {
@@ -80,9 +88,42 @@ const defaultData = {
     budgetDailyTokens: 400000,
     budgetMonthlyTokens: 9000000,
     byAgent: [
-      { agent: "루나봇", dailyUsd: 0.18, monthlyUsd: 4.2, dailyTokens: 32000, monthlyTokens: 780000, calls: 34 },
-      { agent: "카리나", dailyUsd: 0.27, monthlyUsd: 7.8, dailyTokens: 51000, monthlyTokens: 1220000, calls: 21 },
-      { agent: "머스크", dailyUsd: 0.23, monthlyUsd: 6.5, dailyTokens: 43000, monthlyTokens: 1010000, calls: 26 }
+      {
+        agent: "루나봇",
+        dailyUsd: 0.18,
+        monthlyUsd: 4.2,
+        dailyTokens: 32000,
+        monthlyTokens: 780000,
+        calls: 34,
+        models: [
+          { name: "google/gemini-3.1-flash-lite", tokens: 22000 },
+          { name: "openai-codex/gpt-5.3-codex", tokens: 10000 }
+        ]
+      },
+      {
+        agent: "카리나",
+        dailyUsd: 0.27,
+        monthlyUsd: 7.8,
+        dailyTokens: 51000,
+        monthlyTokens: 1220000,
+        calls: 21,
+        models: [
+          { name: "google/gemini-3.1-pro", tokens: 34000 },
+          { name: "google/gemini-3.1-flash-lite", tokens: 17000 }
+        ]
+      },
+      {
+        agent: "머스크",
+        dailyUsd: 0.23,
+        monthlyUsd: 6.5,
+        dailyTokens: 43000,
+        monthlyTokens: 1010000,
+        calls: 26,
+        models: [
+          { name: "google/gemini-3.1-flash-lite", tokens: 28000 },
+          { name: "google/gemini-3-flash-preview", tokens: 15000 }
+        ]
+      }
     ]
   },
   timeline: [
@@ -432,10 +473,43 @@ function renderCostBoard(cost) {
   rows.forEach((r) => {
     const item = document.createElement("div");
     item.className = "cost-item";
+
+    const dailyTokens = Number(r.dailyTokens) || 0;
+    const models = Array.isArray(r.models) && r.models.length
+      ? r.models
+      : [{ name: r.model || "default", tokens: dailyTokens }];
+
     item.innerHTML = `
-      <div class="cost-head"><span>${r.agent}</span><span>${(Number(r.dailyTokens)||0).toLocaleString()} tokens/day</span></div>
+      <div class="cost-head"><span>${r.agent}</span><span>${dailyTokens.toLocaleString()} tokens/day</span></div>
       <div class="cost-sub">월 ${ (Number(r.monthlyTokens)||0).toLocaleString()} tokens · ${currency} ${(Number(r.monthlyUsd ?? r.monthly)||0).toFixed(2)} · 호출 ${Number(r.calls)||0}회</div>
     `;
+
+    const bar = document.createElement("div");
+    bar.className = "model-bar";
+
+    const legend = document.createElement("div");
+    legend.className = "model-legend";
+
+    const denom = models.reduce((s, m) => s + (Number(m.tokens) || 0), 0) || 1;
+
+    models.forEach((m) => {
+      const t = Number(m.tokens) || 0;
+      const pct = Math.max(2, Math.round((t / denom) * 100));
+      const seg = document.createElement("div");
+      seg.className = "model-seg";
+      seg.style.width = `${pct}%`;
+      seg.style.background = MODEL_COLORS[m.name] || MODEL_COLORS.default;
+      seg.title = `${m.name}: ${t.toLocaleString()} tokens`;
+      bar.appendChild(seg);
+
+      const chip = document.createElement("span");
+      chip.className = "model-chip";
+      chip.innerHTML = `<i style="background:${MODEL_COLORS[m.name] || MODEL_COLORS.default}"></i>${m.name} · ${t.toLocaleString()}`;
+      legend.appendChild(chip);
+    });
+
+    item.appendChild(bar);
+    item.appendChild(legend);
     wrap.appendChild(item);
   });
 }
