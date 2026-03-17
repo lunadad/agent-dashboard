@@ -245,6 +245,7 @@ body.light .status {
   width: 36px; height: 36px; border-radius: 50%;
   display: grid; place-items: center;
   position: relative;
+  flex-shrink: 0;
   background: linear-gradient(135deg, #38bdf8, #f59e0b);
   background-size: cover;
   background-position: center;
