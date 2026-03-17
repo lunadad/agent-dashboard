@@ -112,6 +112,10 @@
       "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 14:10)"
     },
     {
+      "time": "14:20",
+      "headline": "데이터 대시보드 자동 갱신 (Last Update: 2026-03-17 14:20)"
+    },
+    {
       "time": "19:30",
       "headline": "사용자 피드백 반영: 아트 브리핑 템플릿 표준화 완료"
     }
@@ -550,30 +554,42 @@
     [
       "14:10",
       "데이터 대시보드 자동 갱신"
+    ],
+    [
+      "14:20",
+      "데이터 대시보드 자동 갱신"
     ]
   ],
   "costMonitoring": {
     "currency": "USD",
     "updatedAt": "2026-03-17 14:20",
-    "budgetDaily": 1.5,
-    "budgetMonthly": 35,
+    "budgetDailyUsd": 1.5,
+    "budgetMonthlyUsd": 35,
+    "budgetDailyTokens": 400000,
+    "budgetMonthlyTokens": 9000000,
     "byAgent": [
       {
         "agent": "루나봇",
-        "daily": 0.22,
-        "monthly": 5.1,
+        "dailyUsd": 0.22,
+        "monthlyUsd": 5.1,
+        "dailyTokens": 38000,
+        "monthlyTokens": 910000,
         "calls": 38
       },
       {
         "agent": "카리나",
-        "daily": 0.31,
-        "monthly": 8.3,
+        "dailyUsd": 0.31,
+        "monthlyUsd": 8.3,
+        "dailyTokens": 56000,
+        "monthlyTokens": 1310000,
         "calls": 24
       },
       {
         "agent": "머스크",
-        "daily": 0.27,
-        "monthly": 7.0,
+        "dailyUsd": 0.27,
+        "monthlyUsd": 7.0,
+        "dailyTokens": 47000,
+        "monthlyTokens": 1090000,
         "calls": 29
       }
     ]

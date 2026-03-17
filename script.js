@@ -75,12 +75,14 @@ const defaultData = {
   costMonitoring: {
     currency: "USD",
     updatedAt: "-",
-    budgetDaily: 1.5,
-    budgetMonthly: 35,
+    budgetDailyUsd: 1.5,
+    budgetMonthlyUsd: 35,
+    budgetDailyTokens: 400000,
+    budgetMonthlyTokens: 9000000,
     byAgent: [
-      { agent: "루나봇", daily: 0.18, monthly: 4.2, calls: 34 },
-      { agent: "카리나", daily: 0.27, monthly: 7.8, calls: 21 },
-      { agent: "머스크", daily: 0.23, monthly: 6.5, calls: 26 }
+      { agent: "루나봇", dailyUsd: 0.18, monthlyUsd: 4.2, dailyTokens: 32000, monthlyTokens: 780000, calls: 34 },
+      { agent: "카리나", dailyUsd: 0.27, monthlyUsd: 7.8, dailyTokens: 51000, monthlyTokens: 1220000, calls: 21 },
+      { agent: "머스크", dailyUsd: 0.23, monthlyUsd: 6.5, dailyTokens: 43000, monthlyTokens: 1010000, calls: 26 }
     ]
   },
   timeline: [
@@ -405,16 +407,24 @@ function renderCostBoard(cost) {
 
   const currency = cost?.currency || "USD";
   const rows = cost?.byAgent || [];
-  const totalDaily = rows.reduce((s, r) => s + (Number(r.daily) || 0), 0);
-  const totalMonthly = rows.reduce((s, r) => s + (Number(r.monthly) || 0), 0);
-  const budgetDaily = Number(cost?.budgetDaily || 0);
-  const budgetMonthly = Number(cost?.budgetMonthly || 0);
+
+  const totalDailyUsd = rows.reduce((s, r) => s + (Number(r.dailyUsd ?? r.daily) || 0), 0);
+  const totalMonthlyUsd = rows.reduce((s, r) => s + (Number(r.monthlyUsd ?? r.monthly) || 0), 0);
+  const totalDailyTokens = rows.reduce((s, r) => s + (Number(r.dailyTokens) || 0), 0);
+  const totalMonthlyTokens = rows.reduce((s, r) => s + (Number(r.monthlyTokens) || 0), 0);
+
+  const budgetDailyUsd = Number(cost?.budgetDailyUsd ?? cost?.budgetDaily || 0);
+  const budgetMonthlyUsd = Number(cost?.budgetMonthlyUsd ?? cost?.budgetMonthly || 0);
+  const budgetDailyTokens = Number(cost?.budgetDailyTokens || 0);
+  const budgetMonthlyTokens = Number(cost?.budgetMonthlyTokens || 0);
 
   const summary = document.createElement("div");
   summary.className = "cost-summary";
   summary.innerHTML = `
-    <div><strong>일간</strong> ${currency} ${totalDaily.toFixed(2)} / ${budgetDaily ? budgetDaily.toFixed(2) : "-"}</div>
-    <div><strong>월간</strong> ${currency} ${totalMonthly.toFixed(2)} / ${budgetMonthly ? budgetMonthly.toFixed(2) : "-"}</div>
+    <div><strong>일간 토큰</strong> ${totalDailyTokens.toLocaleString()} / ${budgetDailyTokens ? budgetDailyTokens.toLocaleString() : "-"}</div>
+    <div><strong>월간 토큰</strong> ${totalMonthlyTokens.toLocaleString()} / ${budgetMonthlyTokens ? budgetMonthlyTokens.toLocaleString() : "-"}</div>
+    <div><strong>일간 비용</strong> ${currency} ${totalDailyUsd.toFixed(2)} / ${budgetDailyUsd ? budgetDailyUsd.toFixed(2) : "-"}</div>
+    <div><strong>월간 비용</strong> ${currency} ${totalMonthlyUsd.toFixed(2)} / ${budgetMonthlyUsd ? budgetMonthlyUsd.toFixed(2) : "-"}</div>
     <div><strong>업데이트</strong> ${cost?.updatedAt || "-"}</div>
   `;
   wrap.appendChild(summary);
@@ -423,8 +433,8 @@ function renderCostBoard(cost) {
     const item = document.createElement("div");
     item.className = "cost-item";
     item.innerHTML = `
-      <div class="cost-head"><span>${r.agent}</span><span>${currency} ${(Number(r.daily)||0).toFixed(2)} /day</span></div>
-      <div class="cost-sub">월 누적 ${currency} ${(Number(r.monthly)||0).toFixed(2)} · 호출 ${Number(r.calls)||0}회</div>
+      <div class="cost-head"><span>${r.agent}</span><span>${(Number(r.dailyTokens)||0).toLocaleString()} tokens/day</span></div>
+      <div class="cost-sub">월 ${ (Number(r.monthlyTokens)||0).toLocaleString()} tokens · ${currency} ${(Number(r.monthlyUsd ?? r.monthly)||0).toFixed(2)} · 호출 ${Number(r.calls)||0}회</div>
     `;
     wrap.appendChild(item);
   });
