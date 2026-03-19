@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-20T06:00:00+09:00",
+  "last_updated": "2026-03-20T06:10:00+09:00",
   "market_summary": {
-    "status": "Volatile",
-    "notes": "South Korean markets (KOSPI) showing mixed performance as of March 20, 2026. Recent volatility driven by global oil price spikes above $110/barrel and Fed rate concerns, balanced by optimism over chip sector demand (Samsung, SK Hynix) and ongoing corporate governance reforms. Goldman Sachs maintains a 7,000 target for KOSPI by year-end."
+    "status": "Volatile/Bearish",
+    "notes": "KOSPI closed at 5763 points on March 19, down 2.73%. Market volatility remains high due to international oil price spikes (Brent >$107/bbl) and geopolitical tensions in the Middle East. While semiconductor sectors (Samsung, SK Hynix) showed resilience earlier, recent global market weakness and Fed policy concerns dominate current sentiment."
   },
   "art_highlights": [
-    "82nd Whitney Biennial at the Whitney Museum (on view through August 23, 2026).",
-    "Matisse's 'Jazz: Rhythms in Color' at the Art Institute of Chicago (through June 1, 2026).",
-    "Rashid Johnson: 'A Poem for Deep Thinkers' at the Modern Art Museum of Fort Worth (through September 27, 2026)."
+    "Whitney Biennial 2026 at the Whitney Museum (on view through August 23, 2026).",
+    "25th Biennale of Sydney: Rememory (on view through June 14, 2026).",
+    "Spectrosynthesis Seoul at Art Sonje Center (opened March 20, 2026; through June 28, 2026)."
   ]
 }
