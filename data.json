@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-03-20T06:30:00+09:00",
+  "last_updated": "2026-03-20T06:40:00+09:00",
   "market_summary": {
-    "status": "Volatile/Bearish",
-    "notes": "Market volatility remains high due to international oil price spikes (Brent >$107/bbl) and geopolitical tensions in the Middle East. Global market sentiment is cautious amidst ongoing Fed policy concerns."
+    "status": "High Volatility / Geopolitical Risk",
+    "notes": "Global markets are experiencing heightened volatility driven by Middle East geopolitical tensions. Brent crude has spiked above $110/bbl due to concerns over infrastructure stability. Investors are adopting a flight-to-safety posture, though equity impact remains moderated."
   },
   "art_highlights": [
-    "Whitney Biennial 2026 at the Whitney Museum (on view through August 23, 2026).",
-    "25th Biennale of Sydney: Rememory (on view through June 14, 2026).",
-    "Spectrosynthesis Seoul at Art Sonje Center (opened March 20, 2026; through June 28, 2026)."
+    "Spectrosynthesis Seoul at Art Sonje Center (Opened Mar 20, 2026; through Jun 28, 2026) — landmark queer art exhibition.",
+    "Perrotin Seoul '10 Years' Anniversary Exhibition (Through May 2, 2026) — featuring new works by Takashi Murakami and Korean masters.",
+    "Kim Yun-shin Retrospective at Hoam Museum of Art (Through Jun 28, 2026) — major retrospective for the nonagenarian sculptor."
   ]
 }
