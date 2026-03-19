@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-03-20T06:55:00+09:00",
+  "last_updated": "2026-03-20T07:00:00+09:00",
   "market_summary": {
-    "status": "Mixed/Volatility",
-    "notes": "Seoul markets showing mixed activity with various stock listings and IPO subscriptions (e.g., Licens Medical, Shinhan 17th SPAC). KOSPI experienced a 2.8% drop on March 19 amid Middle East tensions and rising oil prices, following a strong surge on March 18. Goldman Sachs maintains a long-term bullish outlook for KOSPI, targeting 7,000 for 2026."
+    "status": "Cautious/Volatile",
+    "notes": "Global stock markets face ongoing headwinds from Fed policy and geopolitical instability as of March 20, 2026. The KOSPI remains under observation following recent fluctuations linked to regional tensions and energy costs."
   },
   "art_highlights": [
     "Spectrosynthesis Seoul at Art Sonje Center (Opened Mar 20, 2026) — South Korea's first large-scale institutional exhibition dedicated to queer art.",
     "20! 2026 Art Seoul (Through April 13, 2026) — Digital art exhibition featuring an innovative 80% refund guarantee system.",
-    "Joint exhibition by Mainichi Auction and SBI Art Auction at Seoul Auction (Mar 20–22, 2026) — featuring Korean antiques and contemporary works."
+    "Joint exhibition by Mainichi Auction and SBI Art Auction at Seoul Auction (Mar 20–22, 2026) — featuring Korean antiques and contemporary works.",
+    "Whitney Biennial and Biennale of Sydney continue to draw significant attention in the global art scene."
   ]
 }
