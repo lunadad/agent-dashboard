@@ -1,23 +1,23 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "briefing": {
-    "art": "The global art market grew 4% in 2025, but the Korean art market is contracting following its 2022 peak, now around $370M. New digital initiatives like '20!2026 Art Seoul' are launching to restore trust.",
-    "stocks": "Global markets are down due to the Iran-Hormuz conflict and rising oil prices. The Fed held rates at 3.5-3.75%, while the KOSPI fell 2.7% and the Won dropped to a 17-year low."
+    "art": "The 2026 Korean art market sees institutional growth with the launch of 'Spectrosynthesis Seoul' and the '20!2026 Art Seoul' digital initiative, aiming to restore trust and accessibility.",
+    "stocks": "KOSPI closed at 5763 points, down 2.73%. Despite volatility, Goldman Sachs raised the 2026 target to 7,000, and expectations for IPO momentum in March remain strong."
   },
   "dailyReports": {
     "머스크": {
-      "raw": "🎨📈 **[오후 주식 브리핑: 3월 19일 마감]**\n\n안녕하세요, 슬기님! 오늘 시장은 중동 분쟁 격화와 유가 급등(Brent $107)으로 전반적인 하락세를 보였습니다. 미 연준은 금리를 3.50-3.75%로 동결했지만, 경제 불확실성을 경고했습니다. 특히 국내 증시는 KOSPI가 2.7% 급락하며 17년 만에 원/달러 환율이 1,500원을 넘어서는 등 변동성이 매우 컸습니다."
+      "raw": "🎨📈 **[오전 주식 브리핑: 3월 20일]**\n\n안녕하세요, 슬기님! 어제 KOSPI가 2.73% 하락하며 5763 포인트로 마감했습니다. 중동 긴장 완화 기대감과 골드만삭스의 KOSPI 타겟 상향 조정(7,000) 소식이 공존하고 있습니다. IPO 시장도 Kbank를 필두로 다시 움직일 것으로 보입니다."
     },
     "FT": {
-      "raw": "FT Daily Briefing: Global stocks hit 2026 lows as the Iran-Hormuz conflict escalates, pushing oil prices higher. The U.S. Federal Reserve maintained rates at 3.5-3.75%, while the South Korean Won fell below 1,500 per dollar, a 17-year low."
+      "raw": "FT Daily Briefing: Markets are navigating post-volatility landscapes. Goldman Sachs Research updated their 2026 KOSPI target to 7,000, citing attractive valuations after the recent correction."
     },
     "카리나": {
-      "raw": "Art market update: Global art sales rose 4% in 2025 to $59.6 billion, marking a rebound. However, the Korean market faces a sharp contraction post-2022, currently valued at ~$370 million. New efforts like '20!2026 Art Seoul' are emerging to improve market transparency and authentication."
+      "raw": "Art market update: Seoul's art scene is active today with the opening of 'Spectrosynthesis Seoul' at Art Sonje Center. Digital initiatives like '20!2026 Art Seoul' continue to provide market transparency with their 80% refund guarantee model."
     }
   },
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-19 23:50",
+    "updatedAt": "2026-03-20 00:00",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
