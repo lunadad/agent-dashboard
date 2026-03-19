@@ -91,3 +91,4 @@ EU는 각 회원국의 기업 합병 차단 권한을 제한하는 방향으로 
 {"ts": "2026-03-20T02:40:00+09:00", "agent": "cron", "title": "Dashboard Sync", "raw": "Cron job executed: auto-sync dashboard data."}{"ts": "2026-03-20T03:20:00+09:00", "agent": "auto-cron", "title": "Dashboard Sync", "raw": "Cron job executed: auto-sync dashboard data."}
 {"ts": "2026-03-20T04:20:00+09:00", "agent": "루나봇", "title": "오전 대시보드 갱신", "raw": "금일 금요일(3월 20일), 오전 시장 브리핑과 문화 소식 업데이트 완료하였습니다. 주식 시장의 안정세와 주말을 앞둔 문화 행사 정보를 확인하세요."}
 {"timestamp": "2026-03-20T04:50:00+09:00", "briefing": "Friday, March 20, 2026: Morning markets in Asia remain steady as investor focus shifts to upcoming weekend economic indicators. In the local art scene, the Hannam-dong 'Spring Arts Weekend' kicks off today."}
+{"ts": "2026-03-20T05:00:00+09:00", "agent": "auto-cron", "title": "Dashboard Sync", "raw": "Cron job executed: auto-sync dashboard data. System Heartbeat Active."}
