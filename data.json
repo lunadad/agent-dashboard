@@ -1,33 +1,26 @@
 {
   "date": "2026-03-19",
   "briefing": {
-    "art": "The 2026 Whitney Biennial (running through Aug 23) is currently drawing attention for its atmospheric, 'slow-burn' exploration of contemporary American life and technology. Globally, the art market is showing resilience with a 4% growth in 2025, driven largely by high-end sales and a robust U.S. market, which now accounts for over 44% of global volume.",
-    "stocks": "Markets are digesting recent volatility. Amazon (AMZN) maintains a 'Moderate Buy' sentiment as it invests heavily in AI infrastructure, with AWS revenue projections climbing. Intel (INTC) remains the focus of 'process leadership' debates as its 18A node enters high-volume production, though it faces supply chain and financial pressures."
+    "art": "The 2026 Whitney Biennial continues to explore 'slow-burn' contemporary themes. Global art market resilience remains at 4% growth, led by the U.S. market.",
+    "stocks": "Markets are reacting to the Fed's 3.5-3.75% rate hold. Energy stocks are benefiting from the Iran/Hormuz crisis, while growth sectors face pressure from 'higher for longer' rate expectations."
   },
   "dailyReports": {
     "머스크": {
-      "raw": "🎨📈 **[오후 주식 브리핑: AMZN & INTC]**\n\n안녕하세요, 슬기님! 오늘(3월 19일, 2026) 업데이트된 주요 시장 및 예술 소식 전해 드립니다.\n\n---\n\n### 🎨 예술계 소식: 휘트니 비엔날레 2026\n*   **비엔날레 현황:** 82번째를 맞이한 휘트니 비엔날레(3/8 ~ 8/23)가 관람객들을 맞이하고 있습니다. 이번 전시는 명확한 정치적 메시지보다는 분위기와 질감, 인공지능과 같은 기술적 친밀감 등 '현재의 감각'에 집중하는 '슬로우 번(slow-burn)' 형태라는 평이 많습니다.\n*   **시장 동향:** 2025년 글로벌 아트 시장은 전년 대비 4% 성장하며 반등에 성공했습니다. 특히 미국 시장이 전체의 44%를 차지하며 견고한 주도권을 유지하고 있습니다.\n\n### 📦 Amazon (AMZN)\n*   **주가 흐름:** 주당 $211.41 수준에서 거래 중이며, 견조한 흐름을 유지하고 있습니다.\n*   **주요 이슈:** AWS 매출이 2036년까지 연 6,000억 달러 규모로 성장할 수 있다는 전망이 힘을 얻고 있습니다. 2026년 AI 인프라 구축에 2,000억 달러를 투자할 계획이며, 기관 투자자(Campbell Capital 등)의 지분 확대가 이어지고 있습니다.\n\n### 💻 Intel (INTC)\n*   **주가 흐름:** 주가는 등락을 반복하며 치열한 공방 중입니다. 최근 1년 사이 121% 급등했으나, 단기적으로는 공급 병목 현상과 높은 자본 지출 부담이 시장의 우려 요인입니다.\n*   **전략적 이슈:** 18A 공정의 고생산량 돌입이 가장 큰 관전 포인트입니다. 칩스법(CHIPS Act) 지원금으로 확보한 유동성을 바탕으로 생산 리더십 탈환을 노리고 있습니다.\n\n---\n오늘도 슬기님의 투자 결정에 도움이 되길 바랍니다. 편안한 저녁 되세요! 🌙"
+      "raw": "🎨📈 **[오후 주식 브리핑: AMZN & INTC]**\n\n안녕하세요, 슬기님! 오늘(3월 19일) 업데이트된 시장 소식입니다. 아마존은 AWS 매출 성장세와 AI 인프라 투자로 견조한 흐름을 유지 중이며, 인텔은 18A 공정 생산과 칩스법 기반의 리더십 탈환을 목표로 하고 있습니다."
+    },
+    "FT": {
+      "raw": "FT Daily Briefing: Markets are volatile due to the Iran-Hormuz crisis driving oil prices up. The Fed maintains 'higher for longer' rates (3.5-3.75%). MSFT is considering legal action against AWS/OpenAI, and AI safety regulations are under growing scrutiny."
+    },
+    "카리나": {
+      "raw": "Art market update: High demand for immersive media art at Tate Modern and strong activity in the Asian gallery scene (Seoul/Hong Kong) with new global partnerships."
     }
   },
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-19 23:00",
+    "updatedAt": "2026-03-19 23:10",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
-    "budgetMonthlyTokens": 9000000,
-    "byAgent": [
-      {
-        "agent": "루나봇",
-        "dailyUsd": 0.18,
-        "monthlyUsd": 4.2,
-        "dailyTokens": 331000,
-        "monthlyTokens": 780000,
-        "calls": 35,
-        "models": [
-          { "name": "openai-codex/gpt-5.3-codex", "tokens": 331000 }
-        ]
-      }
-    ]
+    "budgetMonthlyTokens": 9000000
   }
 }
