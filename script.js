@@ -74,6 +74,35 @@ const defaultData = {
     ["09:30", "복약 누락 여부 자동 체크"],
     ["21:00", "미국장 저녁 브리핑 발송"],
   ],
+  tokenUsage: {
+    dailyBudget: 5.00,
+    agents: {
+      luna: {
+        inputTokens: 48520,
+        outputTokens: 12340,
+        calls: 37,
+        model: "claude-sonnet-4-6",
+        costPerInputMToken: 3.00,
+        costPerOutputMToken: 15.00,
+      },
+      musku: {
+        inputTokens: 72150,
+        outputTokens: 18760,
+        calls: 24,
+        model: "claude-sonnet-4-6",
+        costPerInputMToken: 3.00,
+        costPerOutputMToken: 15.00,
+      },
+      kurina: {
+        inputTokens: 15200,
+        outputTokens: 4830,
+        calls: 9,
+        model: "claude-haiku-4-5",
+        costPerInputMToken: 0.80,
+        costPerOutputMToken: 4.00,
+      },
+    },
+  },
 };
 
 let state = typeof structuredClone === "function"
@@ -392,6 +421,193 @@ function renderTimeline(rows) {
   });
 }
 
+// ── Render: Token Usage Monitor ──
+
+function calcAgentCost(agentData) {
+  const inputCost = (agentData.inputTokens / 1_000_000) * agentData.costPerInputMToken;
+  const outputCost = (agentData.outputTokens / 1_000_000) * agentData.costPerOutputMToken;
+  return inputCost + outputCost;
+}
+
+function formatTokenCount(n) {
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + "M";
+  if (n >= 1_000) return (n / 1_000).toFixed(1) + "K";
+  return String(n);
+}
+
+function renderTokenUsage(tokenData) {
+  const summaryEl = document.getElementById("tokenSummary");
+  const agentsEl = document.getElementById("tokenAgents");
+  if (!summaryEl || !agentsEl) return;
+  summaryEl.innerHTML = "";
+  agentsEl.innerHTML = "";
+
+  if (!tokenData?.agents) return;
+
+  // Calculate totals
+  let totalCost = 0;
+  let totalInput = 0;
+  let totalOutput = 0;
+  let totalCalls = 0;
+  const agentCosts = {};
+
+  for (const [id, data] of Object.entries(tokenData.agents)) {
+    const cost = calcAgentCost(data);
+    agentCosts[id] = cost;
+    totalCost += cost;
+    totalInput += data.inputTokens;
+    totalOutput += data.outputTokens;
+    totalCalls += data.calls;
+  }
+
+  const budget = tokenData.dailyBudget || 0;
+  const budgetPct = budget > 0 ? Math.min(Math.round((totalCost / budget) * 100), 100) : 0;
+  const budgetLevel = budgetPct >= 90 ? "over" : budgetPct >= 70 ? "warn" : "ok";
+
+  // Summary row
+  const sumRow = document.createElement("div");
+  sumRow.className = "token-summary-row";
+
+  const costBox = document.createElement("div");
+  costBox.className = "token-stat-box";
+  const costLabel = document.createElement("div");
+  costLabel.className = "token-stat-label";
+  costLabel.textContent = "오늘 총 비용";
+  const costVal = document.createElement("div");
+  costVal.className = "token-stat-value cost-" + budgetLevel;
+  costVal.textContent = "$" + totalCost.toFixed(4);
+  costBox.appendChild(costLabel);
+  costBox.appendChild(costVal);
+
+  const budgetBox = document.createElement("div");
+  budgetBox.className = "token-stat-box";
+  const budgetLabel = document.createElement("div");
+  budgetLabel.className = "token-stat-label";
+  budgetLabel.textContent = "일일 예산";
+  const budgetVal = document.createElement("div");
+  budgetVal.className = "token-stat-value";
+  budgetVal.textContent = "$" + budget.toFixed(2) + " (" + budgetPct + "%)";
+  budgetBox.appendChild(budgetLabel);
+  budgetBox.appendChild(budgetVal);
+
+  const tokenBox = document.createElement("div");
+  tokenBox.className = "token-stat-box";
+  const tokenLabel = document.createElement("div");
+  tokenLabel.className = "token-stat-label";
+  tokenLabel.textContent = "총 토큰";
+  const tokenVal = document.createElement("div");
+  tokenVal.className = "token-stat-value";
+  tokenVal.textContent = formatTokenCount(totalInput) + " in / " + formatTokenCount(totalOutput) + " out";
+  tokenBox.appendChild(tokenLabel);
+  tokenBox.appendChild(tokenVal);
+
+  const callBox = document.createElement("div");
+  callBox.className = "token-stat-box";
+  const callLabel = document.createElement("div");
+  callLabel.className = "token-stat-label";
+  callLabel.textContent = "API 호출";
+  const callVal = document.createElement("div");
+  callVal.className = "token-stat-value";
+  callVal.textContent = totalCalls + "회";
+  callBox.appendChild(callLabel);
+  callBox.appendChild(callVal);
+
+  sumRow.appendChild(costBox);
+  sumRow.appendChild(budgetBox);
+  sumRow.appendChild(tokenBox);
+  sumRow.appendChild(callBox);
+  summaryEl.appendChild(sumRow);
+
+  // Budget progress bar
+  const budgetTrack = document.createElement("div");
+  budgetTrack.className = "token-budget-track";
+  const budgetFill = document.createElement("div");
+  budgetFill.className = "token-budget-fill " + budgetLevel;
+  budgetFill.style.width = "0%";
+  budgetTrack.appendChild(budgetFill);
+  summaryEl.appendChild(budgetTrack);
+
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => { budgetFill.style.width = budgetPct + "%"; });
+  });
+
+  // Per-agent breakdown
+  for (const [id, data] of Object.entries(tokenData.agents)) {
+    const agent = state.agents.find((a) => a.id === id);
+    const cost = agentCosts[id];
+    const costPct = totalCost > 0 ? Math.round((cost / totalCost) * 100) : 0;
+
+    const row = document.createElement("div");
+    row.className = "token-agent-row";
+
+    // Agent info
+    const info = document.createElement("div");
+    info.className = "token-agent-info";
+    const avatar = document.createElement("div");
+    avatar.className = "token-agent-avatar";
+    avatar.dataset.id = id;
+    const initial = document.createElement("span");
+    initial.textContent = AGENT_COLORS[id]?.initial || id[0].toUpperCase();
+    avatar.appendChild(initial);
+    const nameWrap = document.createElement("div");
+    const nameEl = document.createElement("div");
+    nameEl.className = "token-agent-name";
+    nameEl.textContent = agent?.name || id;
+    const modelEl = document.createElement("div");
+    modelEl.className = "token-agent-model";
+    modelEl.textContent = data.model;
+    nameWrap.appendChild(nameEl);
+    nameWrap.appendChild(modelEl);
+    info.appendChild(avatar);
+    info.appendChild(nameWrap);
+
+    // Stats
+    const stats = document.createElement("div");
+    stats.className = "token-agent-stats";
+
+    const inEl = document.createElement("span");
+    inEl.className = "token-agent-stat";
+    inEl.textContent = formatTokenCount(data.inputTokens) + " in";
+    const outEl = document.createElement("span");
+    outEl.className = "token-agent-stat";
+    outEl.textContent = formatTokenCount(data.outputTokens) + " out";
+    const callsEl = document.createElement("span");
+    callsEl.className = "token-agent-stat";
+    callsEl.textContent = data.calls + "회";
+    const costEl = document.createElement("span");
+    costEl.className = "token-agent-cost";
+    costEl.textContent = "$" + cost.toFixed(4);
+
+    stats.appendChild(inEl);
+    stats.appendChild(outEl);
+    stats.appendChild(callsEl);
+    stats.appendChild(costEl);
+
+    // Cost proportion bar
+    const propTrack = document.createElement("div");
+    propTrack.className = "token-prop-track";
+    const propFill = document.createElement("div");
+    propFill.className = "token-prop-fill";
+    propFill.dataset.id = id;
+    propFill.style.width = "0%";
+    propTrack.appendChild(propFill);
+
+    const pctLabel = document.createElement("span");
+    pctLabel.className = "token-prop-pct";
+    pctLabel.textContent = costPct + "%";
+
+    row.appendChild(info);
+    row.appendChild(stats);
+    row.appendChild(propTrack);
+    row.appendChild(pctLabel);
+    agentsEl.appendChild(row);
+
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => { propFill.style.width = costPct + "%"; });
+    });
+  }
+}
+
 // ── Briefing search ──
 
 function getFilteredBriefings(query) {
@@ -548,6 +764,7 @@ function renderAll() {
   renderNoticeBadge();
   renderQuality(state.quality || []);
   renderMatrix("sourceBoard", state.sources || []);
+  renderTokenUsage(state.tokenUsage || null);
   renderTimeline(state.timeline || []);
 }
 
