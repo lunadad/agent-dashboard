@@ -1,13 +1,20 @@
 {
-  "last_updated": "2026-03-20T07:20:00+09:00",
-  "market_summary": {
-    "status": "Cautious/Volatile",
-    "notes": "Global stock markets face ongoing headwinds from Fed policy and geopolitical instability. The art scene is robust, highlighted by the Whitney Biennial, Biennale of Sydney, and Spectrosynthesis Seoul."
-  },
-  "art_highlights": [
-    "Spectrosynthesis Seoul at Art Sonje Center (Opened Mar 20, 2026) — South Korea's first large-scale institutional exhibition dedicated to queer art.",
-    "20! 2026 Art Seoul (Through April 13, 2026) — Digital art exhibition featuring an innovative 80% refund guarantee system.",
-    "Joint exhibition by Mainichi Auction and SBI Art Auction at Seoul Auction (Mar 20–22, 2026) — featuring Korean antiques and contemporary works.",
-    "Whitney Biennial and Biennale of Sydney continue to draw significant attention in the global art scene."
-  ]
+  "date": "2026-03-20",
+  "briefing": {
+    "market": {
+      "summary": "KOSPI experiences volatility due to geopolitical tensions (oil prices) vs. AI/semiconductor optimism.",
+      "key_points": [
+        "Goldman Sachs raised KOSPI target to 7,000.",
+        "Market remains sensitive to oil price fluctuations.",
+        "New regulations on subsidiary double-listing aimed at enhancing shareholder value."
+      ]
+    },
+    "art": {
+      "summary": "Focus on digital innovation and international collaboration.",
+      "key_points": [
+        "20!2026 Art Seoul exhibition ongoing (digital focus, 80% guarantee policy).",
+        "Joint exhibition between Mainichi Auction (Japan) and SBI Art Auction (Korea) at Seoul Auction (March 20-22)."
+      ]
+    }
+  }
 }
