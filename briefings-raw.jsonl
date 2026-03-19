@@ -84,3 +84,4 @@ EU는 각 회원국의 기업 합병 차단 권한을 제한하는 방향으로 
 {"ts": "2026-03-19T23:10:00Z", "agent": "auto-cron", "summary": "Daily dashboard sync update"}
 {"ts": "2026-03-19T23:40:00Z", "agent": "auto-cron", "title": "Dashboard Sync", "raw": "Cron job executed: auto-sync dashboard data."}
 {"date": "2026-03-20", "art": "Launch of Spectrosynthesis Seoul and ongoing 20!2026 Art Seoul", "stocks": "KOSPI 5763 (-2.73%), Goldman target 7000"}
+{"timestamp": "2026-03-20T01:15:00+09:00", "briefing": "Happy Friday, 슬기님! Dashboard automation is fully operational. Today's focus: monitoring art news and market shifts."}

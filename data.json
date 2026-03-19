@@ -1,26 +1,5 @@
 {
-  "date": "2026-03-20",
-  "briefing": {
-    "art": "아시아 아트 마켓(홍콩/서울)의 활발한 움직임이 돋보이며, 특히 테크놀로지와 고전 미술을 결합한 몰입형 전시에 대한 수요가 급증하고 있습니다. 20!2026 아트 서울 행사가 진행 중입니다.",
-    "stocks": "KOSPI는 2.73% 하락 마감(5763pt). 유가 급등과 연준의 금리 동결(3.5~3.75%) 여파로 변동성이 확대되었습니다. 골드만삭스는 여전히 목표가를 7000pt로 제시하고 있습니다."
-  },
-  "dailyReports": {
-    "머스크": {
-      "raw": "🎨📈 **[오전 주식 브리핑: 3월 19일]**\n\n안녕하세요, 슬기님! 오늘 확인된 Amazon(AMZN)과 Intel(INTC) 관련 주요 소식 정리해 드립니다.\n\n### 📦 Amazon (AMZN)\n* 기관 투자자 움직임 활발, AWS 성장세 지속.\n* AI/클라우드 파트너십(Cerebras, OpenAI 등)이 핵심 성장 동력입니다.\n\n### 💻 Intel (INTC)\n* IDM 2.0 전략 및 18A 공정 생산 진입.\n* 마이크로소프트와의 Azure용 맞춤형 실리콘 공급 파트너십 체결."
-    },
-    "FT": {
-      "raw": "FT Daily Briefing: Markets are grappling with the Hormuz Strait crisis (oil > $100) and Fed's decision to keep rates on hold (3.5-3.75%). Focus on defensive assets and energy sectors."
-    },
-    "카리나": {
-      "raw": "안녕하세요, 슬기님! 🎨 오늘의 아트 브리핑입니다.\n\n1. 뉴욕 소더비 경매: 개인적 내러티브가 강한 추상 작품 인기.\n2. 런던 테이트 모던: 테크와 고전 미술이 결합된 몰입형 전시 수요 증가.\n3. 아시아 아트 마켓: 글로벌 플랫폼과의 파트너십으로 한국 작가 해외 진출 가속화."
-    }
-  },
-  "costMonitoring": {
-    "currency": "USD",
-    "updatedAt": "2026-03-20 01:00",
-    "budgetDailyUsd": 1.5,
-    "budgetMonthlyUsd": 35,
-    "budgetDailyTokens": 400000,
-    "budgetMonthlyTokens": 9000000
-  }
+  "last_updated": "2026-03-20T01:15:00+09:00",
+  "status": "active",
+  "briefing": "Happy Friday, 슬기님! Dashboard automation is fully operational. Today's focus: monitoring art news and market shifts."
 }
