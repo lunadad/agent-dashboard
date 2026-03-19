@@ -1,23 +1,23 @@
 {
   "date": "2026-03-19",
   "briefing": {
-    "art": "The 2026 Whitney Biennial continues to explore 'slow-burn' contemporary themes. Global art market resilience remains at 4% growth, led by the U.S. market.",
-    "stocks": "Markets are reacting to the Fed's 3.5-3.75% rate hold. Energy stocks are benefiting from the Iran/Hormuz crisis, while growth sectors face pressure from 'higher for longer' rate expectations."
+    "art": "The global art market grew 4% in 2025, but the Korean art market is contracting following its 2022 peak, now around $370M. New digital initiatives like '20!2026 Art Seoul' are launching to restore trust.",
+    "stocks": "Global markets are down due to the Iran-Hormuz conflict and rising oil prices. The Fed held rates at 3.5-3.75%, while the KOSPI fell 2.7% and the Won dropped to a 17-year low."
   },
   "dailyReports": {
     "머스크": {
-      "raw": "🎨📈 **[오후 주식 브리핑: AMZN & INTC]**\n\n안녕하세요, 슬기님! 오늘(3월 19일) 업데이트된 시장 소식입니다. 아마존은 AWS 매출 성장세와 AI 인프라 투자로 견조한 흐름을 유지 중이며, 인텔은 18A 공정 생산과 칩스법 기반의 리더십 탈환을 목표로 하고 있습니다."
+      "raw": "🎨📈 **[오후 주식 브리핑: 3월 19일 마감]**\n\n안녕하세요, 슬기님! 오늘 시장은 중동 분쟁 격화와 유가 급등(Brent $107)으로 전반적인 하락세를 보였습니다. 미 연준은 금리를 3.50-3.75%로 동결했지만, 경제 불확실성을 경고했습니다. 특히 국내 증시는 KOSPI가 2.7% 급락하며 17년 만에 원/달러 환율이 1,500원을 넘어서는 등 변동성이 매우 컸습니다."
     },
     "FT": {
-      "raw": "FT Daily Briefing: Markets are volatile due to the Iran-Hormuz crisis driving oil prices up. The Fed maintains 'higher for longer' rates (3.5-3.75%). MSFT is considering legal action against AWS/OpenAI, and AI safety regulations are under growing scrutiny."
+      "raw": "FT Daily Briefing: Global stocks hit 2026 lows as the Iran-Hormuz conflict escalates, pushing oil prices higher. The U.S. Federal Reserve maintained rates at 3.5-3.75%, while the South Korean Won fell below 1,500 per dollar, a 17-year low."
     },
     "카리나": {
-      "raw": "Art market update: High demand for immersive media art at Tate Modern and strong activity in the Asian gallery scene (Seoul/Hong Kong) with new global partnerships."
+      "raw": "Art market update: Global art sales rose 4% in 2025 to $59.6 billion, marking a rebound. However, the Korean market faces a sharp contraction post-2022, currently valued at ~$370 million. New efforts like '20!2026 Art Seoul' are emerging to improve market transparency and authentication."
     }
   },
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026-03-19 23:10",
+    "updatedAt": "2026-03-19 23:20",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
