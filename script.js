@@ -76,13 +76,19 @@ const defaultData = {
   ],
 };
 
-let state = structuredClone(defaultData);
+let state = typeof structuredClone === "function"
+  ? structuredClone(defaultData)
+  : JSON.parse(JSON.stringify(defaultData));
 let activeFilter = "전체";
 let selectedAgentIdx = 0;
 
 // ── Data loading ──
 
 async function loadData() {
+  if (location.protocol === "file:") {
+    console.warn("[Agent Dashboard] file:// 프로토콜에서는 data.json을 불러올 수 없습니다. 기본 데이터를 사용합니다.");
+    return;
+  }
   try {
     const res = await fetch("./data.json", { cache: "no-store" });
     if (!res.ok) return;
@@ -474,7 +480,7 @@ function setupThemeToggle() {
 
   const paint = () => {
     const isLight = document.body.classList.contains("light");
-    btn.textContent = isLight ? "라이트" : "다크";
+    btn.textContent = isLight ? "다크" : "라이트";
   };
 
   btn.addEventListener("click", () => {
@@ -566,5 +572,9 @@ function renderAll() {
     showContent();
   }
 
-  setupAutoRefresh();
+  try {
+    setupAutoRefresh();
+  } catch (err) {
+    console.error("[Agent Dashboard] auto-refresh error:", err);
+  }
 })();
