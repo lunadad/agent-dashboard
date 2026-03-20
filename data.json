@@ -1,20 +1,13 @@
 {
-  "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T15:40:00+09:00",
-  "market_summary": "Global markets continue to trade with cautious optimism. KOSPI remains stable around 5,804.29 as investor sentiment holds steady. WTI crude oil prices are stable, keeping market volatility low. Investors are closely watching for any further policy signals.",
-  "art_summary": "The '20!2026 Art Seoul' digital exhibit is attracting interest for its focus on price transparency. The market remains in a consolidation phase as collectors look for long-term value.",
-  "top_headlines": [
-    "KOSPI holding gains from morning session",
-    "Oil prices remain stable as geopolitical noise decreases",
-    "Art Seoul continues to draw attention for transparency initiatives",
-    "Analysts maintain positive outlook for end-of-year market targets"
-  ],
-  "dailyReports": {
-    "카리나": {
-      "raw": "안녕하세요, 슬기님! 15:40 기준 업데이트입니다. 예술 시장은 여전히 디지털화와 신뢰 회복에 집중하고 있습니다. '20!2026 Art Seoul' 전시를 통해 투명성이 점진적으로 개선되는 모습입니다."
-    },
-    "머스크": {
-      "raw": "15:40 시장 브리핑입니다. 시장은 보합세를 유지하며 안도감을 이어가고 있습니다. 유가 안정세가 증시에 긍정적이며, 전반적으로 투자 심리가 회복된 상태입니다. 금일 남은 시간도 좋은 하루 되세요."
-    }
+  "last_updated": "2026-03-20T15:50:00+09:00",
+  "market_briefing": {
+    "date": "2026-03-20",
+    "summary": "Global markets are navigating geopolitical tensions in the Middle East and a hawkish US Federal Reserve stance. Crude oil prices (Brent) retreated slightly to ~$107/bbl following de-escalation signals. US markets experienced declines on March 19, while Indian indices rebounded sharply today on easing oil prices.",
+    "highlights": [
+      "Geopolitical tension remains high, affecting energy volatility.",
+      "US Fed signals higher-for-longer interest rates.",
+      "Global GDP projected at 3.3% for 2026.",
+      "Indian markets (Sensex/Nifty) showing strong recovery today."
+    ]
   }
 }
