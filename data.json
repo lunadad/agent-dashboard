@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-20T23:20:00+09:00",
+  "timestamp": "2026-03-20T23:45:00+09:00",
   "art_highlights": [
-    "Floral Pop aesthetics gaining traction",
-    "Chaoticism Painting emerging as a key trend",
-    "Renewed focus on handmade and craft-based practices",
-    "Shift toward Moody Palettes with emotionally complex colors"
+    "Return to Materiality and the Handmade",
+    "Mixed Media and Sensory-Rich Art",
+    "Resurgence of Surrealism and Dream-Logic Aesthetics",
+    "Moody Palettes and Earth Tones"
   ],
   "market_summary": {
     "date": "2026-03-20",
     "market_status": "Closed",
     "dow_jones": "46021.43",
     "nasdaq": "22090.69",
-    "key_drivers": "Geopolitical tensions in the Middle East, persistent inflation, oil price volatility",
-    "sentiment": "Cautious"
+    "key_drivers": "Geopolitical tensions in US-Iran, persistent inflation, triple witching event",
+    "sentiment": "Cautious/Volatile"
   }
 }
