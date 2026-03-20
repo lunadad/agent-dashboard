@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T04:40:00+09:00",
+  "timestamp": "2026-03-21T04:50:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026: Market sales grew by 4% to $59.6B in 2025; Q1 2026 shows cautious optimism with 51% of experts expecting growth.",
-    "Recovery is 'K-shaped': High-end segment (>$10M) and top-tier rarity-driven supply are surging, while middle market continues to face headwinds.",
-    "Art Basel Hong Kong 2026 (Mar 27-29) is a key confidence indicator; the Asia Pacific market is showing nuanced recovery.",
-    "Generational Shift: Younger, digital-first collectors are driving the market, with 49% of gallery clients being new in 2025.",
-    "Channel Shift: Online-only sales decreased by 11% in 2025 as collectors return to in-person transactions and fairs, which now account for 35% of dealer turnover."
+    "Global Art Market Report 2026: Total sales reached $59.6B in 2025, a 4% YoY increase, signaling modest recovery amidst recalibration.",
+    "The high-end segment (> $1M) drove growth; works over $10M saw a 30% surge, highlighting concentration of wealth in top tiers.",
+    "Art Fair Dominance: Fairs now account for 35% of dealer turnover, while online-only sales declined to $9.2B, the lowest since 2019.",
+    "US remains the market leader (44% share), with France showing strong growth (+9%) to become the leading EU market.",
+    "Upcoming: Art Basel Hong Kong (Mar 27-29) is the next major indicator of market sentiment."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Cautious Optimism / Recalibration",
-    "market_sentiment": "Positive momentum building for Q2 2026, though global economic growth remains sluggish.",
-    "key_drivers": "Concentration of wealth in high-end tiers, generational buyer shifts, and a return to in-person art fair dominance.",
-    "trend": "Dissolution of traditional asset categories; market is becoming a fluid 'transvertical' asset class sensitive to liquidity and macro-geopolitics."
+    "market_status": "Modest Recovery & Structural Recalibration",
+    "market_sentiment": "Cautious optimism for 2026; 43% of dealers expect sales to improve, with focus shifting back to in-person/local transactions.",
+    "key_drivers": "Strong auction performance (+9%), resurgence of the high-end sector, and a shift away from digital-exclusive models toward in-person fairs.",
+    "trend": "Market correction in contemporary art sectors offset by gains in Modern and Old Masters; sustainability and AI integration emerging as key themes for 2026."
   }
 }
