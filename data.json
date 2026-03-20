@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T04:30:00+09:00",
+  "timestamp": "2026-03-21T04:40:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026: Sales increased by 4% to $59.6B in 2025; 'Cautious Optimism' for 2026.",
-    "Market shows a 'barbell' structure with strength at ultra-high end and lower-priced segments.",
-    "Art Basel Hong Kong 2026 (March 27-29) features 242 galleries and new 'Echoes' sector; expected to influence spring auction sentiment.",
-    "Generational shift: New collectors (49% of 2025 gallery clients) are increasingly digitally-native.",
-    "Asia Pacific market: Nuanced recovery; China/HK remain central despite 2025 volatility; inter-Asia projects a key 2026 trend."
+    "Global Art Market Report 2026: Market sales grew by 4% to $59.6B in 2025; Q1 2026 shows cautious optimism with 51% of experts expecting growth.",
+    "Recovery is 'K-shaped': High-end segment (>$10M) and top-tier rarity-driven supply are surging, while middle market continues to face headwinds.",
+    "Art Basel Hong Kong 2026 (Mar 27-29) is a key confidence indicator; the Asia Pacific market is showing nuanced recovery.",
+    "Generational Shift: Younger, digital-first collectors are driving the market, with 49% of gallery clients being new in 2025.",
+    "Channel Shift: Online-only sales decreased by 11% in 2025 as collectors return to in-person transactions and fairs, which now account for 35% of dealer turnover."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Cautious Recovery",
-    "market_sentiment": "Positive momentum building for Q2 2026; high-value auction segment stabilizing the market.",
-    "key_drivers": "Strong auction rebound, generational buyer shifts, and major regional events like Art Basel HK acting as confidence indicators.",
-    "trend": "Market concentration in top-tier tiers (>$10M) and entry-level (<$50K), with middle market facing ongoing headwinds."
+    "market_status": "Cautious Optimism / Recalibration",
+    "market_sentiment": "Positive momentum building for Q2 2026, though global economic growth remains sluggish.",
+    "key_drivers": "Concentration of wealth in high-end tiers, generational buyer shifts, and a return to in-person art fair dominance.",
+    "trend": "Dissolution of traditional asset categories; market is becoming a fluid 'transvertical' asset class sensitive to liquidity and macro-geopolitics."
   }
 }
