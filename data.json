@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T06:10:00+09:00",
+  "timestamp": "2026-03-21T06:20:00+09:00",
   "art_highlights": [
-    "Art Basel & UBS Global Art Market Report 2026: Market remains stable with 4% annual growth ($59.6B); high-end segment shows resilience.",
-    "Dealer sector 'structural reset' continuing; strategic focus on local collector engagement and experiential sales.",
-    "Art Fairs regaining prominence for 2026; Art Basel Hong Kong (Mar 27-29) is a key upcoming litmus test for the sector.",
-    "Younger collectors continue to drive social discovery, with multi-medium collecting remaining a strong trend for Q2 2026.",
-    "U.S. market holds 44% share ($26B); stable outlook for early 2026 market participants."
+    "Global art market recovered in 2025, growing 4% to $59.6B; high-end segment ($1M+) remains strong with 21% growth.",
+    "U.S. market holds 44% global share ($26B), leading recovery efforts.",
+    "Ultra-high-end transactions (over $10M) increased by 30%, signaling resilience in the top tier.",
+    "Dealer confidence for 2026 is cautiously optimistic, with a notable shift toward local collector engagement.",
+    "Postwar and Contemporary art segment undergoing gradual correction, yet maintaining 45% market share."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Consolidation & Strategic Pivot",
-    "market_sentiment": "Cautious optimism; focus on high-end segment and local dealer resilience.",
-    "key_drivers": "Stable 4% annual growth, shift towards experiential luxury, and high-end market resilience.",
-    "trend": "Market stabilizing post-2025 recovery; focus on long-term sustainability over aggressive growth."
+    "market_status": "Volatile; Market Correction",
+    "market_sentiment": "Cautious optimism; geopolitical tensions impacting sentiment.",
+    "key_drivers": "Middle East tensions, rising energy costs, mixed U.S. labor data, and central bank interest rate uncertainty.",
+    "trend": "Rotation away from mega-cap tech into Energy, Utilities, and Consumer Staples; small- and mid-cap companies showing strength."
   }
 }
