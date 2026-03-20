@@ -1,19 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T14:50:00+09:00",
-  "market_summary": "Global markets are navigating Middle East geopolitical tensions. US indices were mixed: Nasdaq resilient, while Dow and S&P 500 declined. Indian markets rebounded sharply, driven by easing oil prices.",
-  "art_summary": "The 2026 Global Art Market Report indicates a 4% growth in 2025. London auctions showed strength, though Art Dubai is postponed due to regional conflicts. Focus on Old Masters by women artists continues.",
+  "lastUpdate": "2026-03-20T15:00:00+09:00",
+  "market_summary": "Global markets show cautious optimism. After Thursday's losses due to oil volatility and hawkish Fed signals, futures are edging higher as geopolitical tensions in the Middle East show signs of de-escalation following comments from Israeli leadership. WTI crude has receded below $94 per barrel.",
+  "art_summary": "The 2026 Global Art Market Report confirms 4% growth in 2025. Art Dubai is postponed to May due to regional conflicts. Focus remains on Old Masters by women artists.",
   "top_headlines": [
-    "Global markets react to Middle East geopolitical tensions and oil price volatility",
-    "Nasdaq shows resilience while Dow and S&P 500 face downward pressure",
-    "Art Dubai 2026 postponed amid regional instability; market sees 4% growth in 2025"
+    "WTI crude futures drop below $94/bbl as Middle East tensions ease",
+    "US stock futures edge higher, recovering from Thursday's losses",
+    "Art Dubai 2026 postponed to May amid regional instability",
+    "Fed Chair Powell warns of energy cost pressure on inflation expectations"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 14:40 기준 업데이트입니다. 예술 시장에서는 2026년 리포트를 통해 2025년 4% 성장이 확인되었고, 특히 여성 올드 마스터 작품에 대한 관심이 높습니다. 다만, 중동 지역 갈등으로 아트 두바이 행사가 5월로 연기되었다는 소식이 있으니 참고해 주세요."
+      "raw": "안녕하세요, 슬기님! 15:00 기준 업데이트입니다. 예술 시장의 전반적인 흐름은 여전합니다. Art Dubai 행사가 5월로 공식 연기되었다는 소식이 확정되었고, 2026년 리포트에서 언급된 여성 올드 마스터 작품에 대한 시장의 관심은 견고하게 유지되고 있습니다."
     },
     "머스크": {
-      "raw": "14:40 시장 브리핑입니다. 중동발 지정학적 리스크로 유가 변동성이 확대되면서 증시가 혼조세를 보이고 있습니다. 다우와 S&P는 하락했으나, 나스닥은 기술주 강세로 버티고 있습니다. 유가 상승세가 다소 진정되면서 인도의 증시는 강한 반등을 기록 중입니다."
+      "raw": "15:00 시장 브리핑입니다. 금일 시장은 안도 랠리를 보이고 있습니다. 어제 급등했던 유가가 이스라엘 측의 발언으로 인해 안정을 찾으면서 WTI가 94달러 아래로 내려왔습니다. 이로 인해 어제 하락했던 미국 증시(나스닥, S&P 500, 다우) 선물 지수가 반등을 시도하고 있습니다. 다만, 인플레이션 우려는 여전히 유효하여 주의가 필요합니다."
     }
   }
 }
