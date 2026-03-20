@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T03:20:00+09:00",
+  "timestamp": "2026-03-21T03:40:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026 shows 4% growth to $59.6B in 2025, driven by a 9% auction sales jump",
-    "Lauren Halsey's 'sister dreamer' (LA) and Arthur Jafa's 'The White Album' (Hammer Museum) are key current exhibitions",
-    "Whitney Biennial 2026 and Anna Maria Maiolino's 'Poetic Earth' currently on view in NYC",
-    "London auction results for March 2026 show strong performance, with Frank Auerbach's 'Christmas Tree at Mornington Crescent' as a highlight",
-    "Chicago features 'LENS2026' photography exhibition and George Klauba's 'KLAUBA' survey"
+    "Global Art Market Report 2026 confirms 4% growth to $59.6B for 2025; sector outlook remains 'Cautious Optimism' for Q1 2026",
+    "Current exhibitions: Whitney Biennial 2026, Arthur Jafa's 'The White Album' (Hammer Museum), Anna Maria Maiolino's 'Poetic Earth' (NYC)",
+    "Auction sector tracking steady; high-end ($10M+) works continuing to drive volume as Q1 2026 concludes",
+    "Digital art and local dealer engagement remain the primary growth vectors for March/April 2026",
+    "Regional focus: U.S. (44% share) followed by UK and China; increasing Middle East market engagement observed"
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Cautious Optimism",
-    "market_sentiment": "Recovery with 4% growth; high-end sector ($10M+) leading; dealers focused on local markets due to rising costs",
-    "key_drivers": "Strong auction performance, resilience of high-end works, and diversified buyer base",
-    "trend": "US market dominates (44% share); 43% of dealers expect sales growth in 2026; Digital art momentum rising"
+    "market_status": "Steady / Cautious Optimism",
+    "market_sentiment": "Stable growth with high resilience in high-value assets; dealer focus shifting toward local/regional collectors",
+    "key_drivers": "High-end auction resilience, younger collector demographic growth, digital/hybrid gallery adoption",
+    "trend": "U.S. dominance (44%); 43% of market stakeholders forecast continued expansion through H1 2026"
   }
 }
