@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T07:30:00+09:00",
+  "timestamp": "2026-03-21T07:40:00+09:00",
   "art_highlights": [
-    "New Museum in NYC expansion project reaches $82 million milestone.",
-    "Baton Rouge's LASM continues 'Then, and Now, and Always: The Art of Nick Bustamante'.",
+    "Whitney Biennial 2026 in NYC runs until August 23.",
+    "Carol Bove at the Guggenheim continues until August 2.",
+    "Monet and Venice opens today (March 21) at the de Young Museum, San Francisco.",
     "Lagos, Nigeria exhibition 'Wake Up!' gains international traction.",
-    "25th Biennale of Sydney 'Rememory' focuses on coastal heritage sites.",
-    "V&A Museum 'Schiaparelli: Fashion Becomes Art' attendance remains high."
+    "V&A Museum 'Schiaparelli: Fashion Becomes Art' prepares for March 28 opening."
   ],
   "market_summary": {
     "date": "2026-03-21",
     "market_status": "Bearish / Correction",
-    "market_sentiment": "Negative; global markets volatile due to escalating Iran conflict and oil price spikes.",
-    "key_drivers": "US-Iran conflict, Strait of Hormuz closure concerns, surging energy prices (Brent $107/bbl), and renewed inflation fears.",
-    "trend": "Major U.S. indices (Dow, S&P 500, Nasdaq) hit multi-week lows; global markets show signs of 'peak uncertainty' with forced liquidations."
+    "market_sentiment": "Negative; volatility continues as Iran-Israel conflict intensifies, impacting global energy prices and supply chains.",
+    "key_drivers": "Escalation in Iran conflict, South Pars gas field strike, Brent Crude volatility ($110/bbl), US stock indices hitting 2026 lows.",
+    "trend": "Forced liquidations in global markets; 'peak uncertainty' phase with focus on potential energy intervention in the Strait of Hormuz."
   }
 }
