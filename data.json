@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-20T16:50:00+09:00",
+  "last_updated": "2026-03-20T17:00:00+09:00",
   "market_briefing": {
     "date": "2026-03-20",
-    "summary": "Global markets on March 20, 2026, show signs of rebound as Middle East geopolitical tensions ease and oil prices stabilize, though software stocks remain under pressure from AI-related volatility.",
+    "summary": "Global markets show cautious stabilization on March 20, 2026, as oil prices ease from weekly highs following diplomatic de-escalation signals in the Middle East. Despite volatility, investors are monitoring hawkish central bank outlooks and persistent energy-driven inflation risks.",
     "highlights": [
-      "Easing Middle East tensions lead to market stabilization; oil prices show signs of cooling.",
-      "Global central banks remain hawkish as energy-driven inflation risks persist despite volatility.",
-      "Market 'AI Scare Trade' continues to weigh on software stocks, maintaining broader equity fragility.",
-      "Gold maintains momentum, trading above $5,150/oz amid continued structural demand.",
-      "Indian markets saw a modest rebound on Friday following significant selloffs, tracking stabilized energy cues."
+      "Brent crude oil eased to $107-$108/bbl after hitting $119, as diplomatic efforts attempt to stabilize the Strait of Hormuz.",
+      "US S&P 500 showed a modest recovery (+0.90%) on Friday, balancing out earlier weekly losses.",
+      "Indian markets rebounded strongly with Nifty50 reclaiming 23,300, tracking stabilized global energy cues.",
+      "Geopolitical instability remains the primary market driver, with focus on energy supply disruptions and central bank inflation responses.",
+      "Natural gas markets remain high-alert due to infrastructure damages in Qatar, keeping energy volatility elevated."
     ]
   }
 }
