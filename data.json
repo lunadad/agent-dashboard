@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T06:35:00+09:00",
+  "timestamp": "2026-03-21T06:40:00+09:00",
   "art_highlights": [
     "Global art market rebounded 4% in 2025 to $59.6B, with U.S. market growing 5% to $26B.",
     "Ultra-high-end segment ($10M+) shows resilience with nearly 40% growth in some sectors.",
@@ -9,9 +9,9 @@
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Bearish / Correction",
-    "market_sentiment": "Negative; heavily impacted by geopolitical turmoil.",
+    "market_status": "Bearish / High Volatility",
+    "market_sentiment": "Negative; heavy impact from geopolitical turmoil and record-low market performance on March 20th.",
     "key_drivers": "Persian Gulf conflict (Iran war), rising Treasury yields, and persistent inflation concerns.",
-    "trend": "S&P 500 facing longest losing streak in a year; investors abandoning rate-cut bets as energy price spikes drive inflation fears."
+    "trend": "Global markets continue to face pressure from geopolitical uncertainty; persistent inflationary environment and energy spikes creating cautious market behavior."
   }
 }
