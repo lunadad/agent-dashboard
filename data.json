@@ -1,16 +1,17 @@
 {
-  "timestamp": "2026-03-21T01:50:00+09:00",
+  "timestamp": "2026-03-21T02:00:00+09:00",
   "art_highlights": [
-    "Global art market experienced modest growth in 2025, reaching $59.6 billion (up 4%)",
-    "High-end auction market showing renewed confidence with a 9% increase in public auction sales",
-    "Postwar and Contemporary art remains the largest sector, although Modern art saw a 9% rise in sales",
-    "United States retains global leadership with 44% market share, followed by UK (18%) and China (14%)"
+    "Global art market grew 4% in 2025 to $59.6 billion, driven by public auction sales (+9%)",
+    "United States leads with 44% market share, followed by UK (18%) and China (14%)",
+    "Digital art is now integral; galleries increasingly using AI for operations",
+    "Middle East emerging as key region for 2026 growth with major institutional openings",
+    "Shift toward 'transvertical' market blending fine art, luxury, and digital assets"
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Modest Growth / Structural Reset",
-    "market_sentiment": "Cautious Optimism",
-    "key_drivers": "Shift towards disciplined, quality-driven market and focus on in-person channels",
-    "trend": "Refocusing on local collectors and return to in-person art fairs as primary sales drivers"
+    "market_status": "Recovery / Transvertical Shift",
+    "market_sentiment": "Cautious Optimism (43% of dealers expect improvement)",
+    "key_drivers": "High-end segment resilience, return to in-person events",
+    "trend": "Prioritizing experiences over physical goods; structural adaptation of gallery models"
   }
 }
