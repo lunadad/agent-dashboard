@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T07:00:00+09:00",
+  "timestamp": "2026-03-21T07:20:00+09:00",
   "art_highlights": [
-    "Nick Bustamante exhibition at LASM explores themes of family and legacy.",
-    "Boston City Hall hosts 'Recalibrate' performance art event.",
-    "LA events: 'Convergence' at Forest Lawn and '50 Years of Art' at Craig Krull Gallery.",
-    "Chicago Gallery News showcases West Town Weekend Art Walk featuring multiple galleries.",
-    "Dr. Jay Anderson lectures on 'Threadbare Tales From Silk Road' in Maryland."
+    "New Museum in NYC reopens with a major $82 million expansion.",
+    "Baton Rouge's LASM hosts 'Then, and Now, and Always: The Art of Nick Bustamante'.",
+    "Lagos, Nigeria launches 'Wake Up!' contemporary art exhibition at Angels & Muse.",
+    "25th Biennale of Sydney 'Rememory' continues to explore themes of memory and survival.",
+    "V&A Museum in London features 'Schiaparelli: Fashion Becomes Art'."
   ],
   "market_summary": {
     "date": "2026-03-21",
     "market_status": "Bearish / Correction",
-    "market_sentiment": "Negative; global markets volatile due to Middle East conflict and oil price spikes.",
-    "key_drivers": "Persian Gulf conflict, high interest rates, persistent inflation.",
-    "trend": "Major U.S. indices (S&P 500, Nasdaq, Dow) hit multi-week lows; Indian markets show resilience with minor recovery in IT/Metal."
+    "market_sentiment": "Negative; global markets volatile due to escalating Iran conflict and oil price spikes.",
+    "key_drivers": "US-Iran conflict, Strait of Hormuz closure concerns, surging energy prices (Brent $107/bbl), and renewed inflation fears.",
+    "trend": "Major U.S. indices (Dow, S&P 500, Nasdaq) hit multi-week lows; global markets show signs of 'peak uncertainty' with forced liquidations."
   }
 }
