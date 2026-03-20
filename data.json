@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T06:20:00+09:00",
+  "timestamp": "2026-03-21T06:35:00+09:00",
   "art_highlights": [
-    "Global art market recovered in 2025, growing 4% to $59.6B; high-end segment ($1M+) remains strong with 21% growth.",
-    "U.S. market holds 44% global share ($26B), leading recovery efforts.",
-    "Ultra-high-end transactions (over $10M) increased by 30%, signaling resilience in the top tier.",
-    "Dealer confidence for 2026 is cautiously optimistic, with a notable shift toward local collector engagement.",
-    "Postwar and Contemporary art segment undergoing gradual correction, yet maintaining 45% market share."
+    "Global art market rebounded 4% in 2025 to $59.6B, with U.S. market growing 5% to $26B.",
+    "Ultra-high-end segment ($10M+) shows resilience with nearly 40% growth in some sectors.",
+    "Auction sales for 2025 grew 9% globally; U.S. auction sales rose 23% to $3.17B.",
+    "Market sentiment is cautious: 43% of dealers expect improved sales in 2026, though galleries are adapting to a selective collector base.",
+    "Postwar and Contemporary remains the dominant sector despite slight value corrections."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Volatile; Market Correction",
-    "market_sentiment": "Cautious optimism; geopolitical tensions impacting sentiment.",
-    "key_drivers": "Middle East tensions, rising energy costs, mixed U.S. labor data, and central bank interest rate uncertainty.",
-    "trend": "Rotation away from mega-cap tech into Energy, Utilities, and Consumer Staples; small- and mid-cap companies showing strength."
+    "market_status": "Bearish / Correction",
+    "market_sentiment": "Negative; heavily impacted by geopolitical turmoil.",
+    "key_drivers": "Persian Gulf conflict (Iran war), rising Treasury yields, and persistent inflation concerns.",
+    "trend": "S&P 500 facing longest losing streak in a year; investors abandoning rate-cut bets as energy price spikes drive inflation fears."
   }
 }
