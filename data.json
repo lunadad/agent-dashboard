@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T08:00:00+09:00",
+  "timestamp": "2026-03-21T08:10:00+09:00",
   "art_highlights": [
     "Global art market grew 4% in 2025 ($59.6B); optimism high for 2026 (43% of dealers expect growth).",
     "High-end segment focus: lots >$1M grew 21% in value.",
@@ -12,8 +12,14 @@
     "market_status": "Bearish / Volatile",
     "market_sentiment": "Negative; escalation of Middle East conflict causing global volatility.",
     "key_drivers": "Escalation in Iran conflict, US S&P 500 down 1.49% to 6,508, tech sell-off (Mag 7 down), 'triple witching' volatility.",
-    "trend": "Global equities exhibit mixed performance with significant US declines; Europe trading slightly higher."
+    "trend": "Global equities exhibit mixed performance with significant US declines; Europe trading slightly higher.",
+    "ft_briefing_insights": [
+        "Energy sector short-term benefit from Iran conflict; hedge with consumer/transport/aviation.",
+        "Fed 'higher for longer' stance; prefer value/dividend stocks over growth.",
+        "AI cloud infrastructure competition (MSFT vs AMZN) intensifying legal risk; AI safety regulations remain a key headwind.",
+        "EU M&A deregulation supports European industrial/defense sectors."
+    ]
   },
   "briefing_status": "Updated via cron job",
-  "last_updated": "2026-03-21T08:00:00+09:00"
+  "last_updated": "2026-03-21T08:10:00+09:00"
 }
