@@ -1,20 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T15:20:00+09:00",
-  "market_summary": "Global markets show cautious optimism. KOSPI is trading around 5,804.29, up from yesterday's close. Futures are edging higher with WTI crude below $94/bbl, easing fears. Goldman Sachs forecasts KOSPI recovery to 7,000 by year-end.",
-  "art_summary": "The art market is re-evaluating after a peak in 2022, with a focus on trust and accessibility. The '20!2026 Art Seoul' digital exhibit launched on March 16, offering price transparency and authentication. Art Dubai 2026 is postponed to May.",
+  "lastUpdate": "2026-03-20T15:30:00+09:00",
+  "market_summary": "Global markets continue to trade with cautious optimism. KOSPI remains stable around 5,804.29 as investor sentiment holds steady. WTI crude oil prices are stable, keeping market volatility low. Investors are closely watching for any further policy signals.",
+  "art_summary": "The '20!2026 Art Seoul' digital exhibit is attracting interest for its focus on price transparency. The market remains in a consolidation phase as collectors look for long-term value.",
   "top_headlines": [
-    "KOSPI rises 0.6% as investor sentiment improves",
-    "WTI crude futures drop below $94/bbl as Middle East tensions ease",
-    "New '20!2026 Art Seoul' digital exhibit launches to boost market transparency",
-    "Goldman Sachs predicts KOSPI could reach 7,000 record high by year-end"
+    "KOSPI holding gains from morning session",
+    "Oil prices remain stable as geopolitical noise decreases",
+    "Art Seoul continues to draw attention for transparency initiatives",
+    "Analysts maintain positive outlook for end-of-year market targets"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 15:10 기준 업데이트입니다. 예술 시장은 투명성을 강화하려는 움직임이 활발합니다. 최근 런칭한 '20!2026 Art Seoul'이 눈에 띄며, 디지털화와 가격 공개를 통해 신뢰 회복을 꾀하고 있습니다. Art Dubai 연기 소식과 함께 시장은 내실을 다지는 시기입니다."
+      "raw": "안녕하세요, 슬기님! 15:30 기준 업데이트입니다. 예술 시장은 여전히 디지털화와 신뢰 회복에 집중하고 있습니다. '20!2026 Art Seoul' 전시를 통해 투명성이 점진적으로 개선되는 모습입니다."
     },
     "머스크": {
-      "raw": "15:10 시장 브리핑입니다. 금일 시장은 안도 랠리를 이어가고 있습니다. 코스피 지수가 0.6% 상승하며 반등의 신호탄을 쏘아 올렸습니다. 국제 유가 안정이 증시에 긍정적인 영향을 주고 있으며, 골드만삭스에서는 연말 코스피 7,000 달성을 전망하며 장기적인 상승세를 기대하고 있습니다."
+      "raw": "15:30 시장 브리핑입니다. 시장은 보합세를 유지하며 안도감을 이어가고 있습니다. 유가 안정세가 증시에 긍정적이며, 전반적으로 투자 심리가 회복된 상태입니다. 금일 남은 시간도 좋은 하루 되세요."
     }
   }
 }
