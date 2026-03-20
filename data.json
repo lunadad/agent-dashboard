@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-03-20T19:50:00+09:00",
+  "last_updated": "2026-03-20T20:00:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The art market continues its consolidation phase as we head into the evening, with strong interest in digital-physical hybrid assets holding firm.",
+      "summary": "The art market closed the day in a state of stable consolidation, with digital-physical hybrid assets showing continued resilience.",
       "key_trends": [
         "Sustained interest in mid-career artists.",
         "Private sales remain the preferred liquidity channel for blue-chip assets.",
-        "Digital provenance verification becoming a standard prerequisite for luxury portfolios."
+        "Digital provenance verification remains a standard prerequisite for luxury portfolios."
       ]
     },
     "korean_market": {
-      "summary": "KOSPI maintains support levels as trading closes, reflecting a stable recovery despite early session volatility.",
+      "summary": "KOSPI closed with solid support, recovering from early session volatility to finish in positive territory.",
       "indices": {
         "KOSPI": "5,781.2 (+0.31%)",
         "KOSDAQ": "Closed with positive momentum."
       },
-      "sentiment": "Day-end sentiment remains cautiously optimistic, with investor attention shifting to upcoming Q2 guidance."
+      "sentiment": "Cautiously optimistic; investors are now focusing on Q2 guidance."
     }
   }
 }
