@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T20:40:00+09:00",
+  "last_updated": "2026-03-20T20:50:00+09:00",
   "briefing": {
     "art_market": {
       "summary": "Global art sales grew 4% in 2025 to $59.6 billion, signaling a return to growth. The ultra-high-end segment (+$10M) surged 30% at auction.",
@@ -13,7 +13,7 @@
       "summary": "KOSPI closed at 5,781.20 (+0.31%) on March 20, 2026, supported by hopes for easing Mideast tensions.",
       "indices": {
         "KOSPI": "5,781.20 (+0.31%)",
-        "KOSDAQ": "1,161.52 (+1.50%)"
+        "KOSDAQ": "1,161.52 (+1.58%)"
       },
       "sentiment": "Cautious optimism driven by geopolitical hopes, despite heavy foreign selling."
     }
