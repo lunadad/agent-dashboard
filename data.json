@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-03-20T20:00:00+09:00",
+  "last_updated": "2026-03-20T20:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The art market closed the day in a state of stable consolidation, with digital-physical hybrid assets showing continued resilience.",
+      "summary": "The global art market displays cautious optimism in 2026, with a focus on selectivity and high-value quality works over volume.",
       "key_trends": [
-        "Sustained interest in mid-career artists.",
-        "Private sales remain the preferred liquidity channel for blue-chip assets.",
-        "Digital provenance verification remains a standard prerequisite for luxury portfolios."
+        "Selectivity in acquisitions; quality works hold strong despite market corrections.",
+        "Postwar and Contemporary sectors undergoing gradual structural reset.",
+        "Increased buyer confidence in Modern art and Old Masters sectors."
       ]
     },
     "korean_market": {
-      "summary": "KOSPI closed with solid support, recovering from early session volatility to finish in positive territory.",
+      "summary": "KOSPI closed higher at 5,781.2 (+0.31%) on March 20, 2026, benefiting from easing geopolitical tensions.",
       "indices": {
         "KOSPI": "5,781.2 (+0.31%)",
-        "KOSDAQ": "Closed with positive momentum."
+        "KOSDAQ": "Positive momentum maintained."
       },
-      "sentiment": "Cautiously optimistic; investors are now focusing on Q2 guidance."
+      "sentiment": "Cautious optimism; investors balancing geopolitical risks with semiconductor optimism."
     }
   }
 }
