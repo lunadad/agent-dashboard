@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T18:10:00+09:00",
+  "last_updated": "2026-03-20T18:20:00+09:00",
   "briefing": {
     "art_market": {
       "summary": "Cautious optimism and strategic recalibration in Q1 2026. Global sales grew 4% in 2025.",
@@ -11,12 +11,12 @@
       ]
     },
     "korean_market": {
-      "summary": "KOSPI and KOSDAQ showed recovery on March 20, 2026, after Thursday's decline.",
+      "summary": "KOSPI closed higher on March 20, 2026, driven by easing geopolitical tensions and a rebound in technology stocks.",
       "indices": {
-        "KOSPI": "5,781 (+0.31%)",
+        "KOSPI": "5,780.82 (+0.31%)",
         "KOSDAQ": "Gained 0.94%"
       },
-      "sentiment": "Improved sentiment due to eased geopolitical tensions in the Middle East."
+      "sentiment": "Positive sentiment due to hopes for a resolution to Middle East conflict and easing inflation concerns."
     }
   }
 }
