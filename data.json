@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T03:50:00+09:00",
+  "timestamp": "2026-03-21T04:10:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026 confirms 4% growth to $59.6B for 2025; sector outlook remains 'Cautious Optimism' for Q1 2026",
-    "Current exhibitions: Whitney Biennial 2026, Arthur Jafa's 'The White Album' (Hammer Museum), Anna Maria Maiolino's 'Poetic Earth' (NYC)",
-    "Auction sector tracking steady; high-end ($10M+) works continuing to drive volume as Q1 2026 concludes",
-    "Digital art and local dealer engagement remain the primary growth vectors for March/April 2026",
-    "Regional focus: U.S. (44% share) followed by UK and China; increasing Middle East market engagement observed"
+    "Global Art Market Report 2026 confirms 4% growth to $59.6B for 2025; sector outlook remains 'Cautious Optimism' for 2026",
+    "U.S. remains largest market (44% share); APAC growth in Q1 2026 significantly accelerated by 22.7% YoY",
+    "Art Basel Hong Kong 2026 upcoming (March 27-29) features 240 galleries and new 'Echoes' sector for recent works",
+    "Digital asset/Fine art convergence continues; 51% of high-net-worth collectors engaged with digital art in 2024-2025",
+    "Female artist representation reached 50% in primary market galleries during 2025"
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Steady / Cautious Optimism",
-    "market_sentiment": "Stable growth with high resilience in high-value assets; dealer focus shifting toward local/regional collectors",
-    "key_drivers": "High-end auction resilience, younger collector demographic growth, digital/hybrid gallery adoption",
-    "trend": "U.S. dominance (44%); 43% of market stakeholders forecast continued expansion through H1 2026"
+    "market_status": "Resilient Growth / Accelerated APAC",
+    "market_sentiment": "Positive momentum building into Q2 2026; high-end auction segment in the U.S. remains a key stabilizer",
+    "key_drivers": "High-end auction volume, strong APAC quarterly rebound (Hong Kong focus), and expanding collector interest in digital-hybrid art",
+    "trend": "Increased logistical refocus on local collector bases due to rising global shipping and tax complexities"
   }
 }
