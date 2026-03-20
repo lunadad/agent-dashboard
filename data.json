@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-03-20T19:20:00+09:00",
+  "last_updated": "2026-03-20T19:35:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The global art market showed a 4% sales increase in 2025 reaching $59.6 billion, entering 2026 with cautious optimism despite being 12% below the 2022 peak.",
+      "summary": "The art market maintains a cautious outlook for late Q1 2026, with a focus on institutional validation and secondary market stability amidst broader macroeconomic shifts.",
       "key_trends": [
-        "Public auctions drove growth (+9% to $20.7 billion).",
-        "Market moving toward a 'Transvertical Market' where fine art and luxury collectibles merge.",
-        "Younger collectors rely heavily on social media (Instagram) for discovery.",
-        "Shift toward local collectors and institutionally validated mid-career artists."
+        "Focus on mid-career artists with strong museum representation.",
+        "Increased liquidity in private sales for top-tier collectibles.",
+        "Shift toward transparent pricing and digital provenance verification.",
+        "Digital art and generative assets continue to be integrated into broader luxury portfolio strategies."
       ]
     },
     "korean_market": {
-      "summary": "KOSPI closed at 5,780.82 (+0.31%) on March 20, 2026, supported by easing geopolitical tensions in the Middle East and a strong Korean won.",
+      "summary": "KOSPI closed at 5,781.2 (+0.31%) on March 20, 2026, finding support as geopolitical tensions in the Middle East showed signs of de-escalation.",
       "indices": {
-        "KOSPI": "5,780.82 (+0.31%)",
-        "KOSDAQ": "Gained 0.94%"
+        "KOSPI": "5,781.2 (+0.31%)",
+        "KOSDAQ": "Resilient, reflecting general recovery."
       },
-      "sentiment": "Cautiously resilient. Markets are focused on economic recovery indicators, while monitoring geopolitical risks and energy policy adjustments."
+      "sentiment": "Cautiously optimistic. The easing of energy price spikes has provided a tailwind, though foreign selling pressures persist."
     }
   }
 }
