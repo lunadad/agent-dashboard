@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T02:10:00+09:00",
+  "timestamp": "2026-03-21T02:35:00+09:00",
   "art_highlights": [
-    "Global art market grew 4% in 2025 to $59.6 billion, returning to pre-pandemic levels",
-    "High-end segment ($1M+ sales) grew 21%, driving overall market recovery",
-    "Middle East region becoming a major focal point for 2026 with new institutional openings",
-    "Digital art continues to mature; hybrid sales models integrating physical/online are now standard",
-    "Art fairs rebound strongly, accounting for 35% of dealer turnover in 2025"
+    "March 2026 sees diverse global focus: Joan Snyder's abstracts at Canada, NYC; Lisa Yuskavage at Zwirner",
+    "Sam Gilliam's 1990s stitched works featured at Pace Gallery, NYC",
+    "LA Nomadic Division presents 'sister dreamer' by Lauren Halsey; Hammer Museum screens Arthur Jafa's 'The White Album'",
+    "Chicago art scene active with 'LENS2026' photography exhibition and George Klauba survey 'KLAUBA' at Art Center Highland Park",
+    "CCA Tashkent debuts with 'Hikmah', exploring wisdom and material transformation"
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Stabilized Growth",
-    "market_sentiment": "Cautious Optimism (43% of dealers expect improvement in 2026)",
-    "key_drivers": "High-end resilience, in-person event resurgence, and strategic gallery adaptation",
-    "trend": "Localization of sales and focus on established blue-chip value alongside emerging digital/experiential works"
+    "market_status": "Market Downturn",
+    "market_sentiment": "Bearish (Indices underperforming, geopolitical concerns mounting)",
+    "key_drivers": "Intensified Middle East conflict impacting energy prices (Brent up to $108.65/bbl) and inflation fears",
+    "trend": "Stock markets (DJI, Nasdaq, S&P 500) under pressure, closing at yearly lows; Fed rate cut expectations vanishing"
   }
 }
