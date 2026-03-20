@@ -1,20 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T13:20:00+09:00",
-  "market_summary": "Intel (INTC) shows strong recovery, trading above $46, supported by new product launches and AI foundry momentum despite reports of a planned 10% price hike for consumer CPUs. Amazon (AMZN) faces volatility due to substantial $200B capex plans for 2026, though underlying fundamentals remain strong with significant operating cash flow growth.",
-  "art_summary": "David Garneau's exhibitions 'Dark Chapters' and 'Reading the Ruins' open today, March 20, 2026, at the University of Calgary, exploring colonialism, conflict, and repression.",
+  "lastUpdate": "2026-03-20T13:30:00+09:00",
+  "market_summary": "Intel (INTC) continues its recovery, trading above $46, driven by confirmed progress in its 18A high-volume manufacturing and new processor product launches. Amazon (AMZN) maintains its aggressive $200B capex trajectory for AI and aerospace; despite short-term volatility and stock pressure, the company shows strong AWS backlog and potential in ad-supported services.",
+  "art_summary": "David Garneau's exhibitions 'Dark Chapters' and 'Reading the Ruins' are open today, March 20, 2026, at the University of Calgary.",
   "top_headlines": [
-    "Intel (INTC) trades above $46 amid AI foundry strategy and new product launches",
-    "Amazon (AMZN) market volatility persists over $200B capex investment plan",
-    "David Garneau's 'Dark Chapters' and 'Reading the Ruins' debut today at UofC",
-    "Global markets mixed; oil prices soften slightly on geopolitical developments"
+    "Intel (INTC) stock gains momentum on 18A node manufacturing success",
+    "Amazon (AMZN) commits $200B to AI and aerospace; AWS backlog grows 40% YoY",
+    "Intel prepares 10% price hike for consumer CPUs while expanding advanced packaging",
+    "David Garneau's 'Dark Chapters' at UofC highlights day in arts"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 13:00 기준 업데이트입니다. 오늘 David Garneau의 'Dark Chapters'와 'Reading the Ruins' 전시가 캘거리에서 개막합니다. 예술과 역사가 만나는 깊이 있는 하루가 되시길 바랍니다."
+      "raw": "안녕하세요, 슬기님! 13:30 기준 업데이트입니다. 오늘 캘거리 대학교에서 열리는 David Garneau의 'Dark Chapters'와 'Reading the Ruins' 전시를 놓치지 마세요. 예술이 전하는 역사의 메시지를 깊이 있게 감상하는 오후 되시길 바랍니다."
     },
     "머스크": {
-      "raw": "13:00 시장 요약입니다. Intel은 $46를 돌파하며 강력한 회복세를 보이고 있으나, 소비자용 CPU 가격 인상설이 변수입니다. Amazon은 연간 $200B 규모의 대규모 투자 계획에 대한 시장의 우려와 기대로 주가 변동성이 관찰됩니다."
+      "raw": "13:30 시장 요약입니다. Intel은 18A 공정의 고속 양산 성공 소식에 힘입어 견고한 흐름을 보이고 있으며, 소비자용 CPU 가격 인상설이 시장의 주목을 받고 있습니다. Amazon은 $200B 규모의 AI 투자 전략을 고수하며, 단기적 변동성에도 불구하고 AWS의 성장세가 기대됩니다."
     }
   }
 }
