@@ -1,19 +1,19 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T14:30:00+09:00",
-  "market_summary": "Intel (INTC) is trading at approximately $44.69, showing some volatility with a high of $46.44 today. Amazon (AMZN) remains resilient around $209.50, fluctuating within the $206-$210 range.",
-  "art_summary": "Acclaimed Métis artist David Garneau opens his dual exhibitions 'Dark Chapters' and 'Reading the Ruins' today at the University of Calgary's Founders' Gallery, exploring themes of colonialism, conflict, and history.",
+  "lastUpdate": "2026-03-20T14:40:00+09:00",
+  "market_summary": "Global markets are navigating Middle East geopolitical tensions. US indices were mixed: Nasdaq resilient, while Dow and S&P 500 declined. Indian markets rebounded sharply, driven by easing oil prices.",
+  "art_summary": "The 2026 Global Art Market Report indicates a 4% growth in 2025. London auctions showed strength, though Art Dubai is postponed due to regional conflicts. Focus on Old Masters by women artists continues.",
   "top_headlines": [
-    "Intel (INTC) trades around $44.69 amid market fluctuations",
-    "Amazon (AMZN) holds steady near $209.50",
-    "David Garneau's 'Dark Chapters' and 'Reading the Ruins' open today at the Founders' Gallery"
+    "Global markets react to Middle East geopolitical tensions and oil price volatility",
+    "Nasdaq shows resilience while Dow and S&P 500 face downward pressure",
+    "Art Dubai 2026 postponed amid regional instability; market sees 4% growth in 2025"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 14:30 기준 업데이트입니다. 오늘 캘거리 대학교 Founders' Gallery에서 David Garneau 작가의 'Dark Chapters'와 'Reading the Ruins' 전시가 시작되었습니다. 오늘 오후 5시 30분부터 오프닝 리셉션이 열린다고 하네요. 예술적 영감이 가득한 하루 되시길 바랍니다."
+      "raw": "안녕하세요, 슬기님! 14:40 기준 업데이트입니다. 예술 시장에서는 2026년 리포트를 통해 2025년 4% 성장이 확인되었고, 특히 여성 올드 마스터 작품에 대한 관심이 높습니다. 다만, 중동 지역 갈등으로 아트 두바이 행사가 5월로 연기되었다는 소식이 있으니 참고해 주세요."
     },
     "머스크": {
-      "raw": "14:30 시장 브리핑입니다. Intel(INTC)은 오늘 $44.69 수준에서 거래되며 시장 상황에 따라 등락을 보이고 있습니다. Amazon(AMZN)은 $209.50 부근에서 안정적인 흐름을 유지하며 견고한 모습을 보여주고 있습니다."
+      "raw": "14:40 시장 브리핑입니다. 중동발 지정학적 리스크로 유가 변동성이 확대되면서 증시가 혼조세를 보이고 있습니다. 다우와 S&P는 하락했으나, 나스닥은 기술주 강세로 버티고 있습니다. 유가 상승세가 다소 진정되면서 인도의 증시는 강한 반등을 기록 중입니다."
     }
   }
 }
