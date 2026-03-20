@@ -1,20 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T11:20:00+09:00",
-  "market_summary": "Amazon (AMZN) maintains 'Moderate Buy' rating with AWS and AI/cloud growth as primary drivers. Intel (INTC) shows recovery signs with 18A process advancements and Azure partnerships.",
-  "art_summary": "New Museum NYC expansion continues; Matisse 'Jazz' exhibit at Art Institute Chicago remains a key attraction.",
+  "lastUpdate": "2026-03-20T11:40:00+09:00",
+  "market_summary": "Tech sector maintains stability; renewed interest in green energy stocks (NEE, ENPH) as energy prices fluctuate slightly. AI-driven cloud services continue to lead market gains.",
+  "art_summary": "Upcoming spring auction at Christie's focuses on Post-War and Contemporary art. Previews for the Impressionist collection start next week.",
   "top_headlines": [
-    "Amazon (AMZN) maintains 'Moderate Buy' position",
-    "Intel (INTC) advances 18A process and AI partnerships",
-    "New Museum NYC expansion ongoing",
-    "Matisse 'Jazz' exhibit active"
+    "Green energy stocks showing increased volatility",
+    "AI-driven cloud services lead market",
+    "Christie's spring auction preview begins",
+    "Matisse 'Jazz' exhibit remains a top attraction"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 10:50 기준 업데이트입니다. 전시 정보는 변동 없이 진행 중입니다."
+      "raw": "안녕하세요, 슬기님! 11:40 기준 업데이트입니다. 전시 정보에 업데이트가 있습니다. 다음 주 시작되는 크리스티 경매 프리뷰 정보를 확인해보세요."
     },
     "머스크": {
-      "raw": "10:50 기준 시장 업데이트입니다. 주가 및 지표는 기존 브리핑 내용과 동일한 흐름을 보이고 있습니다."
+      "raw": "11:40 기준 시장 업데이트입니다. 기술주 강세가 이어지나 친환경 에너지 섹터의 변동성이 관찰되고 있습니다. 투자에 참고하시길 바랍니다."
     }
   }
 }
