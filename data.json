@@ -1,20 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T15:00:00+09:00",
-  "market_summary": "Global markets show cautious optimism. After Thursday's losses due to oil volatility and hawkish Fed signals, futures are edging higher as geopolitical tensions in the Middle East show signs of de-escalation following comments from Israeli leadership. WTI crude has receded below $94 per barrel.",
-  "art_summary": "The 2026 Global Art Market Report confirms 4% growth in 2025. Art Dubai is postponed to May due to regional conflicts. Focus remains on Old Masters by women artists.",
+  "lastUpdate": "2026-03-20T15:10:00+09:00",
+  "market_summary": "Global markets show cautious optimism. KOSPI gained 0.6% today. After Thursday's losses, futures are edging higher with WTI crude below $94/bbl, easing fears. Goldman Sachs forecasts KOSPI recovery to 7,000 by year-end.",
+  "art_summary": "The art market is re-evaluating after a peak in 2022, with a focus on trust and accessibility. The '20!2026 Art Seoul' digital exhibit launched on March 16, offering price transparency and authentication. Art Dubai 2026 is postponed to May.",
   "top_headlines": [
+    "KOSPI rises 0.6% as investor sentiment improves",
     "WTI crude futures drop below $94/bbl as Middle East tensions ease",
-    "US stock futures edge higher, recovering from Thursday's losses",
-    "Art Dubai 2026 postponed to May amid regional instability",
-    "Fed Chair Powell warns of energy cost pressure on inflation expectations"
+    "New '20!2026 Art Seoul' digital exhibit launches to boost market transparency",
+    "Goldman Sachs predicts KOSPI could reach 7,000 record high by year-end"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 15:00 기준 업데이트입니다. 예술 시장의 전반적인 흐름은 여전합니다. Art Dubai 행사가 5월로 공식 연기되었다는 소식이 확정되었고, 2026년 리포트에서 언급된 여성 올드 마스터 작품에 대한 시장의 관심은 견고하게 유지되고 있습니다."
+      "raw": "안녕하세요, 슬기님! 15:10 기준 업데이트입니다. 예술 시장은 투명성을 강화하려는 움직임이 활발합니다. 최근 런칭한 '20!2026 Art Seoul'이 눈에 띄며, 디지털화와 가격 공개를 통해 신뢰 회복을 꾀하고 있습니다. Art Dubai 연기 소식과 함께 시장은 내실을 다지는 시기입니다."
     },
     "머스크": {
-      "raw": "15:00 시장 브리핑입니다. 금일 시장은 안도 랠리를 보이고 있습니다. 어제 급등했던 유가가 이스라엘 측의 발언으로 인해 안정을 찾으면서 WTI가 94달러 아래로 내려왔습니다. 이로 인해 어제 하락했던 미국 증시(나스닥, S&P 500, 다우) 선물 지수가 반등을 시도하고 있습니다. 다만, 인플레이션 우려는 여전히 유효하여 주의가 필요합니다."
+      "raw": "15:10 시장 브리핑입니다. 금일 시장은 안도 랠리를 이어가고 있습니다. 코스피 지수가 0.6% 상승하며 반등의 신호탄을 쏘아 올렸습니다. 국제 유가 안정이 증시에 긍정적인 영향을 주고 있으며, 골드만삭스에서는 연말 코스피 7,000 달성을 전망하며 장기적인 상승세를 기대하고 있습니다."
     }
   }
 }
