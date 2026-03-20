@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-03-20T18:00:00+09:00",
-  "market_briefing": {
-    "date": "2026-03-20",
-    "summary": "Global markets are navigating extreme volatility driven by the U.S.-Iran conflict. Oil prices retreated slightly after initial spikes following Iranian strikes on regional energy infrastructure, while gold continues to act as a volatile safe haven amid geopolitical uncertainty.",
-    "highlights": [
-      "Brent crude stabilized near $107-$108 and WTI near $94 after volatile trading, following reports of possible U.S. sanctions easing on Iranian oil.",
-      "Gold futures gained approximately 2.4%, trading above $4,717 per ounce, though the asset faces pressure from a strong U.S. dollar.",
-      "Global equity markets remain mixed; London stocks rallied as energy prices eased, while Wall Street faced downward pressure due to inflation concerns.",
-      "The conflict's duration and potential for further escalation at Strait of Hormuz continue to dominate investor sentiment, with projections of 4-5 weeks of volatility.",
-      "Central banks globally are maintaining hawkish stances as the supply-side shocks from the conflict risk fueling further inflation."
-    ]
+  "last_updated": "2026-03-20T18:10:00+09:00",
+  "briefing": {
+    "art_market": {
+      "summary": "Cautious optimism and strategic recalibration in Q1 2026. Global sales grew 4% in 2025.",
+      "key_trends": [
+        "High-end market rebound (works >$1M)",
+        "Digital art integration (51% of high-net-worth buyers active)",
+        "Shift from speculative NFTs to 'phygital' assets",
+        "Collectors prioritizing experiences and emotionally resonant art"
+      ]
+    },
+    "korean_market": {
+      "summary": "KOSPI and KOSDAQ showed recovery on March 20, 2026, after Thursday's decline.",
+      "indices": {
+        "KOSPI": "5,781 (+0.31%)",
+        "KOSDAQ": "Gained 0.94%"
+      },
+      "sentiment": "Improved sentiment due to eased geopolitical tensions in the Middle East."
+    }
   }
 }
