@@ -1,20 +1,20 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T12:10:00+09:00",
-  "market_summary": "Amazon (AMZN) shows active institutional movement with recent stake adjustments; AWS and AI/cloud partnerships remain primary growth drivers. Intel (INTC) continues recovery via IDM 2.0 strategy, new product launches (Core Ultra series), and partnerships with Microsoft for custom silicon, though debt and competition remain risks.",
-  "art_summary": "Upcoming spring auction at Christie's focuses on Post-War and Contemporary art. Previews for the Impressionist collection start next week.",
+  "lastUpdate": "2026-03-20T12:20:00+09:00",
+  "market_summary": "Intel (INTC) shows strong recovery, climbing above $46 driven by AI momentum and foundry strategy. Amazon (AMZN) faces year-to-date pressure from heavy capex plans in AWS AI, despite robust core growth and operational cash flow increases.",
+  "art_summary": "David Garneau's new exhibitions 'Dark Chapters' and 'Reading the Ruins' open today at University of Calgary. Chiayi International Art Doc Film Festival continues with a focus on AI ethics and environmental art.",
   "top_headlines": [
-    "Amazon (AMZN) institutional stake adjustments reported",
-    "Intel (INTC) advances IDM 2.0 strategy with new partnerships",
-    "Christie's spring auction preview begins",
-    "AWS and AI/Cloud partnerships remain key market drivers"
+    "Intel (INTC) rebounds on AI innovation and foundry expansion",
+    "Amazon (AMZN) faces headwinds from $200B capex investment plan",
+    "David Garneau exhibitions 'Dark Chapters' and 'Reading the Ruins' debut today",
+    "Global markets mixed; oil prices soften amidst conflict concerns"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 11:40 기준 업데이트입니다. 전시 정보에 업데이트가 있습니다. 다음 주 시작되는 크리스티 경매 프리뷰 정보를 확인해보세요."
+      "raw": "안녕하세요, 슬기님! 12:20 기준 업데이트입니다. 오늘 캐나다 캘거리에서 열리는 David Garneau 전시회 소식과 AI 윤리를 다루는 Chiayi 영화제 정보를 주목해보세요."
     },
     "머스크": {
-      "raw": "12:10 기준 시장 업데이트입니다. Amazon과 Intel의 최신 동향을 반영했습니다. Amazon은 기관들의 비중 조절이 활발하며, Intel은 파운드리 전략과 AI 실리콘 파트너십을 통한 회복세를 보이고 있습니다."
+      "raw": "12:20 기준 시장 요약입니다. Intel은 강력한 AI 모멘텀으로 반등세를 보이고 있으며, Amazon은 대규모 AWS 투자가 주가에 단기적 부담을 주고 있으나 펀더멘털은 견고합니다."
     }
   }
 }
