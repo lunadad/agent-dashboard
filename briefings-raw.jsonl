@@ -1,8 +1,1 @@
-{"ts": "2026-03-20T20:50:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 08:50 PM with confirmed market closing data."}
-{"ts": "2026-03-20T21:30:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 09:30 PM with confirmed market closing data."}
-{"timestamp": "2026-03-20T20:50:00+09:00", "data": "Briefing sync initialized"}
-{"ts": "2026-03-20T22:00:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 10:00 PM with market closing summary."}
-{"ts": "2026-03-20T22:30:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 10:30 PM with confirmed market closing data for March 20, 2026."}
-{"ts": "2026-03-20T23:00:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 11:00 PM with confirmed market closing data for March 20, 2026."}
-{"ts": "2026-03-20T23:20:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 11:20 PM with confirmed market closing data for March 20, 2026."}
-{"ts": "2026-03-20T23:50:00+09:00", "agent": "SYSTEM", "title": "Auto-Sync", "raw": "Dashboard auto-synced at 11:50 PM with confirmed market closing data for March 20, 2026."}
+{"briefing_date": "2026-03-21", "art_news": "Aurora & Athena Auction House hosting March 2026 Major Fine Art Sale, featuring Andy Warhol and Konstantin Korovin; Palm Springs Art Festival open March 21-22.", "market_context": "Global art market seeing cautious optimism, 4% growth in 2025 to $59.6B, shift towards human hand and emotional depth."}
