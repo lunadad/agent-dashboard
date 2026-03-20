@@ -1,22 +1,21 @@
 {
-  "last_updated": "2026-03-20T19:35:00+09:00",
+  "last_updated": "2026-03-20T19:40:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The art market maintains a cautious outlook for late Q1 2026, with a focus on institutional validation and secondary market stability amidst broader macroeconomic shifts.",
+      "summary": "The art market continues its consolidation phase as we head into the evening, with strong interest in digital-physical hybrid assets holding firm.",
       "key_trends": [
-        "Focus on mid-career artists with strong museum representation.",
-        "Increased liquidity in private sales for top-tier collectibles.",
-        "Shift toward transparent pricing and digital provenance verification.",
-        "Digital art and generative assets continue to be integrated into broader luxury portfolio strategies."
+        "Sustained interest in mid-career artists.",
+        "Private sales remain the preferred liquidity channel for blue-chip assets.",
+        "Digital provenance verification becoming a standard prerequisite for luxury portfolios."
       ]
     },
     "korean_market": {
-      "summary": "KOSPI closed at 5,781.2 (+0.31%) on March 20, 2026, finding support as geopolitical tensions in the Middle East showed signs of de-escalation.",
+      "summary": "KOSPI maintains support levels as trading closes, reflecting a stable recovery despite early session volatility.",
       "indices": {
         "KOSPI": "5,781.2 (+0.31%)",
-        "KOSDAQ": "Resilient, reflecting general recovery."
+        "KOSDAQ": "Closed with positive momentum."
       },
-      "sentiment": "Cautiously optimistic. The easing of energy price spikes has provided a tailwind, though foreign selling pressures persist."
+      "sentiment": "Day-end sentiment remains cautiously optimistic, with investor attention shifting to upcoming Q2 guidance."
     }
   }
 }
