@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T12:50:00+09:00",
+  "lastUpdate": "2026-03-20T13:00:00+09:00",
   "market_summary": "Intel (INTC) shows strong recovery, trading above $46, supported by new product launches and AI foundry momentum despite reports of a planned 10% price hike for consumer CPUs. Amazon (AMZN) faces volatility due to substantial $200B capex plans for 2026, though underlying fundamentals remain strong with significant operating cash flow growth.",
   "art_summary": "David Garneau's exhibitions 'Dark Chapters' and 'Reading the Ruins' open today, March 20, 2026, at the University of Calgary, exploring colonialism, conflict, and repression.",
   "top_headlines": [
@@ -11,10 +11,10 @@
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 12:50 기준 업데이트입니다. 오늘 David Garneau의 'Dark Chapters'와 'Reading the Ruins' 전시가 캘거리에서 개막합니다. 예술과 역사가 만나는 깊이 있는 하루가 되시길 바랍니다."
+      "raw": "안녕하세요, 슬기님! 13:00 기준 업데이트입니다. 오늘 David Garneau의 'Dark Chapters'와 'Reading the Ruins' 전시가 캘거리에서 개막합니다. 예술과 역사가 만나는 깊이 있는 하루가 되시길 바랍니다."
     },
     "머스크": {
-      "raw": "12:50 시장 요약입니다. Intel은 $46를 돌파하며 강력한 회복세를 보이고 있으나, 소비자용 CPU 가격 인상설이 변수입니다. Amazon은 연간 $200B 규모의 대규모 투자 계획에 대한 시장의 우려와 기대로 주가 변동성이 관찰됩니다."
+      "raw": "13:00 시장 요약입니다. Intel은 $46를 돌파하며 강력한 회복세를 보이고 있으나, 소비자용 CPU 가격 인상설이 변수입니다. Amazon은 연간 $200B 규모의 대규모 투자 계획에 대한 시장의 우려와 기대로 주가 변동성이 관찰됩니다."
     }
   }
 }
