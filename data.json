@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T05:00:00+09:00",
+  "timestamp": "2026-03-21T05:15:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026: Total sales reached $59.6B in 2025, a 4% YoY increase, signaling modest market recovery.",
-    "The dealer sector saw a 2% increase ($34.8B), while public auction sales jumped 9% to $20.7B, outperforming expectations.",
-    "US remains the market leader ($26B, 44% share), while France grows its EU market share to 8% ($4.5B).",
-    "Art Fairs return to prominence, accounting for 35% of dealer turnover; online-only sales cooled to $9.2B.",
-    "Art Basel Hong Kong 2026 (Mar 27-29) features 242 galleries, new 'Echoes' sector, and major off-site installations."
+    "Art Basel & UBS Global Art Market Report 2026: Market rebounded with 4% growth ($59.6B) in 2025; renewed optimism for 2026.",
+    "Auction sales saw a 9% jump to $20.7B, with works over $1M up 21%; U.S. continues to lead with 44% market share ($26B).",
+    "Dealer sector 'structural reset' ongoing, adapting to volatility; sales grew 2% to $34.8B.",
+    "Art Fairs regaining prominence, now 35% of dealer turnover; Art Basel Hong Kong (Mar 27-29) upcoming.",
+    "Emerging trends: Younger collectors dominating via social discovery (Instagram), and multi-medium collections becoming standard."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Modest Rebound & Shift to In-Person",
-    "market_sentiment": "Cautious optimism; 43% of dealers expect growth in 2026 as market stabilizes.",
-    "key_drivers": "Strong auction performance (+9%), resurgence of in-person fairs, and blue-chip resilience.",
-    "trend": "Correction in contemporary segments offset by Modern/Old Master gains; pivot toward experiential and fair-based sales models."
+    "market_status": "Renewed Confidence & Evolution",
+    "market_sentiment": "Cautious optimism; 43% of dealers expect growth in 2026.",
+    "key_drivers": "High-end auction recovery (+9%), structural adaptation in dealer sector, and shifting demographics.",
+    "trend": "Correction in contemporary segments balanced by high-end resilience; pivot to local collector focus and experiential sales."
   }
 }
