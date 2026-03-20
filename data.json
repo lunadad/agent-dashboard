@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-20T22:15:00+09:00",
+  "timestamp": "2026-03-20T22:20:00+09:00",
   "art_highlights": [
-    "Whitney Biennial 2026",
-    "New Museum's 'New Humans: Memories of the Future'",
-    "Art Institute of Chicago: 'On Loss and Absence'",
-    "Global cultural trends: Intersection of internet culture and classical aesthetics"
+    "Renewed focus on the human hand and imperfection vs. AI perfection",
+    "Rise in naïve art and deeply personal surrealism",
+    "Grounded palettes: warm ochre, terracotta, moss green",
+    "Increased market focus on affordable art (under $50k) and emerging talent"
   ],
   "market_summary": {
     "date": "2026-03-20",
-    "market_status": "Mixed Trading",
+    "market_status": "Downward / Choppy",
     "dow_jones": "46021.43",
     "nasdaq": "22090.69",
-    "key_drivers": "Geopolitical tensions, volatile oil prices, mixed economic data, sector rotation",
+    "key_drivers": "Geopolitical tensions in the Middle East, persistent inflation fears, mixed economic data",
     "sentiment": "Cautious"
   }
 }
