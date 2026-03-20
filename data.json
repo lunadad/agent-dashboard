@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T12:20:00+09:00",
+  "lastUpdate": "2026-03-20T12:40:00+09:00",
   "market_summary": "Intel (INTC) shows strong recovery, climbing above $46 driven by AI momentum and foundry strategy. Amazon (AMZN) faces year-to-date pressure from heavy capex plans in AWS AI, despite robust core growth and operational cash flow increases.",
   "art_summary": "David Garneau's new exhibitions 'Dark Chapters' and 'Reading the Ruins' open today at University of Calgary. Chiayi International Art Doc Film Festival continues with a focus on AI ethics and environmental art.",
   "top_headlines": [
@@ -11,10 +11,10 @@
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 12:20 기준 업데이트입니다. 오늘 캐나다 캘거리에서 열리는 David Garneau 전시회 소식과 AI 윤리를 다루는 Chiayi 영화제 정보를 주목해보세요."
+      "raw": "안녕하세요, 슬기님! 12:40 기준 업데이트입니다. 오늘 캐나다 캘거리에서 열리는 David Garneau 전시회 소식과 AI 윤리를 다루는 Chiayi 영화제 정보를 주목해보세요."
     },
     "머스크": {
-      "raw": "12:20 기준 시장 요약입니다. Intel은 강력한 AI 모멘텀으로 반등세를 보이고 있으며, Amazon은 대규모 AWS 투자가 주가에 단기적 부담을 주고 있으나 펀더멘털은 견고합니다."
+      "raw": "12:40 기준 시장 요약입니다. Intel은 강력한 AI 모멘텀으로 반등세를 보이고 있으며, Amazon은 대규모 AWS 투자가 주가에 단기적 부담을 주고 있으나 펀더멘털은 견고합니다."
     }
   }
 }
