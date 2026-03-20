@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-03-20T21:10:00+09:00",
+  "last_updated": "2026-03-20T21:20:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Global art sales grew 4% in 2025 to $59.6 billion, signaling a return to growth. U.S. auction sales surged 23% to $3.17 billion in 2025.",
+      "summary": "Global art market grew 12% in 2025 with the USA strengthening its dominant position; 2026 sentiment shows cautious optimism among dealers.",
       "key_trends": [
-        "Global rebound led by public auctions (up 9%) and blue-chip artists.",
-        "U.S. remains market leader (44% share), driven by high-end demand and strategic guarantees.",
-        "Market sentiment: Dealers focused on local collectors amid rising international logistics/tax costs."
+        "Global art market reached $59.6 billion in 2025, driven by strong auction results.",
+        "U.S. auction market rebounded with 23% growth in 2025, marking the first annual increase since 2022.",
+        "Modern and Impressionist art segments led the rebound, while Contemporary art continues a structural repricing."
       ]
     },
     "korean_market": {
-      "summary": "KOSPI closed at 5,781.20 (+0.31%) on March 20, 2026. Positive sentiment prevailed despite net foreign selling.",
+      "summary": "KOSPI closed at 5,781.20 (+0.31%) on March 20, 2026, supported by geopolitical optimism despite foreign selling.",
       "indices": {
         "KOSPI": "5,781.20 (+0.31%)",
         "KOSDAQ": "1,161.52 (+1.58%)"
       },
-      "sentiment": "Cautious optimism; index supported by individual and pension fund buying, geopolitical hopes."
+      "sentiment": "Cautious optimism; index supported by individual and pension fund buying, geopolitical hopes regarding the conflict in Iran."
     }
   }
 }
