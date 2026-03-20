@@ -1,21 +1,17 @@
 {
-  "last_updated": "2026-03-20T21:30:00+09:00",
-  "briefing": {
-    "art_market": {
-      "summary": "Global art market grew 12% in 2025 with the USA strengthening its dominant position; 2026 sentiment shows cautious optimism among dealers.",
-      "key_trends": [
-        "Global art market reached $59.6 billion in 2025, driven by strong auction results.",
-        "U.S. auction market rebounded with 23% growth in 2025, marking the first annual increase since 2022.",
-        "Modern and Impressionist art segments led the rebound, while Contemporary art continues a structural repricing."
-      ]
-    },
-    "korean_market": {
-      "summary": "KOSPI closed at 5,781.20 (+0.31%) on March 20, 2026, supported by geopolitical optimism despite foreign selling.",
-      "indices": {
-        "KOSPI": "5,781.20 (+0.31%)",
-        "KOSDAQ": "1,161.52 (+1.58%)"
-      },
-      "sentiment": "Cautious optimism; index supported by individual and pension fund buying, geopolitical hopes regarding the conflict in Iran."
-    }
+  "timestamp": "2026-03-20T20:50:00+09:00",
+  "art_highlights": [
+    "Whitney Biennial 2026",
+    "New Museum's 'New Humans: Memories of the Future'",
+    "Art Institute of Chicago: 'On Loss and Absence'",
+    "Global cultural trends: Intersection of internet culture and classical aesthetics"
+  ],
+  "market_summary": {
+    "date": "2026-03-20",
+    "market_status": "Rebounding",
+    "dow_jones": "46021.43 (pre-rebound assessment)",
+    "nasdaq": "22090.69",
+    "key_drivers": "U.S.-Iran conflict easing, volatility index (VIX) dropping, focus on tech/AI capex",
+    "sentiment": "Cautiously optimistic following volatile session"
   }
 }
