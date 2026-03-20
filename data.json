@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-03-20T16:35:00+09:00",
+  "last_updated": "2026-03-20T16:45:00+09:00",
   "market_briefing": {
     "date": "2026-03-20",
-    "summary": "Global markets on March 20, 2026, are navigating a complex environment shaped by Middle East geopolitical tensions, a hawkish shift across major central banks, and rotation concerns following recent tech stock volatility. WTI crude eased to ~$93/barrel, reflecting potential de-escalation rhetoric, though energy markets remain sensitive. Central banks (Fed, RBA, ECB) are maintaining restrictive stances to combat persistent inflation.",
+    "summary": "Global markets on March 20, 2026, remain volatile due to Middle East geopolitical tensions, hawkish central bank shifts, and concerns over AI's impact on software stocks. Oil prices (Brent) have fluctuated around $105/bbl amid de-escalation hopes, while safe-haven assets like gold continue to rally.",
     "highlights": [
-      "Geopolitical tensions (Middle East) continue to dominate market sentiment, driving commodity volatility.",
-      "Crude oil prices (WTI) eased to ~$93.43/barrel on signs of potential de-escalation.",
-      "Global central banks remain hawkish; Fed projects minimal rate cuts for 2026 due to sticky inflation.",
-      "Mixed equity performance: US markets rotating out of 'Magnificent 7' tech stocks amid AI disruption fears; Indian markets saw a rebound.",
-      "Safe-haven assets (Gold/USD) remain supported despite recent daily volatility."
+      "Escalating Middle East tensions dominate; Brent crude oscillating around $105/bbl after volatile shifts.",
+      "Global central banks, including the RBA and Fed, remain hawkish due to energy-driven inflation risks.",
+      "Market 'AI Scare Trade' continues to weigh on software stocks, leading to broader equity fragility.",
+      "Gold maintains historic momentum, trading above $5,150/oz amid structural demand and geopolitical risk.",
+      "Indian markets saw a modest rebound on Friday following significant selloffs, tracking stabilized energy cues."
     ]
   }
 }
