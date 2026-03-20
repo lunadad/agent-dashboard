@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T22:50:00+09:00",
+  "timestamp": "2026-03-20T23:00:00+09:00",
   "art_highlights": [
     "Renewed focus on the human hand and imperfection vs. AI perfection",
     "Rise in naïve art and deeply personal surrealism",
@@ -8,10 +8,10 @@
   ],
   "market_summary": {
     "date": "2026-03-20",
-    "market_status": "Downward / Choppy",
+    "market_status": "Closed",
     "dow_jones": "46021.43",
     "nasdaq": "22090.69",
-    "key_drivers": "Geopolitical tensions in the Middle East, persistent inflation fears, concerns over energy costs",
+    "key_drivers": "Geopolitical tensions, inflation, energy costs",
     "sentiment": "Cautious"
   }
 }
