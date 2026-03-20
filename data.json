@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T04:20:00+09:00",
+  "timestamp": "2026-03-21T04:30:00+09:00",
   "art_highlights": [
-    "Global Art Market Report 2026 confirms 4% growth to $59.6B for 2025; sector outlook remains 'Cautious Optimism' for 2026",
-    "U.S. remains largest market (44% share); APAC growth in Q1 2026 significantly accelerated by 22.7% YoY",
-    "Art Basel Hong Kong 2026 upcoming (March 27-29) features 240 galleries and new 'Echoes' sector for recent works",
-    "Digital asset/Fine art convergence continues; 51% of high-net-worth collectors engaged with digital art in 2024-2025",
-    "Female artist representation reached 50% in primary market galleries during 2025"
+    "Global Art Market Report 2026: Sales increased by 4% to $59.6B in 2025; 'Cautious Optimism' for 2026.",
+    "Market shows a 'barbell' structure with strength at ultra-high end and lower-priced segments.",
+    "Art Basel Hong Kong 2026 (March 27-29) features 242 galleries and new 'Echoes' sector; expected to influence spring auction sentiment.",
+    "Generational shift: New collectors (49% of 2025 gallery clients) are increasingly digitally-native.",
+    "Asia Pacific market: Nuanced recovery; China/HK remain central despite 2025 volatility; inter-Asia projects a key 2026 trend."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Resilient Growth / Accelerated APAC",
-    "market_sentiment": "Positive momentum building into Q2 2026; high-end auction segment in the U.S. remains a key stabilizer",
-    "key_drivers": "High-end auction volume, strong APAC quarterly rebound (Hong Kong focus), and expanding collector interest in digital-hybrid art",
-    "trend": "Increased logistical refocus on local collector bases due to rising global shipping and tax complexities"
+    "market_status": "Cautious Recovery",
+    "market_sentiment": "Positive momentum building for Q2 2026; high-value auction segment stabilizing the market.",
+    "key_drivers": "Strong auction rebound, generational buyer shifts, and major regional events like Art Basel HK acting as confidence indicators.",
+    "trend": "Market concentration in top-tier tiers (>$10M) and entry-level (<$50K), with middle market facing ongoing headwinds."
   }
 }
