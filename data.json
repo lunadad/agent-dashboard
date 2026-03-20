@@ -1,19 +1,19 @@
 {
   "date": "2026-03-20",
-  "lastUpdate": "2026-03-20T14:10:00+09:00",
-  "market_summary": "Intel (INTC) shows strong recovery, trading above $46, supported by robust quarterly results ($13.67B revenue) and AI segment growth. Amazon (AMZN) continues to face stock pressure despite strong AWS growth (24% YoY) and massive $200B capex commitments, with analysts viewing the dip as a potential entry point.",
-  "art_summary": "David Garneau's exhibitions 'Dark Chapters' and 'Reading the Ruins' open today, March 20, 2026, at the University of Calgary, exploring themes of colonialism, conflict, and Métis identity.",
+  "lastUpdate": "2026-03-20T14:20:00+09:00",
+  "market_summary": "Intel (INTC) shows solid performance, trading around $46.18, up from recent levels, reflecting market recovery. Amazon (AMZN) is trading near $209.50 with a market cap of $2.24 trillion, showing resilience despite broader global market volatility linked to oil prices and geopolitical tensions.",
+  "art_summary": "Acclaimed Métis artist David Garneau opens two exhibitions, 'Dark Chapters' and 'Reading the Ruins', today, March 20, 2026, at the University of Calgary's Founders' Gallery, exploring themes of colonialism, conflict, and history.",
   "top_headlines": [
-    "Intel (INTC) earnings beat expectations; stock recovers above $46",
-    "Amazon (AMZN) AWS revenue surges 24% YoY; market weighs $200B AI investment vs stock volatility",
-    "David Garneau's 'Dark Chapters' and 'Reading the Ruins' exhibitions open at UofC"
+    "Intel (INTC) maintains positive momentum, trading above $46",
+    "Amazon (AMZN) resilience continues amid global market fluctuations; shares trade near $209.50",
+    "David Garneau's 'Dark Chapters' and 'Reading the Ruins' exhibitions open today at UofC"
   ],
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요, 슬기님! 14:10 기준 업데이트입니다. 오늘 캘거리 대학교에서 David Garneau 작가의 'Dark Chapters'와 'Reading the Ruins' 전시가 시작되었습니다. 예술을 통해 역사와 정체성을 되돌아보는 뜻깊은 시간 되시길 바랍니다."
+      "raw": "안녕하세요, 슬기님! 14:20 기준 업데이트입니다. 오늘 캘거리 대학교에서 David Garneau 작가의 'Dark Chapters'와 'Reading the Ruins' 전시가 시작되었습니다. 예술을 통해 역사와 정체성을 되돌아보는 뜻깊은 시간 되시길 바랍니다."
     },
     "머스크": {
-      "raw": "14:10 시장 브리핑입니다. Intel은 실적 호조에 힘입어 $46 선을 회복하며 견고한 흐름을 보이고 있습니다. 반면 Amazon은 24%에 달하는 AWS 성장세에도 불구하고 대규모 AI 투자 계획에 따른 시장 우려로 주가 변동성이 지속되고 있습니다."
+      "raw": "14:20 시장 브리핑입니다. Intel(INTC)은 $46 선에서 견조한 흐름을 유지하며 긍정적인 모멘텀을 보여주고 있습니다. Amazon(AMZN)은 $209.50 수준에서 거래되며, 원유 가격 변동과 지정학적 긴장으로 인한 글로벌 시장의 변동성 속에서도 회복력을 보이고 있습니다."
     }
   }
 }
