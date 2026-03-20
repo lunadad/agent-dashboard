@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-03-20T16:10:00+09:00",
+  "last_updated": "2026-03-20T16:25:00+09:00",
   "market_briefing": {
     "date": "2026-03-20",
-    "summary": "Global markets continue to stabilize as geopolitical tensions ease. Crude oil prices remain steady. Investors are monitoring US economic data for further Fed signals.",
+    "summary": "Global markets are volatile on March 20, 2026, driven by geopolitical tensions in the Middle East and hawkish central bank policies. While oil prices have retreated slightly from recent highs, inflationary pressures remain a concern. Major central banks, including the Fed and ECB, have signaled a 'higher-for-longer' interest rate environment.",
     "highlights": [
-      "Geopolitical tension easing further.",
-      "Energy markets stabilizing.",
-      "Focus shifting to upcoming US economic indicators.",
-      "Market sentiment remains cautiously optimistic for the close."
+      "Geopolitical instability in the Middle East continues to impact energy markets.",
+      "Brent crude retreating to ~$108/barrel after peaking above $119.",
+      "Fed and other major central banks maintain hawkish stance, dampening rate cut expectations.",
+      "Equities show mixed performance; US markets cautious with concerns over stagflation.",
+      "Gold and silver rebounding on safe-haven demand; industrial metals facing sell-offs."
     ]
   }
 }
