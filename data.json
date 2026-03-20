@@ -1,15 +1,16 @@
 {
-  "timestamp": "2026-03-21T00:55:00+09:00",
+  "timestamp": "2026-03-21T01:15:00+09:00",
   "art_highlights": [
-    "Global art market shows 4% growth to $59.6 billion in 2025, led by high-end US sales",
-    "Increased focus on local collectors and new buyers (49% of gallery clientele)",
-    "Ongoing exhibitions: Cedarhurst student photography, Lauren Halsey, Arthur Jafa"
+    "Global art market grew 4% in 2025 to $59.6 billion, driven by high-value works (+$1M sales up 21%)",
+    "Dealer sales increased 2%, auction sales rose 9% in 2025",
+    "Primary market gender representation reached parity (50% of gallery artists are women)",
+    "Fairs remain critical (35% of dealer sales), online sales softening as collectors return to in-person"
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Correction",
+    "market_status": "Volatile / Corrective",
     "market_sentiment": "Bearish / Tense",
-    "key_drivers": "Geopolitical tensions (Middle East), rising oil prices ($110/bbl), inflationary fears",
-    "trend": "Markets down across the board; transition from AI discovery to implementation phase; small/mid-cap focus"
+    "key_drivers": "Geopolitical tensions (Middle East), rising energy costs (Brent ~$99/bbl), Fed interest rate policy shift (only 1 cut expected in 2026)",
+    "trend": "U.S. equities under pressure; safe-haven demand strengthening USD; gold retreating from highs; small/mid-cap focus"
   }
 }
