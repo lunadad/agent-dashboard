@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-21T06:50:00+09:00",
+  "timestamp": "2026-03-21T07:00:00+09:00",
   "art_highlights": [
-    "Global art market rebounded 4% in 2025 to $59.6B, with U.S. market growing 5% to $26B.",
-    "Ultra-high-end segment ($10M+) shows resilience with nearly 40% growth in some sectors.",
-    "Auction sales for 2025 grew 9% globally; U.S. auction sales rose 23% to $3.17B.",
-    "Market sentiment is cautious: 43% of dealers expect improved sales in 2026, though galleries are adapting to a selective collector base.",
-    "Postwar and Contemporary remains the dominant sector despite slight value corrections."
+    "Nick Bustamante exhibition at LASM explores themes of family and legacy.",
+    "Boston City Hall hosts 'Recalibrate' performance art event.",
+    "LA events: 'Convergence' at Forest Lawn and '50 Years of Art' at Craig Krull Gallery.",
+    "Chicago Gallery News showcases West Town Weekend Art Walk featuring multiple galleries.",
+    "Dr. Jay Anderson lectures on 'Threadbare Tales From Silk Road' in Maryland."
   ],
   "market_summary": {
     "date": "2026-03-21",
-    "market_status": "Bearish / High Volatility",
-    "market_sentiment": "Negative; heavy impact from geopolitical turmoil and record-low market performance on March 20th.",
-    "key_drivers": "Persian Gulf conflict (Iran war), rising Treasury yields, and persistent inflation concerns.",
-    "trend": "Global markets continue to face pressure from geopolitical uncertainty; persistent inflationary environment and energy spikes creating cautious market behavior."
+    "market_status": "Bearish / Correction",
+    "market_sentiment": "Negative; global markets volatile due to Middle East conflict and oil price spikes.",
+    "key_drivers": "Persian Gulf conflict, high interest rates, persistent inflation.",
+    "trend": "Major U.S. indices (S&P 500, Nasdaq, Dow) hit multi-week lows; Indian markets show resilience with minor recovery in IT/Metal."
   }
 }
