@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T22:00:00+09:00",
+  "timestamp": "2026-03-20T22:15:00+09:00",
   "art_highlights": [
     "Whitney Biennial 2026",
     "New Museum's 'New Humans: Memories of the Future'",
@@ -8,10 +8,10 @@
   ],
   "market_summary": {
     "date": "2026-03-20",
-    "market_status": "Closed",
-    "dow_jones": "46050.25",
-    "nasdaq": "22110.88",
-    "key_drivers": "Strong post-close sentiment, stabilized VIX, sector-wide rotation into defensive tech",
-    "sentiment": "Stable post-close"
+    "market_status": "Mixed Trading",
+    "dow_jones": "46021.43",
+    "nasdaq": "22090.69",
+    "key_drivers": "Geopolitical tensions, volatile oil prices, mixed economic data, sector rotation",
+    "sentiment": "Cautious"
   }
 }
