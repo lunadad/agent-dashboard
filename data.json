@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-03-21T12:50:00+09:00",
-  "market_summary": "The global art market showed resilience with a 4% growth in 2025 ($59.6B), led by a strong US rebound. While high-end sales thrive, the market faces cautious optimism due to macroeconomic uncertainties.",
-  "art_insights": "Structural shifts continue as top-tier sales ($10M+) dominate, while mid-market segments adjust to rising operational costs. Collectors prioritize quality and provenance over speculation.",
+  "timestamp": "2026-03-21T13:00:00+09:00",
+  "market_summary": "Art market maintains steady growth (4% in 2025). High-end segment remains robust, while the mid-market is adjusting. Focus remains on provenance and long-term value.",
+  "art_insights": "The market is stabilizing post-volatility. Collectors are prioritizing quality and verified history over speculative trends. Current sentiment is cautiously optimistic with a preference for high-value physical assets.",
   "key_events": [
-    "Global art sales reached $59.6 billion in 2025 (+4%)",
-    "US market remains dominant with 44% of global share",
-    "US auction sales increased 23% in 2025",
-    "Shift from digital-first to in-person/hybrid transactions"
-  ]
+    "Global art sales: $59.6 billion (+4%)",
+    "US market share: 44%",
+    "US auction activity: +23% in 2025",
+    "Market trend: Flight to quality and physical/hybrid experience"
+  ],
+  "last_update_note": "Synced with morning briefing context."
 }
