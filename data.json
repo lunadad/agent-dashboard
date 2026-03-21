@@ -1,10 +1,11 @@
 {
-  "timestamp": "2026-03-21T12:40:00+09:00",
-  "market_summary": "Global stock markets faced a downturn on March 20 due to geopolitical tensions (Iran-Israel conflict) driving energy prices up and Fed interest rate concerns. However, the Art Market shows signs of recovery (up 4% in 2025), particularly at the ultra-high end.",
-  "art_insights": "The U.S. art market rebounded 23% in 2025. Focus remains on provenance and long-term significance over speculation.",
+  "timestamp": "2026-03-21T12:50:00+09:00",
+  "market_summary": "The global art market showed resilience with a 4% growth in 2025 ($59.6B), led by a strong US rebound. While high-end sales thrive, the market faces cautious optimism due to macroeconomic uncertainties.",
+  "art_insights": "Structural shifts continue as top-tier sales ($10M+) dominate, while mid-market segments adjust to rising operational costs. Collectors prioritize quality and provenance over speculation.",
   "key_events": [
-    "Fed holds rates at 3.5%-3.75%",
-    "Global Art Market value reached $59.6 billion in 2025",
-    "U.S. Art auction sales up 23% YoY"
+    "Global art sales reached $59.6 billion in 2025 (+4%)",
+    "US market remains dominant with 44% of global share",
+    "US auction sales increased 23% in 2025",
+    "Shift from digital-first to in-person/hybrid transactions"
   ]
 }
