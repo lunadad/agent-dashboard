@@ -575,6 +575,61 @@ body.light .status {
   text-align: right;
 }
 
+/* ── Token header with LIVE indicator ── */
+.token-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.token-header h3 { margin: 0; }
+.token-header-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.token-live-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #4ade80;
+  display: inline-block;
+  animation: pulse-dot 1.5s ease-in-out infinite;
+}
+.token-live-label {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: #4ade80;
+}
+body.light .token-live-label { color: #15803d; }
+body.light .token-live-dot { background: #15803d; }
+
+.token-timestamp {
+  font-size: 11px;
+  color: var(--muted);
+  margin-left: 6px;
+  transition: color 0.3s;
+}
+
+@keyframes token-ts-flash {
+  0% { color: var(--accent); }
+  100% { color: var(--muted); }
+}
+.token-ts-pulse {
+  animation: token-ts-flash 1s ease-out;
+}
+
+/* Value update flash */
+@keyframes token-val-flash {
+  0% { background: rgba(56, 189, 248, 0.15); }
+  100% { background: transparent; }
+}
+.token-stat-box {
+  transition: background 0.3s;
+}
+.token-stat-box.token-updated {
+  animation: token-val-flash 0.8s ease-out;
+}
+
 /* ── Responsive ── */
 @media (max-width: 980px) {
   .app { grid-template-columns: 1fr; }

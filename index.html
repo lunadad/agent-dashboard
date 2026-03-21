@@ -73,7 +73,14 @@
           </section>
 
           <section class="timeline-wrap" aria-label="토큰 비용 모니터링">
-            <h3>토큰 비용 모니터링</h3>
+            <div class="token-header">
+              <h3>토큰 비용 모니터링</h3>
+              <div class="token-header-right">
+                <span class="token-live-dot" aria-label="실시간 모니터링 활성"></span>
+                <span class="token-live-label">LIVE</span>
+                <span id="tokenTimestamp" class="token-timestamp"></span>
+              </div>
+            </div>
             <div id="tokenBoard" class="token-board">
               <div class="token-summary" id="tokenSummary"></div>
               <div class="token-agents" id="tokenAgents"></div>

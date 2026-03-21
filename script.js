@@ -14,6 +14,13 @@ const FILTER_CATEGORIES = [
 ];
 
 const REFRESH_INTERVAL = 60_000;
+const TOKEN_SIM_INTERVAL = 5_000;
+
+// Average tokens per call for simulation (working agents accumulate tokens)
+const TOKEN_SIM_RATES = {
+  "claude-sonnet-4-6": { inputPerCall: 1300, outputPerCall: 340 },
+  "claude-haiku-4-5": { inputPerCall: 800, outputPerCall: 200 },
+};
 
 const defaultData = {
   agents: [
@@ -438,9 +445,18 @@ function formatTokenCount(n) {
 function renderTokenUsage(tokenData) {
   const summaryEl = document.getElementById("tokenSummary");
   const agentsEl = document.getElementById("tokenAgents");
+  const tsEl = document.getElementById("tokenTimestamp");
   if (!summaryEl || !agentsEl) return;
   summaryEl.innerHTML = "";
   agentsEl.innerHTML = "";
+
+  // Update timestamp
+  if (tsEl && tokenLastUpdated) {
+    tsEl.textContent = "마지막 갱신: " + formatLastUpdated(tokenLastUpdated);
+    tsEl.classList.remove("token-ts-pulse");
+    void tsEl.offsetWidth; // force reflow for re-trigger
+    tsEl.classList.add("token-ts-pulse");
+  }
 
   if (!tokenData?.agents) return;
 
@@ -517,6 +533,14 @@ function renderTokenUsage(tokenData) {
   sumRow.appendChild(tokenBox);
   sumRow.appendChild(callBox);
   summaryEl.appendChild(sumRow);
+
+  // Flash stat boxes on update
+  if (tokenLastUpdated) {
+    [costBox, budgetBox, tokenBox, callBox].forEach((box) => {
+      box.classList.add("token-updated");
+      box.addEventListener("animationend", () => box.classList.remove("token-updated"), { once: true });
+    });
+  }
 
   // Budget progress bar
   const budgetTrack = document.createElement("div");
@@ -732,6 +756,49 @@ function setupKeyboardNav() {
   });
 }
 
+// ── Token real-time simulation ──
+
+let tokenLastUpdated = null;
+
+function simulateTokenUsage() {
+  const tu = state.tokenUsage;
+  if (!tu?.agents) return;
+
+  let changed = false;
+
+  for (const [id, data] of Object.entries(tu.agents)) {
+    const agent = state.agents.find((a) => a.id === id);
+    const agentStatus = agent?.status || DEFAULT_STATUSES[id] || "idle";
+    if (agentStatus !== "working") continue;
+
+    const rates = TOKEN_SIM_RATES[data.model] || TOKEN_SIM_RATES["claude-sonnet-4-6"];
+    // Add random variation (±30%) to feel organic
+    const jitter = () => 0.7 + Math.random() * 0.6;
+    data.inputTokens += Math.round(rates.inputPerCall * jitter());
+    data.outputTokens += Math.round(rates.outputPerCall * jitter());
+    data.calls += 1;
+    changed = true;
+  }
+
+  if (changed) {
+    tokenLastUpdated = new Date();
+    renderTokenUsage(tu);
+  }
+}
+
+function formatLastUpdated(date) {
+  if (!date) return "";
+  const h = String(date.getHours()).padStart(2, "0");
+  const m = String(date.getMinutes()).padStart(2, "0");
+  const s = String(date.getSeconds()).padStart(2, "0");
+  return h + ":" + m + ":" + s;
+}
+
+function setupTokenSimulation() {
+  tokenLastUpdated = new Date();
+  setInterval(simulateTokenUsage, TOKEN_SIM_INTERVAL);
+}
+
 // ── Auto-refresh ──
 
 function setupAutoRefresh() {
@@ -791,6 +858,7 @@ function renderAll() {
 
   try {
     setupAutoRefresh();
+    setupTokenSimulation();
   } catch (err) {
     console.error("[Agent Dashboard] auto-refresh error:", err);
   }
