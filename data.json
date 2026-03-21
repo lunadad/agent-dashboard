@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-21T13:15:00+09:00",
+  "timestamp": "2026-03-21T13:20:00+09:00",
   "market_summary": "Global markets experiencing volatility due to Iran conflict, inflation, and Fed's hawkish stance. Conversely, the art market shows resilience with high-profile museum exhibitions (MoMA, de Young, New Museum) and a clear 'flight to quality' among collectors.",
-  "art_insights": "The market is stabilizing. Collectors are prioritizing provenance and high-value physical assets over speculative trends, despite the broader economic uncertainty.",
+  "art_insights": "The market is stabilizing. Collectors are prioritizing provenance and high-value physical assets over speculative trends, despite the broader economic uncertainty. Recent updates include a shift in art briefing format to include detailed news summaries and direct links.",
   "key_events": [
     "Market volatility: Iran conflict, inflation, Fed higher-for-longer signal",
     "Exhibition spotlight: Frida and Diego (MoMA), Monet/Venice (de Young), New Humans (New Museum)",
     "Art sector sentiment: Cautiously optimistic, focus on long-term value"
   ],
-  "last_update_note": "Automated sync: Market volatility vs. art market resilience."
+  "last_update_note": "Automated sync: Market update with Art Briefing format policy update."
 }
