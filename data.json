@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-03-21T13:40:00+09:00",
-  "market_summary": "Global markets continue to experience volatility. The art market remains resilient with a focus on 'flight to quality' assets. Today's major update involves a shift in our automated art briefing format to ensure more comprehensive coverage.",
+  "timestamp": "2026-03-21T13:50:00+09:00",
+  "market_summary": "Global markets continue to experience volatility. The art market remains resilient with a focus on 'flight to quality' assets.",
   "art_insights": "The market is stabilizing. Recent changes to our briefing protocols now mandate detailed news summaries, deeper market/exhibition insights, and direct links to source material, enhancing data transparency for investors.",
   "key_events": [
     "Market volatility: Iran conflict, inflation, Fed higher-for-longer signal",
     "Exhibition spotlight: Frida and Diego (MoMA), Monet/Venice (de Young), New Humans (New Museum)",
     "Protocol Update: New art briefing format mandates detailed news, deeper insights, and source links.",
-    "Log update: Medication log completed at 11:00 AM."
+    "Log update: Medication log completed at 11:00 AM.",
+    "Auto-sync completed at 1:50 PM."
   ],
-  "last_update_note": "Briefing protocol updated to include granular details and source links per 2026-03-21 directive."
+  "last_update_note": "Dashboard auto-sync successfully performed at 2026-03-21 13:50:00 KST."
 }
