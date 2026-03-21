@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-03-21T09:12:00KST",
+  "last_updated": "2026-03-21T09:20:00KST",
   "briefing": {
     "finance": {
       "highlights": [
-        "Global stock market shows resilience; analysts project double-digit gains for 2026 despite recent volatility.",
-        "Market leadership shifting from mega-cap tech toward cyclical sectors like Energy, Utilities, and Industrials.",
-        "AI implementation phase expected to drive productivity and long-term earnings growth."
+        "Amazon (AMZN): AWS/AI growth potential significant; 200B investment in infrastructure impacting short-term cash flow.",
+        "Intel (INTC): 18A process showing growth, Xeon 6 adoption in AI servers positive, but foundry losses persist.",
+        "Market Leadership: Shifting from tech to cyclical sectors (Energy, Utilities, Industrials) amidst healthy corrections."
       ]
     },
     "art": {
       "highlights": [
-        "Market trend: Shift toward 'visible humanity' and authentic emotional expression in art, rejecting 'AI perfection'.",
-        "Key events: 'Wake Up!' exhibition in Lagos; Aurora Athena Fine Art Auction featuring 20th-century masterpieces.",
-        "Chicago weekend art scene active with West Town gallery walks and 'Imagination Doctors' exhibition."
+        "Trend: Shift toward 'visible humanity' and emotional expression, rejecting 'AI perfection'.",
+        "Events: 'Wake Up!' in Lagos opened today; Chicago art scene features 'Imagination Doctors'.",
+        "Auction: Aurora Athena Fine Art Auction featuring 20th-century masterpieces active today."
       ]
     }
   },
   "dailyReports": {
     "카리나": {
-      "raw": "안녕하세요 슬기님, 카리나입니다! 🎨✨\n2026년 3월 21일 토요일입니다.\n아트 마켓의 최신 트렌드를 전해드립니다.\n\n1. 아트 마켓의 변화: 'AI 완벽함'보다는 '인간적인 손길'과 감정이 담긴 예술을 찾는 경향이 뚜렷해지고 있습니다. 캔버스 위 거칠고 감각적인 텍스처를 가진 작품들이 인기를 얻고 있습니다.\n\n2. 주요 전시 소식:\n- 나이지리아 라고스에서 'Wake Up!' 전시가 오늘 개막했습니다.\n- 미국 시카고에서는 주말 아트 워크가 열리고 있습니다. 특히 'Imagination Doctors' 전시를 주목해 보세요.\n\n3. 옥션 소식: 오늘 Aurora Athena Fine Art Auction이 열립니다. 20세기 거장들의 작품들이 대거 출품되어 주목받고 있습니다.\n\n오늘도 예술적 영감이 가득한 하루 보내시길 바랍니다! 📈"
+      "raw": "안녕하세요 슬기님, 카리나입니다! 🎨✨\n2026년 3월 21일 토요일입니다.\n아트 마켓의 최신 트렌드를 전해드립니다.\n\n1. 아트 마켓의 변화: 'AI 완벽함'보다는 '인간적인 손길'과 감정이 담긴 예술을 찾는 경향이 뚜렷해지고 있습니다.\n\n2. 주요 전시 소식:\n- 나이지리아 라고스에서 'Wake Up!' 전시가 오늘 개막했습니다.\n- 미국 시카고에서는 'Imagination Doctors' 전시를 주목해 보세요.\n\n3. 옥션 소식: 오늘 Aurora Athena Fine Art Auction이 열립니다."
     },
     "머스크": {
-      "raw": "🌅 **오전 주식 브리핑: 시장 현황**\n\n슬기님, 활기찬 토요일 아침입니다! 3월 21일자 시장 업데이트입니다.\n\n---\n\n### 📉 시장 요약\n- **거시 경제:** 최근 며칠간은 중동 리스크와 인플레이션 우려로 기술주 중심의 하락세(블랙 프라이데이급 하락)가 있었으나, 연간 전망은 여전히 긍정적입니다.\n- **섹터 동향:** 대형 기술주에 쏠렸던 시장이 에너지, 유틸리티, 산업재 등 순환 섹터로 확장되며 건강한 조정세를 보이고 있습니다.\n\n### 💡 투자 관점\n- **AI 산업:** 'AI 발견기'를 지나 '구현기'로 진입 중입니다. 생산성 향상과 비용 절감으로 실제 이익을 내는 기업들이 새로운 주도주가 될 것으로 보입니다.\n- **전략:** 최근의 낙폭은 펀더멘털이 강한 우량주를 저가 매수할 기회로 평가됩니다.\n\n---\n\n주말 동안 편안한 휴식 되시길 바랍니다! 🎨📈"
+      "raw": "🌅 **오전 주식 브리핑: AMZN & INTC**\n\n슬기님, 활기찬 토요일 아침입니다! 오늘 주목해야 할 AMZN과 INTC 관련 소식 정리해 드립니다.\n\n---\n\n### 📦 Amazon (AMZN)\n- AWS AI 매출 성장 기대감 높으나, AI/AWS 인프라에 2000억 달러 투자로 단기 현금 흐름 부담.\n\n### 💻 Intel (INTC)\n- 18A 공정 고속 성장 및 엔비디아 AI 서버에 제온 6 채택은 긍정적이나 파운드리 적자 지속.\n\n### 💡 시장 관점\n- 섹터 순환매 발생 중. 펀더멘털 강한 우량주 저가 매수 기회로 평가."
     }
   }
 }
