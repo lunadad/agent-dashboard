@@ -159,8 +159,58 @@ body {
   border-color: var(--accent);
   box-shadow: 0 0 0 1px var(--accent), 0 0 12px rgba(56,189,248,0.15);
 }
-.briefing-list .time { color: var(--accent2); font-size: 12px; margin-bottom: 4px; display: block; }
+.briefing-top-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.briefing-list .time { color: var(--accent2); font-size: 12px; display: block; }
 .briefing-list .headline { font-size: 13px; line-height: 1.45; }
+
+/* Briefing status badges */
+.briefing-badge {
+  font-size: 10px;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 2px 8px;
+  letter-spacing: 0.02em;
+}
+.briefing-badge.sent {
+  background: rgba(74, 222, 128, 0.15);
+  color: #4ade80;
+  border: 1px solid rgba(74, 222, 128, 0.3);
+}
+.briefing-badge.upcoming {
+  background: rgba(56, 189, 248, 0.15);
+  color: #38bdf8;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  animation: pulse-badge 2s ease-in-out infinite;
+}
+.briefing-badge.waiting {
+  background: rgba(148, 163, 184, 0.1);
+  color: var(--muted);
+  border: 1px solid rgba(148, 163, 184, 0.2);
+}
+@keyframes pulse-badge {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+body.light .briefing-badge.sent {
+  background: #f0fdf4;
+  color: #15803d;
+  border-color: #bbf7d0;
+}
+body.light .briefing-badge.upcoming {
+  background: #f0f9ff;
+  color: #0284c7;
+  border-color: #bae6fd;
+}
+body.light .briefing-badge.waiting {
+  background: #f8fafc;
+  color: #64748b;
+  border-color: #e2e8f0;
+}
 
 /* ── Main content ── */
 .main { padding: 24px; }

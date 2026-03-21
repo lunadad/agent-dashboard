@@ -273,26 +273,41 @@ function renderList(targetId, items) {
 
   items.forEach((b) => {
     const li = document.createElement("li");
+
+    // Top row: time + status badge
+    const topRow = document.createElement("div");
+    topRow.className = "briefing-top-row";
     const timeSpan = document.createElement("span");
     timeSpan.className = "time";
     timeSpan.textContent = b.time;
+    topRow.appendChild(timeSpan);
+
     const headlineDiv = document.createElement("div");
     headlineDiv.className = "headline";
     headlineDiv.textContent = b.headline;
-    li.appendChild(timeSpan);
-    li.appendChild(headlineDiv);
 
-    // Time-based highlighting
+    // Time-based highlighting + status badge
     if (targetId === "briefingList") {
       const bMin = timeToMinutes(b.time);
-      if (bMin < now) {
+      const badge = document.createElement("span");
+      if (bMin <= now) {
         li.classList.add("past");
+        badge.className = "briefing-badge sent";
+        badge.textContent = "발송완료";
       } else if (!nextFound) {
         li.classList.add("next");
+        badge.className = "briefing-badge upcoming";
+        badge.textContent = "다음 발송";
         nextFound = true;
+      } else {
+        badge.className = "briefing-badge waiting";
+        badge.textContent = "대기중";
       }
+      topRow.appendChild(badge);
     }
 
+    li.appendChild(topRow);
+    li.appendChild(headlineDiv);
     ul.appendChild(li);
   });
 }
@@ -799,6 +814,23 @@ function setupTokenSimulation() {
   setInterval(simulateTokenUsage, TOKEN_SIM_INTERVAL);
 }
 
+// ── Briefing & timeline time-based refresh ──
+
+let lastRefreshMinute = -1;
+
+function setupTimeRefresh() {
+  lastRefreshMinute = getNowMinutes();
+  setInterval(() => {
+    const now = getNowMinutes();
+    if (now !== lastRefreshMinute) {
+      lastRefreshMinute = now;
+      const q = document.getElementById("briefingSearch").value.trim().toLowerCase();
+      renderList("briefingList", getFilteredBriefings(q));
+      renderTimeline(state.timeline || []);
+    }
+  }, 15_000);
+}
+
 // ── Auto-refresh ──
 
 function setupAutoRefresh() {
@@ -859,6 +891,7 @@ function renderAll() {
   try {
     setupAutoRefresh();
     setupTokenSimulation();
+    setupTimeRefresh();
   } catch (err) {
     console.error("[Agent Dashboard] auto-refresh error:", err);
   }
