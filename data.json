@@ -1,27 +1,10 @@
 {
-  "last_updated": "2026-03-21T12:30:00KST",
-  "briefing": {
-    "finance": {
-      "highlights": [
-        "Global markets struggle with geopolitical tension (Iran conflict) and inflation.",
-        "S&P 500 down 1.51%, Dow down 0.96%, Nasdaq down 2.01% as of March 20 close.",
-        "Oil prices surging due to Middle East crisis; Fed maintains rates at 3.5%-3.75% with 'higher-for-longer' signal."
-      ]
-    },
-    "art": {
-      "highlights": [
-        "Frida and Diego: The Last Dream exhibition opens today at MoMA, NY.",
-        "Monet and Venice exhibition opens today at de Young Museum, San Francisco.",
-        "New Museum (NY) exhibition 'New Humans: Memories of the Future' features 200+ artists."
-      ]
-    }
-  },
-  "dailyReports": {
-    "카리나": {
-      "raw": "안녕하세요 슬기님, 카리나입니다! 🎨✨\n2026년 3월 21일 토요일입니다.\n아트 마켓의 최신 트렌드를 전해드립니다.\n\n1. 뉴욕 현대미술관(MoMA)에서 'Frida and Diego: The Last Dream' 전시가 오늘 개막했습니다.\n\n2. 샌프런시스코 de Young Museum에서는 'Monet and Venice' 전시가 시작되었습니다. 모네의 베니스 여행이 수련 연작에 미친 영향을 볼 수 있습니다.\n\n3. 그 외에도 뉴 뮤지엄의 'New Humans' 전시 등 대형 전시들이 활발합니다."
-    },
-    "머스크": {
-      "raw": "🌅 **오전 주식 브리핑: 시장 하락 및 지정학적 리스크**\n\n슬기님, 활기찬 토요일 아침입니다! 오늘 시장은 지정학적 긴장감으로 인해 무거운 분위기입니다.\n\n---\n\n### 📉 시장 상황\n- 이란 분쟁과 인플레이션 우려로 주요 지수 모두 하락 마감 (S&P 500 -1.51%).\n- 지정학적 리스크가 에너지 가격 상승을 견인 중.\n\n### 💡 시장 관점\n- 연준의 'Higher-for-longer' 기조 강화.\n- 시장 변동성이 큰 상황이므로 보수적인 포트폴리오 관리가 필요합니다."
-    }
-  }
+  "timestamp": "2026-03-21T12:40:00+09:00",
+  "market_summary": "Global stock markets faced a downturn on March 20 due to geopolitical tensions (Iran-Israel conflict) driving energy prices up and Fed interest rate concerns. However, the Art Market shows signs of recovery (up 4% in 2025), particularly at the ultra-high end.",
+  "art_insights": "The U.S. art market rebounded 23% in 2025. Focus remains on provenance and long-term significance over speculation.",
+  "key_events": [
+    "Fed holds rates at 3.5%-3.75%",
+    "Global Art Market value reached $59.6 billion in 2025",
+    "U.S. Art auction sales up 23% YoY"
+  ]
 }
