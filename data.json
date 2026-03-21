@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-03-21T13:00:00+09:00",
-  "market_summary": "Art market maintains steady growth (4% in 2025). High-end segment remains robust, while the mid-market is adjusting. Focus remains on provenance and long-term value.",
-  "art_insights": "The market is stabilizing post-volatility. Collectors are prioritizing quality and verified history over speculative trends. Current sentiment is cautiously optimistic with a preference for high-value physical assets.",
+  "timestamp": "2026-03-21T13:15:00+09:00",
+  "market_summary": "Global markets experiencing volatility due to Iran conflict, inflation, and Fed's hawkish stance. Conversely, the art market shows resilience with high-profile museum exhibitions (MoMA, de Young, New Museum) and a clear 'flight to quality' among collectors.",
+  "art_insights": "The market is stabilizing. Collectors are prioritizing provenance and high-value physical assets over speculative trends, despite the broader economic uncertainty.",
   "key_events": [
-    "Global art sales: $59.6 billion (+4%)",
-    "US market share: 44%",
-    "US auction activity: +23% in 2025",
-    "Market trend: Flight to quality and physical/hybrid experience"
+    "Market volatility: Iran conflict, inflation, Fed higher-for-longer signal",
+    "Exhibition spotlight: Frida and Diego (MoMA), Monet/Venice (de Young), New Humans (New Museum)",
+    "Art sector sentiment: Cautiously optimistic, focus on long-term value"
   ],
-  "last_update_note": "Synced with morning briefing context."
+  "last_update_note": "Automated sync: Market volatility vs. art market resilience."
 }
