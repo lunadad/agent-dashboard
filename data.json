@@ -1,7 +1,7 @@
 {
-  "lastUpdate": "2026-03-22T00:15:00+09:00",
+  "lastUpdate": "2026-03-22T00:30:00+09:00",
   "agent": "Karina",
   "status": "Karina news curation update active",
-  "latestInfo": "최근 24시간 동안 뉴스 큐레이션 전략 최신화: 최신 뉴스 우선순위 가중치 적용.",
+  "latestInfo": "최근 뉴스 큐레이션 우선순위 가중치 적용 확인 완료.",
   "note": "Dashboard data auto-synced via cron."
 }
