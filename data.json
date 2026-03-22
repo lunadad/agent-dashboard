@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-03-22T22:40:00+09:00",
+  "last_updated": "2026-03-22T22:50:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "March 22, 2026, concludes a significant transition week in Seoul's art calendar.",
+      "summary": "March 22, 2026, marks the end of a busy week in Seoul's art scene, with multiple significant exhibitions closing today.",
       "closing_today": [
         "Between Image & Reality (SeMA)",
         "DRAMA Drama (Mimesis Art Museum)",
@@ -19,12 +19,12 @@
       ]
     },
     "stock_market": {
-      "summary": "Market stable heading into Sunday night; focus shifting to Monday morning open.",
+      "summary": "Markets are closed for the weekend. Analyzing the previous week: The KOSPI closed at 5,781.20 on Friday (+0.31%). Sentiment remains cautious due to ongoing geopolitical risks and bubble concerns, with analysts emphasizing fundamental-driven earnings strategies for Monday's open.",
       "key_indicators": {
         "KOSPI_Status": "5,781.20 (March 20 close)",
-        "Market_Sentiment": "Cautious; pre-market assessment for Monday.",
-        "Key_Drivers": "Geopolitical monitoring, semiconductor outlook.",
-        "Outlook": "Anticipating Monday volatility."
+        "Market_Sentiment": "Cautious; monitoring geopolitical impact.",
+        "Key_Drivers": "Geopolitical risks, Q1 earnings focus, potential volatility.",
+        "Outlook": "Earnings-driven strategy recommended for Monday."
       }
     }
   }
