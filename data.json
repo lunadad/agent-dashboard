@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-03-23T03:50:00KST",
+  "last_updated": "2026-03-23T04:00:00KST",
   "briefing": {
     "arts": {
       "highlights": [
         "Seo Seoul Museum of Art opened March 12, focusing on new media art with free admission.",
         "Art Sonje Center's 'Spectrosynthesis Seoul' exhibition explores contemporary queer art.",
+        "Major retrospective of nonagenarian sculptor Kim Yun-shin at Hoam Museum of Art.",
         "'20!2026 Art Seoul' digital art exhibit active since March 16 with '80% guarantee' refund system."
       ]
     },
     "stocks": {
-      "market_sentiment": "Cautious; high volatility amid currency concerns.",
+      "market_sentiment": "Cautious; high volatility amid geopolitical tensions.",
       "key_events": [
-        "Won trading near 1,500 KRW/USD; investor caution high.",
-        "Semiconductor exports surged 175.9% (March 1-10), yet KOSPI/KOSDAQ volumes remain low.",
+        "Shareholders' meeting season starts this week; focus on minority shareholder influence.",
+        "Semiconductor exports surged in March; market navigates Middle East conflict risks.",
         "Goldman Sachs maintains optimistic year-end KOSPI target of 7,000, viewing recent drops as corrections."
       ]
     }
