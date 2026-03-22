@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T11:45:00+09:00",
+  "last_updated": "2026-03-22T11:50:00+09:00",
   "briefing": {
     "art": {
-      "summary": "Art Basel Hong Kong (March 27-29) is the upcoming focal point, featuring 240 galleries and a new 'Zero 10' digital/tech art sector. The global art market shows cautious optimism with 4% growth in 2025, driven by auction sales, though high-end segment volatility persists.",
-      "notable": "New 'Zero 10' and 'Echoes' sectors emphasize digital innovation and recent works; M+ Facade will feature Shahzia Sikander's '3 to 12 Nautical Miles'."
+      "summary": "As of March 22, 2026, the Outsider Art Fair in New York concludes, highlighting the late Sam Doyle. Several major exhibitions, including Jeff Wall at MOCA Toronto, also close today.",
+      "notable": "Sam Doyle's 'Dr. Bus Ha.Lo.' potentially set a new price record at $85,000. Attention is shifting to Art Basel Hong Kong (March 25-29) and upcoming exhibitions by Georg Baselitz."
     },
     "market": {
-      "summary": "Markets remain closed for the weekend. The S&P 500 and Nasdaq ended the week down due to geopolitical tensions and energy cost concerns.",
+      "summary": "Markets remain closed for the weekend after a fourth consecutive week of declines. Key indices, including the S&P 500 and Nasdaq, retreated amid geopolitical tensions and energy concerns.",
       "stats": {
-        "S&P500": "6506.48 (Closed)",
-        "Nasdaq": "21653.71 (Closed)",
-        "Outlook": "Volatility expected Monday; eyes on geopolitical stability and inflation indices."
+        "S&P500": "6506.54 (Closed)",
+        "Nasdaq": "21647.61 (Closed)",
+        "Outlook": "Volatility expected for Monday; market focus remains on Middle East developments and inflation indices."
       }
     }
   }
