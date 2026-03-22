@@ -1,15 +1,20 @@
 {
-  "last_updated": "2026-03-22T13:55:00+09:00",
+  "last_updated": "2026-03-22T14:00:00+09:00",
   "briefing": {
-    "art": {
-      "summary": "March 22, 2026: Art market shows cautious optimism following a 4% growth in 2025. Attention is on the ongoing Outsider Art Fair in New York and smaller premier auctions concluding today. Collectors continue to favor established, quality, and high-provenance works over contemporary speculative pieces.",
-      "notable": "U.S. art market leads with 44% share; buyers are risk-averse, pivoting toward Impressionist/Modern works; Outsider Art Fair highlights include record interest in Sam Doyle."
+    "art_market": {
+      "summary": "Korean art market showing cautious recovery and structural transformation.",
+      "key_events": [
+        "Korea Premier Auction Premium Online Auction (Mar 14-24, 2026)",
+        "Seoul Auction Contemporary Art Sale (ends Mar 31, 2026)",
+        "Digital innovation: '20!2026 Art Seoul' launched Mar 16."
+      ],
+      "outlook": "Increased online transaction trends led by younger collectors."
     },
-    "market": {
-      "summary": "Equities experienced a broad downturn for the week, with S&P 500 down 1.4%. Escalating geopolitical tensions in the Middle East and energy price disruptions are fueling volatility. Investors are favoring defensive cash positions amidst uncertainty.",
-      "stats": {
-        "S&P500": "Closing lower for the 4th consecutive week",
-        "Outlook": "Volatile, risk-off sentiment; geopolitical impact on oil prices is the primary driver."
+    "stock_market": {
+      "summary": "Korean stock market showing strong rebound after early March volatility.",
+      "key_indicators": {
+        "KOSPI": "Rebounded strongly mid-March, recovering from early month declines.",
+        "Outlook": "Goldman Sachs targets KOSPI at 7,000 for 2026."
       }
     }
   }
