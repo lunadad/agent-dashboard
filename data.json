@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-22T20:10:00+09:00",
+  "last_updated": "2026-03-22T20:20:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's 2026 art scene continues its 'golden year' with diverse institutional programming and high-profile exhibitions.",
+      "summary": "Seoul's 2026 art scene remains highly dynamic in late March with major institutional shows and new market initiatives.",
       "key_events": [
-        "Spectrosynthesis Seoul at Art Sonje Center: Examining LGBTQ+ practices in Seoul's cultural context (opened March 2026).",
+        "Spectrosynthesis Seoul at Art Sonje Center: Examining LGBTQ+ practices in Seoul's cultural context (opened March 20, 2026).",
         "Damien Hirst Retrospective at MMCA Seoul: Major career survey focusing on themes of life, death, and human desire.",
-        "Kim Yun-shin Retrospective at Hoam Museum: 70-year career retrospective running through June 28th.",
+        "New digital art initiative '20!2026 Art Seoul' launched (March 16) with an 80% buyback guarantee to lower entry barriers.",
         "March Avery: Form into Color at Esther Schipper (March 3 - April 25, 2026).",
         "10 YEARS at Perrotin Seoul (March 17 - May 2, 2026)."
       ],
-      "outlook": "Ongoing momentum with major museum openings slated for later in 2026, including Pompidou Center Hanwha Seoul."
+      "outlook": "Ongoing momentum with major museum openings and innovative digital platforms focused on market accessibility."
     },
     "stock_market": {
-      "summary": "Weekend update. KOSPI closed Friday, March 20 at 5,781.2 (+0.31%). The market remains volatile following significant fluctuations earlier in the month due to geopolitical risks.",
+      "summary": "KOSPI closed Friday, March 20 at 5,781.2 (+0.31%), buoyed by hopes regarding the Iran conflict resolution.",
       "key_indicators": {
-        "KOSPI_Status": "5,781.2 (March 20 close)",
-        "Market_Sentiment": "Cautiously optimistic but wary; high volatility (VKOSPI elevated).",
-        "Key_Drivers": "Geopolitical risks vs. semiconductor cycle; retail buying vs. foreign net-selling.",
-        "Outlook": "Monitoring stability amid US Fed hawkishness and energy-reliant economic sensitivity."
+        "KOSPI_Status": "5,781.2 (March 20 close, +0.31%)",
+        "Market_Sentiment": "Cautiously optimistic; volatility remains as investors watch geopolitical developments.",
+        "Key_Drivers": "Hopes for earlier-than-expected resolution of Iran conflict; semiconductor cycle performance.",
+        "Outlook": "Market focus remains on geopolitical stability and economic sensitivity to energy prices."
       }
     }
   }
