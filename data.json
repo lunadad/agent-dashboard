@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T11:25:00+09:00",
+  "last_updated": "2026-03-22T11:45:00+09:00",
   "briefing": {
     "art": {
-      "summary": "The art market shows cautious optimism following a 4% growth in 2025. Modern and Contemporary segments remain resilient. The upcoming Art Basel Hong Kong (March 27-29) is a key focus. Recent London auctions, including Christie's Modern British & Irish sale, showed strong sell-through rates.",
-      "notable": "Art Basel Hong Kong is the next major bellwether. Auction houses are focusing on quality and provenance in a selective market."
+      "summary": "Art Basel Hong Kong (March 27-29) is the upcoming focal point, featuring 240 galleries and a new 'Zero 10' digital/tech art sector. The global art market shows cautious optimism with 4% growth in 2025, driven by auction sales, though high-end segment volatility persists.",
+      "notable": "New 'Zero 10' and 'Echoes' sectors emphasize digital innovation and recent works; M+ Facade will feature Shahzia Sikander's '3 to 12 Nautical Miles'."
     },
     "market": {
-      "summary": "Markets are closed for the weekend. The week ending March 20 saw declines, with the S&P 500 falling 1.5% and Nasdaq 1.8% to six-month lows, driven by geopolitical tensions in the Middle East and rising energy costs.",
+      "summary": "Markets remain closed for the weekend. The S&P 500 and Nasdaq ended the week down due to geopolitical tensions and energy cost concerns.",
       "stats": {
         "S&P500": "6506.48 (Closed)",
         "Nasdaq": "21653.71 (Closed)",
-        "Outlook": "Volatile; markets are pricing in inflation risks and geopolitical instability ahead of Monday's open."
+        "Outlook": "Volatility expected Monday; eyes on geopolitical stability and inflation indices."
       }
     }
   }
