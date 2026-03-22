@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-03-22T19:20:00+09:00",
+  "last_updated": "2026-03-22T19:50:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene in late March 2026 continues to thrive with major institutional exhibitions and innovative market systems. The city is widely recognized as a major global art hub.",
+      "summary": "Seoul's 2026 art scene continues its 'golden year' with diverse institutional programming and high-profile exhibitions.",
       "key_events": [
-        "Spectrosynthesis Seoul at Art Sonje Center: Landmark large-scale exhibition of queer art (March 20 - June 28, 2026).",
-        "Damien Hirst Retrospective at MMCA Seoul: Major career survey focused on life/death themes.",
+        "Spectrosynthesis Seoul at Art Sonje Center: Examining LGBTQ+ practices in Seoul's cultural context (opened March 2026).",
+        "Damien Hirst Retrospective at MMCA Seoul: Major career survey focusing on themes of life, death, and human desire.",
         "Kim Yun-shin Retrospective at Hoam Museum: 70-year career retrospective running through June 28th.",
-        "20!2026 Art Seoul: Digital exhibition featuring an '80 percent guarantee' refund system to enhance collector trust."
+        "March Avery: Form into Color at Esther Schipper (March 3 - April 25, 2026).",
+        "10 YEARS at Perrotin Seoul (March 17 - May 2, 2026)."
       ],
-      "outlook": "Seoul solidifies its global position through diverse artistic expressions and new market-friendly accessibility initiatives."
+      "outlook": "Ongoing momentum with major museum openings slated for later in 2026, including Pompidou Center Hanwha Seoul."
     },
     "stock_market": {
-      "summary": "Market closed for the weekend. As of Friday, March 20, the KOSPI closed at 5,781.2 (up 0.31%), driven by hopes for de-escalating tensions in the Middle East.",
+      "summary": "Weekend update. KOSPI closed Friday, March 20 at 5,781.2 (+0.31%). The market remains volatile following significant fluctuations earlier in the month due to geopolitical risks.",
       "key_indicators": {
-        "KOSPI_Status": "5,781.2 (as of March 20th close)",
-        "Market_Sentiment": "Cautiously optimistic; rebound led by tech heavyweights (Samsung, SK hynix).",
-        "Key_Drivers": "Easing geopolitical risks vs. foreign net-selling pressure; semiconductor resilience.",
-        "Outlook": "Monitoring stability in the won-dollar exchange rate and upcoming earnings reports post-weekend."
+        "KOSPI_Status": "5,781.2 (March 20 close)",
+        "Market_Sentiment": "Cautiously optimistic but wary; high volatility (VKOSPI elevated).",
+        "Key_Drivers": "Geopolitical risks vs. semiconductor cycle; retail buying vs. foreign net-selling.",
+        "Outlook": "Monitoring stability amid US Fed hawkishness and energy-reliant economic sensitivity."
       }
     }
   }
