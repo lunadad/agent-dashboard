@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T04:30:00KST",
+  "last_updated": "2026-03-23T04:50:00KST",
   "briefing": {
     "arts": {
       "highlights": [
@@ -12,12 +12,13 @@
       ]
     },
     "stocks": {
-      "market_sentiment": "Bearish; defensive posturing as markets grapple with Iran war, oil price surge, and inflation concerns.",
+      "market_sentiment": "Cautious and bearish; markets are grappling with geopolitical tensions from the Iran conflict, leading to elevated energy prices and inflation concerns.",
       "key_events": [
-        "Global markets experiencing pullbacks; S&P 500 down 5% YTD.",
-        "Brent crude oil prices surged nearly 55% due to conflict; inflation worries rising.",
-        "Federal Reserve holds rates but warns of inflation outlook.",
-        "Investors moving to cash as a defensive allocation."
+        "Global markets showing cautious/negative sentiment due to Middle East conflict.",
+        "Brent crude oil prices around $119/barrel; WTI near $100.",
+        "Central banks (Fed, BoC) maintaining hawkish stance with steady rates.",
+        "Equities seeing sectoral rotation; investors moving to defensive sectors like consumer staples.",
+        "Upcoming economic data (flash PMIs, construction spending) to provide further outlook."
       ]
     }
   }
