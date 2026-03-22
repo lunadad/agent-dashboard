@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-03-23T05:00:00KST",
+  "last_updated": "2026-03-23T05:20:00KST",
   "briefing": {
     "arts": {
       "highlights": [
+        "Kim Yun-shin retrospective at Hoam Museum (March 17 - June 28).",
+        "Damien Hirst major survey at MMCA Seoul.",
+        "March Avery's first solo show at Esther Schipper Seoul.",
         "Spectrosynthesis Seoul at Art Sonje Center exploring queer art.",
-        "Kim Yun-shin retrospective at Hoam Museum.",
-        "Damien Hirst major survey at MMCA, Seoul.",
-        "Perrotin Seoul 10th anniversary group exhibition.",
-        "Seo-Seoul Museum of Art opening with media art focus.",
-        "20! 2026 Art Seoul: digital art exhibit with 80% guarantee system."
+        "Seo-Seoul Museum of Art (newly opened) focused on media art.",
+        "10 Years anniversary exhibition at Perrotin Seoul."
       ]
     },
     "stocks": {
-      "market_sentiment": "Bearish and cautious; markets reacting to escalating geopolitical tensions in the Middle East and rising energy prices.",
+      "market_sentiment": "High volatility and cautious; markets reeling from the U.S.-Iran conflict impacts.",
       "key_events": [
-        "Market sentiment remains heavily impacted by Middle East conflict and oil supply concerns.",
-        "Brent crude remains elevated around $119/barrel.",
-        "Shareholders' meeting season in full swing, influencing market volatility.",
-        "Investors favoring defensive sectors; caution regarding inflation-driven economic data."
+        "U.S.-Iran conflict driving 40% surge in oil prices ($103/bbl).",
+        "South Korea facing 'triple high' crisis: high oil, high inflation, weak won.",
+        "Government planning price caps and increased nuclear/coal power generation.",
+        "Investment banks like Goldman Sachs remain long-term bullish on KOSPI (7,000 target), citing semiconductor/AI super-cycle.",
+        "Legislative approval for $350B investment commitment to U.S. strategic sectors."
       ]
     }
   }
