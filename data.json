@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-22T18:20:00+09:00",
+  "last_updated": "2026-03-22T18:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene in late March 2026 remains steady. Landmark exhibitions and trust initiatives continue to drive engagement, with a cautious but positive outlook.",
+      "summary": "Seoul's art scene continues its trust-based transformation over the weekend. Major exhibitions maintain steady engagement with a focus on mid-tier accessibility.",
       "key_events": [
         "Spectrosynthesis Seoul at Art Sonje Center: Landmark large-scale exhibition of queer art opened March 20th.",
         "Kim Yun-shin Retrospective at Hoam Museum: Celebrating a 70-year career through June 28th.",
         "20!2026 Art Seoul: Digital exhibit featuring an '80 percent guarantee' refund system to boost buyer trust.",
         "New Openings: Seo Seoul Museum of Art (opened March 12th) and Damien Hirst Retrospective at MMCA."
       ],
-      "outlook": "Seoul is cementing its status as a major Asian art hub, driven by new media institutions and diversified collector interest."
+      "outlook": "Seoul continues to build its position as a major Asian art hub through institutional growth and diversified collector interest."
     },
     "stock_market": {
-      "summary": "The KOSPI market is currently closed for the weekend. As of the March 20th close, it sits at 5,781.2. The market remains highly volatile due to geopolitical risks, with individual investors buying heavily while foreign investors have been selling.",
+      "summary": "Market closed for the weekend. As of Friday close, KOSPI sits at 5,781.2. The market remains in a state of 'volatility-navigating' with strong semiconductor support holding the floor.",
       "key_indicators": {
         "KOSPI_Status": "5,781.2 (as of March 20th close)",
-        "Market_Sentiment": "Highly volatile; concerns over market overheating continue.",
-        "Key_Drivers": "Semiconductor strength vs. Middle East geopolitical risk; retail vs. foreign flow.",
-        "Outlook": "Market struggling to reclaim 6,000 points; analysts cite semiconductor potential and valuation for long-term growth despite record-level volatility."
+        "Market_Sentiment": "Weekend consolidation; Market stability maintained.",
+        "Key_Drivers": "Semiconductor strength vs. Middle East geopolitical risk; focus on Monday open.",
+        "Outlook": "Analysts monitor upcoming earnings; semiconductor potential remains the primary growth driver amidst macro-level volatility."
       }
     }
   }
