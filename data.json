@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-23T07:00:00+09:00",
+  "timestamp": "2026-03-23T07:10:00+09:00",
   "stock_market": {
-    "kospi_close": 5781.2,
-    "volatility_index": "high (>50)",
-    "market_sentiment": "volatile, high individual buying activity, record highs in late Feb, cooling in March",
-    "notes": "Goldman Sachs raised 2026 KOSPI target to 7,000; FSC proposing two-tier Kosdaq system."
+    "kospi_close": 5093.54,
+    "volatility_index": "high (historic volatility)",
+    "market_sentiment": "recovering from early March geopolitical sell-off, semiconductor focus",
+    "notes": "Market rebounding after record early-March drop due to Middle East conflict. KOSPI showed signs of recovery with a 5.15% gain on March 19."
   },
   "art_market": {
-    "korean_market_status": "contraction in 2025 (~USD 370M), but stable hub",
-    "notable_initiatives": "Frieze Seoul extended for 5 years; '20!2026 Art Seoul' digital exhibit launched with 80% guarantee system",
-    "trends": "Seoul and Singapore driving interest for younger collectors"
+    "korean_market_status": "innovative and active hub",
+    "notable_initiatives": "'20! 2026 Art Seoul' digital exhibit active since March 16 with 80% guarantee system",
+    "trends": "Damien Hirst retrospective at MMCA, Art Sonje Center 'Spectrosynthesis Seoul' exhibition ongoing"
   }
 }
