@@ -1,11 +1,11 @@
 {
   "date": "2026-03-23",
   "art_market": {
-    "summary": "Global art market grew 4% in 2025 to $59.6 billion. 2026 trends emphasize a return to materiality, accessible art for new collectors, and hybrid digital/physical exhibitions. Instagram remains a primary sales channel.",
-    "key_trends": ["Return to materiality", "Accessible/affordable art", "Hybrid art spaces"]
+    "summary": "Seoul's art market is experiencing a contraction, with a sharp drop in auction sales (approx. $42M in H1 2025) and gallery closures. However, new initiatives like '20!2026 Art Seoul' are launching to boost accessibility and trust through price transparency and guarantee systems.",
+    "key_trends": ["Market contraction", "Focus on accessibility/trust", "Digital/blockchain integration"]
   },
   "stock_market": {
-    "summary": "Market experiencing heightened volatility with fourth straight week of declines. Inflation concerns and energy price spikes (due to Iran tensions) are weighing heavily. AI sector shows mixed results.",
-    "key_drivers": ["Iran/geopolitical tensions", "Persistent inflation/delayed rate cuts", "AI stock divergence"]
+    "summary": "KOSPI faces high volatility due to geopolitical tensions in the Middle East and energy price shocks. While individual investors are buying, valuations remain attractive, and analysts like Goldman Sachs project recovery towards 7,000 points.",
+    "key_drivers": ["Geopolitical/Middle East risks", "Energy inflation", "Semiconductor sector optimism"]
   }
 }
