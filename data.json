@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T10:30:00+09:00",
+  "last_updated": "2026-03-22T10:40:00+09:00",
   "briefing": {
     "art": {
       "summary": "March 2026 is vibrant: major global exhibitions include the Whitney Biennial, The New Museum's 'New Humans', and the upcoming Raphael exhibition at The Met (March 29). The Art Basel and UBS Global Art Market Report 2026 reports a 4% market recovery, despite ongoing geopolitical headwinds.",
       "notable": "Art Basel Hong Kong is approaching (March 27-29), featuring major artist Shahzia Sikander's film on the M+ facade."
     },
     "market": {
-      "summary": "Equities face pressure from geopolitical tensions (Iran war) and surging oil prices. Markets have seen consecutive weekly declines with S&P 500 and Nasdaq hitting six-month lows. Energy remains the focus due to supply concerns.",
+      "summary": "Equities face pressure from geopolitical tensions (Iran war) and surging oil prices. Markets closed the week (March 20) with consecutive weekly declines. S&P 500 and Nasdaq hit significant lows amid supply concerns.",
       "stats": {
-        "S&P500": "6507.49 (-1.5%)",
+        "S&P500": "6506.48 (-1.5%)",
         "Nasdaq": "21653.71 (-1.98%)",
-        "Oil": "Brent ~$112/bbl, WTI ~$98/bbl"
+        "Oil": "Brent ~$112.19/bbl, WTI ~$98.32/bbl"
       }
     }
   }
