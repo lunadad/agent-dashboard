@@ -1,11 +1,11 @@
 {
   "date": "2026-03-23",
   "art_market": {
-    "summary": "Global art market grew 4% to $59.6 billion in 2025; US leads with 44% share. Market focus shifting to quality, physical presence, and historical stalwarts over rapid digital growth.",
-    "key_trends": ["Return to materiality", "Sustainability focus", "Gender representation improvement"]
+    "summary": "Global art market grew 4% in 2025 to $59.6 billion. 2026 trends emphasize a return to materiality, accessible art for new collectors, and hybrid digital/physical exhibitions. Instagram remains a primary sales channel.",
+    "key_trends": ["Return to materiality", "Accessible/affordable art", "Hybrid art spaces"]
   },
   "stock_market": {
-    "summary": "Market volatility driven by Iran conflict and inflation concerns. Rotation from mega-cap tech to stable sectors (staples, energy). Gold hitting record highs.",
-    "key_drivers": ["Iran conflict impact on energy", "Higher inflation, lower rate cut expectations", "AI implementation focus"]
+    "summary": "Market experiencing heightened volatility with fourth straight week of declines. Inflation concerns and energy price spikes (due to Iran tensions) are weighing heavily. AI sector shows mixed results.",
+    "key_drivers": ["Iran/geopolitical tensions", "Persistent inflation/delayed rate cuts", "AI stock divergence"]
   }
 }
