@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-03-23T00:35:00+09:00",
+  "last_updated": "2026-03-23T00:40:00+09:00",
   "briefing": {
     "art_market": {
       "summary": "Seoul's art market remains a vibrant hub in Asia, driven by new digital initiatives and major gallery exhibitions in late March 2026.",
       "new_exhibitions": [
         "20!2026 Art Seoul (Digital exhibit, launched March 16, aims to build market trust)",
-        "Perrotin Seoul: 10 YEARS (March 17–May 2, commemorating 10th anniversary)"
+        "Perrotin Seoul: 10 YEARS (March 17–May 2, commemorating 10th anniversary)",
+        "Damien Hirst exhibition (Opened March 23)"
       ],
       "ongoing": [
         "Kim Yun-shin Retrospective at Hoam Museum of Art (ongoing)",
@@ -13,7 +14,7 @@
       ]
     },
     "stock_market": {
-      "summary": "As of March 23, 2026, markets show cautious optimism after recent volatility. Goldman Sachs and Morgan Stanley remain bullish on long-term KOSPI potential (targets 7,000 / 6,500-7,500).",
+      "summary": "As of March 23, 2026, KOSPI closed at 5781.20. Goldman Sachs raised target. Markets show cautious optimism after recent volatility.",
       "key_indicators": {
         "KOSPI_Status": "Recent fluctuations; short-term correction anticipated in March with potential recovery in April.",
         "Market_Sentiment": "Cautiously optimistic; volatility monitoring continues.",
