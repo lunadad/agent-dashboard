@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-03-22T16:30:00+09:00",
+  "last_updated": "2026-03-22T16:50:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The Korean art market is undergoing structural transformation, shifting towards greater diversity and accessibility with increased participation from Millennial and Gen Z collectors. Mid-to-lower priced segments are currently more active than high-end transactions.",
+      "summary": "The Korean art market in late March 2026 shows cautious optimism, focusing on structural adaptation. Mid-tier market activity remains stable, with new digital trust initiatives (e.g., '20!2026 Art Seoul') gaining traction.",
       "key_events": [
-        "20!2026 Art Seoul: Digital exhibit focused on trust and accessibility with an '80% refund guarantee' system.",
-        "Major Exhibitions: Perrotin's '10 Years' (until May 2) and the upcoming MMCA Damien Hirst retrospective.",
-        "Upcoming: Galleries Art Fair (April 8-12) at COEX with record 169 galleries; Korean Cultural Center exhibition opening March 24."
+        "20!2026 Art Seoul: Digital exhibit launched March 16 with '80% refund guarantee' to boost trust.",
+        "Major Exhibitions: Kim Yun-shin retrospective at Hoam Museum, Damien Hirst at MMCA Seoul, Park Chan-kyong at Kukje Gallery.",
+        "Upcoming: Galleries Art Fair (April) remains a focal point for market sentiment."
       ],
-      "outlook": "Cautiously optimistic; focus on structural adaptation rather than immediate economic rebound."
+      "outlook": "Moderate recovery; selective strength in mid-range pricing."
     },
     "stock_market": {
-      "summary": "The KOSPI closed at 5,781.2 on March 20, 2026. Despite extreme volatility earlier in March due to geopolitical risks, the market shows underlying strength supported by semiconductor earnings and high corporate profit expectations for 2026.",
+      "summary": "The KOSPI is navigating volatility stemming from geopolitical tensions, closing at 5,781.2 on March 20. The semiconductor supercycle remains the primary growth driver.",
       "key_indicators": {
-        "KOSPI_Status": "Rallying from recent volatility; navigating geopolitical sensitivities.",
-        "Market_Sentiment": "Cautiously optimistic; concerns over overheating balanced by strong fundamentals.",
-        "Key_Drivers": "Semiconductor supercycle, strong corporate earnings (shipbuilding, defense), and domestic retail buying.",
-        "Outlook": "Potential for further upside; major brokerage targets (Goldman Sachs 7,000 / Morgan Stanley 6,500) suggest room for growth if fundamentals hold."
+        "KOSPI_Status": "Consolidating gains, resilient despite geopolitical headwinds.",
+        "Market_Sentiment": "Cautiously optimistic; volatility persists but fundamentals (semiconductors) remain strong.",
+        "Key_Drivers": "Semiconductor supercycle, institutional and foreign net buying, potential for Iran conflict de-escalation.",
+        "Outlook": "High volatility, but long-term potential supported by low valuation and earnings growth (Goldman Sachs target 7,000)."
       }
     }
   }
