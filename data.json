@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T11:10:00+09:00",
+  "last_updated": "2026-03-22T11:25:00+09:00",
   "briefing": {
     "art": {
-      "summary": "The art market in March 2026 shows cautious optimism, with a 4% global market growth in 2025. Auction results for March 2026 highlight robust performance in Modern and Contemporary segments. Impressionist and Modern works are seeing a strong rebound.",
-      "notable": "Art Basel Hong Kong is nearing (March 27-29), a critical bellwether for the Asian art market. Recent auction records at Swann Galleries and strong sell-through rates at Christie's (Modern British/Irish) set a positive tone for the spring season."
+      "summary": "The art market shows cautious optimism following a 4% growth in 2025. Modern and Contemporary segments remain resilient. The upcoming Art Basel Hong Kong (March 27-29) is a key focus. Recent London auctions, including Christie's Modern British & Irish sale, showed strong sell-through rates.",
+      "notable": "Art Basel Hong Kong is the next major bellwether. Auction houses are focusing on quality and provenance in a selective market."
     },
     "market": {
-      "summary": "Markets are currently closed for the weekend. The week ended with lingering geopolitical volatility affecting equity sentiment. Attention is shifting to stabilization strategies as inflation/oil prices remain key variables for the coming week.",
+      "summary": "Markets are closed for the weekend. The week ending March 20 saw declines, with the S&P 500 falling 1.5% and Nasdaq 1.8% to six-month lows, driven by geopolitical tensions in the Middle East and rising energy costs.",
       "stats": {
         "S&P500": "6506.48 (Closed)",
         "Nasdaq": "21653.71 (Closed)",
-        "Outlook": "Volatile but stabilizing; monitoring geopolitical developments for Monday open."
+        "Outlook": "Volatile; markets are pricing in inflation risks and geopolitical instability ahead of Monday's open."
       }
     }
   }
