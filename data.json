@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T10:20:00+09:00",
+  "last_updated": "2026-03-22T10:30:00+09:00",
   "briefing": {
     "art": {
-      "summary": "March 2026 features major global art events: V&A's 'Schiaparelli', Whitney Biennial 2026 focusing on AI, and the New Museum's 'New Humans'. Art Basel Hong Kong is approaching (March 27-29), while TEFAF Maastricht recently concluded.",
-      "notable": "Art Dubai 2026 rescheduled due to Iran War."
+      "summary": "March 2026 is vibrant: major global exhibitions include the Whitney Biennial, The New Museum's 'New Humans', and the upcoming Raphael exhibition at The Met (March 29). The Art Basel and UBS Global Art Market Report 2026 reports a 4% market recovery, despite ongoing geopolitical headwinds.",
+      "notable": "Art Basel Hong Kong is approaching (March 27-29), featuring major artist Shahzia Sikander's film on the M+ facade."
     },
     "market": {
-      "summary": "Markets are pressured by geopolitical tensions and AI disruption fears. The S&P 500 and Nasdaq saw declines, with tech and discretionary sectors under pressure. Energy remains a top performer due to rising oil prices.",
+      "summary": "Equities face pressure from geopolitical tensions (Iran war) and surging oil prices. Markets have seen consecutive weekly declines with S&P 500 and Nasdaq hitting six-month lows. Energy remains the focus due to supply concerns.",
       "stats": {
-        "S&P500": "6506.54 (-1.51%)",
-        "Nasdaq": "21647.61 (-2%)",
-        "Oil": "~$110/barrel"
+        "S&P500": "6507.49 (-1.5%)",
+        "Nasdaq": "21653.71 (-1.98%)",
+        "Oil": "Brent ~$112/bbl, WTI ~$98/bbl"
       }
     }
   }
