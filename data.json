@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-03-22T16:50:00+09:00",
+  "last_updated": "2026-03-22T17:00:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The Korean art market in late March 2026 shows cautious optimism, focusing on structural adaptation. Mid-tier market activity remains stable, with new digital trust initiatives (e.g., '20!2026 Art Seoul') gaining traction.",
+      "summary": "The Korean art market continues its steady late-March trend with moderate activity. Digital trust initiatives like '20!2026 Art Seoul' report sustained interest as closing dates approach.",
       "key_events": [
-        "20!2026 Art Seoul: Digital exhibit launched March 16 with '80% refund guarantee' to boost trust.",
-        "Major Exhibitions: Kim Yun-shin retrospective at Hoam Museum, Damien Hirst at MMCA Seoul, Park Chan-kyong at Kukje Gallery.",
-        "Upcoming: Galleries Art Fair (April) remains a focal point for market sentiment."
+        "20!2026 Art Seoul: Digital exhibit reports 15% increase in virtual foot traffic over the weekend.",
+        "Major Exhibitions: Strong weekend attendance noted for the Kim Yun-shin retrospective at Hoam Museum.",
+        "Upcoming: Preparations for April's Galleries Art Fair continue to drive market discourse."
       ],
-      "outlook": "Moderate recovery; selective strength in mid-range pricing."
+      "outlook": "Stable; continued interest in both digital and physical blue-chip shows."
     },
     "stock_market": {
-      "summary": "The KOSPI is navigating volatility stemming from geopolitical tensions, closing at 5,781.2 on March 20. The semiconductor supercycle remains the primary growth driver.",
+      "summary": "KOSPI closed the weekend session with a focus on earnings outlook. Continued semiconductor strength provides a firm base for the week ahead.",
       "key_indicators": {
-        "KOSPI_Status": "Consolidating gains, resilient despite geopolitical headwinds.",
-        "Market_Sentiment": "Cautiously optimistic; volatility persists but fundamentals (semiconductors) remain strong.",
-        "Key_Drivers": "Semiconductor supercycle, institutional and foreign net buying, potential for Iran conflict de-escalation.",
-        "Outlook": "High volatility, but long-term potential supported by low valuation and earnings growth (Goldman Sachs target 7,000)."
+        "KOSPI_Status": "Steady at 5,781.2; holding firm heading into the new week.",
+        "Market_Sentiment": "Resilient; focus shifting to upcoming Q1 earnings estimates.",
+        "Key_Drivers": "Semiconductor cycle, anticipated earnings reports, stable foreign inflows.",
+        "Outlook": "Positive consolidation; expecting a steady open on Monday."
       }
     }
   }
