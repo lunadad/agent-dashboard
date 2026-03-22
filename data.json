@@ -1,28 +1,20 @@
 {
-  "last_updated": "2026-03-23T01:50:00+09:00",
+  "last_updated": "2026-03-23T02:00:00KST",
   "briefing": {
-    "art_market": {
-      "summary": "Seoul's art scene in March 2026 is vibrant with major institutional showcases, including landmark queer art exhibitions and retrospectives. The city is increasingly recognized as a key global art hub.",
-      "new_exhibitions": [
-        "Spectrosynthesis Seoul (Art Sonje Center, Mar 20 - Jun 28) - Landmark queer art exhibition",
-        "Damien Hirst Retrospective (MMCA Seoul, Opened Mar 2026)",
-        "Kim Yun-shin Retrospective (Hoam Museum of Art, Mar 17 - Jun 28)",
-        "Seo-Seoul Museum of Art Inaugural Exhibitions (Opened Mar 2026)",
-        "20! 2026 Art Seoul (Digital exhibit, Mar 16 - Apr 13)"
-      ],
-      "ongoing": [
-        "Seosomun Main Branch exhibitions (PROXIMITIES, Han Unsung Collection - through late Mar)",
-        "Buk-Seoul Museum of Art showcases (Unfinished Flora, Electric Shock - through late Mar)"
+    "arts": {
+      "highlights": [
+        "Habitat for Humanity 50th-anniversary art installation 'Let's Open the Door' debuts in Washington Square Park (March 23-24).",
+        "Zheng Mahler: 'Mushroom Clouds' exhibition opens at PHD Group, Hong Kong.",
+        "University of Nevada students recognized at American College Theatre Festival."
       ]
     },
-    "stock_market": {
-      "summary": "As of late March 2026, the KOSPI is experiencing a 'seesaw battle' driven by semiconductor/AI sector strength versus geopolitical tensions in the Middle East. While volatile, long-term outlooks from major institutions remain optimistic.",
-      "key_indicators": {
-        "KOSPI_Status": "Resilient following a mid-month rebound; psychological 5,600 level tested.",
-        "Market_Sentiment": "Cautiously optimistic; technology sector dominance helps absorb geopolitical shocks.",
-        "Key_Drivers": "AI/Memory chip super-cycle (Samsung, SK Hynix), geopolitical risk/oil price fluctuations, foreign investor interest.",
-        "Outlook": "Analysts remain positive with year-end targets ranging from 6,500 to 7,500."
-      }
+    "stocks": {
+      "market_sentiment": "Bearish; S&P 500 closed below its 200-day moving average.",
+      "key_events": [
+        "Navigator Gas (NVGS) secondary offering of 8M shares at $17.50 closes.",
+        "Investors watching: Reliance, Mahindra Holidays, Tata Steel.",
+        "Concerns regarding inflation and Middle East conflict influencing oil prices."
+      ]
     }
   }
 }
