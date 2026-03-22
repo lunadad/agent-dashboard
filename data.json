@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-22T11:00:00+09:00",
+  "last_updated": "2026-03-22T11:10:00+09:00",
   "briefing": {
     "art": {
-      "summary": "March 2026 is vibrant: major global exhibitions include the Whitney Biennial, The New Museum's 'New Humans', and the upcoming Raphael exhibition at The Met (March 29). The Art Basel and UBS Global Art Market Report 2026 reports a 4% market recovery, despite ongoing geopolitical headwinds.",
-      "notable": "Art Basel Hong Kong is approaching (March 27-29), featuring major artist Shahzia Sikander's film on the M+ facade."
+      "summary": "The art market in March 2026 shows cautious optimism, with a 4% global market growth in 2025. Auction results for March 2026 highlight robust performance in Modern and Contemporary segments. Impressionist and Modern works are seeing a strong rebound.",
+      "notable": "Art Basel Hong Kong is nearing (March 27-29), a critical bellwether for the Asian art market. Recent auction records at Swann Galleries and strong sell-through rates at Christie's (Modern British/Irish) set a positive tone for the spring season."
     },
     "market": {
-      "summary": "Equities face pressure from geopolitical tensions (Iran war) and surging oil prices. Markets closed the week (March 20) with consecutive weekly declines. S&P 500 and Nasdaq hit significant lows amid supply concerns.",
+      "summary": "Markets are currently closed for the weekend. The week ended with lingering geopolitical volatility affecting equity sentiment. Attention is shifting to stabilization strategies as inflation/oil prices remain key variables for the coming week.",
       "stats": {
-        "S&P500": "6506.48 (-1.5%)",
-        "Nasdaq": "21653.71 (-1.98%)",
-        "Oil": "Brent ~$112.19/bbl, WTI ~$98.32/bbl"
+        "S&P500": "6506.48 (Closed)",
+        "Nasdaq": "21653.71 (Closed)",
+        "Outlook": "Volatile but stabilizing; monitoring geopolitical developments for Monday open."
       }
     }
   }
