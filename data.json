@@ -1,29 +1,30 @@
 {
-  "last_updated": "2026-03-22T21:20:00+09:00",
+  "last_updated": "2026-03-22T21:45:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Several major exhibitions conclude today, March 22, 2026, marking a transition point in Seoul's exhibition calendar.",
+      "summary": "March 22, 2026, marks a significant transition in Seoul's art calendar with numerous major exhibitions concluding today.",
       "closing_today": [
         "Between Image & Reality (SeMA)",
-        "Electric Shock (Buk-Seoul Museum of Art)",
-        "Artist Research: Unfinished Flora & Time Blooms (Buk-Seoul Museum of Art)",
         "DRAMA Drama (Mimesis Art Museum)",
-        "Klimt and Ricci Oddi Miracle (The My Art Museum)"
+        "My Very Favorite - Thousand-Character Classic (Seoul Calligraphy Art Museum)",
+        "Klimt and Ricci Oddi Miracle (The My Art Museum)",
+        "Electric Shock (SeMA)",
+        "Artist Research: Unfinished Flora & Time Blooms (SeMA)"
       ],
       "ongoing": [
         "Spectrosynthesis Seoul at Art Sonje Center (until June 28)",
-        "Kim Yun Shin: Two Be One at Hoam Museum of Art (until June 28)",
-        "Damien Hirst Retrospective at MMCA Seoul (Ongoing)",
-        "Park Chan-kyong: Zen Master Eyeball at Kukje Gallery (until May 10)"
+        "Form into Color by March Avery at Esther Schipper (until April 25)",
+        "10 Years at Perrotin Seoul (until May 2)",
+        "Damien Hirst Retrospective at MMCA Seoul (Ongoing)"
       ]
     },
     "stock_market": {
-      "summary": "The KOSPI market closed at 5,781.20 on Friday, March 20, 2026. Markets are currently closed for the weekend. The Financial Services Commission (FSC) announced plans to split the Kosdaq into two tiers to enhance efficiency.",
+      "summary": "KOSPI closed at 5,781.2 on Friday, March 20, 2026. The market is currently experiencing high volatility following recent geopolitical events and record fluctuations in early March.",
       "key_indicators": {
         "KOSPI_Status": "5,781.20 (March 20 close)",
-        "Market_Sentiment": "High volatility, concerns of bubble formation post-year-long rally.",
-        "Key_Drivers": "Retail investor dominance vs. foreign offloading, geopolitical tensions, and potential Kosdaq restructuring.",
-        "Outlook": "Analysts advise caution due to ongoing high volatility and geopolitical risks."
+        "Market_Sentiment": "Cautious; lingering concerns over volatility and valuation.",
+        "Key_Drivers": "Geopolitical risks, foreign vs. retail investor divergence, and semiconductor sector performance.",
+        "Outlook": "Market focus remains on navigating volatility while assessing long-term valuation sustainability."
       }
     }
   }
