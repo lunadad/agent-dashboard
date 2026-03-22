@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-03-22T17:10:00+09:00",
+  "last_updated": "2026-03-22T17:40:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene in late March 2026 is exceptionally vibrant, marked by landmark exhibitions and digital innovation.",
+      "summary": "Seoul's art scene in late March 2026 remains steady. Landmark exhibitions and trust initiatives continue to drive engagement, with a cautious but positive outlook.",
       "key_events": [
         "Spectrosynthesis Seoul at Art Sonje Center: Landmark large-scale exhibition of queer art opened March 20th.",
         "Kim Yun-shin Retrospective at Hoam Museum: Celebrating a 70-year career through June 28th.",
@@ -12,9 +12,9 @@
       "outlook": "Seoul is cementing its status as a major Asian art hub, driven by new media institutions and diversified collector interest."
     },
     "stock_market": {
-      "summary": "KOSPI closed at 5,781.2 on March 22, 2026, showing significant yearly gains but battling recent volatility and concerns over valuation.",
+      "summary": "KOSPI is holding firm on semiconductor strength. Weekend update indicates market stability amidst recent volatility.",
       "key_indicators": {
-        "KOSPI_Status": "5,781.2; struggling to reclaim 6,000 after March volatility.",
+        "KOSPI_Status": "5,781.2; holding firm with strong semiconductor support.",
         "Market_Sentiment": "Cautious; market showing signs of overheating and heightened volatility following recent geopolitical events.",
         "Key_Drivers": "Geopolitical risks (US-Israel-Iran tension), semiconductor sector performance, and divergent buying patterns between retail and foreign investors.",
         "Outlook": "Volatility expected to persist as the market reconciles record yearly growth with recent corrections and bubble concerns."
