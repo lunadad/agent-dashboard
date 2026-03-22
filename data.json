@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-22T20:20:00+09:00",
+  "last_updated": "2026-03-22T20:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's 2026 art scene remains highly dynamic in late March with major institutional shows and new market initiatives.",
+      "summary": "Seoul's art scene continues its 'golden age' in late March 2026 with high institutional activity and new market-access initiatives.",
       "key_events": [
-        "Spectrosynthesis Seoul at Art Sonje Center: Examining LGBTQ+ practices in Seoul's cultural context (opened March 20, 2026).",
-        "Damien Hirst Retrospective at MMCA Seoul: Major career survey focusing on themes of life, death, and human desire.",
-        "New digital art initiative '20!2026 Art Seoul' launched (March 16) with an 80% buyback guarantee to lower entry barriers.",
-        "March Avery: Form into Color at Esther Schipper (March 3 - April 25, 2026).",
-        "10 YEARS at Perrotin Seoul (March 17 - May 2, 2026)."
+        "Spectrosynthesis Seoul at Art Sonje Center: Groundbreaking exhibition of queer art (opened March 20, 2026).",
+        "Kim Yun-shin Retrospective at Hoam Museum of Art: Major survey for the nonagenarian sculptor (opened March 17).",
+        "MMCA Seoul: Large-scale Damien Hirst retrospective continues.",
+        "Seo Seoul Museum of Art: New inauguration (March 12) featuring multiple special exhibitions like 'Breath' and 'Our Time Begins Here'.",
+        "20!2026 Art Seoul: Ongoing digital art initiative aiming to improve trust and accessibility in the market."
       ],
-      "outlook": "Ongoing momentum with major museum openings and innovative digital platforms focused on market accessibility."
+      "outlook": "Robust cultural programming across major museums reinforces Seoul's standing as a leading global art hub."
     },
     "stock_market": {
-      "summary": "KOSPI closed Friday, March 20 at 5,781.2 (+0.31%), buoyed by hopes regarding the Iran conflict resolution.",
+      "summary": "KOSPI closed at 5,781.20 as of March 20, 2026. Market remains cautiously optimistic amid geopolitical watch.",
       "key_indicators": {
-        "KOSPI_Status": "5,781.2 (March 20 close, +0.31%)",
-        "Market_Sentiment": "Cautiously optimistic; volatility remains as investors watch geopolitical developments.",
-        "Key_Drivers": "Hopes for earlier-than-expected resolution of Iran conflict; semiconductor cycle performance.",
-        "Outlook": "Market focus remains on geopolitical stability and economic sensitivity to energy prices."
+        "KOSPI_Status": "5,781.20 (March 20 close)",
+        "Market_Sentiment": "Cautiously optimistic; volatility persists.",
+        "Key_Drivers": "Global energy price sensitivities and geopolitical developments.",
+        "Outlook": "Focus remains on economic stability indicators and semiconductor sector performance."
       }
     }
   }
