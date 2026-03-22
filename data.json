@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-03-22T20:30:00+09:00",
+  "last_updated": "2026-03-22T20:40:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene continues its 'golden age' in late March 2026 with high institutional activity and new market-access initiatives.",
+      "summary": "Seoul's art scene remains highly active with landmark exhibitions defining late March 2026.",
       "key_events": [
-        "Spectrosynthesis Seoul at Art Sonje Center: Groundbreaking exhibition of queer art (opened March 20, 2026).",
-        "Kim Yun-shin Retrospective at Hoam Museum of Art: Major survey for the nonagenarian sculptor (opened March 17).",
-        "MMCA Seoul: Large-scale Damien Hirst retrospective continues.",
-        "Seo Seoul Museum of Art: New inauguration (March 12) featuring multiple special exhibitions like 'Breath' and 'Our Time Begins Here'.",
-        "20!2026 Art Seoul: Ongoing digital art initiative aiming to improve trust and accessibility in the market."
+        "Spectrosynthesis Seoul at Art Sonje Center: Groundbreaking exhibition of queer art (opened March 20).",
+        "Kim Yun Shin: Two Be One at Hoam Museum of Art: Major retrospective for the 92-year-old sculptor (opened March 17).",
+        "Seoul Museum of Art (SeMA): Ongoing exhibitions including 'Where Beings Be' and new inaugural programming at the Seo-Seoul branch.",
+        "Upcoming: Centre Pompidou Hanwha Seoul scheduled for May 2026; Damien Hirst retrospective at MMCA."
       ],
-      "outlook": "Robust cultural programming across major museums reinforces Seoul's standing as a leading global art hub."
+      "outlook": "Strong institutional programming continues to solidify Seoul's status as a major global art destination."
     },
     "stock_market": {
-      "summary": "KOSPI closed at 5,781.20 as of March 20, 2026. Market remains cautiously optimistic amid geopolitical watch.",
+      "summary": "KOSPI closed at 5,781.20 as of March 20, 2026, marking a 0.31% gain amid hopes for regional geopolitical stabilization.",
       "key_indicators": {
         "KOSPI_Status": "5,781.20 (March 20 close)",
-        "Market_Sentiment": "Cautiously optimistic; volatility persists.",
-        "Key_Drivers": "Global energy price sensitivities and geopolitical developments.",
-        "Outlook": "Focus remains on economic stability indicators and semiconductor sector performance."
+        "Market_Sentiment": "Cautiously optimistic following recent rebound.",
+        "Key_Drivers": "Geopolitical developments concerning the Iran conflict and foreign investor activity.",
+        "Outlook": "Investors remain focused on external geopolitical stability indicators and semiconductor sector performance."
       }
     }
   }
