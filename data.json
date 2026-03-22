@@ -1,26 +1,27 @@
 {
-  "last_updated": "2026-03-23T01:20:00+09:00",
+  "last_updated": "2026-03-23T01:35:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene in late March 2026 is vibrant with significant exhibitions, including retrospectives and institutional queer art showcases. The market is showing resilience and structural adaptation, with new digital platforms emphasizing transparency.",
+      "summary": "Seoul's art scene in March 2026 is vibrant with major institutional showcases, including landmark queer art exhibitions and retrospectives. The city is increasingly recognized as a key global art hub.",
       "new_exhibitions": [
-        "Kim Yun-shin Retrospective (Hoam Museum, Mar 17 - Jun 28)",
-        "Spectrosynthesis Seoul (Art Sonje Center, Mar 20 - Jun 28)",
+        "Spectrosynthesis Seoul (Art Sonje Center, Mar 20 - Jun 28) - Landmark queer art exhibition",
         "Damien Hirst Retrospective (MMCA Seoul, Opened Mar 2026)",
-        "20!2026 Art Seoul (Digital exhibit, Opened Mar 16)"
+        "Kim Yun-shin Retrospective (Hoam Museum of Art, Mar 17 - Jun 28)",
+        "Seo-Seoul Museum of Art Inaugural Exhibitions (Opened Mar 2026)",
+        "20! 2026 Art Seoul (Digital exhibit, Mar 16 - Apr 13)"
       ],
       "ongoing": [
-        "Jae-Eun Choi : Where Beings Be (Seosomun Main Branch, until Apr 5)",
-        "March Avery: Form into Color (Esther Schipper, until Apr 25)"
+        "Seosomun Main Branch exhibitions (PROXIMITIES, Han Unsung Collection - through late Mar)",
+        "Buk-Seoul Museum of Art showcases (Unfinished Flora, Electric Shock - through late Mar)"
       ]
     },
     "stock_market": {
-      "summary": "As of March 23, 2026, the KOSPI is anticipated to face volatility due to geopolitical tensions and the start of the shareholder meeting season. Analysts project a weekly band of 5,500-6,100 points.",
+      "summary": "As of late March 2026, the KOSPI is experiencing a 'seesaw battle' driven by semiconductor/AI sector strength versus geopolitical tensions in the Middle East. While volatile, long-term outlooks from major institutions remain optimistic.",
       "key_indicators": {
-        "KOSPI_Status": "Opening to volatility due to geopolitical tensions (Middle East) and oil price fluctuations.",
-        "Market_Sentiment": "Cautiously resilient; recovering from recent pressure.",
-        "Key_Drivers": "Semiconductor rebound (Samsung, SK Hynix), start of annual shareholder meeting season, potential U.S. Federal Reserve policy shifts.",
-        "Outlook": "Focus on shareholder returns and Q1 earnings expectations amidst 5,500-6,100 point band."
+        "KOSPI_Status": "Resilient following a mid-month rebound; psychological 5,600 level tested.",
+        "Market_Sentiment": "Cautiously optimistic; technology sector dominance helps absorb geopolitical shocks.",
+        "Key_Drivers": "AI/Memory chip super-cycle (Samsung, SK Hynix), geopolitical risk/oil price fluctuations, foreign investor interest.",
+        "Outlook": "Analysts remain positive with year-end targets ranging from 6,500 to 7,500."
       }
     }
   }
