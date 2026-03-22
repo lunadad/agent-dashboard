@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-03-23T02:40:00KST",
+  "last_updated": "2026-03-23T02:50:00KST",
   "briefing": {
     "arts": {
       "highlights": [
-        "Habitat for Humanity 50th-anniversary art installation 'Let's Open the Door' debuts in Washington Square Park (March 23-24).",
-        "Zheng Mahler: 'Mushroom Clouds' exhibition opens at M+ Facade, Hong Kong (March 23 - June 21).",
-        "Traverse City arts scene features 'We Will Not Whisper' and new acquisitions at the Dennos Museum."
+        "Korea's pavilion for the 61st Venice Biennale (May 9-Nov 22) theme announced as 'Liberation Space: Fortress and Nest'.",
+        "Amorepacific Museum of Art schedules Jonas Wood (Sept) and special collection exhibitions.",
+        "Art Korea Lab recruiting artists for Australia's 'Now or Never' festival until March 23."
       ]
     },
     "stocks": {
-      "market_sentiment": "Cautious; influenced by Middle East conflict, elevated energy prices, and U.S. Fed policy.",
+      "market_sentiment": "Volatile; influenced by new BOK leadership and semiconductor dependence.",
       "key_events": [
-        "KOSPI expected to fluctuate due to geopolitical risks; focus on energy prices.",
-        "South Korea FSC proposes two-tier 'premium/standard' restructuring for KOSDAQ.",
-        "U.S. Federal Reserve hawkish stance dampening rate cut expectations."
+        "Shin Hyun-song appointed Bank of Korea head, promising 'balanced' policy.",
+        "Goldman Sachs sets year-end 2026 Kospi target at 7,000 despite current volatility.",
+        "FSC proposing two-tier Kosdaq restructuring; mixed market reaction."
       ]
     }
   }
