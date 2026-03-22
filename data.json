@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-03-22T15:00:00+09:00",
+  "last_updated": "2026-03-22T15:20:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The Korean art market in March 2026 is focusing on accessibility and cautious recovery. Digital exhibits like '20!2026 Art Seoul' are implementing refund guarantees to build trust.",
+      "summary": "The Korean art market continues its cautious recovery, focusing on accessibility and trust. Digital exhibitions like '20!2026 Art Seoul' are highlighting the trend towards mid-segment engagement.",
       "key_events": [
-        "20!2026 Art Seoul: Launched March 16 with an 80% refund guarantee.",
-        "Market Trend: Global art sales recovered by 4% but domestic sentiment remains cautious with polarization in high-end segments.",
-        "Upcoming: Continued co-scheduling of Kiaf Seoul and Frieze Seoul."
+        "20!2026 Art Seoul: Continued focus on refund guarantees.",
+        "Market Trend: Resilience in mid-tier segments despite overall caution.",
+        "Ongoing: Institutional retrospectives remain a primary driver."
       ],
-      "outlook": "Structural transformation towards mid/low-priced segment activity."
+      "outlook": "Steady transformation towards accessible/trust-based models."
     },
     "stock_market": {
-      "summary": "KOSPI experienced significant volatility in early March 2026 due to Middle East conflict, but is showing resilience and recovery potential.",
+      "summary": "KOSPI remains in a state of 'stable resilience'. Investor sentiment is cautiously optimistic as semiconductor demand holds up against global geopolitical volatility.",
       "key_indicators": {
-        "KOSPI": "Volatile; record drop on March 4 followed by strong rebounds. Closing around 5,583 mid-month.",
-        "Drivers": "Semiconductor demand (Samsung Electronics/SK Hynix) and strong earnings forecasts (130% projected for 2026).",
-        "Outlook": "Goldman Sachs maintains 7,000 year-end target despite near-term geopolitical risks."
+        "KOSPI": "Stable; holding levels around 5,580-5,600 range.",
+        "Drivers": "Focus remains on corporate earnings forecasts for Q2 2026.",
+        "Outlook": "Market consolidating; waiting for further guidance on interest rate policy."
       }
     }
   }
