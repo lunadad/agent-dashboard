@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-22T14:20:00+09:00",
+  "last_updated": "2026-03-22T14:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Korean art market continues to see digital innovation and museum blockbusters in March 2026.",
+      "summary": "Korean art market in March 2026 is undergoing a qualitative transformation with a focus on trust, discernment, and accessibility over volume.",
       "key_events": [
-        "20! 2026 Art Seoul launched Mar 16, introducing 80% refund guarantee system.",
-        "Major exhibitions: Kim Yun-shin at Hoam Museum, Yoo Young-kuk at SeMA, Damien Hirst at MMCA.",
-        "Ongoing March auctions featuring modern and contemporary works."
+        "20! 2026 Art Seoul: Digital exhibit with 80% refund guarantee system launched March 16.",
+        "Major Exhibitions: Damien Hirst retrospective at MMCA Seoul; Kim Yun-shin retrospective at Hoam Museum.",
+        "Ongoing focus on transparency and blockchain authentication."
       ],
-      "outlook": "Focus on enhancing trust, accessibility, and transparency remains key."
+      "outlook": "Cautious adjustment; market prioritizes works with rarity and clear provenance."
     },
     "stock_market": {
-      "summary": "Korean stock market facing high volatility and sharp declines in March 2026 due to geopolitical tensions.",
+      "summary": "KOSPI rebounding strongly following early March sell-off driven by geopolitical tensions; Goldman Sachs maintains optimistic outlook.",
       "key_indicators": {
-        "KOSPI": "Significant downturns mid-March; volatility persists amid U.S.-Iran conflict risks.",
-        "Outlook": "Analysts advise caution; Goldman Sachs maintains a long-term target of 7,000 despite near-term headwinds."
+        "KOSPI": "Rebounding after correcting 20% from February highs; target raised to 7,000 by Goldman Sachs.",
+        "Outlook": "Earnings growth forecast revised up to 130%; semiconductor sector remains a strong driver."
       }
     }
   }
