@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-23T07:20:00+09:00",
+  "timestamp": "2026-03-23T07:30:00+09:00",
   "stock_market": {
-    "kospi_close": 5093.54,
-    "volatility_index": "high (historic volatility)",
-    "market_sentiment": "recovering from early March geopolitical sell-off, semiconductor focus",
-    "notes": "Market rebounding after record early-March drop due to Middle East conflict. KOSPI showed signs of recovery with a 5.15% gain on March 19."
+    "kospi_close": 5781.2,
+    "volatility_index": "high (VKOSPI above 50, record peak 81.99)",
+    "market_sentiment": "volatile recovery, sensitive to Middle East geopolitics",
+    "notes": "KOSPI faces pressure from Middle East conflicts and Fed hawkishness, despite semiconductor strength."
   },
   "art_market": {
     "korean_market_status": "innovative and active hub",
-    "notable_initiatives": "'20! 2026 Art Seoul' digital exhibit active since March 16 with 80% guarantee system",
-    "trends": "Damien Hirst retrospective at MMCA, Art Sonje Center 'Spectrosynthesis Seoul' exhibition ongoing"
+    "notable_initiatives": "'20! 2026 Art Seoul' digital exhibit active, Art Sonje Center ongoing",
+    "trends": "Damien Hirst retrospective at MMCA, focus on digital/guarantee systems"
   }
 }
