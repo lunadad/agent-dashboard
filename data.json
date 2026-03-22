@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-03-23T05:30:00KST",
+  "last_updated": "2026-03-23T05:40:00KST",
   "briefing": {
     "arts": {
       "highlights": [
         "Kim Yun-shin retrospective at Hoam Museum (March 17 - June 28).",
-        "Damien Hirst major survey at MMCA Seoul.",
-        "March Avery's first solo show at Esther Schipper Seoul.",
-        "Spectrosynthesis Seoul at Art Sonje Center exploring queer art.",
-        "Seo-Seoul Museum of Art (newly opened) focused on media art.",
-        "10 Years anniversary exhibition at Perrotin Seoul."
+        "Damien Hirst major survey at MMCA Seoul (March - June).",
+        "March Avery: Form into Color at Esther Schipper, Seoul (March 3 - April 25).",
+        "Spectrosynthesis Seoul at Art Sonje Center exploring contemporary queer art.",
+        "Seo Seoul Museum of Art Inaugural Exhibitions: 'Breath' and 'Our Time Begins Here'.",
+        "10 Years anniversary exhibition at Perrotin Seoul (March 17 - May 2)."
       ]
     },
     "stocks": {
-      "market_sentiment": "High volatility and cautious; markets reeling from the U.S.-Iran conflict impacts.",
+      "market_sentiment": "High volatility and cautious; global markets remain sensitive to geopolitical tensions.",
       "key_events": [
-        "U.S.-Iran conflict driving 40% surge in oil prices ($103/bbl).",
-        "South Korea facing 'triple high' crisis: high oil, high inflation, weak won.",
-        "Government planning price caps and increased nuclear/coal power generation.",
-        "Investment banks like Goldman Sachs remain long-term bullish on KOSPI (7,000 target), citing semiconductor/AI super-cycle.",
-        "Legislative approval for $350B investment commitment to U.S. strategic sectors."
+        "Ongoing global energy price volatility impacting South Korean import costs.",
+        "Continued focus on semiconductor and AI industry performance as key pillars of KOSPI stability.",
+        "Market monitoring of government fiscal policies regarding energy and infrastructure investment.",
+        "Investors tracking exchange rate fluctuations (KRW/USD) due to global macroeconomic uncertainty."
       ]
     }
   }
