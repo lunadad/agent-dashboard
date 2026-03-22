@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-22T13:20:00+09:00",
+  "last_updated": "2026-03-22T13:45:00+09:00",
   "briefing": {
     "art": {
-      "summary": "March 22, 2026: The art world is gearing up for Art Basel Hong Kong (March 27-29), with preview days starting March 25. Concurrent events include Art Central and Asia Week New York, which features major auction houses like Christie's, Sotheby's, and Bonhams showcasing significant Asian art.",
-      "notable": "New 'Echoes' and 'Zero 10' sectors at Art Basel HK; focus remains on strong institutional programming and key Asian art sales in NY."
+      "summary": "March 22, 2026: The art world is absorbing the recently released 'Art Basel and UBS Global Art Market Report 2026'. The global art market grew by 4% in 2025 to $59.6 billion, signaling a cautious recovery. Focus is on high-end auction strength and shifting collector preferences toward quality and provenance amidst a complex global economic environment. Art Basel Hong Kong (March 27-29) remains the primary focus for the coming week.",
+      "notable": "Art market growth in 2025 led by high-end auction rebound (+9%); shift toward human-centric, craft-based art; U.S. dominance continues."
     },
     "market": {
-      "summary": "Markets are closed for the weekend following a difficult week; the S&P 500 closed at 6506.48 on Friday, down 1.9% for the week. Ongoing volatility is driven by rising oil prices, geopolitical concerns, and recession fears.",
+      "summary": "Markets are closed for the weekend. The S&P 500 finished the week at 6506.48, down 1.9%. Sentiment remains cautious due to ongoing geopolitical instability and recessionary concerns. Investors are awaiting next week's economic data releases for further market direction.",
       "stats": {
         "S&P500": "6506.48 (Closed)",
-        "Outlook": "High volatility and risk-off sentiment; recession probability concerns rising."
+        "Outlook": "Volatile, risk-off sentiment; recession probability concerns persisting."
       }
     }
   }
