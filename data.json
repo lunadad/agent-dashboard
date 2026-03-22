@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T16:00:00+09:00",
+  "last_updated": "2026-03-22T16:10:00+09:00",
   "briefing": {
     "art_market": {
       "summary": "The Korean art market continues its cautious recovery, focusing on accessibility and trust. Digital exhibitions like '20!2026 Art Seoul' are highlighting the trend towards mid-segment engagement.",
@@ -11,12 +11,12 @@
       "outlook": "Steady transformation towards accessible/trust-based models."
     },
     "stock_market": {
-      "summary": "The KOSPI is experiencing high volatility driven by domestic retail investor 'Return to Korean Stocks' (K-Jang Return) movement and geopolitical risks surrounding the US-Iran conflict. Sentiment is bifurcated between bubble warnings and earnings optimism.",
+      "summary": "The KOSPI is experiencing stable resilience driven by semiconductor earnings and continued retail inflow ('K-Jang Return'). While geopolitical risks persist, sentiment remains cautiously optimistic.",
       "key_indicators": {
-        "KOSPI_Status": "High volatility; navigating geopolitical ripple effects.",
-        "Retail_Trend": "Record-level net buying by retail investors ('K-Jang Return').",
-        "Key_Drivers": "Semiconductor earnings outlook (96% of projected profit growth) and shareholder return policy initiatives.",
-        "Outlook": "Market consolidation expected with persistent volatility; requires cautious investment strategy."
+        "KOSPI_Status": "Stable resilience; navigating ongoing geopolitical concerns.",
+        "Retail_Trend": "Sustained net buying by retail investors.",
+        "Key_Drivers": "Semiconductor earnings outlook and focus on shareholder value.",
+        "Outlook": "Consolidation expected with persistent focus on fundamental earnings growth."
       }
     }
   }
