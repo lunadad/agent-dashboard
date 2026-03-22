@@ -1,11 +1,14 @@
 {
-  "date": "2026-03-23",
-  "art_market": {
-    "summary": "Seoul's art market is experiencing a contraction, with a sharp drop in auction sales (approx. $42M in H1 2025) and gallery closures. However, new initiatives like '20!2026 Art Seoul' are launching to boost accessibility and trust through price transparency and guarantee systems.",
-    "key_trends": ["Market contraction", "Focus on accessibility/trust", "Digital/blockchain integration"]
-  },
+  "timestamp": "2026-03-23T07:00:00+09:00",
   "stock_market": {
-    "summary": "KOSPI faces high volatility due to geopolitical tensions in the Middle East and energy price shocks. While individual investors are buying, valuations remain attractive, and analysts like Goldman Sachs project recovery towards 7,000 points.",
-    "key_drivers": ["Geopolitical/Middle East risks", "Energy inflation", "Semiconductor sector optimism"]
+    "kospi_close": 5781.2,
+    "volatility_index": "high (>50)",
+    "market_sentiment": "volatile, high individual buying activity, record highs in late Feb, cooling in March",
+    "notes": "Goldman Sachs raised 2026 KOSPI target to 7,000; FSC proposing two-tier Kosdaq system."
+  },
+  "art_market": {
+    "korean_market_status": "contraction in 2025 (~USD 370M), but stable hub",
+    "notable_initiatives": "Frieze Seoul extended for 5 years; '20!2026 Art Seoul' digital exhibit launched with 80% guarantee system",
+    "trends": "Seoul and Singapore driving interest for younger collectors"
   }
 }
