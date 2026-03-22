@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-22T14:00:00+09:00",
+  "last_updated": "2026-03-22T14:10:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Korean art market showing cautious recovery and structural transformation.",
+      "summary": "Korean art market continues to see digital innovation and museum blockbusters in March 2026.",
       "key_events": [
-        "Korea Premier Auction Premium Online Auction (Mar 14-24, 2026)",
-        "Seoul Auction Contemporary Art Sale (ends Mar 31, 2026)",
-        "Digital innovation: '20!2026 Art Seoul' launched Mar 16."
+        "20! 2026 Art Seoul launched Mar 16, introducing 80% refund guarantee system.",
+        "Major exhibitions: Kim Yun-shin at Hoam Museum, Yoo Young-kuk at SeMA, Damien Hirst at MMCA.",
+        "Ongoing March auctions featuring modern and contemporary works."
       ],
-      "outlook": "Increased online transaction trends led by younger collectors."
+      "outlook": "Focus on enhancing trust, accessibility, and transparency remains key."
     },
     "stock_market": {
-      "summary": "Korean stock market showing strong rebound after early March volatility.",
+      "summary": "Korean stock market facing high volatility and sharp declines in March 2026 due to geopolitical tensions.",
       "key_indicators": {
-        "KOSPI": "Rebounded strongly mid-March, recovering from early month declines.",
-        "Outlook": "Goldman Sachs targets KOSPI at 7,000 for 2026."
+        "KOSPI": "Significant downturns mid-March; volatility persists amid U.S.-Iran conflict risks.",
+        "Outlook": "Analysts advise caution; Goldman Sachs maintains a long-term target of 7,000 despite near-term headwinds."
       }
     }
   }
