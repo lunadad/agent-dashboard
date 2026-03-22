@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-03-23T00:50:00+09:00",
+  "last_updated": "2026-03-23T01:10:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art market remains a vibrant hub in Asia in late March 2026. The Unknown Vibes 2026 Art Fair at Shilla Seoul and Spectrosynthesis Seoul at Art Sonje Center are driving current attention.",
+      "summary": "Seoul's art scene in late March 2026 is vibrant with significant exhibitions, including retrospectives and institutional queer art showcases. The market is showing resilience and structural adaptation, with new digital platforms emphasizing transparency.",
       "new_exhibitions": [
-        "Unknown Vibes 2026 Art Fair: The Bloom (Opened March 22, Shilla Seoul)",
-        "Spectrosynthesis Seoul (Opened March 20, Art Sonje Center)",
-        "Damien Hirst: Truth is False, Everything is Possible (MMCA Seoul)",
-        "Kim Yun-shin Retrospective (Ongoing, Hoam Museum)"
+        "Kim Yun-shin Retrospective (Hoam Museum, Mar 17 - Jun 28)",
+        "Spectrosynthesis Seoul (Art Sonje Center, Mar 20 - Jun 28)",
+        "Damien Hirst Retrospective (MMCA Seoul, Opened Mar 2026)",
+        "20!2026 Art Seoul (Digital exhibit, Opened Mar 16)"
       ],
       "ongoing": [
-        "Kim Yun-shin Retrospective (Hoam Museum)",
-        "Damien Hirst exhibition (MMCA Seoul)"
+        "Jae-Eun Choi : Where Beings Be (Seosomun Main Branch, until Apr 5)",
+        "March Avery: Form into Color (Esther Schipper, until Apr 25)"
       ]
     },
     "stock_market": {
-      "summary": "As of March 23, 2026, KOSPI reflects cautious optimism. Markets are open for regular trading sessions. Focus remains on semiconductor strength and long-term outlook.",
+      "summary": "As of March 23, 2026, the KOSPI is anticipated to face volatility due to geopolitical tensions and the start of the shareholder meeting season. Analysts project a weekly band of 5,500-6,100 points.",
       "key_indicators": {
-        "KOSPI_Status": "Regular trading ongoing.",
-        "Market_Sentiment": "Cautiously optimistic.",
-        "Key_Drivers": "AI-driven memory super-cycle, semiconductor industry strength.",
-        "Outlook": "Stable with potential for earnings momentum."
+        "KOSPI_Status": "Opening to volatility due to geopolitical tensions (Middle East) and oil price fluctuations.",
+        "Market_Sentiment": "Cautiously resilient; recovering from recent pressure.",
+        "Key_Drivers": "Semiconductor rebound (Samsung, SK Hynix), start of annual shareholder meeting season, potential U.S. Federal Reserve policy shifts.",
+        "Outlook": "Focus on shareholder returns and Q1 earnings expectations amidst 5,500-6,100 point band."
       }
     }
   }
