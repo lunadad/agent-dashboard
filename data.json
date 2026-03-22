@@ -1,26 +1,24 @@
 {
-  "last_updated": "2026-03-23T00:25:00+09:00",
+  "last_updated": "2026-03-23T00:35:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Seoul's art scene is vibrant as of late March 2026, with major new exhibitions launched.",
+      "summary": "Seoul's art market remains a vibrant hub in Asia, driven by new digital initiatives and major gallery exhibitions in late March 2026.",
       "new_exhibitions": [
-        "Spectrosynthesis Seoul (Art Sonje Center, until June 28)",
-        "Damien Hirst: Nothing Is True But Everything Is Possible (MMCA Seoul, until June 28)",
-        "20! 2026 Art Seoul (Digital exhibit, until April 13)"
+        "20!2026 Art Seoul (Digital exhibit, launched March 16, aims to build market trust)",
+        "Perrotin Seoul: 10 YEARS (March 17–May 2, commemorating 10th anniversary)"
       ],
       "ongoing": [
-        "Form into Color by March Avery at Esther Schipper (until April 25)",
-        "Park Chan-kyong: Zen Master Eyeball at Kukje Gallery (until May 10)",
-        "Kim Yun-shin Retrospective at Hoam Museum of Art (until June 28)"
+        "Kim Yun-shin Retrospective at Hoam Museum of Art (ongoing)",
+        "Spectrosynthesis Seoul at Art Sonje Center (ongoing)"
       ]
     },
     "stock_market": {
-      "summary": "As of March 23, 2026, the KOSPI closed at 5,781.20 (March 22), reflecting a 0.31% increase. Markets are cautiously optimistic despite earlier volatility in March.",
+      "summary": "As of March 23, 2026, markets show cautious optimism after recent volatility. Goldman Sachs and Morgan Stanley remain bullish on long-term KOSPI potential (targets 7,000 / 6,500-7,500).",
       "key_indicators": {
-        "KOSPI_Status": "5,781.20 (March 22 close)",
+        "KOSPI_Status": "Recent fluctuations; short-term correction anticipated in March with potential recovery in April.",
         "Market_Sentiment": "Cautiously optimistic; volatility monitoring continues.",
-        "Key_Drivers": "Goldman Sachs raised KOSPI target to 7,000; KRX planning new KOSDAQ tier system.",
-        "Outlook": "Anticipated recovery and consolidation trend."
+        "Key_Drivers": "AI-driven memory super-cycle, semiconductor industry strength, KRX KOSDAQ two-tier system plans for late 2026.",
+        "Outlook": "Valuation adjustment in March followed by earnings momentum in April."
       }
     }
   }
