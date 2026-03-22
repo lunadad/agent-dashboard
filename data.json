@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-03-22T14:40:00+09:00",
+  "last_updated": "2026-03-22T14:50:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "The Korean art market in March 2026 is emphasizing trust and accessibility, highlighted by the '20! 2026 Art Seoul' digital exhibit and major institutional retrospectives.",
+      "summary": "The Korean art market in March 2026 is focusing on accessibility and cautious recovery. Digital exhibits like '20!2026 Art Seoul' are implementing refund guarantees to build trust.",
       "key_events": [
-        "20! 2026 Art Seoul: Launched March 16 with a unique 80% refund guarantee to boost market trust.",
-        "Major Exhibitions: Park Chan-kyong at Kukje Gallery, Kim Yun-shin at Hoam Museum, and Damien Hirst at MMCA.",
-        "Market focus: Digital innovation, blockchain authentication, and qualitative growth."
+        "20!2026 Art Seoul: Launched March 16 with an 80% refund guarantee.",
+        "Market Trend: Global art sales recovered by 4% but domestic sentiment remains cautious with polarization in high-end segments.",
+        "Upcoming: Continued co-scheduling of Kiaf Seoul and Frieze Seoul."
       ],
-      "outlook": "Qualitative transformation with a focus on rarity, transparency, and clear provenance."
+      "outlook": "Structural transformation towards mid/low-priced segment activity."
     },
     "stock_market": {
-      "summary": "KOSPI showing volatile resilience, rebounding from early-March geopolitical sell-offs driven by semiconductor strength.",
+      "summary": "KOSPI experienced significant volatility in early March 2026 due to Middle East conflict, but is showing resilience and recovery potential.",
       "key_indicators": {
-        "KOSPI": "Rebounding from mid-month dips; Goldman Sachs target remains 7,000 for 2026.",
-        "Drivers": "Semiconductor sector (Samsung Electronics/SK Hynix) remains the dominant engine for market growth.",
-        "Context": "Year-to-date up 30.88% as of mid-March; volatility remains tied to global oil prices and geopolitical news."
+        "KOSPI": "Volatile; record drop on March 4 followed by strong rebounds. Closing around 5,583 mid-month.",
+        "Drivers": "Semiconductor demand (Samsung Electronics/SK Hynix) and strong earnings forecasts (130% projected for 2026).",
+        "Outlook": "Goldman Sachs maintains 7,000 year-end target despite near-term geopolitical risks."
       }
     }
   }
