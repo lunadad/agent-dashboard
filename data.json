@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T17:40:00+09:00",
+  "last_updated": "2026-03-22T18:00:00+09:00",
   "briefing": {
     "art_market": {
       "summary": "Seoul's art scene in late March 2026 remains steady. Landmark exhibitions and trust initiatives continue to drive engagement, with a cautious but positive outlook.",
@@ -12,12 +12,12 @@
       "outlook": "Seoul is cementing its status as a major Asian art hub, driven by new media institutions and diversified collector interest."
     },
     "stock_market": {
-      "summary": "KOSPI is holding firm on semiconductor strength. Weekend update indicates market stability amidst recent volatility.",
+      "summary": "KOSPI is holding firm on semiconductor strength. Evening update (18:00) indicates sustained market stability with continued focus on tech sector performance.",
       "key_indicators": {
         "KOSPI_Status": "5,781.2; holding firm with strong semiconductor support.",
-        "Market_Sentiment": "Cautious; market showing signs of overheating and heightened volatility following recent geopolitical events.",
-        "Key_Drivers": "Geopolitical risks (US-Israel-Iran tension), semiconductor sector performance, and divergent buying patterns between retail and foreign investors.",
-        "Outlook": "Volatility expected to persist as the market reconciles record yearly growth with recent corrections and bubble concerns."
+        "Market_Sentiment": "Cautious; market showing signs of overheating and heightened volatility.",
+        "Key_Drivers": "Semiconductor sector performance, retail/foreign investor flow.",
+        "Outlook": "Volatility expected to persist as the market reconciles record yearly growth."
       }
     }
   }
