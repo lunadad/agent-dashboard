@@ -1,22 +1,23 @@
 {
-  "last_updated": "2026-03-23T04:20:00KST",
+  "last_updated": "2026-03-23T04:30:00KST",
   "briefing": {
     "arts": {
       "highlights": [
-        "Digital art exhibit '20! 2026 Art Seoul' offers an 80% guarantee refund system.",
-        "Sculptor Kim Yun-shin retrospective at Hoam Museum.",
-        "Damien Hirst retrospective at MMCA, Seoul.",
-        "Art Sonje Center presents 'Spectrosynthesis Seoul' exploring queer art.",
-        "Spring 2026 exhibition 'Sacred Paper' at Charles B. Wang Center."
+        "Spectrosynthesis Seoul at Art Sonje Center exploring queer art.",
+        "Kim Yun-shin retrospective at Hoam Museum.",
+        "Damien Hirst major survey at MMCA, Seoul.",
+        "Perrotin Seoul 10th anniversary group exhibition.",
+        "Seo-Seoul Museum of Art opening with media art focus.",
+        "20! 2026 Art Seoul: digital art exhibit with 80% guarantee system."
       ]
     },
     "stocks": {
-      "market_sentiment": "Cautious; volatility influenced by inflation concerns, rising oil prices due to US-Iran tensions, and shifted Fed rate cut outlooks.",
+      "market_sentiment": "Bearish; defensive posturing as markets grapple with Iran war, oil price surge, and inflation concerns.",
       "key_events": [
-        "Global markets navigating geopolitical tensions.",
-        "U.S. stocks facing headwinds with potential for a fourth consecutive losing week.",
-        "Focus on dividend stocks nearing ex-dividend dates in late March.",
-        "Navigator Gas secondary offering news impacting maritime sector."
+        "Global markets experiencing pullbacks; S&P 500 down 5% YTD.",
+        "Brent crude oil prices surged nearly 55% due to conflict; inflation worries rising.",
+        "Federal Reserve holds rates but warns of inflation outlook.",
+        "Investors moving to cash as a defensive allocation."
       ]
     }
   }
