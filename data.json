@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-03-23T06:25:00KST",
-  "briefing": {
-    "arts": {
-      "highlights": [
-        "BTS comeback concert held in central Seoul on March 21.",
-        "Seoul My Soul Shop at Sejong Center reopened on March 23 with redesigned cultural space.",
-        "Seoul Arts Center Symphony Festival 'Connecting The Notes' scheduled for April 1 - April 23.",
-        "Kim Yun-shin retrospective at Hoam Museum (March 17 - June 28).",
-        "Park Chan-kyong: 'Zen Master Eyeball' at Kukje Gallery (March 19 - May 10)."
-      ]
-    },
-    "stocks": {
-      "market_sentiment": "Volatile; market continues a 'seesaw battle' between rising energy prices (geopolitical tensions) and strong earnings from AI/semiconductor sectors.",
-      "key_events": [
-        "KOSPI closed at 5,781.2 on March 21 (+0.31%).",
-        "Semiconductor supercycle optimism remains; Goldman Sachs maintains 7000 target for year-end.",
-        "Investors monitoring geopolitical impacts on oil prices and exchange rate (KRW/USD).",
-        "Recent market volatility (March 18-19) driven by oil price spikes and Israel-Iran tensions."
-      ]
-    }
+  "date": "2026-03-23",
+  "art_market": {
+    "summary": "Global art market grew 4% to $59.6 billion in 2025; US leads with 44% share. Market focus shifting to quality, physical presence, and historical stalwarts over rapid digital growth.",
+    "key_trends": ["Return to materiality", "Sustainability focus", "Gender representation improvement"]
+  },
+  "stock_market": {
+    "summary": "Market volatility driven by Iran conflict and inflation concerns. Rotation from mega-cap tech to stable sectors (staples, energy). Gold hitting record highs.",
+    "key_drivers": ["Iran conflict impact on energy", "Higher inflation, lower rate cut expectations", "AI implementation focus"]
   }
 }
