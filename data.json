@@ -1,20 +1,21 @@
 {
-  "last_updated": "2026-03-22T14:30:00+09:00",
+  "last_updated": "2026-03-22T14:40:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Korean art market in March 2026 is undergoing a qualitative transformation with a focus on trust, discernment, and accessibility over volume.",
+      "summary": "The Korean art market in March 2026 is emphasizing trust and accessibility, highlighted by the '20! 2026 Art Seoul' digital exhibit and major institutional retrospectives.",
       "key_events": [
-        "20! 2026 Art Seoul: Digital exhibit with 80% refund guarantee system launched March 16.",
-        "Major Exhibitions: Damien Hirst retrospective at MMCA Seoul; Kim Yun-shin retrospective at Hoam Museum.",
-        "Ongoing focus on transparency and blockchain authentication."
+        "20! 2026 Art Seoul: Launched March 16 with a unique 80% refund guarantee to boost market trust.",
+        "Major Exhibitions: Park Chan-kyong at Kukje Gallery, Kim Yun-shin at Hoam Museum, and Damien Hirst at MMCA.",
+        "Market focus: Digital innovation, blockchain authentication, and qualitative growth."
       ],
-      "outlook": "Cautious adjustment; market prioritizes works with rarity and clear provenance."
+      "outlook": "Qualitative transformation with a focus on rarity, transparency, and clear provenance."
     },
     "stock_market": {
-      "summary": "KOSPI rebounding strongly following early March sell-off driven by geopolitical tensions; Goldman Sachs maintains optimistic outlook.",
+      "summary": "KOSPI showing volatile resilience, rebounding from early-March geopolitical sell-offs driven by semiconductor strength.",
       "key_indicators": {
-        "KOSPI": "Rebounding after correcting 20% from February highs; target raised to 7,000 by Goldman Sachs.",
-        "Outlook": "Earnings growth forecast revised up to 130%; semiconductor sector remains a strong driver."
+        "KOSPI": "Rebounding from mid-month dips; Goldman Sachs target remains 7,000 for 2026.",
+        "Drivers": "Semiconductor sector (Samsung Electronics/SK Hynix) remains the dominant engine for market growth.",
+        "Context": "Year-to-date up 30.88% as of mid-March; volatility remains tied to global oil prices and geopolitical news."
       }
     }
   }
