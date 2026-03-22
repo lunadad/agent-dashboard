@@ -1,30 +1,29 @@
 {
-  "last_updated": "2026-03-22T23:20:00+09:00",
+  "last_updated": "2026-03-22T23:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "March 22, 2026, marks the end of a busy week in Seoul's art scene, with multiple significant exhibitions closing today.",
+      "summary": "March 22, 2026, marks the end of a busy week in Seoul's art scene, with several major exhibitions concluding today.",
       "closing_today": [
-        "Between Image & Reality (SeMA)",
-        "DRAMA Drama (Mimesis Art Museum)",
-        "My Very Favorite - Thousand-Character Classic (Seoul Calligraphy Art Museum)",
-        "Klimt and Ricci Oddi Miracle (The My Art Museum)",
-        "Electric Shock (SeMA)",
-        "Artist Research: Unfinished Flora & Time Blooms (SeMA)"
+        "Between Image & Reality (SeMA Seosomun)",
+        "Electric Shock (Buk-Seoul Museum of Art)",
+        "Artist Research: Unfinished Flora & Time Blooms (Buk-Seoul Museum of Art)",
+        "Klimt and Laciotti: The Miracle"
       ],
       "ongoing": [
         "Spectrosynthesis Seoul at Art Sonje Center (until June 28)",
         "Form into Color by March Avery at Esther Schipper (until April 25)",
-        "10 Years at Perrotin Seoul (until May 2)",
+        "Park Chan-kyong: Zen Master Eyeball at Kukje Gallery (until May 10)",
+        "Kim Yun-shin Retrospective at Hoam Museum of Art (until June 28)",
         "Damien Hirst Retrospective at MMCA Seoul (Ongoing)"
       ]
     },
     "stock_market": {
-      "summary": "Markets are closed for the weekend. Analyzing the previous week: The KOSPI closed at 5,781.20 on Friday (+0.31%). Sentiment remains cautious due to ongoing geopolitical risks and bubble concerns, with analysts emphasizing fundamental-driven earnings strategies for Monday's open.",
+      "summary": "The market is closed for the weekend. Analyzing the previous week: The KOSPI closed at 5,781.2 on Friday, March 20, amid continued volatility driven by Middle East geopolitical risks. Despite the instability, individual investor demand remains high. The outlook for the coming week (starting March 24) is projected between 5,500 and 6,100 points.",
       "key_indicators": {
-        "KOSPI_Status": "5,781.20 (March 20 close)",
-        "Market_Sentiment": "Cautious; monitoring geopolitical impact.",
-        "Key_Drivers": "Geopolitical risks, Q1 earnings focus, potential volatility.",
-        "Outlook": "Earnings-driven strategy recommended for Monday."
+        "KOSPI_Status": "5,781.2 (March 20 close)",
+        "Market_Sentiment": "Cautious; high volatility due to geopolitical tensions.",
+        "Key_Drivers": "Geopolitical risks, individual investor net-buying trends, Q1 earnings focus.",
+        "Outlook": "Projected range 5,500 - 6,100; earnings-driven strategy advised."
       }
     }
   }
