@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T04:40:00+09:00",
+  "timestamp": "2026-03-24T04:50:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Moderate recovery continues with 4% growth in 2025; optimism remains, but regionalization due to geopolitical tensions is a key concern for 2026.",
-    "key_trends": "Growing interest in accessible art and hybrid experiences; shifts in patronage models; focus on authenticity and layered meaning.",
-    "recent_events": "Global Art Market Report 2026 shows renewed dealer optimism, though trade tariffs and geopolitical uncertainty persist as significant headwinds."
+    "global_sales_outlook": "Resilient despite global pressures; strong engagement from domestic collectors in China, Japan, Korea, and Singapore; growth in family offices setting up in Singapore and Hong Kong.",
+    "key_trends": "Asia-centric buyer base becoming more prominent; focus on regional engagement and high-value works; stabilization efforts around hubs like Hong Kong.",
+    "recent_events": "Art Fair Tokyo recently concluded, showcasing diverse contemporary art; Asia Week New York 2026 is underway; Hong Kong Art Week is active with Art Basel."
   },
   "stock_market": {
-    "status": "High Volatility",
-    "market_sentiment": "Sharply bearish across Asian markets; significant concern over escalating US-Iran tensions and rising energy prices.",
-    "key_factors": "Escalating geopolitical conflict in the Middle East; surging oil prices; sharp declines in KOSPI, Nikkei 225, and Hang Seng indices."
+    "status": "Volatile / Potential Rebound",
+    "market_sentiment": "High volatility due to geopolitical tensions (US-Iran); however, signs of a potential rebound on March 24 following announcement of postponed military strikes.",
+    "key_factors": "Escalating US-Iran conflict remains the primary driver; oil prices in focus; potential for volatile but recovering start following de-escalation rhetoric."
   }
 }
