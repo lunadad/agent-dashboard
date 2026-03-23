@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T06:50:00+09:00",
+  "timestamp": "2026-03-24T07:00:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Global art market reached $59.6B in 2025 (+2% transactions); 43% of dealers expect sales improvement in 2026. Focus remains on the upcoming Art Basel HK (March 27-29, previews March 25-26).",
-    "key_trends": "Market restructuring continues amid geopolitical shifts and rising operational costs. Postwar and Contemporary art remains a key sector, Modern art reversed a 3-year decline (+9%).",
-    "recent_events": "Art Basel Hong Kong 2026 preparations finalized; features 240 galleries from 41 countries; debuts 'Zero 10' digital art initiative."
+    "global_sales_outlook": "Global art market reached $59.6B in 2025 (+4% growth). Asian market showing resilience despite regional instability, with South Korea posting 6% gains.",
+    "key_trends": "Market focuses on intra-regional trade; Seoul and Hong Kong remain critical hubs. New trust-building initiatives like '20! 2026 Art Seoul' are attempting to stabilize the local market.",
+    "recent_events": "Art Basel Hong Kong 2026 preparations continue amid geopolitical focus; ongoing domestic fairs in Seoul emphasizing contemporary abstraction and digital accessibility."
   },
   "stock_market": {
-    "status": "Cautious / Tentative",
-    "market_sentiment": "Sentiment remains tentative amidst geopolitical uncertainty and evolving Iran-US relations.",
-    "key_factors": "Geopolitical de-escalation optimism vs. denials; market volatility awaiting further updates."
+    "status": "Severe Downturn / High Volatility",
+    "market_sentiment": "Bearish sentiment driven by Middle East geopolitical tensions and energy supply fears.",
+    "key_factors": "KOSPI plummeted 6.5% on March 23 due to Iran-US geopolitical risks; Korean Won hit 1517.3 against USD (lowest since 2009). Government planning 25 trillion won supplementary budget."
   }
 }
