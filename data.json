@@ -1,16 +1,18 @@
 {
-  "updated_at": "2026-03-24T08:20:00+09:00",
-  "summary": "Asian stock markets remain heavily pressured by ongoing geopolitical tensions in the Strait of Hormuz. Energy prices are volatile, and investors are shifting to safe-haven assets. Meanwhile, the art market prepares for Art Basel Hong Kong 2026, with collectors arriving despite broader market gloom.",
+  "updated_at": "2026-03-24T08:40:00+09:00",
+  "summary": "Asian markets remain under pressure from geopolitical tensions. Strait of Hormuz situation continues to impact energy volatility. Art Basel Hong Kong previews are commencing.",
   "market_mood": "Bearish / High Alert",
   "key_events": [
-    "Asian markets: Nikkei -4.2%, KOSPI -4.7%, Hang Seng -2.1% (pre-market/opening trends).",
-    "Energy: Brent crude remains elevated near $125/bbl due to Strait of Hormuz supply concerns.",
-    "Art Basel Hong Kong: Previews commence March 25, focus shifts to blue-chip resilience.",
-    "Safe-haven demand: Gold and USD strengthening, equities seeing significant outflows."
+    "Asian markets: Continued pressure due to geopolitical instability.",
+    "Energy: Strait of Hormuz supply concerns impacting Brent crude pricing.",
+    "Art Basel Hong Kong: Previews beginning; market resilience tested."
   ],
   "dailyReports": {
     "FT": {
-      "raw": "From: 김슬기 <miksnah@gmail.com>\nTo: 김슬기 <miksnah@gmail.com>\nSubject: [FT 데일리 브리핑] 2026년 3월 24일 - 시장 요약\n\n📰 Financial Times 시장 현황\n2026년 3월 24일 (화요일) | 08:20 KST 기준\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n[시장 동향] \n아시아 증시 전반 하락세 지속. 지정학적 리스크로 인한 에너지 가격 변동성 확대.\n\n[아트 마켓]\nArt Basel Hong Kong 2026 프리뷰(3/25)를 앞두고 VIP 입장객들의 행보가 분주함. 금융 시장 불안에도 불구하고 아트 마켓으로의 자금 이동은 여전히 주목받는 중.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ 본 정보는 시장 상황 업데이트를 위한 AI 대시보드 데이터입니다."
+      "raw": "From: 김슬기 <miksnah@gmail.com>\nTo: 김슬기 <miksnah@gmail.com>\nSubject: [FT 데일리 브리핑] 2026년 3월 24일 - 시장 업데이트\n\n📰 Financial Times 시장 현황\n2026년 3월 24일 (화요일) | 08:40 KST 기준\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n[시장 동향] \n아시아 증시 전반 하락세 지속. 지정학적 리스크로 인한 에너지 가격 변동성 확대.\n\n[아트 마켓]\nArt Basel Hong Kong 2026 프리뷰 시작. 금융 시장 불안에도 불구하고 아트 마켓으로의 자금 이동은 여전히 주목받는 중.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ 본 정보는 시장 상황 업데이트를 위한 AI 대시보드 데이터입니다."
+    },
+    "LiveUpdate": {
+      "raw": "Asian markets remain pressured by geopolitical tensions. Strait of Hormuz developments continue to impact energy prices. Art Basel Hong Kong previews commence tomorrow."
     }
   }
 }
