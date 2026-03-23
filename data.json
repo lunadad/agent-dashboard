@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T03:20:00+09:00",
+  "timestamp": "2026-03-24T03:30:00+09:00",
   "art_market": {
     "global_sales_2025": "$59.6 billion",
     "growth": "4%",
     "key_trends": "Renewed optimism for 2026; high-end demand remains strong; digital art growing; regional interest in Middle East rising."
   },
   "stock_market": {
-    "status": "Bullish Rebound",
-    "us_market": "Markets consolidating gains as geopolitical de-escalation effects continue.",
+    "status": "Bullish Rebound (Steady)",
+    "us_market": "Markets consolidating gains as geopolitical de-escalation effects continue; early Asian trade shows low volatility.",
     "key_factors": "Geopolitical relief following Iran diplomatic shift; Brent crude down 10.5% to ~$100/bbl; gold down 4% on strong USD and rising yields."
   }
 }
