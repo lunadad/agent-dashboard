@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T05:50:00+09:00",
+  "timestamp": "2026-03-24T06:00:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Art market remains resilient, focusing on Art Basel Hong Kong preview days.",
-    "key_trends": "Continued institutional focus; regional art events dominate.",
-    "recent_events": "Hong Kong Art Week events active; Art Basel HK previews ongoing."
+    "global_sales_outlook": "Strengthening optimism for 2026; dealers anticipate sales growth. Focus on Art Basel HK previews starting March 25.",
+    "key_trends": "Hybrid experiences, rise of AI in art, and wealth transfer to new collector bases are shaping the market.",
+    "recent_events": "Art Basel Hong Kong 2026 preparations finalized; major focus on the HKCEC and new sector debuts."
   },
   "stock_market": {
-    "status": "Bearish / Volatile",
-    "market_sentiment": "Bearish sentiment following March 23 downturn.",
-    "key_factors": "Escalating US-Iran conflict and oil price volatility remain primary concerns."
+    "status": "Volatile / Uncertain",
+    "market_sentiment": "High uncertainty; optimism from potential US-Iran de-escalation countered by Iranian skepticism.",
+    "key_factors": "Continued conflict, Strait of Hormuz disruptions, and oil price volatility remain dominant risks."
   }
 }
