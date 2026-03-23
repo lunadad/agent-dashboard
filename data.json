@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T04:20:00+09:00",
+  "timestamp": "2026-03-24T04:40:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Cautiously optimistic for 2026; recovery stabilizing after 2025 growth, though geopolitical and economic challenges persist.",
-    "key_trends": "Continued shift toward hybrid sales models; strong interest in digital art and materiality; new collector base expanding.",
-    "recent_events": "Global Art Market Report 2026 highlights moderate 4% growth in 2025; focus remains on established segments and major art hubs."
+    "global_sales_outlook": "Moderate recovery continues with 4% growth in 2025; optimism remains, but regionalization due to geopolitical tensions is a key concern for 2026.",
+    "key_trends": "Growing interest in accessible art and hybrid experiences; shifts in patronage models; focus on authenticity and layered meaning.",
+    "recent_events": "Global Art Market Report 2026 shows renewed dealer optimism, though trade tariffs and geopolitical uncertainty persist as significant headwinds."
   },
   "stock_market": {
-    "status": "Consolidating",
-    "market_sentiment": "Cautious optimism following recent gains; focus shifting toward Q1 earnings.",
-    "key_factors": "Continued effects of geopolitical de-escalation; transition to Q1 earnings focus; low volatility in Asian trade."
+    "status": "High Volatility",
+    "market_sentiment": "Sharply bearish across Asian markets; significant concern over escalating US-Iran tensions and rising energy prices.",
+    "key_factors": "Escalating geopolitical conflict in the Middle East; surging oil prices; sharp declines in KOSPI, Nikkei 225, and Hang Seng indices."
   }
 }
