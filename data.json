@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T02:50:00+09:00",
+  "timestamp": "2026-03-24T03:10:00+09:00",
   "art_market": {
     "global_sales_2025": "$59.6 billion",
     "growth": "4%",
     "key_trends": "Renewed optimism for 2026; high-end demand remains strong; digital art growing; regional interest in Middle East rising."
   },
   "stock_market": {
-    "status": "Bullish Surge",
-    "us_market": "Significant surge; S&P 500 up 2.2%, Dow up 2.3%, Nasdaq up 2.17% following positive geopolitical news from Iran.",
-    "key_factors": "Geopolitical de-escalation; oil prices down $7.50; gold down amid interest rate expectations."
+    "status": "Bullish Rebound",
+    "us_market": "Market rally driven by de-escalation in US-Iran tensions. Dow, S&P 500, and Nasdaq show sharp gains as diplomatic talks are suggested.",
+    "key_factors": "Geopolitical relief following Iran diplomatic shift; Brent crude down 10.5% to ~$100/bbl; gold down 4% on strong USD and rising yields."
   }
 }
