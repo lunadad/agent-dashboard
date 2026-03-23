@@ -1,6 +1,7 @@
 {
-  "date": "2026-03-23",
-  "market_summary": "KOSPI showing volatility around 5,780; analysts predict correction before potential upward trend in April, driven by semiconductor sector.",
-  "art_trends": "Post-war contemporary works remain blue-chip; market recovery driven by in-person high-end auctions; rise of digital art and eco-conscious themes.",
-  "last_updated": "2026-03-23T08:50:00+09:00"
+  "dailyReports": {
+    "머스크": {
+      "raw": "📅 2026년 3월 23일(월) 오전 주식 브리핑\n\n[AMZN - Amazon]\n- 현재가: $209.04\n- 현황: 금주 거래 시작 시점 전주 대비 0.5% 상승 출발. AI 데이터 센터 확장에 대한 긍정적 기류 확인.\n- 주요 이슈:\n  - 클라우드: AWS의 신규 보안 프로토콜 도입으로 기업 고객 수요 안정화 전망.\n  - 물류: Prime 6월 앞당기기에 따른 물류 효율성 최적화 완료.\n\n[INTC - Intel]\n- 현재가: $43.87\n- 현황: 반도체 섹터의 변동성 지속 예상. 금일 기술적 반등 시도.\n- 주요 이슈:\n  - 시장: AI 반도체 시장 점유율 확대를 위한 차세대 공정 로드맵 발표 예정.\n  - 전략: 보안 네트워크 파트너십 강화로 차별화된 가치 창출 시도."
+    }
+  }
 }
