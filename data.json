@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T05:10:00+09:00",
+  "timestamp": "2026-03-24T05:20:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Resilient despite global pressures; strong engagement from domestic collectors in China, Japan, Korea, and Singapore; growth in family offices setting up in Singapore and Hong Kong.",
-    "key_trends": "Asia-centric buyer base becoming more prominent; focus on regional engagement and high-value works; stabilization efforts around hubs like Hong Kong.",
-    "recent_events": "Art Fair Tokyo recently concluded, showcasing diverse contemporary art; Asia Week New York 2026 is underway; Hong Kong Art Week is active with Art Basel."
+    "global_sales_outlook": "Cautiously optimistic for 2026; market resilience driven by blue-chip demand and Asia-centric growth, despite geopolitical concerns and rising operational costs.",
+    "key_trends": "Asia-centric buyer base pivot; Art Basel Hong Kong and Hong Kong Art Week events driving regional engagement; focus on digital/tech-driven art debuts.",
+    "recent_events": "Hong Kong Art Week (March 23-29) in full swing; Art Basel Hong Kong (March 27-29) preview days approaching; widespread regional art events."
   },
   "stock_market": {
-    "status": "Volatile / Potential Rebound",
-    "market_sentiment": "High volatility due to geopolitical tensions (US-Iran); however, signs of a potential rebound on March 24 following announcement of postponed military strikes.",
-    "key_factors": "Escalating US-Iran conflict remains the primary driver; oil prices in focus; potential for volatile but recovering start following de-escalation rhetoric."
+    "status": "High Volatility / Fragile",
+    "market_sentiment": "Fragile optimism; markets consolidating after sharp March 23 rebound (Dow +2.4%) as geopolitical tensions with Iran remain the central driver.",
+    "key_factors": "Ongoing US-Iran conflict causes extreme volatility; attention remains on potential escalation vs. de-escalation; investors hedging against downside risks amid oil market shifts."
   }
 }
