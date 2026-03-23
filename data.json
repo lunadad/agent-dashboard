@@ -4,7 +4,7 @@
     "KOSPI": {
       "change": -6.49,
       "close": 5405.75,
-      "summary": "Escalating geopolitical tensions in the Middle East led to a significant market downturn, with the KOSPI plunging 6.49%."
+      "summary": "Escalating geopolitical tensions in the Middle East following threats from the Trump administration against Iran led to a significant market downturn, with the KOSPI plunging 6.49%. The won weakened past 1,517 against the dollar, the lowest in 17 years."
     },
     "KOSDAQ": {
       "change": -5.56,
@@ -20,5 +20,5 @@
       "Spectrosynthesis Seoul at Art Sonje Center"
     ]
   },
-  "last_updated": "2026-03-23T21:00:00+09:00"
+  "last_updated": "2026-03-23T21:20:00+09:00"
 }
