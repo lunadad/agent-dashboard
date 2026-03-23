@@ -1,24 +1,4 @@
 {
-  "date": "2026-03-23",
-  "stock_market": {
-    "KOSPI": {
-      "change": -6.49,
-      "close": 5405.75,
-      "summary": "Escalating geopolitical tensions in the Middle East following threats from the Trump administration against Iran led to a significant market downturn, with the KOSPI plunging 6.49%. A sell-side circuit breaker was activated for five minutes. The won weakened past 1,517 against the dollar, the lowest in 17 years. New BOK Governor Shin Hyun-song's hawkish stance added to market jitters."
-    },
-    "KOSDAQ": {
-      "change": -5.56,
-      "close": 1096.89
-    },
-    "KRW_USD": "1517.3 (Lowest in 17 years)"
-  },
-  "art_scene": {
-    "highlights": [
-      "Damien Hirst retrospective at MMCA: 'Nothing Is True But Everything Is Possible'",
-      "Digital art exhibition '20! 2026 Art Seoul' continues with new trust system",
-      "Kim Yun-shin retrospective at Hoam Museum of Art",
-      "Spectrosynthesis Seoul at Art Sonje Center"
-    ]
-  },
-  "last_updated": "2026-03-23T22:00:00+09:00"
+  "timestamp": "2026-03-23T22:20:00",
+  "briefing": "KOSPI fell 6.49% due to Middle East tensions and hawkish BOK outlook. Circuit breaker activated. KRW/USD at 17-year low (1517.3). Art scene features Hirst, Kim Yun-shin, and digital fair updates."
 }
