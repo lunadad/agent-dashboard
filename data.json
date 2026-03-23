@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T06:20:00+09:00",
+  "timestamp": "2026-03-24T06:30:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Strengthening optimism for 2026; dealers anticipate sales growth. Focus on Art Basel HK previews starting March 25.",
-    "key_trends": "Hybrid experiences, rise of AI in art, and wealth transfer to new collector bases are shaping the market.",
-    "recent_events": "Art Basel Hong Kong 2026 preparations finalized; major focus on the HKCEC and new sector debuts."
+    "global_sales_outlook": "Global art market reached $59.6B in 2025 (+2% transactions); 43% of dealers expect sales improvement in 2026. Focus remains on the upcoming Art Basel HK (March 27-29, previews March 25-26).",
+    "key_trends": "Market restructuring continues amid geopolitical shifts and rising operational costs. Postwar and Contemporary art remains a key sector, Modern art reversed a 3-year decline (+9%).",
+    "recent_events": "Art Basel Hong Kong 2026 preparations finalized; features 240 galleries from 41 countries; debuts 'Zero 10' digital art initiative."
   },
   "stock_market": {
-    "status": "Volatile / Uncertain",
-    "market_sentiment": "High uncertainty; optimism from potential US-Iran de-escalation countered by Iranian skepticism.",
-    "key_factors": "Continued conflict, Strait of Hormuz disruptions, and oil price volatility remain dominant risks."
+    "status": "Rallying / Tentative",
+    "market_sentiment": "Major surge on March 23 following President Trump's hint at de-escalation with Iran (Dow +1,000 pts). Sentiment remains tentative after Iran denied talks.",
+    "key_factors": "Geopolitical de-escalation optimism; oil prices plunged ~10.9% (Brent ~$99.94) providing relief to fuel-intensive sectors."
   }
 }
