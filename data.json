@@ -1,13 +1,10 @@
 {
-  "timestamp": "2026-03-24T07:10:00+09:00",
-  "art_market": {
-    "global_sales_outlook": "Korean art market in a period of contraction post-2022 peak, with 2025 H1 sales dropping 37% YoY to $42M; collectors increasingly prioritizing narrative and curatorial context over purely financial speculation.",
-    "key_trends": "Despite market cooling, Seoul remains a critical Asian hub for upcoming 2026 exhibitions and Frieze Seoul (Sept 2-5).",
-    "recent_events": "Collectors showing heightened discernment; focus remains on established figures and contemporary narrative-driven works."
-  },
-  "stock_market": {
-    "status": "High Volatility / Correction Phase",
-    "market_sentiment": "Bearish sentiment following a 'triple shock' (oil, KRW, rate hike fears) that saw the KOSPI plunge 6.49% to 5,405.75 on March 23.",
-    "key_factors": "Massive institutional/foreign sell-off met by record retail buying. US-Iran conflict remains the primary geopolitical driver, with tentative de-escalation signals causing cautious relief in global markets."
-  }
+  "updated_at": "2026-03-24T07:20:00+09:00",
+  "summary": "Asian markets continue to assess the impact of escalating US-Iran tensions. Major indices saw declines on Monday, with continuing volatility on Tuesday. Global commodities, particularly oil, show instability. The Boao Forum for Asia 2026 has commenced in Hainan, China.",
+  "market_mood": "Bearish/Volatile",
+  "key_events": [
+    "US-Iran geopolitical tensions weighing on investor sentiment",
+    "Boao Forum for Asia 2026 begins in Hainan, China",
+    "Oil prices exhibit volatility; Brent at ~$112, WTI reacting to geopolitical uncertainty"
+  ]
 }
