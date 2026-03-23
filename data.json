@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T02:10:00+09:00",
+  "timestamp": "2026-03-24T02:20:00+09:00",
   "art_market": {
     "global_sales_2025": "$59.6 billion",
     "growth": "4%",
-    "key_trends": "Recent auction data shows resilience in Impressionist and Modern segments. Private sales stabilizing as interest rates hold steady."
+    "key_trends": "Market reorganization continues; focus on blue-chip/established artists; private sales growing as a crucial stabilizing sector."
   },
   "stock_market": {
-    "status": "Cautiously Optimistic",
-    "us_market": "Consolidating gains post-surge; focus shifts to Q1 earnings previews.",
-    "key_factors": "Monitoring core CPI data. Geopolitical risks remain, but energy price volatility has subsided."
+    "status": "Relief Rally",
+    "us_market": "Markets rallied sharply following potential de-escalation of Iran-US conflict; Dow surged ~1000 pts.",
+    "key_factors": "Geopolitical volatility remains, though immediate energy price shocks have reversed."
   }
 }
