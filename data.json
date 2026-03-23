@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T05:20:00+09:00",
+  "timestamp": "2026-03-24T05:30:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Cautiously optimistic for 2026; market resilience driven by blue-chip demand and Asia-centric growth, despite geopolitical concerns and rising operational costs.",
-    "key_trends": "Asia-centric buyer base pivot; Art Basel Hong Kong and Hong Kong Art Week events driving regional engagement; focus on digital/tech-driven art debuts.",
-    "recent_events": "Hong Kong Art Week (March 23-29) in full swing; Art Basel Hong Kong (March 27-29) preview days approaching; widespread regional art events."
+    "global_sales_outlook": "2025 growth to $59.6 billion (+4%); market showing cautious resilience with strong focus on blue-chip and high-end segments.",
+    "key_trends": "Asia-centric growth continues; Hong Kong solidifying hub status; emphasis on tech-driven debuts ('Zero 10' sector) at upcoming fairs.",
+    "recent_events": "Hong Kong Art Week in full swing (March 21-29); Art Basel Hong Kong preview days (March 25-26) and main event (March 27-29) approaching; high dealer optimism in Asia."
   },
   "stock_market": {
-    "status": "High Volatility / Fragile",
-    "market_sentiment": "Fragile optimism; markets consolidating after sharp March 23 rebound (Dow +2.4%) as geopolitical tensions with Iran remain the central driver.",
-    "key_factors": "Ongoing US-Iran conflict causes extreme volatility; attention remains on potential escalation vs. de-escalation; investors hedging against downside risks amid oil market shifts."
+    "status": "Volatile/Consolidating",
+    "market_sentiment": "Cautious; market participants assessing geopolitical de-escalation impacts; volatility remains a central theme amid global economic monitoring.",
+    "key_factors": "Ongoing US-Iran geopolitical situation; focus shifting to potential impacts on oil prices and incoming Q1 earnings clarity."
   }
 }
