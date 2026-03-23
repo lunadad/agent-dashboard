@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T03:55:00+09:00",
+  "timestamp": "2026-03-24T04:00:00+09:00",
   "art_market": {
-    "global_sales_outlook": "Moderate growth continuing in 2026 despite geopolitical instability.",
-    "key_trends": "Collectors favor physical materiality in painting amid AI proliferation; interest in Asian art expanding (Asia Week NY).",
-    "recent_events": "Exhibitions like 《SpectroSynthesis Seoul》 at Art Sonje Center; Asia Week New York ongoing."
+    "global_sales_outlook": "Resilient, focused on blue-chip stability amid easing volatility.",
+    "key_trends": "Collectors seeking stability in established Impressionist and Modern segments; physical materiality remains key.",
+    "recent_events": "Asia Week New York ongoing; focus shifting toward spring auction previews."
   },
   "stock_market": {
-    "status": "High Volatility (Correction/Panic)",
-    "market_sentiment": "Global markets reeling from heightened Middle East tensions (geopolitical uncertainty).",
-    "key_factors": "Brent crude near $115/bbl; gold dropping; KOSPI experienced a 'Black Monday' with significant foreign/institutional outflow. US market watching employment data (ADP report)."
+    "status": "Cautiously Optimistic / Consolidation",
+    "market_sentiment": "Global markets consolidating gains; easing of geopolitical tensions provides support.",
+    "key_factors": "Investors digesting gains; focus shifting to upcoming Q1 earnings previews; low volatility in early Asian trade."
   }
 }
