@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-24T05:30:00+09:00",
+  "timestamp": "2026-03-24T05:40:00+09:00",
   "art_market": {
-    "global_sales_outlook": "2025 growth to $59.6 billion (+4%); market showing cautious resilience with strong focus on blue-chip and high-end segments.",
-    "key_trends": "Asia-centric growth continues; Hong Kong solidifying hub status; emphasis on tech-driven debuts ('Zero 10' sector) at upcoming fairs.",
-    "recent_events": "Hong Kong Art Week in full swing (March 21-29); Art Basel Hong Kong preview days (March 25-26) and main event (March 27-29) approaching; high dealer optimism in Asia."
+    "global_sales_outlook": "Market resilience despite geopolitical tension; focus remains on HK Art Basel (March 27-29, 2026) as Asia's premier hub.",
+    "key_trends": "Introduction of 'Echoes' and 'Zero 10' digital art sectors; landmark 5-year deal between HK government and Art Basel.",
+    "recent_events": "Preview days approaching (March 25-26); M+ Museum projections and public art initiatives launching; high dealer/institutional focus."
   },
   "stock_market": {
-    "status": "Volatile/Consolidating",
-    "market_sentiment": "Cautious; market participants assessing geopolitical de-escalation impacts; volatility remains a central theme amid global economic monitoring.",
-    "key_factors": "Ongoing US-Iran geopolitical situation; focus shifting to potential impacts on oil prices and incoming Q1 earnings clarity."
+    "status": "High Volatility/Risk-Off",
+    "market_sentiment": "Bearish following March 23 sharp downturn; investors reactive to escalating geopolitical tensions in the Middle East and oil price volatility.",
+    "key_factors": "Hang Seng Index impacted by regional risk-off sentiment; investors prioritizing defensive/alternative assets; market awaiting stabilization."
   }
 }
