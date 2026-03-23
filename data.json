@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-03-24T07:20:00+09:00",
-  "summary": "Asian markets continue to assess the impact of escalating US-Iran tensions. Major indices saw declines on Monday, with continuing volatility on Tuesday. Global commodities, particularly oil, show instability. The Boao Forum for Asia 2026 has commenced in Hainan, China.",
-  "market_mood": "Bearish/Volatile",
+  "updated_at": "2026-03-24T07:30:00+09:00",
+  "summary": "Global stock markets experienced a relief rally on March 23rd following the postponement of US attacks on Iranian power plants. S&P 500 climbed 1.1%, while Brent crude fell 10% to $101. Art market trends highlight a 'Transvertical' shift, combining luxury and digital assets, with strong regional growth in the Middle East.",
+  "market_mood": "Cautiously Optimistic",
   "key_events": [
-    "US-Iran geopolitical tensions weighing on investor sentiment",
-    "Boao Forum for Asia 2026 begins in Hainan, China",
-    "Oil prices exhibit volatility; Brent at ~$112, WTI reacting to geopolitical uncertainty"
+    "S&P 500 rose 1.1% on March 23rd after US-Iran de-escalation signals.",
+    "Brent crude fell 10% to $101 per barrel.",
+    "Energy sector +33% YTD, while Software sector -20%.",
+    "Art world: Whitney Biennial (AI/climate focus) and TEFAF Maastricht success; focus on Middle Eastern regional expansion."
   ]
 }
