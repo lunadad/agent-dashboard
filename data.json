@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-03-24T08:40:00+09:00",
-  "summary": "Asian markets remain under pressure from geopolitical tensions. Strait of Hormuz situation continues to impact energy volatility. Art Basel Hong Kong previews are commencing.",
-  "market_mood": "Bearish / High Alert",
-  "key_events": [
-    "Asian markets: Continued pressure due to geopolitical instability.",
-    "Energy: Strait of Hormuz supply concerns impacting Brent crude pricing.",
-    "Art Basel Hong Kong: Previews beginning; market resilience tested."
-  ],
-  "dailyReports": {
-    "FT": {
-      "raw": "From: 김슬기 <miksnah@gmail.com>\nTo: 김슬기 <miksnah@gmail.com>\nSubject: [FT 데일리 브리핑] 2026년 3월 24일 - 시장 업데이트\n\n📰 Financial Times 시장 현황\n2026년 3월 24일 (화요일) | 08:40 KST 기준\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n[시장 동향] \n아시아 증시 전반 하락세 지속. 지정학적 리스크로 인한 에너지 가격 변동성 확대.\n\n[아트 마켓]\nArt Basel Hong Kong 2026 프리뷰 시작. 금융 시장 불안에도 불구하고 아트 마켓으로의 자금 이동은 여전히 주목받는 중.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ 본 정보는 시장 상황 업데이트를 위한 AI 대시보드 데이터입니다."
-    },
-    "LiveUpdate": {
-      "raw": "Asian markets remain pressured by geopolitical tensions. Strait of Hormuz developments continue to impact energy prices. Art Basel Hong Kong previews commence tomorrow."
-    }
+  "last_updated": "2026-03-24T09:01:00+09:00",
+  "briefing": {
+    "title": "Art Market 2026 Outlook",
+    "summary": "U.S. art market saw a 23% rebound in 2025 with $3.17B in auction sales, signaling a shift toward quality and provenance over speculation. Global art market grew 4% to $59.6B. Looking ahead to 2026, cautious optimism prevails amidst structural changes, with high-income spending and lower interest rates supporting the market, despite ongoing concerns about dealer profitability and geopolitical instability."
   }
 }
