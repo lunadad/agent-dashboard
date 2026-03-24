@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-24T15:40:00+09:00",
+  "last_updated": "2026-03-24T16:00:00+09:00",
   "stock_summary": {
     "trend": "cautious-rebound",
     "market_sentiment": "cautious optimism",
     "key_events": [
-      "Global markets rally as geopolitical tensions ease after U.S. postponed Iran bombing",
-      "Asian equities rose 1.3%, Nikkei advanced over 2%",
-      "Oil prices show volatility, Brent crude up 1% at $100.94"
+      "Global markets rebound on easing US-Iran conflict tensions",
+      "Asian indices (Nikkei, ASX 200, Kospi) see gains",
+      "Crude oil prices show volatility; gold/silver recover after strike pause"
     ]
   },
   "art_summary": {
-    "trend": "cautious-optimism",
+    "trend": "recovery-with-structural-shifts",
     "key_highlights": [
-      "Global art market grew 4% in 2025 to $59.6 billion",
-      "US maintains dominant position with 44% market share",
-      "Contemporary/Postwar art remains largest sector, with Modern/Impressionist showing strong growth"
+      "Global art market recovered 4% in 2025 to reach US$59.6 billion",
+      "Public auction sales increased 9% to US$20.7 billion",
+      "2026 outlook cautious; dealers prioritizing established artists amid geopolitical instability"
     ]
   }
 }
