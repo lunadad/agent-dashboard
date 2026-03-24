@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-03-24T11:20:00+09:00",
+  "timestamp": "2026-03-24T11:30:00+09:00",
   "market_summary": {
-    "DJIA": "Stock markets are seeing a mixed global performance today as investors digest conflicting reports regarding US-Iran conflict de-escalation talks. Crude oil prices are volatile, dropping below $100 after hitting highs.",
-    "context": "Market is focusing on US economic data releases (PMI) and geopolitical developments. Investors are cautious amid ongoing volatility."
+    "DJIA": "Global stock markets show a positive opening on March 24, 2026, following a de-escalation in US-Iran tensions. Major indices including the Dow, S&P 500, and Nasdaq ended over 1% higher overnight, and Asian markets are rallying.",
+    "context": "Investors are optimistic as geopolitical tensions ease. GIFT Nifty indicates a sharp gap-up, reflecting strong momentum across Asian markets despite recent volatility."
   },
   "art_highlights": [
     {
-      "topic": "Art Market 2026 Outlook",
-      "detail": "Market shows renewed confidence with a focus on high-end rare works. Private sales and digital art continue to gain influence as hubs like Paris and the Middle East strengthen."
-    },
-    {
       "topic": "Art Basel Hong Kong 2026",
-      "detail": "Continued focus on ABHK; strong representation of international galleries and institutional interest in both historical and contemporary segments."
+      "detail": "ABHK has officially opened, featuring 240 galleries from 41 countries. The event highlights a dialogue between historical modernism and contemporary social critique, with a strong Taiwanese presence."
     },
     {
-      "topic": "Exhibition News",
-      "detail": "Smart Museum of Art continues 'Composing Color: Paintings by Alma Thomas' through July 5th."
+      "topic": "Market Dynamics & Banksy",
+      "detail": "Industry debate continues over the impact of artist identity on valuation, following the revelation of Banksy's identity as Robin Gunningham."
+    },
+    {
+      "topic": "Biennales & Exhibits",
+      "detail": "The Diriyah Contemporary Art Biennale, 'In Interludes and Transitions,' continues in Saudi Arabia through May 2nd."
     }
   ]
 }
