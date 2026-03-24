@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-24T09:01:00+09:00",
-  "briefing": {
-    "title": "Art Market 2026 Outlook",
-    "summary": "U.S. art market saw a 23% rebound in 2025 with $3.17B in auction sales, signaling a shift toward quality and provenance over speculation. Global art market grew 4% to $59.6B. Looking ahead to 2026, cautious optimism prevails amidst structural changes, with high-income spending and lower interest rates supporting the market, despite ongoing concerns about dealer profitability and geopolitical instability."
-  }
+  "timestamp": "2026-03-24T09:40:00+09:00",
+  "market_summary": {
+    "KOSPI": "Surged 4.39% to 5,600+, rebounding from recent geopolitical volatility.",
+    "context": "Market rallied following eased U.S.-Iran geopolitical tensions."
+  },
+  "art_highlights": [
+    {
+      "topic": "Samsung Art Store",
+      "detail": "Launched Art Basel Hong Kong 2026 Collection featuring 25 works and selected pieces from the Lee Kun-Hee Collection."
+    },
+    {
+      "topic": "Upcoming Fairs",
+      "detail": "Art Basel Hong Kong (March 27-29, with previews March 25-26)."
+    }
+  ]
 }
