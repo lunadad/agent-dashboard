@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-24T10:30:00+09:00",
+  "timestamp": "2026-03-24T10:50:00+09:00",
   "market_summary": {
-    "KOSPI": "Surged 4.30% to 5,638.20, rebounding strongly as Middle East tensions eased following U.S. signals.",
-    "context": "Market recovery after yesterday's 6.49% decline, with investor sentiment boosted by improved geopolitical outlook."
+    "KOSPI": "Surged 4.30% to 5,638.20 at opening, rebounding on de-escalation of Middle East tensions.",
+    "context": "Strong rebound fueled by positive overnight sentiment and geopolitical cooling; market heavyweights leading the charge."
   },
   "art_highlights": [
     {
-      "topic": "Art Basel Hong Kong 2026 (Upcoming)",
-      "detail": "Preview days begin tomorrow, March 25, with public viewing from March 27-29 at HKCEC."
+      "topic": "Art Basel Hong Kong 2026 (Preview Days)",
+      "detail": "Preview days commence tomorrow, March 25, followed by public viewing March 27-29. Notable for new digital art initiatives and a landmark collaboration deal with HK."
     },
     {
-      "topic": "Hong Kong Art Month Activity",
-      "detail": "Events are ramping up today, March 24, with gallery exhibitions (Zwirner, Gagosian) opening and M+ Facade commissions (Ho Tzu Nyen) now live."
+      "topic": "Hong Kong Cultural Sector",
+      "detail": "Event ramp-up continuing today, featuring expanded 'Encounters' sector and upcoming five-year collaboration deal with Art Basel."
     }
   ]
 }
