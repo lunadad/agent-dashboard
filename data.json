@@ -1,14 +1,12 @@
 {
-  "last_updated": "2026-03-25T07:50:00+09:00",
-  "market_summary": {
-    "status": "stable",
-    "key_event": "KOSPI holding steady at 5,553.92 pts.",
-    "won_status": "stable",
-    "investor_sentiment": "neutral to positive"
-  },
-  "briefing_highlights": [
-    "KOSPI holding steady at 5,553.92 pts.",
-    "Market sentiment appears stable after early volatility.",
-    "Dashboard refreshed with real-time tracking."
-  ]
+  "last_updated": "2026-03-25T08:03:00+09:00",
+  "briefing": {
+    "market_summary": "KOSPI rebounded on March 24th, surging 2.7% to 5,553.92. Retail investors continue aggressive buying, aiming for record monthly net purchases, while foreign investors remain net sellers.",
+    "art_highlights": [
+      "COLORSCAPE: Worn in Color at SUNY Korea Museum of Modern Costume",
+      "Spectrosynthesis Seoul at Art Sonje Center",
+      "Lotus L. Kang Chora at Kukje Gallery",
+      "Park Chan-Kyong: Zen Master of the Eyeball at Kukje Gallery"
+    ]
+  }
 }
