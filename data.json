@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-03-24T11:40:00+09:00",
+  "timestamp": "2026-03-24T11:50:00+09:00",
   "market_summary": {
-    "Status": "Asian markets rebounded on March 24, 2026, driven by cautious optimism over potential Middle East de-escalation after US-Iran talks.",
-    "Performance": "Nikkei 225 (+1.2%), Kospi (+2.2%), and Hang Seng (+1.5%) showed strong recovery from previous day's sharp losses."
+    "Status": "Asian markets rebounded on March 24, 2026, driven by cautious relief following signals of potential de-escalation in Middle East tensions and overnight recovery in US markets.",
+    "Performance": "KOSPI led the regional recovery with a 3.5% surge, rebounding from the previous day's significant losses. Nikkei 225 (+1.1%), Hang Seng (+1.1%), and other regional indices also posted gains."
   },
   "art_highlights": [
     {
-      "topic": "Art Basel Hong Kong 2026",
-      "detail": "ABHK is in full swing, featuring 240 galleries. Taiwan-linked galleries are notable, presenting works ranging from historical modernism to contemporary social critiques."
+      "topic": "Seoul's Golden Age of Art",
+      "detail": "2026 is being dubbed 'Seoul's Year of Art' with major museum openings, including the upcoming Pompidou Center Hanwha Seoul."
     },
     {
-      "topic": "New Museum Openings",
-      "detail": "Paris's Grand Palais opened a major Henri Matisse retrospective, 'Matisse, 1941–1954,' focusing on his late-career cut-outs."
+      "topic": "Major Exhibitions",
+      "detail": "Significant concurrent exhibitions by Tino Sehgal and Damien Hirst are currently drawing attention in Seoul, highlighting themes from relational events to life and death."
     },
     {
-      "topic": "Biennales",
-      "detail": "The 25th Biennale of Sydney, 'Rememory,' continues to explore themes of memory and inheritance through active force."
+      "topic": "Global Art Market Trends",
+      "detail": "The Art Basel and UBS Art Market Report 2026 notes a return to growth with 4% global sales increase in 2025. While international buying softens, domestic markets like Korea show resilience with 6% sales growth."
     }
   ]
 }
