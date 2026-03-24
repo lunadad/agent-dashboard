@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-24T15:15:00+09:00",
+  "last_updated": "2026-03-24T15:20:00+09:00",
   "stock_summary": {
-    "trend": "rebounding",
+    "trend": "cautious-rebound",
     "market_sentiment": "cautious optimism",
     "key_events": [
-      "Indian markets rebounded amid geopolitical de-escalation hopes (postponement of US strikes)",
-      "US markets closed up >1% on March 23; global indices showing recovery",
-      "Oil prices remain volatile; gold/silver prices declined due to perceived stability"
+      "Global markets rebounding on hopes of de-escalation in US-Iran tensions",
+      "US500 down 0.52% today but stabilizing after yesterday's 1%+ rally",
+      "Asian markets showing strong recovery (Nikkei +1.1%, Kospi +2.2%)"
     ]
   },
   "art_summary": {
-    "trend": "resilience/growth",
+    "trend": "recovery/recalibration",
     "key_highlights": [
-      "Global art market grew 4% in 2025 to $59.6 billion, driven by high-end sales",
-      "US remains leading market (44% of global sales, $26B, +5% YoY)",
-      "Strong demand for established artists and Impressionist/Modern segments; recovery noted"
+      "Global art market reached $59.6 billion in 2025, driven by select high-value sales",
+      "US market shows resilience with 23% auction growth in 2025",
+      "Market shift towards long-term stewardship; contemporary & digital art segments gaining traction"
     ]
   }
 }
