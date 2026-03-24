@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-03-24T11:05:00+09:00",
+  "timestamp": "2026-03-24T11:20:00+09:00",
   "market_summary": {
-    "DJIA": "Market anticipating a choppier day with a slight upward bias, following a strong reversal surge on March 23rd. Projected close for the DJIA is estimated between 46,050 and 46,650.",
-    "context": "Investors are weighing geopolitical tensions against earnings growth projections of 14.4% for the S&P 500 for the full year 2026."
+    "DJIA": "Stock markets are seeing a mixed global performance today as investors digest conflicting reports regarding US-Iran conflict de-escalation talks. Crude oil prices are volatile, dropping below $100 after hitting highs.",
+    "context": "Market is focusing on US economic data releases (PMI) and geopolitical developments. Investors are cautious amid ongoing volatility."
   },
   "art_highlights": [
     {
-      "topic": "Art Basel Hong Kong 2026",
-      "detail": "ABHK has opened with 240 galleries from 41 countries. Featuring significant representation from Taiwanese galleries and unique exhibitions like 'Polyphony' and performance piece 'Price, Value, and Taotie'."
+      "topic": "Art Market 2026 Outlook",
+      "detail": "Market shows renewed confidence with a focus on high-end rare works. Private sales and digital art continue to gain influence as hubs like Paris and the Middle East strengthen."
     },
     {
-      "topic": "Banksy Identity Revelation",
-      "detail": "Recent reports suggesting Banksy is Robin Gunningham have sparked widespread industry debate on how this affects artwork valuation."
+      "topic": "Art Basel Hong Kong 2026",
+      "detail": "Continued focus on ABHK; strong representation of international galleries and institutional interest in both historical and contemporary segments."
     },
     {
       "topic": "Exhibition News",
-      "detail": "Smart Museum of Art debuts 'Composing Color: Paintings by Alma Thomas' (running March 24 – July 5, 2026)."
+      "detail": "Smart Museum of Art continues 'Composing Color: Paintings by Alma Thomas' through July 5th."
     }
   ]
 }
