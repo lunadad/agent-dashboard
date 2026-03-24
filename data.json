@@ -1,15 +1,14 @@
 {
-  "last_updated": "2026-03-25T07:40:00+09:00",
+  "last_updated": "2026-03-25T07:50:00+09:00",
   "market_summary": {
-    "status": "upward",
-    "key_event": "KOSPI closed at 5,553.92 pts (+2.74%)",
-    "won_status": "strengthening",
-    "investor_sentiment": "positive momentum"
+    "status": "stable",
+    "key_event": "KOSPI holding steady at 5,553.92 pts.",
+    "won_status": "stable",
+    "investor_sentiment": "neutral to positive"
   },
   "briefing_highlights": [
-    "KOSPI closed at 5,553.92 pts with a 2.74% gain.",
-    "Strong investor sentiment driving recovery.",
-    "Art market shows continued resilience in Q1.",
-    "Won strengthening against major currencies."
+    "KOSPI holding steady at 5,553.92 pts.",
+    "Market sentiment appears stable after early volatility.",
+    "Dashboard refreshed with real-time tracking."
   ]
 }
