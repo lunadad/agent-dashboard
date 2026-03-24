@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-24T09:40:00+09:00",
+  "timestamp": "2026-03-24T09:50:00+09:00",
   "market_summary": {
-    "KOSPI": "Surged 4.39% to 5,600+, rebounding from recent geopolitical volatility.",
-    "context": "Market rallied following eased U.S.-Iran geopolitical tensions."
+    "KOSPI": "Surged 4.39% to 5,638.20, rebounding above 5,600 following eased U.S.-Iran tensions and recovery in New York markets.",
+    "context": "Market recovery after yesterday's 6.49% plunge."
   },
   "art_highlights": [
     {
-      "topic": "Samsung Art Store",
-      "detail": "Launched Art Basel Hong Kong 2026 Collection featuring 25 works and selected pieces from the Lee Kun-Hee Collection."
+      "topic": "Art Basel Hong Kong 2026",
+      "detail": "Fair runs March 27-29 at HKCEC, with previews March 25-26. Features 240 galleries and new 'Echoes' sector."
     },
     {
-      "topic": "Upcoming Fairs",
-      "detail": "Art Basel Hong Kong (March 27-29, with previews March 25-26)."
+      "topic": "Samsung Art Store",
+      "detail": "Promoting Art Basel connections and digital art accessibility via The Frame TVs, offering thousands of works including curated collections."
     }
   ]
 }
