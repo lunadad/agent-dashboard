@@ -1,20 +1,5 @@
 {
-  "last_updated": "2026-03-24T16:30:00+09:00",
-  "stock_summary": {
-    "trend": "strong-rebound",
-    "market_sentiment": "optimistic-recovery",
-    "key_events": [
-      "KOSPI and KOSDAQ experienced a significant rebound, recovering from the prior session's 'Black Monday' decline",
-      "KOSPI index surged, regaining the 5,600 level, driven by positive sentiment surrounding potential Middle East negotiations",
-      "Heavyweight stocks including Samsung Electronics, SK Hynix, Hyundai Motor, and LG Energy Solution led the recovery"
-    ]
-  },
-  "art_summary": {
-    "trend": "golden-age-expansion",
-    "key_highlights": [
-      "Significant expansion in Seoul's museum scene for 2026, including the Pompidou Center Hanwha Seoul and Park Seo-bo Museum openings",
-      "Innovative use of steel technology (PosArt) for tactile art installations at the National Museum of Korea",
-      "Concurrent major exhibitions by Tino Sehgal and Damien Hirst mark March 2026 as a pivotal moment for Seoul's art calendar"
-    ]
-  }
+  "last_updated": "2026-03-24T16:40:00+09:00",
+  "market_summary": "Asian markets rebounded on March 24, 2026, amid optimism regarding potential de-escalation in the US-Iran conflict following statements from President Trump. Nikkei 225 rose 1.1%, Hang Seng 2.2%, and Kospi 2.7%.",
+  "art_highlight": "Art Basel Hong Kong is underway (March 24-29), featuring 240 galleries. New exhibits include work by Anchi Lin and collaborative shows by Lin & Lin Gallery and Eslite Gallery."
 }
