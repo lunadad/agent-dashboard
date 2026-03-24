@@ -1,10 +1,15 @@
 {
-  "timestamp": "2026-03-25T07:10:00+09:00",
-  "summary": "Morning update: KOSPI holding at 5,554 pts. Art market remains stable with a focus on high-quality, rare works as part of the Q1 2026 recovery.",
-  "market_drivers": [
-    "Market Outlook: Continued focus on high-quality, rarity-driven supply for 2026; dealers anticipate stable to improved sales performance.",
-    "Regional Dynamics: U.S. dominance (44% of global market) remains; New York captures ~69% of global auction value.",
-    "Emerging Hubs: The Middle East is rapidly gaining influence, fueled by major institutional growth and expansion of local art fair circuits.",
-    "Strategic Shifts: Art fairs are critical again (35% of dealer turnover), while collectors are prioritizing blue-chip modern and impressionist works over contemporary speculative flips."
+  "last_updated": "2026-03-25T07:20:00+09:00",
+  "market_summary": {
+    "status": "volatile",
+    "key_event": "KOSPI index pressure due to geopolitical tensions and Fed stance",
+    "won_status": "17-year low (as of mid-March)",
+    "investor_sentiment": "Retail resilience net buying despite institutional sell-offs"
+  },
+  "briefing_highlights": [
+    "KOSPI volatility remains high due to Middle East conflict and US Federal Reserve policy.",
+    "Retail investors have net-bought 26 trillion KRW in March, supporting the index floor.",
+    "Shareholder season is focusing on corporate governance and undervaluation issues.",
+    "Energy supply chain stability is the primary monitor for market recovery."
   ]
 }
