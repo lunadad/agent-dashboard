@@ -1,5 +1,9 @@
 {
-  "last_updated": "2026-03-25T05:10:00+09:00",
-  "market_summary": "Asian markets seeing cautious gains, rebounding after Middle East tensions persist; technology and AI sectors remain central to private equity strategies.",
-  "art_highlight": "Art Basel Hong Kong 2026 VIP preview day commences, featuring over 240 galleries and significant attention on artists like Woo Hannah and Emi Kusano."
+  "timestamp": "2026-03-25T05:20:00+09:00",
+  "summary": "Seoul markets braced for volatility amid Middle East tensions. KOSPI closed at 5,553.92. Domestic energy-saving measures implemented. Shin Hyun-song nominated as Bank of Korea governor.",
+  "market_drivers": [
+    "Geopolitical Risks: Middle East crisis impacting oil and FX",
+    "Energy Measures: Public vehicle rationing and 20% cut in LNG power",
+    "BoK Leadership: Shin Hyun-song seen as pragmatic hawk"
+  ]
 }
