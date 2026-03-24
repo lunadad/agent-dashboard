@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-24T16:00:00+09:00",
+  "last_updated": "2026-03-24T16:20:00+09:00",
   "stock_summary": {
-    "trend": "cautious-rebound",
-    "market_sentiment": "cautious optimism",
+    "trend": "strong-rebound",
+    "market_sentiment": "optimistic-recovery",
     "key_events": [
-      "Global markets rebound on easing US-Iran conflict tensions",
-      "Asian indices (Nikkei, ASX 200, Kospi) see gains",
-      "Crude oil prices show volatility; gold/silver recover after strike pause"
+      "KOSPI index rebounds significantly (approx. 2.19% - 2.74% gain) following Middle East de-escalation signals",
+      "Investor confidence restored after geopolitical volatility; KOSDAQ also closed higher by 2.24%",
+      "Wall Street positive lead contributes to broad market recovery across tech and industrial sectors"
     ]
   },
   "art_summary": {
-    "trend": "recovery-with-structural-shifts",
+    "trend": "transformative-and-cautious",
     "key_highlights": [
-      "Global art market recovered 4% in 2025 to reach US$59.6 billion",
-      "Public auction sales increased 9% to US$20.7 billion",
-      "2026 outlook cautious; dealers prioritizing established artists amid geopolitical instability"
+      "Seoul art scene focuses on trust-building through initiatives like the '80% refund guarantee' digital art exhibit",
+      "Market pivot towards more discerning collectors and stability following 2025 contraction",
+      "Major 2026 outlook: Frieze Seoul continuity, museum programming (Seo-Seoul Museum of Art), and emphasis on technology-themed exhibitions"
     ]
   }
 }
