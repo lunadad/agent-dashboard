@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-03-25T07:20:00+09:00",
+  "last_updated": "2026-03-25T07:30:00+09:00",
   "market_summary": {
-    "status": "volatile",
-    "key_event": "KOSPI index pressure due to geopolitical tensions and Fed stance",
-    "won_status": "17-year low (as of mid-March)",
-    "investor_sentiment": "Retail resilience net buying despite institutional sell-offs"
+    "status": "stable",
+    "key_event": "KOSPI holding at 5,554 pts",
+    "won_status": "volatile",
+    "investor_sentiment": "monitoring retail inflow"
   },
   "briefing_highlights": [
-    "KOSPI volatility remains high due to Middle East conflict and US Federal Reserve policy.",
-    "Retail investors have net-bought 26 trillion KRW in March, supporting the index floor.",
-    "Shareholder season is focusing on corporate governance and undervaluation issues.",
-    "Energy supply chain stability is the primary monitor for market recovery."
+    "KOSPI holding at 5,554 pts.",
+    "Art market stable with Q1 2026 recovery focus.",
+    "Monitoring retail inflow post-volatility spike.",
+    "Market focus on energy stability and corporate governance."
   ]
 }
