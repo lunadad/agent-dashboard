@@ -1,17 +1,21 @@
 {
-  "timestamp": "2026-03-24T10:50:00+09:00",
+  "timestamp": "2026-03-24T11:05:00+09:00",
   "market_summary": {
-    "KOSPI": "Surged 4.30% to 5,638.20 at opening, rebounding on de-escalation of Middle East tensions.",
-    "context": "Strong rebound fueled by positive overnight sentiment and geopolitical cooling; market heavyweights leading the charge."
+    "DJIA": "Market anticipating a choppier day with a slight upward bias, following a strong reversal surge on March 23rd. Projected close for the DJIA is estimated between 46,050 and 46,650.",
+    "context": "Investors are weighing geopolitical tensions against earnings growth projections of 14.4% for the S&P 500 for the full year 2026."
   },
   "art_highlights": [
     {
-      "topic": "Art Basel Hong Kong 2026 (Preview Days)",
-      "detail": "Preview days commence tomorrow, March 25, followed by public viewing March 27-29. Notable for new digital art initiatives and a landmark collaboration deal with HK."
+      "topic": "Art Basel Hong Kong 2026",
+      "detail": "ABHK has opened with 240 galleries from 41 countries. Featuring significant representation from Taiwanese galleries and unique exhibitions like 'Polyphony' and performance piece 'Price, Value, and Taotie'."
     },
     {
-      "topic": "Hong Kong Cultural Sector",
-      "detail": "Event ramp-up continuing today, featuring expanded 'Encounters' sector and upcoming five-year collaboration deal with Art Basel."
+      "topic": "Banksy Identity Revelation",
+      "detail": "Recent reports suggesting Banksy is Robin Gunningham have sparked widespread industry debate on how this affects artwork valuation."
+    },
+    {
+      "topic": "Exhibition News",
+      "detail": "Smart Museum of Art debuts 'Composing Color: Paintings by Alma Thomas' (running March 24 – July 5, 2026)."
     }
   ]
 }
