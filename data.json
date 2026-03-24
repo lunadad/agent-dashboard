@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-03-24T16:20:00+09:00",
+  "last_updated": "2026-03-24T16:30:00+09:00",
   "stock_summary": {
     "trend": "strong-rebound",
     "market_sentiment": "optimistic-recovery",
     "key_events": [
-      "KOSPI index rebounds significantly (approx. 2.19% - 2.74% gain) following Middle East de-escalation signals",
-      "Investor confidence restored after geopolitical volatility; KOSDAQ also closed higher by 2.24%",
-      "Wall Street positive lead contributes to broad market recovery across tech and industrial sectors"
+      "KOSPI and KOSDAQ experienced a significant rebound, recovering from the prior session's 'Black Monday' decline",
+      "KOSPI index surged, regaining the 5,600 level, driven by positive sentiment surrounding potential Middle East negotiations",
+      "Heavyweight stocks including Samsung Electronics, SK Hynix, Hyundai Motor, and LG Energy Solution led the recovery"
     ]
   },
   "art_summary": {
-    "trend": "transformative-and-cautious",
+    "trend": "golden-age-expansion",
     "key_highlights": [
-      "Seoul art scene focuses on trust-building through initiatives like the '80% refund guarantee' digital art exhibit",
-      "Market pivot towards more discerning collectors and stability following 2025 contraction",
-      "Major 2026 outlook: Frieze Seoul continuity, museum programming (Seo-Seoul Museum of Art), and emphasis on technology-themed exhibitions"
+      "Significant expansion in Seoul's museum scene for 2026, including the Pompidou Center Hanwha Seoul and Park Seo-bo Museum openings",
+      "Innovative use of steel technology (PosArt) for tactile art installations at the National Museum of Korea",
+      "Concurrent major exhibitions by Tino Sehgal and Damien Hirst mark March 2026 as a pivotal moment for Seoul's art calendar"
     ]
   }
 }
