@@ -1,9 +1,10 @@
 {
-  "timestamp": "2026-03-25T17:00:00+09:00",
+  "timestamp": "2026-03-25T17:25:00+09:00",
   "briefing": {
     "ai_hardware": "Arm is projected to reach $15B valuation with AGI CPU efforts. SK Hynix plans a $14B US listing.",
-    "cybersecurity": "Cisco is entering the agentic security market.",
+    "cybersecurity": "SafePaaS announces federated identity governance architecture for AI and multi-cloud.",
     "openai": "OpenAI is shutting down Sora, reflecting strategic pivots; valuation hits $120B.",
-    "market_sentiment": "AI infrastructure demand remains robust, but focus is shifting towards specific agentic applications and valuations."
+    "market_sentiment": "AI spending projected to reach $500B in 2026; Zoom positions human conversation as edge in agentic AI era; AI Search Engine market projected to grow rapidly.",
+    "update_notes": "Updated with post-17:00 market developments regarding infrastructure investment and governance."
   }
 }
