@@ -1,22 +1,19 @@
 {
-  "updatedAt": "2026-03-26T06:40:00+09:00",
-  "briefing": {
-    "market": {
-      "summary": "Art Basel Hong Kong 2026 continues its morning session with strong collector engagement. Digital art and Modern classics remain the key drivers for current sales volume.",
-      "keyTrends": [
-        "Increased selectivity with higher sell-through rates",
-        "Historical categories and Modern art segment outperforming Contemporary",
-        "Significant long-term growth in the secondary market for women artists",
-        "Global art market stabilization at $59.6 billion",
-        "Growing collector interest in digital art integration at major fairs"
-      ]
-    },
-    "highlights": [
-      "Art Basel Hong Kong 2026: Morning collector traffic remains strong, digital art sector rising",
-      "Vivian Maier collection (206 prints) reaching secondary market peak on March 26",
-      "Global stocks show mixed performance with modest 2026 gains in major indices",
-      "Oil price fluctuations impacting energy sector stocks",
-      "Upcoming Q4 earnings for Stran & Company (SWAG)"
-    ]
+  "timestamp": "2026-03-26T06:50:00+09:00",
+  "market": {
+    "summary": "Global markets are rallying on optimism surrounding US-Iran peace de-escalation; oil prices are easing.",
+    "key_indicators": {
+      "nasdaq": "Up",
+      "sp500": "Up",
+      "dow": "Up",
+      "oil": "Down"
+    }
+  },
+  "art": {
+    "summary": "US art market is showing recovery with a 23% increase in auction sales in 2025. Restructuring focuses on established names.",
+    "featured_event": "Artnet 'Important Photographs' sale of Vivian Maier works closes today."
+  },
+  "corporate": {
+    "alert": "RenX (NASDAQ: RENX) 1-for-20 reverse stock split effective today."
   }
 }
