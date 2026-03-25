@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-03-26T07:00:00+09:00",
+  "timestamp": "2026-03-26T07:10:00+09:00",
   "market": {
-    "summary": "Global markets are rallying on optimism surrounding US-Iran peace de-escalation; oil prices are easing.",
+    "summary": "Markets show optimism on U.S.-Iran de-escalation; oil prices falling; RenX reverse stock split in effect.",
     "key_indicators": {
       "nasdaq": "Up",
       "sp500": "Up",
@@ -10,10 +10,10 @@
     }
   },
   "art": {
-    "summary": "US art market is showing recovery with a 23% increase in auction sales in 2025. Restructuring focuses on established names.",
-    "featured_event": "Artnet 'Important Photographs' sale of Vivian Maier works closes today."
+    "summary": "U.S. art market rebounds with 23% auction growth in 2025. Vivian Maier 'Important Photographs' sale concludes today.",
+    "featured_event": "Artnet 'Important Photographs' auction ends."
   },
   "corporate": {
-    "alert": "RenX (NASDAQ: RENX) 1-for-20 reverse stock split effective today."
+    "alert": "RenX (NASDAQ: RENX) 1-for-20 reverse stock split active today."
   }
 }
