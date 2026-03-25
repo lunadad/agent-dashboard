@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T17:25:00+09:00",
+  "timestamp": "2026-03-25T17:30:00+09:00",
   "briefing": {
-    "ai_hardware": "Arm is projected to reach $15B valuation with AGI CPU efforts. SK Hynix plans a $14B US listing.",
-    "cybersecurity": "SafePaaS announces federated identity governance architecture for AI and multi-cloud.",
-    "openai": "OpenAI is shutting down Sora, reflecting strategic pivots; valuation hits $120B.",
-    "market_sentiment": "AI spending projected to reach $500B in 2026; Zoom positions human conversation as edge in agentic AI era; AI Search Engine market projected to grow rapidly.",
-    "update_notes": "Updated with post-17:00 market developments regarding infrastructure investment and governance."
+    "ai_hardware": "Arm launched a 136-core AGI CPU for data centers, claiming over 2x performance per rack vs x86; SK Telecom pivots to AI data centers.",
+    "cybersecurity": "Tenable unveiled Hexa AI for autonomous exposure management; Trend Micro rebranded to TrendAI™ to focus on AI-compute layer security.",
+    "openai": "OpenAI discontinues Sora app, pivoting to B2B business tools; funding hits $120B valuation milestone.",
+    "market_sentiment": "Global AI infrastructure spending projected to hit $500B+ in 2026; industry focus shifts to agentic AI workloads and runtime security guardrails.",
+    "update_notes": "Synchronized with major industry pivots and new product launches from March 25, 2026."
   }
 }
