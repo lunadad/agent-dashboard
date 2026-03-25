@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T15:40:00+09:00",
+  "timestamp": "2026-03-25T16:10:00+09:00",
   "briefing": {
-    "arm": "Arm announced a new AI CPU; shares jumped 8% after-hours.",
-    "sk_hynix": "SK Hynix plans US listing in 2026; shares rose >5% in early trade.",
-    "cisco": "Cisco entered AI agent security market with 'Cisco AI Defense' and 'DefenseClaw'.",
-    "openai": "OpenAI discontinued Sora app, shifting focus to other tools.",
-    "market_sentiment": "Capital Economics warns of potential AI bubble burst in 2026 due to inflation and interest rate concerns."
+    "arm": "Arm shares surged on the announcement of its first in-house AGI CPU for AI data centers, with $15B annual revenue projected.",
+    "sk_hynix": "SK Hynix confidentially filed for a U.S. listing aiming for $14B to expand production amid high AI demand.",
+    "cisco": "Cisco shares faced pressure despite strong Q2 earnings due to margin concerns; focusing on new AI agent security portfolio to drive growth.",
+    "openai": "OpenAI is securing a massive financing round at an $850B valuation, though investors remain skeptical about the long-term break-even timeline.",
+    "market_sentiment": "Market sentiment has shifted from anticipating potential to demanding concrete proof of returns, while AI infrastructure spending continues to scale."
   }
 }
