@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-25T18:30:00+09:00",
+  "timestamp": "2026-03-25T19:00:00+09:00",
   "briefing": {
-    "ai_trends": "Enterprise AI adoption is accelerating; 40% of applications expected to be powered by AI agents this year, up from <5% in 2025. Focus is shifting from training to inference, which now accounts for two-thirds of compute spend.",
-    "market_valuation": "Global AI infrastructure investment projected to reach $1.4T in 2026; AI stocks now exceed 25% of S&P 500 capitalization.",
-    "infrastructure": "Massive scaling in inference infrastructure; Agentic AI is becoming embedded directly into core platforms for autonomous operations like cloud cost optimization and security.",
-    "ai_search": "AI chatbots increasingly replacing traditional health information searches, with 1 in 3 adults using them.",
-    "latest_updates": ["Agentic AI production shift", "OpenAI $110B financing", "Inference cost reduction projections", "AI Search market growth"],
-    "update_notes": "Updated for March 25, 2026: Shift towards agentic AI, dominance of inference compute costs, and significant growth in enterprise autonomous operations."
+    "ai_trends": "Continued shift towards agentic AI and autonomous production systems. Integration into real-world infrastructure like energy grids and supply chains is accelerating.",
+    "market_valuation": "AI Search Engine market projected to reach $87.63B by 2035. Inference costs for LLMs expected to drop by 90% by 2030, per Gartner.",
+    "infrastructure": "Hardware innovation persists with Apple's M5 Neural Accelerator and NVIDIA's $1T Blackwell/Vera Rubin GPU projection. Sustainability and physical infrastructure are becoming key economic constraints.",
+    "ai_search": "AI Search market growing at 16.69% CAGR, with high demand for conversational and context-aware engines.",
+    "latest_updates": ["Gartner inference cost reduction forecast", "AI Search Engine market projections", "Apple M5 chip AI performance updates", "Sustainability as an AI economic factor"],
+    "update_notes": "Updated for March 25, 2026: Emphasis on long-term cost reduction and sustainability in AI infrastructure, alongside market projections."
   }
 }
