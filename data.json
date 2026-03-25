@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-03-26T03:20:00+09:00",
+  "updatedAt": "2026-03-26T03:30:00+09:00",
   "briefing": {
     "market": {
-      "summary": "Global art market grew 4% to $59.6 billion in 2025, led by US (44% share) and resilient high-end auction sales (up 9%). Dealer sales increased 2%. Market sentiment remains cautiously optimistic for 2026 amid geopolitical uncertainty.",
+      "summary": "The global art market showed a 4% YoY growth in 2025 to $59.6 billion. 2026 sees cautious optimism with strong high-end sales and the dominance of the US (44% share) and the critical return of international collectors to major Asian events.",
       "keyTrends": [
-        "Global art sales hit $59.6B, 4% growth YoY",
-        "Public auction sales grew 9%, dealer sales 2%",
-        "US dominance: 44% of global market",
-        "K-shaped recovery with strong high-end segment",
-        "Rise in domestic sales for mid-sized galleries"
+        "Global art sales: $59.6B (+4% YoY)",
+        "Auction sales (+9%) outperforming dealer sales (+2%)",
+        "US maintains 44% market share",
+        "Art fairs represent 35% of dealer turnover (highest since 2022)",
+        "Shift towards high-value transactions; online sales softening"
       ]
     },
     "highlights": [
-      "Art Basel Hong Kong 2026 VIP preview days now underway (Public: Mar 27-29)",
-      "New 'Encounters' sector curation and debut of 'Echoes' sector at ABHK",
-      "Digital art 'Zero 10' initiative makes Asia debut in HK",
-      "Vivian Maier estate 'Important Photographs' sale closing today",
-      "Market challenges: rising operational costs, tariffs, geopolitical headwinds"
+      "Art Basel Hong Kong 2026 VIP Preview days (Mar 25-26) signal strong market confidence",
+      "Major sales at ABHK include Picasso (€3.5M), Liu Ye ($3.8M), and Marlene Dumas ($3.5M)",
+      "New 'Echoes' sector and Asian debut of 'Zero10' digital initiative at ABHK",
+      "Continued pressure from rising operational costs and geopolitical headwinds",
+      "Fair open to public: Mar 27-29 at HKCEC"
     ]
   }
 }
