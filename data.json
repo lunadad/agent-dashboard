@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-03-26T07:45:00+09:00",
+  "timestamp": "2026-03-26T07:50:00+09:00",
   "market": {
-    "summary": "KOSPI faces high volatility with record sidecar activations in March; retail investors providing significant support amidst geopolitical tensions.",
+    "summary": "KOSPI maintains momentum following March 25 gains, driven by ceasefire hopes; market volatility remains high with frequent sidecar activations in March 2026.",
     "key_indicators": {
-      "kospi": "Volatile",
-      "retail_sentiment": "Bullish",
-      "foreign_investor_flow": "Selling"
+      "kospi": "Recovering",
+      "retail_sentiment": "Optimistic",
+      "foreign_investor_flow": "Net Selling (previous session)"
     }
   },
   "art": {
-    "summary": "Focus on tech-human intersections at Ammerman Triennial Symposium; local photography talks ongoing.",
-    "featured_event": "Ammerman Center Triennial Symposium (Mar 26-28)"
+    "summary": "Ammerman Center Triennial Symposium begins today (Mar 26-28), focusing on tech-human intersections.",
+    "featured_event": "Ammerman Center Triennial Symposium"
   },
   "corporate": {
-    "alert": "Government actively implementing measures to bolster KOSPI and capital market transparency."
+    "alert": "Ongoing monitoring of government measures for KOSPI transparency and stability."
   }
 }
