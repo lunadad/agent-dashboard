@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-03-26T01:00:00+09:00",
-  "artHighlights": [
-    "25th Biennale of Sydney 'Rememory' exploring memory and inheritance.",
-    "Carol Bove survey at the Solomon R. Guggenheim Museum, NYC.",
-    "Amina Agueznay at the 61st Venice Biennale."
-  ],
-  "marketHighlights": {
-    "kospiStatus": "Reflecting U.S. market volatility with ongoing fluctuations",
-    "keyDrivers": "Persistent inflation concerns, oil price volatility, and stable art market metrics (23% recovery)",
-    "forecast": "Market consolidation; long-term growth outlook remains intact pending inflation stabilization"
+  "updatedAt": "2026-03-26T01:15:00+09:00",
+  "briefing": {
+    "market": {
+      "summary": "Global art market rebounded in 2025 with $59.6B in sales. U.S. auction sales rose 23% to $3.17B. Shift towards blue-chip artists and Impressionist/Modern segments.",
+      "keyTrends": [
+        "Growth in $1M-$5M segment",
+        "Strong performance by women artists",
+        "West U.S. accounts for 35% of purchases"
+      ]
+    },
+    "highlights": [
+      "Vivian Maier prints (206) at auction until March 26 (est. $1-1.5M)",
+      "18th Ammerman Center Triennial Symposium (March 26-28)",
+      "25th Biennale of Sydney ('Rememory') running until June 14",
+      "Shahzia Sikander's '3 to 12 Nautical Miles' at M+ Hong Kong"
+    ]
   }
 }
