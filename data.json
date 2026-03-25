@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-03-26T08:05:00+09:00",
+  "timestamp": "2026-03-26T08:10:00+09:00",
   "market": {
-    "summary": "KOSPI remains volatile; retail investors aggressively buying amid geopolitical uncertainty; sidecar activations at 2026 highs. Goldman Sachs maintains positive outlook with 7000 target.",
+    "summary": "KOSPI expected to open higher above 5,640, targeting 5,700 level following 1.59% rally on Mar 25. Retail investor optimism persists.",
     "key_indicators": {
-      "kospi": "Volatile / Reclaiming 5600",
-      "retail_sentiment": "Aggressive / High Risk",
-      "foreign_investor_flow": "Net Selling"
+      "kospi": "Anticipated Open > 5,680",
+      "retail_sentiment": "Positive / Optimistic",
+      "foreign_investor_flow": "Net Buying Anticipated"
     }
   },
   "art": {
-    "summary": "Ammerman Center Triennial Symposium (Mar 26-28) focuses on human-tech convergence. Continued monitoring of Art Basel sales.",
+    "summary": "Ammerman Center Triennial Symposium (Mar 26-28) continues with focus on human-tech convergence.",
     "featured_event": "Ammerman Center Triennial Symposium"
   },
   "corporate": {
-    "alert": "Government monitoring of market stability continues."
+    "alert": "Market stability improving; monitor index near 5,700."
   }
 }
