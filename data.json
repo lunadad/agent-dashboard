@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T16:30:00+09:00",
+  "timestamp": "2026-03-25T16:50:00+09:00",
   "briefing": {
-    "arm": "Arm is entering the chip production market with its 'AGI CPU' for data centers, aiming for $15B in annual revenue from this venture within 5 years. Shares rose 8% following the announcement.",
-    "sk_hynix": "SK Hynix has confidentially filed for a U.S. listing expected in H2 2026 to raise $14B for capacity expansion, driven by surging AI data center memory demand.",
-    "cisco": "Cisco entered agentic AI security with 'Cisco AI Defense' and the open-source 'DefenseClaw' framework, extending Zero Trust to AI-driven enterprise workflows.",
-    "openai": "OpenAI is discontinuing its Sora video generator to focus on business tools and AI safety, while confirming its valuation has reached $120B in a new funding round.",
-    "market_sentiment": "Market focus has shifted toward concrete proof of AI returns, with scaling infrastructure spending remaining a top priority."
+    "tech_stocks": "AI sector shows strong performance, led by Seagate (+353%) and Micron (+326%), despite analyst caution regarding high valuations and potential bubble concerns.",
+    "art_market": "Global art market rebounded in 2025/2026, with sales reaching $59.6 billion (up 4%), driven by strong auction performance in the U.S.",
+    "apple": "Apple introduced 'Apple Business', an all-in-one platform for business scalability, and launched the AirPods Max 2.",
+    "ai_innovation": "Georgia Tech researchers developed 'POLYT5', an AI-driven tool for generative polymer design, advancing materials science.",
+    "market_sentiment": "Investor focus remains on proof of AI returns; caution persists amid geopolitical uncertainty, but long-term demand for AI infrastructure is robust."
   }
 }
