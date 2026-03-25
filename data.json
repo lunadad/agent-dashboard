@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-03-26T08:10:00+09:00",
+  "timestamp": "2026-03-26T08:20:00+09:00",
   "market": {
-    "summary": "KOSPI expected to open higher above 5,640, targeting 5,700 level following 1.59% rally on Mar 25. Retail investor optimism persists.",
+    "summary": "KOSPI expected to open higher above 5,680, targeting 5,700 level following market momentum. Retail investor sentiment remains highly optimistic.",
     "key_indicators": {
       "kospi": "Anticipated Open > 5,680",
-      "retail_sentiment": "Positive / Optimistic",
-      "foreign_investor_flow": "Net Buying Anticipated"
+      "retail_sentiment": "Highly Optimistic",
+      "foreign_investor_flow": "Net Buying Likely"
     }
   },
   "art": {
-    "summary": "Ammerman Center Triennial Symposium (Mar 26-28) continues with focus on human-tech convergence.",
+    "summary": "Ammerman Center Triennial Symposium (Mar 26-28) focus on human-tech convergence. Art Basel HK reports steady engagement.",
     "featured_event": "Ammerman Center Triennial Symposium"
   },
   "corporate": {
-    "alert": "Market stability improving; monitor index near 5,700."
+    "alert": "Monitor volatility around 5,700; market sentiment shifts toward consolidation post-rally."
   }
 }
