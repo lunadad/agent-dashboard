@@ -1,22 +1,24 @@
 {
-  "last_updated": "2026-03-25T22:40:00+09:00",
-  "briefing": {
-    "finance": {
-      "summary": "Financial markets reflect positive growth and strategic developments as corporations finalize 2025 results.",
-      "highlights": [
-        "Northwestern Mutual recognized as a top independent broker-dealer with record 2025 performance, assets under management over $400B.",
-        "American Express reports strong 2025 results driven by customer loyalty and global network expansion.",
-        "Beyond Meat delays Q4/full-year 2025 reporting to March 31 due to internal control issues.",
-        "CVD Equipment Corporation schedules Q4/fiscal year 2025 report for March 30."
-      ]
+  "date": "2026-03-25",
+  "market_summary": {
+    "us_stocks": {
+      "status": "down",
+      "factors": ["rising oil prices", "inflation concerns", "Middle East tensions"],
+      "indices": {
+        "dow_jones": -0.2,
+        "nasdaq": -0.8,
+        "sp_500": -0.4
+      }
     },
-    "art": {
-      "summary": "Regional art initiatives and gallery retrospectives highlight community engagement and artistic exploration.",
-      "highlights": [
-        "Dallas Design District launches 'The Art Docks' project, featuring 18 new outdoor murals.",
-        "UB Art Galleries announce a major retrospective of artist Clayton Pond, opening April 10.",
-        "GBH's Community Canvas features 'Tour de Force' by Christiane Corcelle, exploring discovery through layered digital art.",
-        "Ongoing 'Image Makers' exhibition at Oliver Art Center continues through March 28."
+    "art_market": {
+      "status": "rebound",
+      "growth_rate_2025": "23%",
+      "trends": [
+        "Return to discipline and quality",
+        "Rise of private sales",
+        "Continued momentum for digital art",
+        "Eco-conscious art",
+        "Women artists gaining ground"
       ]
     }
   }
