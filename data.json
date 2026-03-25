@@ -1,13 +1,14 @@
 {
   "date": "2026-03-25",
+  "last_updated": "2026-03-25T23:40:00",
   "market_summary": {
     "us_stocks": {
       "status": "volatile",
       "factors": ["Persistent inflation", "Oil price volatility", "Mixed market sentiment"],
       "indices": {
-        "dow_jones": -0.2,
-        "nasdaq": -0.5,
-        "sp_500": -0.8
+        "dow_jones": -0.25,
+        "nasdaq": -0.55,
+        "sp_500": -0.85
       }
     },
     "art_market": {
