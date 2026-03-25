@@ -1,10 +1,11 @@
 {
-  "timestamp": "2026-03-25T18:20:00+09:00",
+  "timestamp": "2026-03-25T18:30:00+09:00",
   "briefing": {
     "ai_trends": "Enterprise AI adoption is accelerating; 40% of applications expected to be powered by AI agents this year, up from <5% in 2025. Focus is shifting from training to inference, which now accounts for two-thirds of compute spend.",
     "market_valuation": "Global AI infrastructure investment projected to reach $1.4T in 2026; AI stocks now exceed 25% of S&P 500 capitalization.",
     "infrastructure": "Massive scaling in inference infrastructure; Agentic AI is becoming embedded directly into core platforms for autonomous operations like cloud cost optimization and security.",
     "ai_search": "AI chatbots increasingly replacing traditional health information searches, with 1 in 3 adults using them.",
+    "latest_updates": ["Agentic AI production shift", "OpenAI $110B financing", "Inference cost reduction projections", "AI Search market growth"],
     "update_notes": "Updated for March 25, 2026: Shift towards agentic AI, dominance of inference compute costs, and significant growth in enterprise autonomous operations."
   }
 }
