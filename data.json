@@ -1,11 +1,18 @@
 {
-  "timestamp": "2026-03-25T19:00:00+09:00",
-  "briefing": {
-    "ai_trends": "Continued shift towards agentic AI and autonomous production systems. Integration into real-world infrastructure like energy grids and supply chains is accelerating.",
-    "market_valuation": "AI Search Engine market projected to reach $87.63B by 2035. Inference costs for LLMs expected to drop by 90% by 2030, per Gartner.",
-    "infrastructure": "Hardware innovation persists with Apple's M5 Neural Accelerator and NVIDIA's $1T Blackwell/Vera Rubin GPU projection. Sustainability and physical infrastructure are becoming key economic constraints.",
-    "ai_search": "AI Search market growing at 16.69% CAGR, with high demand for conversational and context-aware engines.",
-    "latest_updates": ["Gartner inference cost reduction forecast", "AI Search Engine market projections", "Apple M5 chip AI performance updates", "Sustainability as an AI economic factor"],
-    "update_notes": "Updated for March 25, 2026: Emphasis on long-term cost reduction and sustainability in AI infrastructure, alongside market projections."
+  "date": "2026-03-25",
+  "art_highlights": [
+    "TEFAF Maastricht 2026 concluded, showcasing 7,000 years of history.",
+    "Art Basel Hong Kong 2026 upcoming (March 27-29), featuring a new Samsung Art Store collaboration.",
+    "V&A Museum opened 'Schiaparelli: Fashion Becomes Art'.",
+    "25th Biennale of Sydney: 'Rememory' exploring memory as an active force."
+  ],
+  "market_trends": {
+    "summary": "Markets reacting to Middle East geopolitical tensions and mixed economic signals.",
+    "key_points": [
+      "Indian markets surged (Sensex +1,100 points) on hopes of de-escalation.",
+      "U.S. indices closed with mild losses; global markets showing choppy behavior.",
+      "Oil prices remain volatile, impacting inflation expectations.",
+      "Small-cap sectors and cyclical industries (Energy, Materials) are showing relative strength."
+    ]
   }
 }
