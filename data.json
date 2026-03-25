@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T18:10:00+09:00",
+  "timestamp": "2026-03-25T18:20:00+09:00",
   "briefing": {
-    "ai_trends": "Agentic AI is moving to production with 40% enterprise adoption expected by 2026; heavy focus on task-specific agents.",
-    "market_valuation": "OpenAI secures $110B financing round with $730B pre-money valuation.",
-    "infrastructure": "Gartner predicts 90% cost reduction for trillion-parameter inference by 2030; strong push for inference-specialized silicon.",
-    "ai_search": "AI Search Engine market projected to hit $87.6B by 2035.",
-    "update_notes": "Synchronized with global trends: Agentic AI production scale, massive infrastructure investment, and significant model/valuation updates as of March 25, 2026."
+    "ai_trends": "Enterprise AI adoption is accelerating; 40% of applications expected to be powered by AI agents this year, up from <5% in 2025. Focus is shifting from training to inference, which now accounts for two-thirds of compute spend.",
+    "market_valuation": "Global AI infrastructure investment projected to reach $1.4T in 2026; AI stocks now exceed 25% of S&P 500 capitalization.",
+    "infrastructure": "Massive scaling in inference infrastructure; Agentic AI is becoming embedded directly into core platforms for autonomous operations like cloud cost optimization and security.",
+    "ai_search": "AI chatbots increasingly replacing traditional health information searches, with 1 in 3 adults using them.",
+    "update_notes": "Updated for March 25, 2026: Shift towards agentic AI, dominance of inference compute costs, and significant growth in enterprise autonomous operations."
   }
 }
