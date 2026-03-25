@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-26T08:30:00+09:00",
+  "timestamp": "2026-03-26T08:40:00+09:00",
   "market": {
-    "summary": "KOSPI quotation receiving phase started; market prepares for 09:00 open. Retail investor sentiment remains highly optimistic.",
+    "summary": "Pre-market sentiment remains strong with KOSPI targeting 5700; tech stocks showing significant retail momentum.",
     "key_indicators": {
       "kospi": "Quotation Phase (Pre-09:00)",
-      "retail_sentiment": "Highly Optimistic",
-      "foreign_investor_flow": "Net Buying Expected"
+      "retail_sentiment": "Bullish",
+      "foreign_investor_flow": "Net Buying Likely"
     }
   },
   "art": {
@@ -13,6 +13,6 @@
     "featured_event": "Ammerman Center Triennial Symposium"
   },
   "corporate": {
-    "alert": "Monitor volatility around 5,700; market sentiment shifts toward consolidation post-rally."
+    "alert": "Monitor volatility around 5,700; market sentiment shows consolidation post-rally, but retail interest remains robust."
   }
 }
