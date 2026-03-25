@@ -1,18 +1,22 @@
 {
-  "date": "2026-03-25",
-  "art_highlights": [
-    "The New Museum in New York reopens with an expanded OMA-designed building and a massive inaugural exhibition, 'New Humans: Memories of the Future'.",
-    "The Metropolitan Museum of Art hosts 'Raphael: Sublime Poetry,' the first major U.S. exhibition for the Italian master in decades.",
-    "The 25th Biennale of Sydney, 'Rememory,' is underway, exploring memory as a force shaping the present.",
-    "Art Basel Hong Kong's 'Echoes' section highlights new works, while Dallas introduces 'The Art Docks,' a massive outdoor mural project."
-  ],
-  "market_trends": {
-    "summary": "The global art market continues its modest 2026 recovery, with sales up 4% in 2025 and a clear shift toward established, historically significant names over ultra-contemporary speculation.",
-    "key_points": [
-      "The U.S. remains the dominant art market, with high-end sales above $10 million driving growth.",
-      "A shift away from the speculative 'ultra-contemporary' market is evident, with auction money flowing to time-tested artists.",
-      "Digital art retains its market position, ranking third in total spending after painting and sculpture.",
-      "Renewed interest in contemporary crafts, specifically textiles, ceramics, and glass art, is being supported by institutional exhibitions."
-    ]
+  "last_updated": "2026-03-25T12:20:00Z",
+  "briefing": {
+    "finance": {
+      "summary": "US banking regulators propose Basel reforms, reducing capital burden; global markets react to potential Iran-US de-escalation; oil prices fall >5%.",
+      "highlights": [
+        "Basel reforms for trade finance proposed",
+        "Oil prices drop >5% amid Iran-US negotiation hopes",
+        "Northwestern Mutual recognized as top independent broker-dealer",
+        "Amex reports strong 2025 performance"
+      ]
+    },
+    "art": {
+      "summary": "New murals in Dallas Design District; Heinz Mack's 95th birthday exhibition in Düsseldorf; ceramics exhibition in Toledo; retrospective of Clayton Pond at UB Art Galleries.",
+      "highlights": [
+        "Dallas 'Art Docks' project debuts 18 murals",
+        "Heinz Mack exhibition celebrates his 95th birthday",
+        "Clayton Pond retrospective upcoming at UB Anderson Gallery"
+      ]
+    }
   }
 }
