@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-26T07:25:00+09:00",
+  "timestamp": "2026-03-26T07:35:00+09:00",
   "market": {
-    "summary": "Asian markets rallied on March 25 due to easing oil prices and hopes for Middle East de-escalation; KOSPI outlook raised by Goldman Sachs.",
+    "summary": "KOSPI gains momentum on ceasefire hopes; Goldman Sachs upgrades year-end target to 7,000. Gov creates emergency economic teams to mitigate geopolitical volatility.",
     "key_indicators": {
       "nasdaq": "Positive",
       "sp500": "Positive",
       "dow": "Positive",
-      "oil": "Down"
+      "oil": "Neutral-Down"
     }
   },
   "art": {
-    "summary": "Chanel Korea reports record-breaking sales, highlighting strong luxury demand in the region despite economic concerns.",
-    "featured_event": "Luxury retail sector resilience in S. Korea."
+    "summary": "Asian contemporary art shows resilience at Art Basel Hong Kong; 20!2026 Art Seoul platform promotes transparency; luxury sector remains strong.",
+    "featured_event": "Art Basel Hong Kong 2026 (VIP Day)"
   },
   "corporate": {
-    "alert": "SK Hynix planning U.S. stock listing in late 2026; preliminary review of Lotte Chemical and YNCC merger underway."
+    "alert": "Heightened market volatility; government monitoring stock bets as sidecar triggers reach record levels."
   }
 }
