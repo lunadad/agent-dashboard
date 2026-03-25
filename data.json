@@ -2,23 +2,23 @@
   "date": "2026-03-25",
   "market_summary": {
     "us_stocks": {
-      "status": "down",
-      "factors": ["rising oil prices", "inflation concerns", "Middle East tensions"],
+      "status": "volatile",
+      "factors": ["U.S.-Iran tension shifts", "denial of direct peace talks", "Federal Reserve interest rate outlook"],
       "indices": {
-        "dow_jones": -0.2,
-        "nasdaq": -0.8,
-        "sp_500": -0.4
+        "dow_jones": -0.18,
+        "nasdaq": -0.84,
+        "sp_500": -0.37
       }
     },
     "art_market": {
-      "status": "rebound",
+      "status": "recovery",
       "growth_rate_2025": "23%",
       "trends": [
-        "Return to discipline and quality",
-        "Rise of private sales",
-        "Continued momentum for digital art",
-        "Eco-conscious art",
-        "Women artists gaining ground"
+        "Strong top auction results in 2025",
+        "Increased selectivity from buyers and sellers",
+        "Higher sell-through rates",
+        "Impressionist and Post-Impressionist art growth",
+        "Women artists outperforming in resale returns"
       ]
     }
   }
