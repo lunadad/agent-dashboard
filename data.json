@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-03-26T02:10:00+09:00",
+  "updatedAt": "2026-03-26T02:20:00+09:00",
   "briefing": {
     "market": {
-      "summary": "The global art market is experiencing a period of 'modest growth' and 'structural recalibration' in March 2026. Total art sales globally rose by 4% year-on-year in 2025 to $59.6 billion, driven by high-end sales and U.S. dominance (44% global share).",
+      "summary": "Global art market demonstrates cautious optimism in early 2026, recovering from 2025 growth of 4% ($59.6 billion). Recovery is uneven, with strength concentrated in high-end ($10M+) segments.",
       "keyTrends": [
-        "Strong recovery in high-value works (>$10M segment)",
-        "Shift back to in-person art fairs (35% of dealer turnover)",
-        "Restructuring around local collectors with selectivity in lower-tier acquisitions",
-        "Gender representation improving: 50% of artists at primary-market galleries"
+        "Shift towards high-quality, rarity-driven supply; decrease in new talent representation at auctions",
+        "U.S. market retains dominance with 44% of global sales",
+        "Increased risk aversion: guarantee value share at NYC sales reached 78%",
+        "Emergence of 'Hyper-Tactility' in art styles and continued growth of digital art"
       ]
     },
     "highlights": [
-      "2026 outlook: Cautious optimism among dealers (43% expecting improvement)",
-      "Auction activity in London strong with Modern and Contemporary sales",
-      "Old Masters sector seeing notable jump (30% increase in 2025)",
-      "Technological innovation and emerging collector markets as key 2026 drivers"
+      "Market rebound driven by 9% growth in public auction sales",
+      "Impressionist and Modern art segments leading historical category recovery",
+      "Private sales declined 5%, prompting dealers to adopt hybrid business models",
+      "Geopolitical and economic uncertainty remains the primary concern for dealers"
     ]
   }
 }
