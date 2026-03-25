@@ -1,25 +1,25 @@
 {
   "date": "2026-03-26",
-  "last_updated": "2026-03-26T00:10:00",
+  "last_updated": "2026-03-26T12:20:00",
   "market_summary": {
     "us_stocks": {
-      "status": "volatile",
-      "factors": ["Persistent inflation", "Oil price volatility", "Mixed market sentiment"],
+      "status": "recovering",
+      "factors": ["Renewed optimism for Middle East de-escalation", "U.S. peace plan proposed to Iran", "Easing oil prices and treasury yields"],
       "indices": {
-        "dow_jones": -0.25,
-        "nasdaq": -0.55,
-        "sp_500": -0.85
+        "dow_jones": 1.10,
+        "nasdaq": 1.30,
+        "sp_500": 1.10
       }
     },
     "art_market": {
-      "status": "stabilized recovery",
-      "growth_rate_2025": "23%",
+      "status": "cautious optimism / structural recalibration",
+      "growth_rate_2025": "4% (Global)",
       "trends": [
-        "First annual auction sales increase since 2022",
-        "Focus on quality and provenance over short-term speculation",
-        "Strongest growth in Impressionist and Modern art categories",
-        "Tightened supply with higher sell-through rates",
-        "Women artists outperforming in resale returns"
+        "Increased selectivity favoring blue-chip artists and strong provenance",
+        "Bifurcation between high-volume, low-value and low-volume, high-value segments",
+        "Rise of private sales as a rival to auctions",
+        "Digital art solidifying as a key asset class",
+        "Middle East emerging as a significant new hub"
       ]
     }
   }
