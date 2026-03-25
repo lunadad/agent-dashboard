@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-26T08:20:00+09:00",
+  "timestamp": "2026-03-26T08:30:00+09:00",
   "market": {
-    "summary": "KOSPI expected to open higher above 5,680, targeting 5,700 level following market momentum. Retail investor sentiment remains highly optimistic.",
+    "summary": "KOSPI quotation receiving phase started; market prepares for 09:00 open. Retail investor sentiment remains highly optimistic.",
     "key_indicators": {
-      "kospi": "Anticipated Open > 5,680",
+      "kospi": "Quotation Phase (Pre-09:00)",
       "retail_sentiment": "Highly Optimistic",
-      "foreign_investor_flow": "Net Buying Likely"
+      "foreign_investor_flow": "Net Buying Expected"
     }
   },
   "art": {
