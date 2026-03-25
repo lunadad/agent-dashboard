@@ -1,26 +1,13 @@
 {
-  "date": "2026-03-26",
-  "last_updated": "2026-03-26T12:20:00",
-  "market_summary": {
-    "us_stocks": {
-      "status": "recovering",
-      "factors": ["Renewed optimism for Middle East de-escalation", "U.S. peace plan proposed to Iran", "Easing oil prices and treasury yields"],
-      "indices": {
-        "dow_jones": 1.10,
-        "nasdaq": 1.30,
-        "sp_500": 1.10
-      }
-    },
-    "art_market": {
-      "status": "cautious optimism / structural recalibration",
-      "growth_rate_2025": "4% (Global)",
-      "trends": [
-        "Increased selectivity favoring blue-chip artists and strong provenance",
-        "Bifurcation between high-volume, low-value and low-volume, high-value segments",
-        "Rise of private sales as a rival to auctions",
-        "Digital art solidifying as a key asset class",
-        "Middle East emerging as a significant new hub"
-      ]
-    }
+  "updatedAt": "2026-03-26T00:30:00+09:00",
+  "artHighlights": [
+    "25th Biennale of Sydney 'Rememory' exploring memory and inheritance.",
+    "Carol Bove survey at the Solomon R. Guggenheim Museum, NYC.",
+    "Amina Agueznay at the 61st Venice Biennale."
+  ],
+  "marketHighlights": {
+    "kospiStatus": "Resilient rebound following early March volatility",
+    "keyDrivers": "Geopolitical stabilization (US-Iran diplomacy), resilient Wall Street performance",
+    "forecast": "Goldman Sachs raised year-end 2026 KOSPI target to 7,000"
   }
 }
