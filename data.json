@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T17:30:00+09:00",
+  "timestamp": "2026-03-25T17:40:00+09:00",
   "briefing": {
-    "ai_hardware": "Arm launched a 136-core AGI CPU for data centers, claiming over 2x performance per rack vs x86; SK Telecom pivots to AI data centers.",
-    "cybersecurity": "Tenable unveiled Hexa AI for autonomous exposure management; Trend Micro rebranded to TrendAI™ to focus on AI-compute layer security.",
-    "openai": "OpenAI discontinues Sora app, pivoting to B2B business tools; funding hits $120B valuation milestone.",
-    "market_sentiment": "Global AI infrastructure spending projected to hit $500B+ in 2026; industry focus shifts to agentic AI workloads and runtime security guardrails.",
-    "update_notes": "Synchronized with major industry pivots and new product launches from March 25, 2026."
+    "ai_hardware": "NVIDIA's Vera Rubin Platform and new Meta MTIA chips driving trillion-parameter efficiency; shift to specialized AI chips.",
+    "cybersecurity": "Cisco and SafePaaS focus on agentic security; move toward federated identity governance.",
+    "openai": "OpenAI shuts down Sora app due to deepfake concerns; valuation confirmed at $120B+.",
+    "market_sentiment": "Global AI infrastructure spending projects to $500B+ in 2026; rotation toward fundamental AI infrastructure over speculation.",
+    "update_notes": "Synchronized with global trends: Agentic AI dominance, hardware efficiency, and major pivots in enterprise AI strategy as of March 25, 2026."
   }
 }
