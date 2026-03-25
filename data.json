@@ -2,22 +2,22 @@
   "date": "2026-03-25",
   "market_summary": {
     "us_stocks": {
-      "status": "volatile",
-      "factors": ["U.S.-Iran tension shifts", "denial of direct peace talks", "Federal Reserve interest rate outlook"],
+      "status": "rallying",
+      "factors": ["Easing Middle East tensions", "Moderate economic growth", "High Treasury yields"],
       "indices": {
-        "dow_jones": -0.18,
-        "nasdaq": -0.84,
-        "sp_500": -0.37
+        "dow_jones": 0.77,
+        "nasdaq": 0.92,
+        "sp_500": 0.75
       }
     },
     "art_market": {
-      "status": "recovery",
+      "status": "stabilized recovery",
       "growth_rate_2025": "23%",
       "trends": [
-        "Strong top auction results in 2025",
-        "Increased selectivity from buyers and sellers",
-        "Higher sell-through rates",
-        "Impressionist and Post-Impressionist art growth",
+        "First annual auction sales increase since 2022",
+        "Focus on quality and provenance over short-term speculation",
+        "Strongest growth in Impressionist and Modern art categories",
+        "Tightened supply with higher sell-through rates",
         "Women artists outperforming in resale returns"
       ]
     }
