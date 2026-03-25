@@ -1,20 +1,22 @@
 {
-  "updatedAt": "2026-03-26T02:50:00+09:00",
+  "updatedAt": "2026-03-26T03:10:00+09:00",
   "briefing": {
     "market": {
-      "summary": "Global art market sees 4% growth in 2025 to $59.6 billion; US leads with 44% of market share. Sentiment is cautiously optimistic for 2026, though geopolitical instability remains a key factor.",
+      "summary": "Global art market grew 4% to $59.6 billion in 2025, led by US (44% share) and resilient high-end auction sales (up 9%). Dealer sales increased 2%. Market sentiment remains cautiously optimistic for 2026 amid geopolitical uncertainty.",
       "keyTrends": [
-        "4% increase in global art sales to $59.6B",
-        "Public auction sales up 9%, dealer sales up 2%",
+        "Global art sales hit $59.6B, 4% growth YoY",
+        "Public auction sales grew 9%, dealer sales 2%",
         "US dominance: 44% of global market",
-        "K-shaped recovery with high-end resilient and selective collector behavior"
+        "K-shaped recovery with strong high-end segment",
+        "Rise in domestic sales for mid-sized galleries"
       ]
     },
     "highlights": [
-      "2026 Art Basel Hong Kong approaching (March 27-29)",
-      "Minimalist art collection from Henry S. McNeil Jr. to be auctioned by Christie's in May",
-      "Shift towards historical relevance and strong provenance in collector focus",
-      "Online sales moderated, declining 11% to $9.2 billion"
+      "Art Basel Hong Kong 2026 VIP preview days now underway (Public: Mar 27-29)",
+      "New 'Encounters' sector curation and debut of 'Echoes' sector at ABHK",
+      "Digital art 'Zero 10' initiative makes Asia debut in HK",
+      "Vivian Maier estate 'Important Photographs' sale closing today",
+      "Market challenges: rising operational costs, tariffs, geopolitical headwinds"
     ]
   }
 }
