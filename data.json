@@ -1,19 +1,18 @@
 {
-  "timestamp": "2026-03-26T07:35:00+09:00",
+  "timestamp": "2026-03-26T07:45:00+09:00",
   "market": {
-    "summary": "KOSPI gains momentum on ceasefire hopes; Goldman Sachs upgrades year-end target to 7,000. Gov creates emergency economic teams to mitigate geopolitical volatility.",
+    "summary": "KOSPI faces high volatility with record sidecar activations in March; retail investors providing significant support amidst geopolitical tensions.",
     "key_indicators": {
-      "nasdaq": "Positive",
-      "sp500": "Positive",
-      "dow": "Positive",
-      "oil": "Neutral-Down"
+      "kospi": "Volatile",
+      "retail_sentiment": "Bullish",
+      "foreign_investor_flow": "Selling"
     }
   },
   "art": {
-    "summary": "Asian contemporary art shows resilience at Art Basel Hong Kong; 20!2026 Art Seoul platform promotes transparency; luxury sector remains strong.",
-    "featured_event": "Art Basel Hong Kong 2026 (VIP Day)"
+    "summary": "Focus on tech-human intersections at Ammerman Triennial Symposium; local photography talks ongoing.",
+    "featured_event": "Ammerman Center Triennial Symposium (Mar 26-28)"
   },
   "corporate": {
-    "alert": "Heightened market volatility; government monitoring stock bets as sidecar triggers reach record levels."
+    "alert": "Government actively implementing measures to bolster KOSPI and capital market transparency."
   }
 }
