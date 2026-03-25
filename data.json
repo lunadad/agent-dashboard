@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-26T07:10:00+09:00",
+  "timestamp": "2026-03-26T07:25:00+09:00",
   "market": {
-    "summary": "Markets show optimism on U.S.-Iran de-escalation; oil prices falling; RenX reverse stock split in effect.",
+    "summary": "Asian markets rallied on March 25 due to easing oil prices and hopes for Middle East de-escalation; KOSPI outlook raised by Goldman Sachs.",
     "key_indicators": {
-      "nasdaq": "Up",
-      "sp500": "Up",
-      "dow": "Up",
+      "nasdaq": "Positive",
+      "sp500": "Positive",
+      "dow": "Positive",
       "oil": "Down"
     }
   },
   "art": {
-    "summary": "U.S. art market rebounds with 23% auction growth in 2025. Vivian Maier 'Important Photographs' sale concludes today.",
-    "featured_event": "Artnet 'Important Photographs' auction ends."
+    "summary": "Chanel Korea reports record-breaking sales, highlighting strong luxury demand in the region despite economic concerns.",
+    "featured_event": "Luxury retail sector resilience in S. Korea."
   },
   "corporate": {
-    "alert": "RenX (NASDAQ: RENX) 1-for-20 reverse stock split active today."
+    "alert": "SK Hynix planning U.S. stock listing in late 2026; preliminary review of Lotte Chemical and YNCC merger underway."
   }
 }
