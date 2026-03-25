@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-03-25T16:10:00+09:00",
+  "timestamp": "2026-03-25T16:20:00+09:00",
   "briefing": {
-    "arm": "Arm shares surged on the announcement of its first in-house AGI CPU for AI data centers, with $15B annual revenue projected.",
-    "sk_hynix": "SK Hynix confidentially filed for a U.S. listing aiming for $14B to expand production amid high AI demand.",
-    "cisco": "Cisco shares faced pressure despite strong Q2 earnings due to margin concerns; focusing on new AI agent security portfolio to drive growth.",
-    "openai": "OpenAI is securing a massive financing round at an $850B valuation, though investors remain skeptical about the long-term break-even timeline.",
-    "market_sentiment": "Market sentiment has shifted from anticipating potential to demanding concrete proof of returns, while AI infrastructure spending continues to scale."
+    "arm": "Arm shares rose on the launch of the 'Arm AGI CPU' for data centers, projecting $15B in new annual chip sales within 5 years.",
+    "sk_hynix": "SK Hynix has filed for a U.S. listing expected for H2 2026, aiming to raise $14B for capacity expansion despite some internal governance concerns.",
+    "cisco": "Cisco introduced 'Cisco AI Defense' and 'DefenseClaw' to secure AI-driven workflows, marking its official entry into agentic AI security.",
+    "openai": "OpenAI is discontinuing the Sora AI video generator to streamline its product focus, while its financing round reportedly reaches $120B valuation.",
+    "market_sentiment": "Market focus has shifted toward concrete proof of AI returns, with scaling infrastructure spending remaining a top priority."
   }
 }
