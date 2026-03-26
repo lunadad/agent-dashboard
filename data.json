@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-26T11:40:00+09:00",
-  "market_status": "KOSPI holding at 5705; steady market performance.",
+  "last_updated": "2026-03-26T11:50:00+09:00",
+  "market_status": "Global markets show optimism with potential Middle East de-escalation; U.S. markets closed higher.",
   "latest_briefings": [
     {
       "source": "AI Market Watch",
       "topic": "아트 마켓 동향",
-      "summary": "2026년 3월, 블루칩 작가 중심의 회복세와 함께 디지털 아트의 꾸준한 성장 및 텍스처 중심의 공예 예술이 주목받고 있습니다."
+      "summary": "2026 아트 시장은 블루칩 작가 중심의 회복세와 함께 구조적 변화를 겪고 있으며, Vivian Maier의 주요 작품 컬렉션 경매가 주목받고 있습니다."
     },
     {
       "source": "AI Market Watch",
-      "topic": "오전 주식 브리핑",
-      "summary": "기술주 중심의 견고한 흐름이 이어지며 Amazon과 Intel 등 주요 종목이 시장 분위기를 주도하고 있습니다."
+      "topic": "시장 브리핑",
+      "summary": "미국 증시는 중동 긴장 완화 기대감으로 상승세를 보였으며, 전반적인 경제 회복의 신호가 감지되고 있습니다."
     }
   ]
 }
