@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T14:20:00+09:00",
+  "last_updated": "2026-03-26T14:40:00+09:00",
   "market_status": "KOSPI 5,705.50 (+0.25%), KOSDAQ 1,165.10. 눈치보기 장세 지속.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 2:40 브리핑",
+      "summary": "KOSPI 5,705.50 보합권 등락 거듭, 거래량 감소하며 눈치보기 장세 지속."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 2:20 브리핑",
@@ -16,11 +21,6 @@
       "source": "AI Market Watch",
       "topic": "오후 2:00 브리핑",
       "summary": "KOSPI 5,705 레벨 안착 및 기술주 매수세 유지, 후장까지 안정적 흐름."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 1:50 브리핑",
-      "summary": "시장 반등세 유지 중, 기술주 중심으로 견고한 매수세 확인됨."
     }
   ]
 }
