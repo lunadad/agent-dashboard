@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T20:10:00+09:00",
-  "market_status": "KOSPI 5,537.30. 야간 선물 시장 관망세 지속 및 아트 바젤 홍콩 개막.",
+  "last_updated": "2026-03-26T20:20:00+09:00",
+  "market_status": "KOSPI 5,460.46 마감. 중동 정세 불확실성 및 반도체 수요 둔화 우려로 하락세.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 8:20 브리핑",
+      "summary": "금일 KOSPI 5,460.46 마감 (3.22% 하락). 반도체 및 시총 상위 종목 약세 지속."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 8:10 브리핑",
