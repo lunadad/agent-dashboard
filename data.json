@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-26T09:00:00+09:00",
+  "timestamp": "2026-03-26T09:10:00+09:00",
   "market": {
-    "summary": "Pre-market consolidation; KOSPI holding strong support at 5680; retail interest in domestic tech remains high ahead of open.",
+    "summary": "Market open at 5705; showing resilience. Tech stocks leading gains as KOSPI maintains 5700 support.",
     "key_indicators": {
-      "kospi": "Quotation Phase (09:00 Open)",
+      "kospi": "5705 (Open)",
       "retail_sentiment": "Bullish",
-      "foreign_investor_flow": "Net Buying Likely"
+      "foreign_investor_flow": "Net Buying"
     }
   },
   "art": {
-    "summary": "Ammerman Center Triennial Symposium (Mar 26-28) focus on human-tech convergence. Art Basel HK reports steady engagement.",
+    "summary": "Ammerman Center Triennial Symposium continues. Frieze Seoul preview anticipation building.",
     "featured_event": "Ammerman Center Triennial Symposium"
   },
   "corporate": {
-    "alert": "Monitor volatility around 5,700; market sentiment shows consolidation post-rally, but retail interest remains robust."
+    "alert": "Monitor momentum at 5700; tech leaders showing early resilience."
   },
   "dailyReports": {
     "카리나": {
