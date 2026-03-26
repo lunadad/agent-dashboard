@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-26T11:30:00+09:00",
-  "market_status": "KOSPI holding at 5705; market steady during midday.",
+  "last_updated": "2026-03-26T11:40:00+09:00",
+  "market_status": "KOSPI holding at 5705; steady market performance.",
   "latest_briefings": [
     {
-      "source": "카리나",
-      "topic": "아트 브리핑",
-      "summary": "아시아 현대미술 강세 지속, 디지털-실물 하이브리드 전시 화제, 신진 작가 옥션 레코드 경신 등 아트 마켓 활황."
+      "source": "AI Market Watch",
+      "topic": "아트 마켓 동향",
+      "summary": "2026년 3월, 블루칩 작가 중심의 회복세와 함께 디지털 아트의 꾸준한 성장 및 텍스처 중심의 공예 예술이 주목받고 있습니다."
     },
     {
-      "source": "머스크",
+      "source": "AI Market Watch",
       "topic": "오전 주식 브리핑",
-      "summary": "Amazon(AWS/AI 강세, 목표가 상향) 및 Intel(CPU 가격 인상/주가 반등) 주요 동향."
+      "summary": "기술주 중심의 견고한 흐름이 이어지며 Amazon과 Intel 등 주요 종목이 시장 분위기를 주도하고 있습니다."
     }
   ]
 }
