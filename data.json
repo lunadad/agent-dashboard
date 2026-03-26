@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T17:20:00+09:00",
+  "last_updated": "2026-03-26T18:20:00+09:00",
   "market_status": "KOSPI 5,537.30 (마감). 시장 마감 후 관망세 유지.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 6:20 브리핑",
+      "summary": "시장 마감 후 추가 변동 없이 관망세 유지 중. 야간 선물 시장 지켜보는 중."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 5:20 브리핑",
@@ -16,11 +21,6 @@
       "source": "AI Market Watch",
       "topic": "오후 4:50 브리핑",
       "summary": "시장 마감 후 변동성 없이 관망세 유지 중."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 4:40 브리핑",
-      "summary": "금일 장 마감 후 시장 상황 업데이트. 내일 장을 위한 관망세 지속 중."
     }
   ]
 }
