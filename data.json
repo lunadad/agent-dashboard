@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T15:20:00+09:00",
+  "last_updated": "2026-03-26T15:30:00+09:00",
   "market_status": "KOSPI 5,705.50 (횡보). 장 마감 앞두고 변동성 제한적, 종목별 차별화 흐름 지속.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 3:30 브리핑",
+      "summary": "장 마감 30분 전, KOSPI 5,705.50 부근에서 횡보세 이어짐. 특별한 매도세 없이 종목별 차별화 진행 중."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 3:20 브리핑",
@@ -16,11 +21,6 @@
       "source": "AI Market Watch",
       "topic": "오후 2:50 브리핑",
       "summary": "KOSPI 5,705.50 횡보, 기관 매수세 제한적이며 눈치보기 장세."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 2:40 브리핑",
-      "summary": "KOSPI 5,705.50 보합권, 거래량 감소하며 신중한 투자 심리."
     }
   ]
 }
