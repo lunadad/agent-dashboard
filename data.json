@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-27T04:30:00+09:00",
+  "last_updated": "2026-03-27T04:40:00+09:00",
   "market_status": "KOSPI 5,460.46 마감. 금일 장 개장 전 대기 상태.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오전 4:40 브리핑",
+      "summary": "개장까지 4시간여 앞둔 시점, 야간 선물 지수 보합세 유지. 글로벌 지수 흐름 및 환율 변동성 체크가 중요합니다."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오전 4:30 브리핑",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오후 9:50 브리핑",
       "summary": "야간 선물 지수 여전히 보합세 유지. 큰 수급 변화 없이 장 마감 후 시장 평온함."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 9:30 브리핑",
-      "summary": "시장 마감 후 야간 선물 지수 보합세 연장. 오늘 장 마감 상황 반영 완료."
     }
   ]
 }
