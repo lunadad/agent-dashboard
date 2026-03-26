@@ -1,12 +1,17 @@
 {
-  "last_updated": "2026-03-27T08:30:00+09:00",
-  "market_status": "KOSPI 개장 30분 전. 중동 리스크 및 구글 '터보퀀트 쇼크' 여파로 투자 심리 위축. 외국인 순매도와 환율 급등세에 따른 변동성 확대.",
+  "last_updated": "2026-03-27T08:40:00+09:00",
+  "market_status": "KOSPI 개장 20분 전. 시장 공포 심리 극한. 대형주 매도세 지속 및 변동성 지수(VIX) 급등 가능성 상존. 장 초반 관망 및 수급 안정 확인 필요.",
   "dailyReports": {
     "FT": {
       "raw": "From: 조선일보 <chosun@event2.chosun.com>\nTo: miksnah@gmail.com\nSubject: [WEEKLY BIZ LETTER] ‘미지의 미지’ 사모 대출…“AI 거품 터지면 금융체제 재앙\"\n\n(Full email body text here...)"
     }
   },
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오전 8:40 브리핑",
+      "summary": "개장 20분 전. 시장 공포 심리가 극한에 달하고 있습니다. 주요 대형주들에 대한 매도세가 이어지고 있으며, 변동성 지수(VIX)의 급등 가능성을 예의주시해야 합니다. 장 초반의 짧은 반등을 노리기보다는 관망하며 수급 안정세를 확인하는 것이 안전해 보입니다."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오전 8:30 브리핑",
