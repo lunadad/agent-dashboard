@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-03-26T15:10:00+09:00",
-  "market_status": "KOSPI 5,537.30 (-1.9%). 장 마감 앞두고 하락세 지속, 전반적인 투자 심리 위축.",
+  "last_updated": "2026-03-26T15:20:00+09:00",
+  "market_status": "KOSPI 5,705.50 (횡보). 장 마감 앞두고 변동성 제한적, 종목별 차별화 흐름 지속.",
   "latest_briefings": [
     {
       "source": "AI Market Watch",
-      "topic": "오후 3:10 브리핑",
-      "summary": "KOSPI 5,537.30 기록, 전일 대비 1.9% 하락. 아시아 증시 전반적 약세와 심리 위축."
+      "topic": "오후 3:20 브리핑",
+      "summary": "KOSPI 5,705.50 유지, 장 마감 직전 변동성 제한적이며 관망세 지속."
     },
     {
       "source": "AI Market Watch",
       "topic": "오후 3:00 브리핑",
-      "summary": "장 마감 앞두고 하락 폭 확대, 종목별 차별화 흐름보다는 시장 전반적 매도세 우위."
+      "summary": "장 마감 앞두고 변동성 제한적, 종목별 차별화 흐름 지속."
     },
     {
       "source": "AI Market Watch",
       "topic": "오후 2:50 브리핑",
-      "summary": "KOSPI 하락세 지속, 투자자들의 관망세와 위험 자산 회피 심리 강화."
+      "summary": "KOSPI 5,705.50 횡보, 기관 매수세 제한적이며 눈치보기 장세."
     },
     {
       "source": "AI Market Watch",
       "topic": "오후 2:40 브리핑",
-      "summary": "KOSPI 5,550선 하회, 하락 흐름 유지되며 장 후반 약세."
+      "summary": "KOSPI 5,705.50 보합권, 거래량 감소하며 신중한 투자 심리."
     }
   ]
 }
