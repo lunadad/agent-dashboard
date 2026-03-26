@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T20:00:00+09:00",
+  "last_updated": "2026-03-26T20:10:00+09:00",
   "market_status": "KOSPI 5,537.30. 야간 선물 시장 관망세 지속 및 아트 바젤 홍콩 개막.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 8:10 브리핑",
+      "summary": "야간 선물 지수 보합세 연장. 내일 개장 전 환율 및 외국인 수급 변동 주의. 큰 변동 없음."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 8:00 브리핑",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오후 7:00 브리핑",
       "summary": "야간 선물 지수 변동폭 미미. 투자 심리 여전히 경계감 유지."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 6:50 브리핑",
-      "summary": "야간 선물 지수 보합세 유지. 외인 매도세 강도 모니터링 필요."
     }
   ]
 }
