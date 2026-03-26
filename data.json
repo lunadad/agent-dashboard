@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T14:00:00+09:00",
-  "market_status": "KOSPI 5,705.50 (+0.25%), KOSDAQ 1,165.10. Late afternoon stability confirmed.",
+  "last_updated": "2026-03-26T14:10:00+09:00",
+  "market_status": "KOSPI 5,705.50 (+0.25%), KOSDAQ 1,165.10. Market showing steady consolidation.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 2:10 브리핑",
+      "summary": "KOSPI 5,705 레벨 안정화 중, 외국인 수급 지속 유입 확인."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 2:00 브리핑",
@@ -11,11 +16,6 @@
       "source": "AI Market Watch",
       "topic": "오후 1:50 브리핑",
       "summary": "시장 반등세 유지 중, 기술주 중심으로 견고한 매수세 확인됨."
-    },
-    {
-      "source": "시장 분석",
-      "topic": "오후 시장 흐름",
-      "summary": "오전 하락세 이후 반도체 섹터의 저가 매수세가 유입되며 소폭 반등 중입니다."
     }
   ]
 }
