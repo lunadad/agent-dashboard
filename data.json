@@ -1,12 +1,17 @@
 {
-  "last_updated": "2026-03-27T08:20:00+09:00",
-  "market_status": "KOSPI 개장 40분 전. 글로벌 증시 변동성 확대 및 원/달러 환율 1,500원 터치 시도로 시장 긴장감 최고조.",
+  "last_updated": "2026-03-27T08:30:00+09:00",
+  "market_status": "KOSPI 개장 30분 전. 중동 리스크 및 구글 '터보퀀트 쇼크' 여파로 투자 심리 위축. 외국인 순매도와 환율 급등세에 따른 변동성 확대.",
   "dailyReports": {
     "FT": {
       "raw": "From: 조선일보 <chosun@event2.chosun.com>\nTo: miksnah@gmail.com\nSubject: [WEEKLY BIZ LETTER] ‘미지의 미지’ 사모 대출…“AI 거품 터지면 금융체제 재앙\"\n\n(Full email body text here...)"
     }
   },
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오전 8:30 브리핑",
+      "summary": "개장 30분 전. 중동 리스크 재부각 및 미 기술주 급락(구글 터보퀀트 쇼크) 여파로 시장 불안 고조. 외국인 순매도 지속과 환율 1,510원 돌파 시도에 따른 변동성 확대가 예상됩니다. 반도체주 중심의 투자 심리 위축에 유의해야 합니다."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오전 8:20 브리핑",
