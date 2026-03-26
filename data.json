@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-26T13:10:00+09:00",
-  "market_status": "KOSPI declined 0.85% to 5,594.06 due to Iran conflict and foreign selling; chipmakers like Samsung/SK Hynix down 2-3% amid AI tech shifts; KOSDAQ remains resilient.",
+  "last_updated": "2026-03-26T13:20:00+09:00",
+  "market_status": "KOSPI declined 0.82% to 5,595.81 amid geopolitical concerns and chip demand worries; chipmakers Samsung and SK Hynix fell 2-3% on 'TurboQuant' algorithm concerns; KOSDAQ recovered to 1,160 level.",
   "latest_briefings": [
     {
       "source": "시장 분석",
       "topic": "KOSPI 시장 동향",
-      "summary": "지정학적 리스크(이란 전쟁)와 외국인 투자자 매도세가 겹치며 KOSPI 지수가 5,500선 후반으로 하락했습니다. 대형주 약세와 반도체 섹터의 변동성이 관찰됩니다."
+      "summary": "지정학적 리스크와 AI 칩 수요 우려로 KOSPI가 5,595선으로 하락했습니다. 외국인 및 기관의 매도세가 이어졌으나 개인은 순매수를 기록했습니다."
     },
     {
       "source": "AI Market Watch",
-      "topic": "반도체 및 인프라",
-      "summary": "Google의 신규 AI 압축 알고리즘 'TurboQuant' 도입 가능성 소식에 메모리 반도체 수요 전망이 엇갈리며 삼성전자, SK하이닉스 등 주요 칩메이커 주가가 2~3% 하락세를 보였습니다."
+      "topic": "삼성전자 AI 전략",
+      "summary": "삼성전자가 2026년 110조 원 규모의 대규모 투자 계획을 발표했습니다. AI 반도체 및 HBM 분야에 집중하며 차세대 파운드리 경쟁력을 강화하려는 전략입니다."
     }
   ]
 }
