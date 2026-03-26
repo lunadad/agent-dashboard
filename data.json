@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-27T05:50:00+09:00",
-  "market_status": "KOSPI 개장 전. 야간 선물 방향성 탐색 중.",
+  "last_updated": "2026-03-27T06:10:00+09:00",
+  "market_status": "KOSPI 개장 3시간 전. 관망세 지속 중.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오전 6:10 브리핑",
+      "summary": "개장 3시간 전, 야간 선물 시장 거래량 소폭 증가하며 방향성 탐색. 투자자들의 관망세 속 외국인 수급 변동성 주시 필요. 환율은 1,380원 초반대 유지."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오전 5:50 브리핑",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오전 4:50 브리핑",
       "summary": "OECD의 한국 성장률 전망 하향(1.7%)과 중동 리스크가 시장의 주요 변수입니다. 반도체주의 기술적 반등 여부와 외국인 수급 추이가 금일 개장의 핵심 포인트입니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 4:40 브리핑",
-      "summary": "개장까지 4시간여 앞둔 시점, 야간 선물 지수 보합세 유지. 글로벌 지수 흐름 및 환율 변동성 체크가 중요합니다."
     }
   ]
 }
