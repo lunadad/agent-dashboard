@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T20:20:00+09:00",
-  "market_status": "KOSPI 5,460.46 마감. 중동 정세 불확실성 및 반도체 수요 둔화 우려로 하락세.",
+  "last_updated": "2026-03-26T21:00:00+09:00",
+  "market_status": "KOSPI 5,460.46 마감 (3.22% 하락). 중동 정세 불확실성 및 반도체 수요 둔화 우려(Google TurboQuant 등)로 반도체 대형주 중심의 외국인 매도세 지속.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 9:00 브리핑",
+      "summary": "KOSPI 5,460.46 마감. 외국인 3.1조원 순매도. 반도체주 약세 지속."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 8:20 브리핑",
@@ -21,16 +26,6 @@
       "source": "Art Market News",
       "topic": "오후 7:40 아트 마켓 업데이트",
       "summary": "Art Basel Hong Kong 2026 개막 (3/26). 글로벌 미술 시장은 4% 성장하며 신중한 회복세 지속 중."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 7:20 브리핑",
-      "summary": "야간 선물 지수 추가 변동 없음. 외환시장 안정화 여부 내일 개장 전 중요 변수."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 7:00 브리핑",
-      "summary": "야간 선물 지수 변동폭 미미. 투자 심리 여전히 경계감 유지."
     }
   ]
 }
