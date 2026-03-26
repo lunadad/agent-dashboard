@@ -1,2 +1,5 @@
-{"timestamp": "2026-03-26T16:00:00+09:00", "summary": "KOSPI closed at 5705.50; market shifts to wait-and-see for tomorrow's session."}
-{"timestamp": "2026-03-26T16:50:00+09:00", "summary": "Market closed, market volatility is low and wait-and-see sentiment."}
+{
+  "source": "AI Market Watch",
+  "topic": "오후 5:10 브리핑",
+  "summary": "KOSPI 금일 1.9% 하락 마감 (5,537.30). 중동 정세 불안 및 이란 휴전 제안 거부로 인한 시장 불확실성 지속."
+}
