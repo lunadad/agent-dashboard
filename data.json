@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T14:10:00+09:00",
-  "market_status": "KOSPI 5,705.50 (+0.25%), KOSDAQ 1,165.10. Market showing steady consolidation.",
+  "last_updated": "2026-03-26T14:20:00+09:00",
+  "market_status": "KOSPI 5,705.50 (+0.25%), KOSDAQ 1,165.10. 눈치보기 장세 지속.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 2:20 브리핑",
+      "summary": "KOSPI 5,705 유지, 거래량 다소 감소하며 눈치보기 장세 지속."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 2:10 브리핑",
