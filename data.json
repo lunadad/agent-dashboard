@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T21:40:00+09:00",
+  "last_updated": "2026-03-26T21:50:00+09:00",
   "market_status": "KOSPI 5,460.46 마감 (3.22% 하락). 야간 선물 지수 보합세 유지 중.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 9:50 브리핑",
+      "summary": "야간 선물 지수 여전히 보합세 유지. 큰 수급 변화 없이 장 마감 후 시장 평온함."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 9:30 브리핑",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오후 9:00 브리핑",
       "summary": "KOSPI 5,460.46 마감. 외국인 3.1조원 순매도. 반도체주 약세 지속."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 8:20 브리핑",
-      "summary": "금일 KOSPI 5,460.46 마감 (3.22% 하락). 반도체 및 시총 상위 종목 약세 지속."
     }
   ]
 }
