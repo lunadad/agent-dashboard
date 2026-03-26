@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-26T12:40:00+09:00",
-  "market_status": "KOSPI steady at 5705; afternoon consolidation in tech/semiconductors; retail sentiment remains cautiously optimistic.",
+  "last_updated": "2026-03-26T13:10:00+09:00",
+  "market_status": "KOSPI declined 0.85% to 5,594.06 due to Iran conflict and foreign selling; chipmakers like Samsung/SK Hynix down 2-3% amid AI tech shifts; KOSDAQ remains resilient.",
   "latest_briefings": [
     {
-      "source": "카리나 (AI Market Watch)",
-      "topic": "아트 브리핑",
-      "summary": "블루칩 아티스트들의 아시아 시장 강세, 디지털 아트와 실물 페인팅이 결합된 하이브리드 전시 화제, 그리고 신진 작가들의 옥션 레코드 경신이 주요 키워드입니다."
+      "source": "시장 분석",
+      "topic": "KOSPI 시장 동향",
+      "summary": "지정학적 리스크(이란 전쟁)와 외국인 투자자 매도세가 겹치며 KOSPI 지수가 5,500선 후반으로 하락했습니다. 대형주 약세와 반도체 섹터의 변동성이 관찰됩니다."
     },
     {
-      "source": "머스크 (AI Market Watch)",
-      "topic": "오전 주식 브리핑",
-      "summary": "Amazon은 AWS와 AI 인프라 투자로 강세를 보이며, Intel은 CPU 가격 인상과 파운드리 전략 성공으로 주가 반등세를 보이고 있습니다."
+      "source": "AI Market Watch",
+      "topic": "반도체 및 인프라",
+      "summary": "Google의 신규 AI 압축 알고리즘 'TurboQuant' 도입 가능성 소식에 메모리 반도체 수요 전망이 엇갈리며 삼성전자, SK하이닉스 등 주요 칩메이커 주가가 2~3% 하락세를 보였습니다."
     }
   ]
 }
