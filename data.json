@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-27T04:50:00+09:00",
+  "last_updated": "2026-03-27T05:00:00+09:00",
   "market_status": "KOSPI 개장 전. 중동 리스크 및 OECD 성장률 전망 하향으로 관망세 우세.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오전 5:00 브리핑",
+      "summary": "개장 3시간 30분 전. 시장은 여전히 관망세입니다. 환율은 1,380원대 박스권을 유지 중이며, 큰 수급 변동은 관찰되지 않습니다."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오전 4:50 브리핑",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오전 4:00 브리핑",
       "summary": "금일 장 개장 전, 야간 선물 지수는 보합세를 유지 중입니다. 어제 반도체주 약세 여파가 이어질지 주목됩니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 3:30 브리핑",
-      "summary": "시장 개장 전, 야간 선물 지수는 여전히 보합세를 유지 중입니다. 큰 수급 변동 없이 차분한 새벽 시간입니다."
     }
   ]
 }
