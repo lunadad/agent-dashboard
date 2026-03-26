@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T19:40:00+09:00",
+  "last_updated": "2026-03-26T19:50:00+09:00",
   "market_status": "KOSPI 5,537.30. 시장 전반적 관망세 속 아트/전시 마켓 뉴스 큐레이션.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 7:50 브리핑",
+      "summary": "야간 선물 지수 보합세 연장. 내일 개장 전 환율 및 외국인 수급 변동 주의."
+    },
     {
       "source": "Art Market News",
       "topic": "오후 7:40 아트 마켓 업데이트",
@@ -21,11 +26,6 @@
       "source": "AI Market Watch",
       "topic": "오후 6:50 브리핑",
       "summary": "야간 선물 지수 보합세 유지. 외인 매도세 강도 모니터링 필요."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 6:40 브리핑",
-      "summary": "시장 마감 후 추가 변동 없음. 외인 매도세 지속으로 야간 선물 시장 및 내일 개장 전 환율 동향 체크 필요."
     }
   ]
 }
