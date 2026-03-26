@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T18:50:00+09:00",
+  "last_updated": "2026-03-26T19:00:00+09:00",
   "market_status": "KOSPI 5,537.30. 외인 5일 연속 매도세 지속, 반도체 부문 시장 디커플링 주목.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 7:00 브리핑",
+      "summary": "야간 선물 지수 변동폭 미미. 투자 심리 여전히 경계감 유지."
+    },
     {
       "source": "AI Market Watch",
       "topic": "오후 6:50 브리핑",
@@ -16,11 +21,6 @@
       "source": "AI Market Watch",
       "topic": "오후 6:30 브리핑",
       "summary": "외국인 투자자 5일 연속 매도세 지속. 반도체 부문은 전통 제조 경기와 디커플링 조짐, AI 인프라 투자 중심으로 재편되는 양상."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오후 6:20 브리핑",
-      "summary": "시장 마감 후 추가 변동 없이 관망세 유지 중. 야간 선물 시장 지켜보는 중."
     }
   ]
 }
