@@ -1,7 +1,12 @@
 {
-  "last_updated": "2026-03-26T13:30:00+09:00",
-  "market_status": "KOSPI slightly recovered to 5,605.20 (+0.16%) after midday volatility; KOSDAQ remains steady at 1,162.50. Tech sector showing signs of stabilization.",
+  "last_updated": "2026-03-26T13:50:00+09:00",
+  "market_status": "KOSPI 5,608.10 (+0.21%), KOSDAQ 1,163.20. Afternoon stability continues.",
   "latest_briefings": [
+    {
+      "source": "AI Market Watch",
+      "topic": "오후 1:50 브리핑",
+      "summary": "시장 반등세 유지 중, 기술주 중심으로 견고한 매수세 확인됨."
+    },
     {
       "source": "시장 분석",
       "topic": "오후 시장 흐름",
