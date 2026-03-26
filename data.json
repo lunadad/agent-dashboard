@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-03-26T11:50:00+09:00",
-  "market_status": "Global markets show optimism with potential Middle East de-escalation; U.S. markets closed higher.",
+  "last_updated": "2026-03-26T12:00:00+09:00",
+  "market_status": "KOSPI steady at 5705 with strong tech retail interest; US markets show resilience with focus on AI and semiconductor growth.",
   "latest_briefings": [
     {
-      "source": "AI Market Watch",
-      "topic": "아트 마켓 동향",
-      "summary": "2026 아트 시장은 블루칩 작가 중심의 회복세와 함께 구조적 변화를 겪고 있으며, Vivian Maier의 주요 작품 컬렉션 경매가 주목받고 있습니다."
+      "source": "카리나 (AI Market Watch)",
+      "topic": "아트 브리핑",
+      "summary": "블루칩 아티스트들의 아시아 시장 강세, 디지털 아트와 실물 페인팅이 결합된 하이브리드 전시 화제, 그리고 신진 작가들의 옥션 레코드 경신이 주요 키워드입니다."
     },
     {
-      "source": "AI Market Watch",
-      "topic": "시장 브리핑",
-      "summary": "미국 증시는 중동 긴장 완화 기대감으로 상승세를 보였으며, 전반적인 경제 회복의 신호가 감지되고 있습니다."
+      "source": "머스크 (AI Market Watch)",
+      "topic": "오전 주식 브리핑",
+      "summary": "Amazon은 AWS와 AI 인프라 투자로 강세를 보이며, Intel은 CPU 가격 인상과 파운드리 전략 성공으로 주가 반등세를 보이고 있습니다."
     }
   ]
 }
