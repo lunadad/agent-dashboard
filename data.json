@@ -1,67 +1,25 @@
 {
-  "last_updated": "2026-03-27T09:00:00+09:00",
-  "market_status": "코스피 개장. 변동성 확대 지속 중.",
-  "dailyReports": {
-    "머스크": {
-      "raw": "☀️ **[오전 주식 브리핑] 2026년 3월 27일 금요일**\n\n**Amazon (AMZN)**\n- 현재가: ~$207.52 (전일 대비 -2%)\n- 핵심: AWS AI 모멘텀이 강력해 애널리스트들은 목표가를 상향하는 등 매수 의견을 유지하고 있습니다. 다만, 2026년 대규모 투자($200B) 계획이 단기적인 마진 압박 요인으로 우려되고 있습니다.\n\n**Intel (INTC)**\n- 현재가: ~$44.10 (전일 대비 -6.5%)\n- 핵심: 18A 공정과 신규 칩 출시에 대한 기대감으로 반등을 모색했으나, 파운드리 사업부의 손실과 반도체 섹터 전반의 조정 압력으로 변동성이 큽니다. CrowdStrike와의 AI 보안 파트너십 등 기술적 행보는 주목할 만합니다."
-    },
-    "FT": {
-      "raw": "From: 조선일보 <chosun@event2.chosun.com>\nTo: miksnah@gmail.com\nSubject: [WEEKLY BIZ LETTER] ‘미지의 미지’ 사모 대출…“AI 거품 터지면 금융체제 재앙\"\n\n(Full email body text here...)"
-    },
-    "카리나": {
-      "raw": "🎨 **[카리나의 오전 9시 아트 브리핑]** 🎨\n\n슬기님, 좋은 아침입니다! ☀️ 2026년 3월 27일 금요일, 카리나가 전해드리는 최신 Artnet 기반 예술계 소식입니다. 오늘 하루도 영감 가득하게 시작해 볼까요?\n\n**1. 📊 Artnet Intelligence Report: 2026년 아트 마켓의 해답**\nArtnet에서 새로운 \"Intelligence Report: The Year Ahead 2026\"을 발표했습니다! 현대 미술계의 동향을 데이터 기반으로 흥미롭게 분석했는데요. 특히 아시아 지역의 기술(Tech) 기반 자본이 융합된 복합 예술 공간들이 중국을 중심으로 새롭게 급부상하며 아트 마켓의 새로운 성장 동력으로 자리 잡고 있습니다.\n\n**2. 💰 크리스티(Christie's), 3,000만 달러 규모의 미니멀리스트 걸작 경매 준비**\n글로벌 경매사 크리스티가 무려 3,000만 달러(약 400억 원) 규모에 달하는 미니멀리즘 마스터피스 컬렉션 경매를 앞두고 있습니다. 최근 추상화와 미니멀리즘에 대한 컬렉터들의 수요가 다시 뜨거워지고 있는 트렌드를 완벽하게 보여주는 대목이네요!\n\n**3. 👗 벨기에 패션과 예술의 만남: MoMu '앤트워프 식스(Antwerp Six)' 전시**\n패션과 예술의 경계를 허문 전설적인 디자이너 그룹 '앤트워프 식스'의 40주년을 기념하는 전시가 MoMu에서 새롭게 열립니다. 예술적 영감이 어떻게 패션이라는 매체로 확장되었는지 다시 한번 조명하는 중요한 전시로 평가받고 있습니다.\n\n**4. 🏛️ 루브르 박물관, 루벤스의 '마리 드 메디치 생애' 연작 새 단장**\n루브르에 전시된 거장 피터 폴 루벤스의 스펙터클한 연작이 성공적인 복원 작업(glow-up)을 마쳤습니다. 바로크 미술의 웅장함을 다시금 생생하게 느낄 수 있게 되어 전 세계 미술 팬들의 가슴을 설레게 하고 있습니다.\n\n**💡 카리나의 코멘트:**\n글로벌 아트 마켓은 작년의 숨 고르기를 지나 다시 완연한 성장세로 돌아서고 있는 모습이에요! 특히 클래식한 미니멀리즘 작품과 테크 자본이 결합된 새로운 전시 공간의 양극화된 매력이 돋보이는 2026년 봄입니다.\n\n오늘 브리핑이 슬기님의 안목에 반짝이는 영감이 되었기를 바라며, 즐겁고 예술적인 금요일 보내세요! 💕\n"
-    }
+  "last_updated": "2026-03-27T09:20:00+09:00",
+  "art_market": {
+    "summary": "Global art market recovering with a 4% increase in 2025; March 2026 active with exhibitions like Sotheby's Old Master & Modern drawings and the Whitney Biennial 2026.",
+    "top_stories": [
+      "Sotheby's Paris showcasing Old Master & Modern drawings.",
+      "New acquisitions at the National Gallery of Art, Washington D.C.",
+      "Gallerie dell' Accademia conservation project for Bellini's San Giobbe altarpiece.",
+      "Whitney Biennial 2026 is currently a major highlight."
+    ]
   },
-  "latest_briefings": [
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 9:00 브리핑",
-      "summary": "코스피 개장. 투매 물량 출회로 지수 변동성 확대. 주요 대형주 중심의 하락세가 관찰되며, 외국인 매도세 유입 여부가 중요함."
+  "stock_market": {
+    "summary": "U.S. markets faced sharp downturn on March 26, 2026, due to geopolitical tensions in the Middle East and surging oil prices.",
+    "indices": {
+      "dow_jones": { "change_percent": -1.01, "close": 45960.11 },
+      "s_and_p_500": { "change_percent": -1.74, "close": 6477.16 },
+      "nasdaq": { "change_percent": -2.38, "close": 21408.08 }
     },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 8:50 브리핑",
-      "summary": "개장 10분 전. 투매 물량이 출회되며 코스피지수 2,400선 방어 여부가 초미의 관심사로 떠오르고 있습니다. 기관의 방어 매수세가 확인되지 않는다면, 장 초반 변동성은 더욱 확대될 수 있습니다. 지금은 무리한 진입보다는 관망하는 자세가 필요합니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 8:40 브리핑",
-      "summary": "개장 20분 전. 시장 공포 심리가 극한에 달하고 있습니다. 주요 대형주들에 대한 매도세가 이어지고 있으며, 변동성 지수(VIX)의 급등 가능성을 예의주시해야 합니다. 장 초반의 짧은 반등을 노리기보다는 관망하며 수급 안정세를 확인하는 것이 안전해 보입니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 8:30 브리핑",
-      "summary": "개장 30분 전. 중동 리스크 재부각 및 미 기술주 급락(구글 터보퀀트 쇼크) 여파로 시장 불안 고조. 외국인 순매도 지속과 환율 1,510원 돌파 시도에 따른 변동성 확대가 예상됩니다. 반도체주 중심의 투자 심리 위축에 유의해야 합니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 8:20 브리핑",
-      "summary": "개장 40분 전. 글로벌 증시 변동성 확대 및 원/달러 환율 1,500원 터치 시도로 시장 긴장감 최고조. 장 초반 외국인 매도세 유입 여부와 기술주 중심의 반등 여력 확인이 필수입니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 8:00 브리핑",
-      "summary": "개장 50분 전. 미국 증시 급락 및 중동 정세 불확실성 지속으로 안전자산 선호 심리 강화. 환율 움직임과 외국인 수급에 예의주시할 필요가 있음."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 7:50 브리핑",
-      "summary": "개장 1시간 10분 전. 미국-이란 종전 협상 불확실성 확대로 국제유가 급등 및 안전자산 선호 강화. 미 나스닥 조정 구간 진입 여파로 반도체주 중심의 투자 심리 악화. 원/달러 환율 1,500원대 진입 시도로 증시 압박 지속."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 7:40 브리핑",
-      "summary": "개장 1시간 20분 전. 시장 공포감 지속. 기술주 변동성 확대 대비 및 원/달러 환율 1,380원 초반대 흐름 주시."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 7:30 브리핑",
-      "summary": "개장 1시간 30분 전입니다. 시장 전반의 공포 심리가 지속되는 가운데, 외국인 수급 변동성과 원/달러 환율의 움직임에 집중해야 합니다. 기술주 중심의 변동성 확대 가능성에 대비한 리스크 관리가 필요한 시점입니다."
-    },
-    {
-      "source": "AI Market Watch",
-      "topic": "오전 7:20 브리핑",
-      "summary": "개장 1시간 40분 전. 중동 정세의 불확실성과 미 기술주 급락 여파로 시장 전반에 공포감이 확산되고 있습니다. 반도체주 중심의 투자 심리 악화가 예상되며, 오늘 장 중 외국인 수급과 환율 변동성에 각별한 주의가 필요합니다."
-    }
-  ]
+    "key_factors": [
+      "Brent crude oil surpassed $108 per barrel.",
+      "Geopolitical tensions in the Middle East impacting investor confidence.",
+      "Tech and communication sectors (Meta, Micron) under pressure."
+    ]
+  }
 }
