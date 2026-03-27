@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T09:20:00+09:00",
+  "last_updated": "2026-03-27T09:30:00+09:00",
   "art_market": {
     "summary": "Global art market recovering with a 4% increase in 2025; March 2026 active with exhibitions like Sotheby's Old Master & Modern drawings and the Whitney Biennial 2026.",
     "top_stories": [
@@ -10,7 +10,7 @@
     ]
   },
   "stock_market": {
-    "summary": "U.S. markets faced sharp downturn on March 26, 2026, due to geopolitical tensions in the Middle East and surging oil prices.",
+    "summary": "Tech sector facing downward pressure on March 27, 2026, with concerns over investment margins and foundry volatility.",
     "indices": {
       "dow_jones": { "change_percent": -1.01, "close": 45960.11 },
       "s_and_p_500": { "change_percent": -1.74, "close": 6477.16 },
@@ -18,8 +18,9 @@
     },
     "key_factors": [
       "Brent crude oil surpassed $108 per barrel.",
-      "Geopolitical tensions in the Middle East impacting investor confidence.",
-      "Tech and communication sectors (Meta, Micron) under pressure."
+      "Amazon (AMZN) down 2% due to $200B investment margin concerns.",
+      "Intel (INTC) down 6.5% with foundry business volatility.",
+      "Geopolitical tensions in the Middle East impacting investor confidence."
     ]
   }
 }
