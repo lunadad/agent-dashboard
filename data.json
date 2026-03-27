@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T17:30:00+09:00",
+  "last_updated": "2026-03-27T17:40:00+09:00",
   "art_market": {
     "summary": "Art Basel Hong Kong 2026 is officially underway (March 27-29). New initiatives include the 'Echoes' sector and 'Zero 10' digital art debut.",
     "top_stories": [
@@ -16,9 +16,10 @@
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "KOSPI recovered significantly from morning lows (~5,200 level).",
-      "Market remains volatile due to geopolitical risks.",
-      "Semiconductor sector faces ongoing pressure."
+      "TurboQuant tech impact: Major semiconductor stocks continue to face downward pressure for second consecutive day.",
+      "Market resilience: KOSPI recovered significantly from intraday lows (approx. 5,200 level).",
+      "Investor activity: Strong net purchases by individual and institutional investors partially offset heavy foreign selling.",
+      "Geopolitical/Macro: Rising oil prices due to Iran war concerns remain a key market anxiety."
     ]
   }
 }
