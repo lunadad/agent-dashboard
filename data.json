@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T14:30:00+09:00",
+  "last_updated": "2026-03-27T14:40:00+09:00",
   "art_market": {
     "summary": "Art Basel Hong Kong 2026 (Mar 27-29) continues. Resilience noted amidst economic backdrop; sales include Picasso (€3.5M), Liu Ye ($3.8M), and Dumas ($3.5M). Government commits to 5-year hosting agreement.",
     "top_stories": [
@@ -9,15 +9,15 @@
     ]
   },
   "stock_market": {
-    "summary": "KOSPI plunged 3.03% to 5,256.46 as Middle East tensions and concerns over Google's 'TurboQuant' AI technology heavily impact memory semiconductor manufacturers.",
+    "summary": "KOSPI fell ~3% to 5,220.10, struggling amid Middle East instability and market panic over Google's 'TurboQuant' semiconductor efficiency gains.",
     "indices": {
-      "kospi": { "change_percent": -3.03, "close": 5256.46 },
-      "nikkei_225": { "change_percent": -0.59, "close": 53289.89 }
+      "kospi": { "change_percent": -3.00, "close": 5220.10 },
+      "nikkei_225": { "change_percent": -0.65, "close": 53250.00 }
     },
     "key_factors": [
-      "Renewed Middle East tensions between US/Israel and Iran drive oil price surge (Brent +5.66%) and market instability.",
-      "Google's 'TurboQuant' algorithm threatens semiconductor demand; Samsung Electronics and SK Hynix lead declines.",
-      "Risk-off sentiment prevails despite diplomatic attempts for ceasefire."
+      "Escalating U.S./Israel-Iran tensions driving Brent crude surge (+5.8%).",
+      "Google's 'TurboQuant' algorithm announcement causes sell-off in memory chip giants (Samsung, SK Hynix).",
+      "Investors weigh Jevons Paradox vs. immediate demand destruction concerns."
     ]
   }
 }
