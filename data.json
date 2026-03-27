@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T15:10:00+09:00",
+  "last_updated": "2026-03-27T15:20:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 public days underway (Mar 27-29); strong sales reported by major galleries despite wider market volatility.",
+    "summary": "Art Basel Hong Kong 2026 is in full swing (Mar 27-29); collectors are showing a cautious but deliberate approach with APAC-focused interests.",
     "top_stories": [
-      "Fair features 240 galleries; debut of 'Echoes' sector and Asia debut of 'Zero 10' digital initiative.",
-      "Global galleries report consistent high-value sales; strong museum and private collection interest in Korean artists.",
-      "New 5-year collaboration with Hong Kong Culture Bureau reinforces city's role as premier arts trading hub."
+      "New 'Echoes' sector and 'Zero 10' digital initiative debut successfully.",
+      "Samsung Art Store partnership showcases exclusive digital collections and works from the Lee Kun-Hee Collection.",
+      "Collectors favoring direct gallery-artist relationships over speculative buying amidst cautious market sentiment."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI volatile; closed trading week down but pared early 3% losses. Markets reacted to Google's 'TurboQuant' AI tech and ongoing Iran conflict tensions.",
+    "summary": "KOSPI closed down 3.22% at 5,460 points, hitting a two-week low following regional volatility and oil price shocks.",
     "indices": {
-      "kospi": { "change_percent": -1.61, "close": 5372.31 },
-      "nikkei_225": { "change_percent": -1.25, "close": 53180.50 }
+      "kospi": { "change_percent": -3.22, "close": 5460.00 },
+      "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "Google's 'TurboQuant' algorithm impacts semi stocks; Samsung and SK Hynix faced downward pressure.",
-      "Middle East tensions boost oil prices (Brent ~$108/bbl), dampening general investor sentiment.",
-      "Retail investors active in bargain-hunting helped KOSPI recover toward afternoon close."
+      "Significant KOSPI drop (-3.22%) due to Iran conflict-driven oil price surges and TurboQuant concerns.",
+      "Semiconductor sector (Samsung, SK Hynix) experienced heavy downward pressure for a second consecutive day.",
+      "Retail bargain-hunting observed, but overall investor sentiment remains bearish heading into the weekend."
     ]
   }
 }
