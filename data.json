@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T09:40:00+09:00",
+  "last_updated": "2026-03-27T09:50:00+09:00",
   "art_market": {
     "summary": "The art market is seeing a recalibration with a shift away from speculative flipping. Key events include Feng J's high jewelry exhibition at Giverny and the inaugural Modern Craft Market in Pittsburgh.",
     "top_stories": [
@@ -10,17 +10,17 @@
     ]
   },
   "stock_market": {
-    "summary": "Global markets are facing volatility with tech sectors under pressure due to memory chip selloffs and mixed global cues.",
+    "summary": "Global markets are facing volatility. Tech sector under pressure: Amazon (AMZN) showing AWS momentum but concerns over $200B investment; Intel (INTC) volatile amid foundry losses.",
     "indices": {
       "dow_jones": { "change_percent": -1.0, "close": 45960.11 },
       "s_and_p_500": { "change_percent": -1.7, "close": 6477.16 },
       "nasdaq": { "change_percent": -2.3, "close": 21408.08 }
     },
     "key_factors": [
+      "Amazon (AMZN): AWS momentum vs. $200B investment concerns.",
+      "Intel (INTC): Volatility, foundry losses vs. AI security partnerships.",
       "Oil prices rebounded (Brent ~$107.78) following rejected peace talks.",
-      "Tech selloff in memory chips following Google's 'TurboQuant' research.",
-      "Xanadu Quantum Technologies (XNDU) began trading on Nasdaq.",
-      "Health In Tech (HIT) announced $7M private placement."
+      "Tech selloff in memory chips following Google's 'TurboQuant' research."
     ]
   }
 }
