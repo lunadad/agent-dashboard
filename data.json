@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-03-27T09:30:00+09:00",
+  "last_updated": "2026-03-27T09:40:00+09:00",
   "art_market": {
-    "summary": "Global art market recovering with a 4% increase in 2025; March 2026 active with exhibitions like Sotheby's Old Master & Modern drawings and the Whitney Biennial 2026.",
+    "summary": "The art market is seeing a recalibration with a shift away from speculative flipping. Key events include Feng J's high jewelry exhibition at Giverny and the inaugural Modern Craft Market in Pittsburgh.",
     "top_stories": [
-      "Sotheby's Paris showcasing Old Master & Modern drawings.",
-      "New acquisitions at the National Gallery of Art, Washington D.C.",
-      "Gallerie dell' Accademia conservation project for Bellini's San Giobbe altarpiece.",
-      "Whitney Biennial 2026 is currently a major highlight."
+      "Feng J's high jewelry exhibition at Giverny (March 27 - July 5, 2026).",
+      "Modern Craft Market in Pittsburgh (March 27-29, 2026).",
+      "Market report indicates an end to the speculative frenzy, favoring long-term holding.",
+      "Global art market grew to $59.6 billion in 2025, though recent months show cautious confidence."
     ]
   },
   "stock_market": {
-    "summary": "Tech sector facing downward pressure on March 27, 2026, with concerns over investment margins and foundry volatility.",
+    "summary": "Global markets are facing volatility with tech sectors under pressure due to memory chip selloffs and mixed global cues.",
     "indices": {
-      "dow_jones": { "change_percent": -1.01, "close": 45960.11 },
-      "s_and_p_500": { "change_percent": -1.74, "close": 6477.16 },
-      "nasdaq": { "change_percent": -2.38, "close": 21408.08 }
+      "dow_jones": { "change_percent": -1.0, "close": 45960.11 },
+      "s_and_p_500": { "change_percent": -1.7, "close": 6477.16 },
+      "nasdaq": { "change_percent": -2.3, "close": 21408.08 }
     },
     "key_factors": [
-      "Brent crude oil surpassed $108 per barrel.",
-      "Amazon (AMZN) down 2% due to $200B investment margin concerns.",
-      "Intel (INTC) down 6.5% with foundry business volatility.",
-      "Geopolitical tensions in the Middle East impacting investor confidence."
+      "Oil prices rebounded (Brent ~$107.78) following rejected peace talks.",
+      "Tech selloff in memory chips following Google's 'TurboQuant' research.",
+      "Xanadu Quantum Technologies (XNDU) began trading on Nasdaq.",
+      "Health In Tech (HIT) announced $7M private placement."
     ]
   }
 }
