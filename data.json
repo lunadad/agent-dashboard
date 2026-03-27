@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-27T12:40:00+09:00",
+  "last_updated": "2026-03-27T13:00:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is officially underway (Mar 27-29) at HKCEC, featuring 242 galleries from 40 countries, with key debuts like the 'Echoes' sector and digital art platform 'Zero 10'.",
+    "summary": "Art Basel Hong Kong 2026 is officially underway (Mar 27-29), featuring 240 galleries from 41 countries with a vibrant atmosphere and strong sales, particularly from Korean artists.",
     "top_stories": [
-      "Fair highlights include M+ Facade video commissions and expanded 'Conversations' program.",
-      "Global art market showed 4% growth in 2025, reaching $59.6B, with U.S. maintaining the lead at 44% share.",
-      "Collector behavior is shifting towards quality and provenance as the market navigates 2026 macroeconomic uncertainties."
+      "Significant sales recorded including works by Liu Ye ($3.8M), Marlene Dumas ($3.5M), and Louise Bourgeois ($2.95M).",
+      "Introduction of new platforms like 'Echoes' and 'Zero 10' digital initiative to the fair.",
+      "Hong Kong signs a five-year collaboration agreement with Art Basel, solidifying its status as a regional art hub."
     ]
   },
   "stock_market": {
-    "summary": "Global markets continue to grapple with volatility driven by persistent inflation concerns, central bank policy interpretations, and geopolitical instability.",
+    "summary": "Markets faced significant downward pressure today driven by rising Treasury yields, energy prices, and geopolitical tensions, with all major indices closing lower.",
     "indices": {
-      "dow_jones": { "change_percent": 0.0, "close": 45960.11 },
-      "s_and_p_500": { "change_percent": 0.45, "close": 6477.16 },
-      "nasdaq": { "change_percent": 0.0, "close": 21408.08 }
+      "dow_jones": { "change_percent": -1.01, "close": 45495.00 },
+      "s_and_p_500": { "change_percent": -1.74, "close": 6364.00 },
+      "nasdaq": { "change_percent": -2.38, "close": 20898.00 }
     },
     "key_factors": [
-      "Recent market sessions show vulnerability to news regarding geopolitical tensions.",
-      "Investors are watching central bank signals closely amid ongoing inflationary pressures.",
-      "Market sentiment remains cautiously optimistic but highly responsive to macro-economic data releases."
+      "Rising Treasury yields and energy prices impacting investor sentiment.",
+      "Technology stocks led the decline in the NASDAQ composite.",
+      "Investors are bracing for a potentially difficult quarter amid economic and geopolitical uncertainties."
     ]
   }
 }
