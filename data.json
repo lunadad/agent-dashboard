@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T13:50:00+09:00",
+  "last_updated": "2026-03-27T14:00:00+09:00",
   "art_market": {
     "summary": "Art Basel Hong Kong 2026 (Mar 27-29) continues. Strong sales noted for Picasso (€3.5M) and Liu Ye ($3.8M).",
     "top_stories": [
@@ -9,16 +9,15 @@
     ]
   },
   "stock_market": {
-    "summary": "US markets showing slight recovery as US futures rise 0.31% following Trump's extension of Iran energy talks. S&P 500 at 6497.",
+    "summary": "KOSPI plunged 3.74% to 5,256.46 as Middle East tensions and concerns over Google's 'TurboQuant' AI technology weigh on chip manufacturers.",
     "indices": {
-      "dow_jones": { "change_percent": 0.31, "close": 45495.00 },
-      "s_and_p_500": { "change_percent": 0.31, "close": 6497.00 },
-      "nasdaq": { "change_percent": 0.31, "close": 20898.00 }
+      "kospi": { "change_percent": -3.74, "close": 5256.46 },
+      "nikkei_225": { "change_percent": -0.59, "close": 53289.89 }
     },
     "key_factors": [
-      "US stock futures rose 0.31% following Trump's Iran energy deadline extension.",
-      "Previous session saw a 1.74% drop amid geopolitical and oil price concerns.",
-      "Recession fears continue as major institutions adjust forecasts."
+      "Renewed Middle East tensions drive risk-off sentiment.",
+      "Google's 'TurboQuant' AI algorithm raises concerns over future memory demand.",
+      "Samsung Electronics (-3.72%) and SK Hynix (-4.82%) lead broad market decline."
     ]
   }
 }
