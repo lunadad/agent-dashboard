@@ -1,26 +1,24 @@
 {
-  "last_updated": "2026-03-27T10:10:00+09:00",
+  "last_updated": "2026-03-27T10:20:00+09:00",
   "art_market": {
-    "summary": "The global art market saw 4% growth in 2025, reaching $59.6 billion, with a clear trend toward quality and long-term collecting over speculative flipping.",
+    "summary": "The global art market continues to demonstrate resilience in 2026, with collectors prioritizing blue-chip artists and long-term asset value amid broader economic uncertainty.",
     "top_stories": [
-      "Global art market recovered to $59.6 billion in 2025 (+4%).",
-      "Shift away from short-term speculation; average annual loss of 5.7% for art resold within 5 years.",
-      "U.S. remains the dominant market hub (44% of global sales).",
-      "Auction sector experienced a 'return to discipline' with high sell-through rates on selective inventory."
+      "Art Basel Hong Kong 2026 reports strong attendance and steady sales.",
+      "Growing collector interest in secondary market opportunities for established contemporary artists.",
+      "Shift towards digital provenance verification for high-value transactions."
     ]
   },
   "stock_market": {
-    "summary": "Markets show signs of recovery on Friday, March 27, after sharp declines on Thursday driven by geopolitical concerns.",
+    "summary": "Nasdaq leads a modest rebound on Friday morning as investors digest Thursday's sharp declines, focusing on tech sector valuations.",
     "indices": {
-      "dow_jones": { "change_percent": -1.01, "close": 45960.11 },
-      "s_and_p_500": { "change_percent": -1.74, "close": 6477.16 },
-      "nasdaq": { "change_percent": -2.38, "close": 21408.08 }
+      "dow_jones": { "change_percent": 0.25, "close": 46075.00 },
+      "s_and_p_500": { "change_percent": 0.35, "close": 6499.00 },
+      "nasdaq": { "change_percent": 0.55, "close": 21525.00 }
     },
     "key_factors": [
-      "Futures show positive movement (+0.45%) on March 27 following Thursday's sharp downturn.",
-      "Nasdaq officially entered correction territory (>10% decline).",
-      "Geopolitical tensions (US-Iran) remain a primary driver of volatility.",
-      "Investors are watching for shifts in energy prices and negotiation updates."
+      "Tech rebound driven by selective buying in mega-cap stocks.",
+      "Market sentiment stabilizes as geopolitical headlines fade from front pages.",
+      "Investors awaiting upcoming earnings guidance for Q2 2026."
     ]
   }
 }
