@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T14:50:00+09:00",
+  "last_updated": "2026-03-27T15:00:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 (Mar 27-29) opened at HKCEC today. 240 galleries from 41 countries participating, featuring new 'Echoes' platform and 'Zero 10' digital section.",
+    "summary": "Art Basel Hong Kong 2026 is in full swing (Mar 27-29) at HKCEC, following two strong VIP preview days. Galleries report solid sales and optimistic sentiment despite global economic headwinds.",
     "top_stories": [
-      "Art Basel Hong Kong 2026 kicks off with high engagement; 'Echoes' and 'Zero 10' sectors drawing major attention.",
-      "Strong market activity with notable sales; Korean artists Lee Bul and Kim Yun-shin gaining significant collector interest.",
-      "Continued strength in blue-chip works alongside rising digital art initiatives."
+      "Fair features 240 galleries from 41 countries; significant depth of demand for Asia-Pacific artists noted.",
+      "New 'Echoes' and 'Zero 10' curatorial sectors drawing major engagement from collectors.",
+      "Sales highlights include works by George Condo, Louise Bourgeois, and Lee Bul, with strong museum and private collection interest."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI fell ~3% to 5,220.10, struggling amid Middle East instability and market panic over Google's 'TurboQuant' semiconductor efficiency gains.",
+    "summary": "KOSPI volatile; opened down ~3% (5,220.10) but pared losses in afternoon trading. Markets under pressure from Google's 'TurboQuant' announcement and Iran-US geopolitical tensions.",
     "indices": {
-      "kospi": { "change_percent": -3.00, "close": 5220.10 },
+      "kospi": { "change_percent": -1.85, "close": 5302.45 },
       "nikkei_225": { "change_percent": -0.65, "close": 53250.00 }
     },
     "key_factors": [
-      "Escalating U.S./Israel-Iran tensions driving Brent crude surge (+5.8%).",
-      "Google's 'TurboQuant' algorithm announcement causes sell-off in memory chip giants (Samsung, SK Hynix).",
-      "Investors weigh Jevons Paradox vs. immediate demand destruction concerns."
+      "Google's 'TurboQuant' AI compression tech triggers sell-off in global memory chip stocks (Samsung, SK Hynix down ~4%).",
+      "Geopolitical uncertainty surrounding US-Iran conflict continues to dampen investor sentiment.",
+      "Retail buying in the afternoon helped the KOSPI recover some losses, reclaiming the 5,300 mark."
     ]
   }
 }
