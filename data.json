@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-27T16:20:00+09:00",
+  "last_updated": "2026-03-27T16:30:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is officially underway (March 27-29). Echoes and Zero 10 platforms are the new highlights.",
+    "summary": "Art Basel Hong Kong 2026 is officially underway (March 27-29). New initiatives include the 'Echoes' sector and 'Zero 10' digital art debut.",
     "top_stories": [
       "Art Basel HK 2026 at HKCEC features 240 galleries; strong early sales reported.",
       "New curation platforms 'Echoes' and digital art section 'Zero 10' debut in Asia.",
-      "High-value transactions include Picasso (€3.5M) and Liu Ye ($3.8M).",
-      "Korean artists, including Lee Bul and Kim Yun-shin, showing strong market performance."
+      "Notable transactions include a Picasso painting ($4M) and strong sales for Korean artists Lee Bul and Kim Yun-shin.",
+      "5-year collaboration agreement between Hong Kong Culture Bureau and Art Basel announced."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI closed lower at 5,361.29 (-1.8%) amid continued volatility and geopolitical tensions.",
+    "summary": "KOSPI closed at 5,438.98 (-0.40%) after recovering from an earlier 3% plunge.",
     "indices": {
-      "kospi": { "change_percent": -1.8, "close": 5361.29 },
+      "kospi": { "change_percent": -0.40, "close": 5438.98 },
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "Market remains volatile due to Middle East geopolitical risks affecting global sentiment.",
-      "Semiconductor sector faces persistent pressure.",
-      "Investors maintaining cautious stance moving into the weekend."
+      "KOSPI recovered significantly from morning lows (~5,200 level).",
+      "Market remains volatile due to geopolitical risks.",
+      "Semiconductor sector faces ongoing pressure."
     ]
   }
 }
