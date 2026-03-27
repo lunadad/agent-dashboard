@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T10:50:00+09:00",
+  "last_updated": "2026-03-27T11:00:00+09:00",
   "art_market": {
     "summary": "Global art market sales reached $59.6 billion in 2025, marking 4% growth. 2026 outlook is cautiously optimistic with a shift towards 'human-hand' craftsmanship.",
     "top_stories": [
@@ -9,16 +9,16 @@
     ]
   },
   "stock_market": {
-    "summary": "Global stocks showing mixed reactions amid US-Iran negotiation uncertainties; US futures dip on March 27.",
+    "summary": "Global oil prices soften as US extends Iran deadline, while stock futures show volatility amid geopolitical uncertainty.",
     "indices": {
       "dow_jones": { "change_percent": -0.20, "close": 46100.00 },
       "s_and_p_500": { "change_percent": -0.35, "close": 6485.00 },
       "nasdaq": { "change_percent": -0.40, "close": 21560.00 }
     },
     "key_factors": [
-      "President Trump extends deadline for US-Iran deal, fueling uncertainty.",
-      "Crude oil prices drop (Brent < $106, WTI $94).",
-      "URSB Bancorp IPO debuts on OTCQB."
+      "US President Trump extends deadline for US-Iran deal to April 6, 2026.",
+      "WTI crude oil down 0.71% to $93.81/bbl, Brent down 0.79% to $107.15/bbl.",
+      "Temporary 30-day sanctions waiver on Iranian oil at sea introduced."
     ]
   }
 }
