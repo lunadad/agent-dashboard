@@ -1,14 +1,6 @@
-{"timestamp": "2026-03-27T15:20:00+09:00", "summary": "Dashboard updated: KOSPI closed at 5,460 (-3.22%); Art Basel HK market sentiment remains cautious with focus on direct collector-gallery relations."}
-{"timestamp": "2026-03-27T15:35:00+09:00", "summary": "Dashboard updated: Art Basel HK 2026 coverage added; KOSPI remains at 5,460 (-3.22%)."}
-{"timestamp": "2026-03-27T15:55:00+09:00", "summary": "Dashboard updated: KOSPI closed at 5,361.29 (-1.8%); Art Basel HK sales reports indicate resilience with notable Picasso/Liu Ye transactions."}
-{"timestamp": "2026-03-27T16:20:00+09:00", "summary": "Dashboard updated: Added insights on Echoes and Zero 10 platforms at Art Basel HK; strong market activity noted."}
-{"timestamp": "2026-03-27T16:30:00+09:00", "summary": "Dashboard updated: Adjusted KOSPI closing to 5,438.98 (-0.40%) and refined Art Basel HK highlights including 5-year partnership news."}
-{"timestamp": "2026-03-27T17:10:00+09:00", "summary": "Dashboard updated: Synchronized with latest Art Basel HK briefing content."}
-{"timestamp": "2026-03-27T17:20:00+09:00", "summary": "Dashboard auto-refresh: Validated data consistency and timestamp update."}
-{"timestamp": "2026-03-27T17:30:00+09:00", "summary": "Dashboard auto-refresh: Validated data consistency and timestamp update."}
-{"timestamp": "2026-03-27T17:40:00+09:00", "summary": "Dashboard updated: Added key market factors including TurboQuant impact and investor buying trends; refreshed timestamp."}
-{"timestamp": "2026-03-27T17:50:00+09:00", "summary": "Dashboard auto-refresh: Validated data consistency and timestamp update to 17:50."}
-{"timestamp": "2026-03-27T18:00:00+09:00", "summary": "Dashboard auto-refresh: Validated data consistency and timestamp update to 18:00."}
-{"timestamp": "2026-03-27T18:10:00+09:00", "summary": "Dashboard auto-refresh: KOSPI closed at 5,438.87; Art Basel HK public days showing robust sales performance."}
-{"timestamp": "2026-03-27T18:20:00+09:00", "summary": "Dashboard auto-refresh: KOSPI closed at 5,438.87; Art Basel HK public days showing robust sales performance and interest in Korean artists."}
-{"timestamp": "2026-03-27T18:30:00+09:00", "summary": "Dashboard auto-refresh: KOSPI closed at 5,438.87; Art Basel HK public days showing robust sales performance."}
+{
+  "ts": "2026-03-27T19:00:00Z",
+  "agent": "카리나",
+  "title": "아트 바젤 홍콩 개막 브리핑",
+  "raw": "🎨 [뉴스 요약]\n오늘(3월 27일), 아시아 최대 규모의 아트 페어 '아트 바젤 홍콩 2026'이 홍콩 컨벤션 센터(HKCEC)에서 일반 공개를 시작했습니다. 이번 페어는 41개국에서 240개 갤러리가 참여하며, 새로운 큐레이션 플랫폼인 'Echoes'와 디지털 아트 섹션 'Zero 10'이 아시아에서 첫선을 보여 주목받고 있습니다.\n\n[💡 카리나의 마켓 & 전시 인사이트]\n프리뷰 단계부터 피카소와 리우 예 등의 작품이 연이어 판매되며 시장의 뜨거운 온기를 실감케 합니다. 특히 한국 작가들의 활약이 눈에 띄는데, 이불 작가와 김윤신 작가의 작품들이 컬렉터들의 많은 관심을 받고 있습니다. 현장에서 'Echoes' 섹션에 주목하세요. 최근 5년간의 동시대 미술 흐름을 가장 빠르게 파악할 수 있는 지표가 될 것입니다.\n\n[🔗 출처]\nhttps://www.artbasel.com/"
+}
