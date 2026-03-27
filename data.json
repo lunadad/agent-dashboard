@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T14:00:00+09:00",
+  "last_updated": "2026-03-27T14:20:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 (Mar 27-29) continues. Strong sales noted for Picasso (€3.5M) and Liu Ye ($3.8M).",
+    "summary": "Art Basel Hong Kong 2026 (Mar 27-29) continues. Resilience noted amidst economic backdrop; sales include Picasso (€3.5M), Liu Ye ($3.8M), and Dumas ($3.5M). Government commits to 5-year hosting agreement.",
     "top_stories": [
-      "Robust sales reported; high-value works by Picasso and Liu Ye sold.",
-      "Collaboration agreement signed with HK government for 5 years.",
-      "Growing focus on Asian artists and platforms like 'Echoes' and 'Zero 10'."
+      "Steady sales reported despite global market volatility; notable works by Picasso, Liu Ye, and Marlene Dumas sold.",
+      "Hong Kong government enters 5-year hosting agreement with Art Basel to strengthen local art ecosystem.",
+      "Continued emphasis on Asian-Pacific artists and digital art initiatives like 'Zero 10'."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI plunged 3.74% to 5,256.46 as Middle East tensions and concerns over Google's 'TurboQuant' AI technology weigh on chip manufacturers.",
+    "summary": "KOSPI plunged 3.03% to 5,256.46 as Middle East tensions and concerns over Google's 'TurboQuant' AI technology heavily impact memory semiconductor manufacturers.",
     "indices": {
-      "kospi": { "change_percent": -3.74, "close": 5256.46 },
+      "kospi": { "change_percent": -3.03, "close": 5256.46 },
       "nikkei_225": { "change_percent": -0.59, "close": 53289.89 }
     },
     "key_factors": [
-      "Renewed Middle East tensions drive risk-off sentiment.",
-      "Google's 'TurboQuant' AI algorithm raises concerns over future memory demand.",
-      "Samsung Electronics (-3.72%) and SK Hynix (-4.82%) lead broad market decline."
+      "Renewed Middle East tensions between US/Israel and Iran drive oil price surge (Brent +5.66%) and market instability.",
+      "Google's 'TurboQuant' algorithm threatens semiconductor demand; Samsung Electronics and SK Hynix lead declines.",
+      "Risk-off sentiment prevails despite diplomatic attempts for ceasefire."
     ]
   }
 }
