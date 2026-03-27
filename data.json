@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T15:40:00+09:00",
+  "last_updated": "2026-03-27T15:55:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is actively underway (March 27-29), with VIP days signaling recovery and strong collector interest in Asia-Pacific artists.",
+    "summary": "Art Basel Hong Kong 2026 is officially underway (March 27-29). VIP sales remain strong despite economic headwinds.",
     "top_stories": [
-      "Art Basel Hong Kong 2026 runs through March 29 at HKCEC, featuring 240 galleries.",
-      "Market sentiment shows resilience with collectors adopting a more long-term acquisition strategy.",
-      "High-end market activity remains strong despite broader global economic caution."
+      "Art Basel HK 2026 at HKCEC features 240 galleries; strong early sales reported.",
+      "High-value transactions include Picasso (€3.5M) and Liu Ye ($3.8M).",
+      "Korean artists, including Lee Bul and Kim Yun-shin, showing strong market performance."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI traded at 5,372.31 as of 1:17 p.m. on March 27, narrowing losses from the opening dip after a heavy sell-off in semiconductors.",
+    "summary": "KOSPI closed lower at 5,361.29 (-1.8%) amid continued volatility and geopolitical tensions.",
     "indices": {
-      "kospi": { "change_percent": -1.6, "close": 5372.31 },
+      "kospi": { "change_percent": -1.8, "close": 5361.29 },
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "KOSPI volatility persists due to 'TurboQuant' factors and geopolitical tensions in Iran.",
-      "Semiconductor sector continues to face downward pressure, though retail buying is providing some support.",
-      "Market remains cautious heading into the weekend as investors digest recent price shocks."
+      "Market remains volatile due to Middle East geopolitical risks affecting global sentiment.",
+      "Semiconductor sector faces persistent pressure.",
+      "Investors maintaining cautious stance moving into the weekend."
     ]
   }
 }
