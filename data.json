@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-27T11:00:00+09:00",
+  "last_updated": "2026-03-27T11:30:00+09:00",
   "art_market": {
-    "summary": "Global art market sales reached $59.6 billion in 2025, marking 4% growth. 2026 outlook is cautiously optimistic with a shift towards 'human-hand' craftsmanship.",
+    "summary": "The art market is undergoing a structural reset, shifting towards cautious optimism as it navigates geopolitical tensions and evolving collector behavior. Global art sales grew 4% in 2025 to $59.6 billion, though speculative short-term trading is declining.",
     "top_stories": [
-      "Art Basel UBS Report 2026 confirms 4% YoY growth in 2025.",
-      "Collectors favoring high-value, historically enduring works over speculative assets.",
-      "Christie's Asian Art Week and Sotheby's New York March sales highlight current activity."
+      "Art market undergoing a 'structural reset' with emphasis on lower price tiers and private sales.",
+      "Geopolitical instability, specifically the U.S.-Iran conflict, is impacting buying confidence at international events like Art Basel Hong Kong.",
+      "Blurred lines between Fine Art, Luxury Collectibles, and Digital Assets as they become a fluid asset class."
     ]
   },
   "stock_market": {
-    "summary": "Global oil prices soften as US extends Iran deadline, while stock futures show volatility amid geopolitical uncertainty.",
+    "summary": "Stock markets remain volatile due to persistent geopolitical tensions, particularly regarding the U.S.-Iran situation and crude oil price fluctuations, despite early bounce attempts in indices.",
     "indices": {
-      "dow_jones": { "change_percent": -0.20, "close": 46100.00 },
-      "s_and_p_500": { "change_percent": -0.35, "close": 6485.00 },
-      "nasdaq": { "change_percent": -0.40, "close": 21560.00 }
+      "dow_jones": { "change_percent": 0.06, "close": 46125.00 },
+      "s_and_p_500": { "change_percent": -0.20, "close": 6472.00 },
+      "nasdaq": { "change_percent": -0.30, "close": 21495.00 }
     },
     "key_factors": [
-      "US President Trump extends deadline for US-Iran deal to April 6, 2026.",
-      "WTI crude oil down 0.71% to $93.81/bbl, Brent down 0.79% to $107.15/bbl.",
-      "Temporary 30-day sanctions waiver on Iranian oil at sea introduced."
+      "Market sentiment remains fragile as investors snub the 5-day Iran conflict pause.",
+      "Crude oil prices continue to fluctuate around $90-$100/bbl, impacting inflation expectations.",
+      "Analysts remain optimistic for Q2 2026 based on robust corporate earnings and AI infrastructure spending, despite current volatility."
     ]
   }
 }
