@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-27T11:40:00+09:00",
+  "last_updated": "2026-03-27T11:50:00+09:00",
   "art_market": {
-    "summary": "The global art market in March 2026 is experiencing a cautious but optimistic recovery, focusing on quality and established artists while adapting to economic challenges.",
+    "summary": "The global art market in March 2026 is seeing a period of cautious recalibration, emphasizing quality and established artists over speculative assets.",
     "top_stories": [
-      "2025 global art sales grew 4% to $59.6 billion, signaling resilience despite geopolitical and economic pressures.",
-      "Market shift towards high-quality, institutionally validated contemporary art and away from speculative digital assets.",
-      "Auction results show steady performance with a focus on rare works, while operating costs for shipping and fairs remain a concern for dealers."
+      "2025 global art sales rose 4% to $59.6 billion, with the U.S. maintaining market dominance despite geopolitical pressures.",
+      "High-end contemporary art and single-owner collections remain resilient, while mid-tier galleries face ongoing selectivity.",
+      "Hong Kong's auction market shows a cautious trend, contrasting with stronger growth signals in U.S. and London markets."
     ]
   },
   "stock_market": {
-    "summary": "U.S. stock indices are showing a slight recovery on March 27, 2026, after significant volatility linked to U.S.-Iran geopolitical tensions.",
+    "summary": "U.S. stock indices are seeing a slight recovery on March 27, 2026, attempting to claw back losses from a sharp decline on March 26.",
     "indices": {
-      "dow_jones": { "change_percent": 0.0, "close": 45960.00 },
-      "s_and_p_500": { "change_percent": 0.45, "close": 6507.00 },
-      "nasdaq": { "change_percent": 0.0, "close": 21495.00 }
+      "dow_jones": { "change_percent": 0.0, "close": 45960.11 },
+      "s_and_p_500": { "change_percent": 0.45, "close": 6477.16 },
+      "nasdaq": { "change_percent": 0.0, "close": 21408.08 }
     },
     "key_factors": [
-      "Stock futures indicate a bounce after Thursday's decline, driven by technology sector volatility.",
-      "Brent crude oil eased to $107.15 and WTI to $93.81 per barrel following a 10-day extension in U.S.-Iran diplomatic talks.",
-      "Geopolitical instability remains the primary driver of market sentiment, keeping inflation expectations elevated."
+      "Futures are rising as the deadline for U.S.-Iran diplomatic negotiations is extended, easing some war-related anxiety.",
+      "March 26 saw significant drops: Dow fell 1.01%, S&P 500 down 1.74%, and Nasdaq down 2.38% (entering correction territory).",
+      "Geopolitical instability remains the primary driver, overshadowing recent tech sector performance."
     ]
   }
 }
