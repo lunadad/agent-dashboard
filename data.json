@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T15:35:00+09:00",
+  "last_updated": "2026-03-27T15:40:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 has opened at HKCEC with 240 galleries from 41 countries; notable collector interest in Korean masters like Lee Bul and Kim Yun-shin.",
+    "summary": "Art Basel Hong Kong 2026 is actively underway (March 27-29), with VIP days signaling recovery and strong collector interest in Asia-Pacific artists.",
     "top_stories": [
-      "Art Basel Hong Kong 2026 opened at HKCEC featuring 240 galleries from 41 countries.",
-      "New 'Echoes' curation and 'Zero 10' digital initiatives debut, marking significant contemporary trends.",
-      "Strong demand for works by Lee Bul and Kim Yun-shin observed among high-end collectors."
+      "Art Basel Hong Kong 2026 runs through March 29 at HKCEC, featuring 240 galleries.",
+      "Market sentiment shows resilience with collectors adopting a more long-term acquisition strategy.",
+      "High-end market activity remains strong despite broader global economic caution."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI closed down 3.22% at 5,460 points, hitting a two-week low following regional volatility and oil price shocks.",
+    "summary": "KOSPI traded at 5,372.31 as of 1:17 p.m. on March 27, narrowing losses from the opening dip after a heavy sell-off in semiconductors.",
     "indices": {
-      "kospi": { "change_percent": -3.22, "close": 5460.00 },
+      "kospi": { "change_percent": -1.6, "close": 5372.31 },
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "Significant KOSPI drop (-3.22%) due to Iran conflict-driven oil price surges and TurboQuant concerns.",
-      "Semiconductor sector (Samsung, SK Hynix) experienced heavy downward pressure for a second consecutive day.",
-      "Retail bargain-hunting observed, but overall investor sentiment remains bearish heading into the weekend."
+      "KOSPI volatility persists due to 'TurboQuant' factors and geopolitical tensions in Iran.",
+      "Semiconductor sector continues to face downward pressure, though retail buying is providing some support.",
+      "Market remains cautious heading into the weekend as investors digest recent price shocks."
     ]
   }
 }
