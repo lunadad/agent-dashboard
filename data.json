@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-03-27T18:00:00+09:00",
+  "last_updated": "2026-03-27T18:10:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is officially underway (March 27-29). New initiatives include the 'Echoes' sector and 'Zero 10' digital art debut.",
+    "summary": "Art Basel Hong Kong 2026 public days underway (March 27-29). Strong sales reported for blue-chip artists and notable success for Korean galleries.",
     "top_stories": [
-      "Art Basel HK 2026 at HKCEC features 240 galleries; strong early sales reported.",
-      "New curation platforms 'Echoes' and digital art section 'Zero 10' debut in Asia.",
-      "Notable transactions include a Picasso painting ($4M) and strong sales for Korean artists Lee Bul and Kim Yun-shin.",
-      "5-year collaboration agreement between Hong Kong Culture Bureau and Art Basel announced."
+      "Art Basel HK 2026 public days opening reports strong sales, solid blue-chip demand.",
+      "Korean artists (Lee Bul, Kim Yun-shin, others) seeing robust interest at galleries like Lehmann Maupin and Kukje.",
+      "New platforms 'Echoes' and 'Zero 10' digital initiative debuting successfully.",
+      "Collaboration with HK authorities aims for long-term presence through 2030."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI closed at 5,438.98 (-0.40%) after recovering from an earlier 3% plunge.",
+    "summary": "KOSPI closed at 5,438.87 (-0.40%) after rebounding from earlier 4% intraday low.",
     "indices": {
-      "kospi": { "change_percent": -0.40, "close": 5438.98 },
+      "kospi": { "change_percent": -0.40, "close": 5438.87 },
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "TurboQuant tech impact: Major semiconductor stocks continue to face downward pressure for second consecutive day.",
-      "Market resilience: KOSPI recovered significantly from intraday lows (approx. 5,200 level).",
-      "Investor activity: Strong net purchases by individual and institutional investors partially offset heavy foreign selling.",
-      "Geopolitical/Macro: Rising oil prices due to Iran war concerns remain a key market anxiety."
+      "TurboQuant AI tech impact continues to pressure semiconductor stocks.",
+      "Strong retail/institutional support saved KOSPI from deeper sell-off.",
+      "Foreign investors were net sellers, offloading nearly 3.9T KRW.",
+      "Iran war geopolitical concerns remain elevated."
     ]
   }
 }
