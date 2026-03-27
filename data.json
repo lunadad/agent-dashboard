@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-03-27T18:30:00+09:00",
+  "last_updated": "2026-03-27T18:40:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 public days ongoing with robust sales; significant interest in Korean contemporary artists (Lee Bul, Kim Yun-shin).",
+    "summary": "아트 바젤 홍콩 2026 일반 공개 개막: 아시아 최대 규모, 41개국 240개 갤러리 참여 및 이불, 김윤신 등 한국 작가 활약.",
     "top_stories": [
-      "Art Basel HK 2026 reports strong momentum on public opening days.",
-      "Korean contemporary artists (Lee Bul, Kim Yun-shin) drawing significant collector attention.",
-      "New curated platforms 'Echoes' and 'Zero 10' digital section performing well.",
-      "Market resilience noted in blue-chip sales, including works by Picasso and Liu Ye."
+      "아트 바젤 홍콩 2026 일반 공개 시작 (41개국 240개 갤러리 참여)",
+      "새로운 큐레이션 플랫폼 'Echoes' 및 디지털 아트 섹션 'Zero 10' 주목",
+      "이불, 김윤신 등 한국 작가 작품 컬렉터들의 큰 관심",
+      "프리뷰 단계부터 피카소, 리우 예 작품 등 활발한 거래"
     ]
   },
   "stock_market": {
-    "summary": "KOSPI closed at 5,438.87 (-0.40%) after rebounding from earlier 4% intraday low.",
+    "summary": "KOSPI 5,438.87 (-0.40%) 마감, 장중 4% 급락 후 반등 성공.",
     "indices": {
       "kospi": { "change_percent": -0.40, "close": 5438.87 },
       "nikkei_225": { "change_percent": -1.60, "close": 53080.00 }
     },
     "key_factors": [
-      "TurboQuant AI tech impact continues to pressure semiconductor stocks.",
-      "Strong retail/institutional support saved KOSPI from deeper sell-off.",
-      "Foreign investors were net sellers, offloading nearly 3.9T KRW.",
-      "Iran war geopolitical concerns remain elevated."
+      "TurboQuant AI 기술 영향 지속, 반도체주 하락 압력",
+      "개인/기관 투자자 매수세로 4% 낙폭 만회",
+      "외국인 순매도 규모 3.9조 원",
+      "이란-이스라엘 지정학적 리스크 지속"
     ]
   }
 }
