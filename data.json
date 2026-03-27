@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-03-27T10:00:00+09:00",
+  "last_updated": "2026-03-27T10:10:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 (March 27-29) is underway, highlighting a shift in the market toward long-term collecting over short-term speculation.",
+    "summary": "The global art market saw 4% growth in 2025, reaching $59.6 billion, with a clear trend toward quality and long-term collecting over speculative flipping.",
     "top_stories": [
-      "Art Basel Hong Kong 2026 opened at HKCEC with 240 galleries.",
-      "Market recalibration: Shift away from 'speculative flipping' toward long-term value.",
-      "Global art auction turnover grew 12% in H2 2025; US market remains dominant.",
-      "Artprice/ArtTactic report warns against short-term resales (avg. 5.7% annual loss)."
+      "Global art market recovered to $59.6 billion in 2025 (+4%).",
+      "Shift away from short-term speculation; average annual loss of 5.7% for art resold within 5 years.",
+      "U.S. remains the dominant market hub (44% of global sales).",
+      "Auction sector experienced a 'return to discipline' with high sell-through rates on selective inventory."
     ]
   },
   "stock_market": {
-    "summary": "Amazon (AMZN) remains a focus for analysts, with strong AWS momentum despite concerns over $200B capital expenditure plans.",
+    "summary": "Markets show signs of recovery on Friday, March 27, after sharp declines on Thursday driven by geopolitical concerns.",
     "indices": {
-      "dow_jones": { "change_percent": -1.0, "close": 45960.11 },
-      "s_and_p_500": { "change_percent": -1.7, "close": 6477.16 },
-      "nasdaq": { "change_percent": -2.3, "close": 21408.08 }
+      "dow_jones": { "change_percent": -1.01, "close": 45960.11 },
+      "s_and_p_500": { "change_percent": -1.74, "close": 6477.16 },
+      "nasdaq": { "change_percent": -2.38, "close": 21408.08 }
     },
     "key_factors": [
-      "Amazon (AMZN): Strong Buy ratings (TD Cowen target $300); focus on AWS GenAI growth.",
-      "Capital Expenditure: Concerns over Amazon's $200B investment cycle vs. AI infrastructure strategy.",
-      "NVIDIA/AWS: Reports of 1 million GPUs to be delivered to AWS by 2027.",
-      "Market Sentiment: Cautious amid broad tech volatility ahead of Q1 2026 earnings season."
+      "Futures show positive movement (+0.45%) on March 27 following Thursday's sharp downturn.",
+      "Nasdaq officially entered correction territory (>10% decline).",
+      "Geopolitical tensions (US-Iran) remain a primary driver of volatility.",
+      "Investors are watching for shifts in energy prices and negotiation updates."
     ]
   }
 }
