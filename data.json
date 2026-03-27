@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-03-27T15:00:00+09:00",
+  "last_updated": "2026-03-27T15:10:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is in full swing (Mar 27-29) at HKCEC, following two strong VIP preview days. Galleries report solid sales and optimistic sentiment despite global economic headwinds.",
+    "summary": "Art Basel Hong Kong 2026 public days underway (Mar 27-29); strong sales reported by major galleries despite wider market volatility.",
     "top_stories": [
-      "Fair features 240 galleries from 41 countries; significant depth of demand for Asia-Pacific artists noted.",
-      "New 'Echoes' and 'Zero 10' curatorial sectors drawing major engagement from collectors.",
-      "Sales highlights include works by George Condo, Louise Bourgeois, and Lee Bul, with strong museum and private collection interest."
+      "Fair features 240 galleries; debut of 'Echoes' sector and Asia debut of 'Zero 10' digital initiative.",
+      "Global galleries report consistent high-value sales; strong museum and private collection interest in Korean artists.",
+      "New 5-year collaboration with Hong Kong Culture Bureau reinforces city's role as premier arts trading hub."
     ]
   },
   "stock_market": {
-    "summary": "KOSPI volatile; opened down ~3% (5,220.10) but pared losses in afternoon trading. Markets under pressure from Google's 'TurboQuant' announcement and Iran-US geopolitical tensions.",
+    "summary": "KOSPI volatile; closed trading week down but pared early 3% losses. Markets reacted to Google's 'TurboQuant' AI tech and ongoing Iran conflict tensions.",
     "indices": {
-      "kospi": { "change_percent": -1.85, "close": 5302.45 },
-      "nikkei_225": { "change_percent": -0.65, "close": 53250.00 }
+      "kospi": { "change_percent": -1.61, "close": 5372.31 },
+      "nikkei_225": { "change_percent": -1.25, "close": 53180.50 }
     },
     "key_factors": [
-      "Google's 'TurboQuant' AI compression tech triggers sell-off in global memory chip stocks (Samsung, SK Hynix down ~4%).",
-      "Geopolitical uncertainty surrounding US-Iran conflict continues to dampen investor sentiment.",
-      "Retail buying in the afternoon helped the KOSPI recover some losses, reclaiming the 5,300 mark."
+      "Google's 'TurboQuant' algorithm impacts semi stocks; Samsung and SK Hynix faced downward pressure.",
+      "Middle East tensions boost oil prices (Brent ~$108/bbl), dampening general investor sentiment.",
+      "Retail investors active in bargain-hunting helped KOSPI recover toward afternoon close."
     ]
   }
 }

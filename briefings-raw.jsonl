@@ -3,3 +3,4 @@
 {"timestamp": "2026-03-27T14:40:00+09:00", "summary": "Dashboard heartbeat update: Market sentiment remains bearish; KOSPI adjusted to 5,220.10 due to continued TurboQuant concerns and Middle East tensions."}
 {"timestamp": "2026-03-27T14:50:00+09:00", "summary": "Dashboard auto-sync: Updated with Art Basel HK opening data (Echoes/Zero 10, Korean artists). Market sentiment remains bearish."}
 {"timestamp": "2026-03-27T15:00:00+09:00", "summary": "Art Basel HK & KOSPI market update following Google TurboQuant announcement"}
+{"timestamp": "2026-03-27T15:10:00+09:00", "data": {"art_market_summary": "Strong sales continue at Art Basel HK.", "kospi": 5372.31, "sentiment": "cautious-recovery"}}
