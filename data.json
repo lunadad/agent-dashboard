@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-27T13:40:00+09:00",
+  "last_updated": "2026-03-27T13:50:00+09:00",
   "art_market": {
-    "summary": "Art Basel Hong Kong 2026 is in full swing (Mar 27-29), featuring 240 galleries from 41 countries. The event introduces new sectors like 'Echoes' and 'Zero 10' (digital art).",
+    "summary": "Art Basel Hong Kong 2026 (Mar 27-29) continues. Strong sales noted for Picasso (€3.5M) and Liu Ye ($3.8M).",
     "top_stories": [
-      "High VIP turnout and strong early sales reported; Picasso work led sales at ~€3.5M.",
-      "Citywide 'Hong Kong Art Month' includes M+ Facade projections and Tai Kwun performances.",
-      "Exhibitors are emphasizing curated pairings of emerging artists with established masters."
+      "Robust sales reported; high-value works by Picasso and Liu Ye sold.",
+      "Collaboration agreement signed with HK government for 5 years.",
+      "Growing focus on Asian artists and platforms like 'Echoes' and 'Zero 10'."
     ]
   },
   "stock_market": {
-    "summary": "Global markets are under pressure due to geopolitical tensions (US-Iran) and concerns over energy prices and inflation. Indices finished lower.",
+    "summary": "US markets showing slight recovery as US futures rise 0.31% following Trump's extension of Iran energy talks. S&P 500 at 6497.",
     "indices": {
-      "dow_jones": { "change_percent": -1.01, "close": 45495.00 },
-      "s_and_p_500": { "change_percent": -1.74, "close": 6364.00 },
-      "nasdaq": { "change_percent": -2.38, "close": 20898.00 }
+      "dow_jones": { "change_percent": 0.31, "close": 45495.00 },
+      "s_and_p_500": { "change_percent": 0.31, "close": 6497.00 },
+      "nasdaq": { "change_percent": 0.31, "close": 20898.00 }
     },
     "key_factors": [
-      "Geopolitical uncertainty from US-Iran tensions driving up crude oil prices.",
-      "OECD sharply revised G20 inflation forecasts higher to 4% for 2026.",
-      "Mixed signals on US-Iran talks keeping markets cautious."
+      "US stock futures rose 0.31% following Trump's Iran energy deadline extension.",
+      "Previous session saw a 1.74% drop amid geopolitical and oil price concerns.",
+      "Recession fears continue as major institutions adjust forecasts."
     ]
   }
 }
