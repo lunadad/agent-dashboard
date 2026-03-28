@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-29T01:30:00+09:00",
+  "lastUpdated": "2026-03-29T01:40:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (9-20C), clear, 30% precip chance",
     "stocks": [
-      { "symbol": "S&P 500", "change": "-1.7%", "note": "5th weekly loss, worst since Iran war start, 8.7% below Jan highs" },
-      { "symbol": "Nasdaq", "change": "-2.1%", "note": "Correction territory, >10% off Oct peak, tech weakness" }
+      { "symbol": "S&P 500", "change": "-1.74%", "note": "5th consecutive weekly loss, trading at 6,477.16 amid Iran conflict concerns" },
+      { "symbol": "Nasdaq", "change": "-2.38%", "note": "Correction territory, >10% off Oct peak, tech weakness" }
     ]
   }
 }
