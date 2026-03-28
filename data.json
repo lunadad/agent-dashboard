@@ -1,11 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T02:40:00+09:00",
+  "lastUpdated": "2026-03-29T03:10:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (10-21C), mostly sunny, 10% precip chance",
-    "stocks": [
-      { "symbol": "S&P 500", "change": "-1.7%", "note": "Market under pressure due to geopolitical tensions in Iran and broader inflation fears." },
-      { "symbol": "Nasdaq", "change": "-2.4%", "note": "Tech indices continue to face downward pressure as market anxiety persists." }
-    ]
+    "weather": "Seoul (Early March 2026 climate: cool and transitioning)",
+    "market": "Significant volatility in Seoul stock market due to Middle East tensions and rising oil prices; KOSPI experiencing notable swings.",
+    "art": "Seoul art scene expanding; 2026 focus on sustainability, new media, and established masters."
   }
 }
