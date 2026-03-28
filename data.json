@@ -1,5 +1,11 @@
 {
-  "lastUpdated": "2026-03-29T00:20:00+09:00",
+  "lastUpdated": "2026-03-29T00:35:00+09:00",
   "status": "active",
-  "note": "Latest briefing data synced automatically."
+  "summary": {
+    "weather": "Seoul clear (7°C ~ 20°C), fine dust warning",
+    "stocks": [
+      { "symbol": "AMZN", "change": "-3.1%", "note": "Geopolitical risk/oil impact" },
+      { "symbol": "INTC", "change": "-2.2%", "note": "18A competition concerns" }
+    ]
+  }
 }
