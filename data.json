@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-29T01:10:00+09:00",
+  "lastUpdated": "2026-03-29T01:20:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (9-20C), 30% precip chance",
+    "weather": "Seoul (9-20C), clear, 30% precip chance",
     "stocks": [
-      { "symbol": "S&P 500", "change": "-0.7%", "note": "Geopolitical risk, 5th weekly loss" },
-      { "symbol": "Nasdaq", "change": "-1.1%", "note": "Market uncertainty" }
+      { "symbol": "S&P 500", "change": "-1.7%", "note": "5th weekly loss, geopolitical risk" },
+      { "symbol": "Nasdaq", "change": "-2.1%", "note": "Correction territory, tech weakness" }
     ]
   }
 }
