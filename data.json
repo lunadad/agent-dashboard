@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-29T01:50:00+09:00",
+  "lastUpdated": "2026-03-29T02:00:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (9-20C), clear, 30% precip chance",
+    "weather": "Seoul (10-21C), mostly sunny, 10% precip chance",
     "stocks": [
-      { "symbol": "S&P 500", "change": "-1.7%", "note": "Closing at 6,477.16; geopolitical volatility high." },
-      { "symbol": "Nasdaq", "change": "-2.4%", "note": "Closing at 21,408.08; index now in correction territory." }
+      { "symbol": "S&P 500", "change": "+0.3%", "note": "Market stabilizing; investor sentiment improving for the week ahead." },
+      { "symbol": "Nasdaq", "change": "+0.5%", "note": "Tech rebound supported by late-week earnings optimism." }
     ]
   }
 }
