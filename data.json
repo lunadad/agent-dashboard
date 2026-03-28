@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T06:50:00+09:00",
+  "lastUpdated": "2026-03-29T07:10:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (Sunday, March 29 morning: Mostly cloudy, 9°C, light breeze)",
-    "market": "AMZN: $200B AI infra investment concerns cause slight dip, 'Moderate Buy' rating maintained. INTC: Core Ultra Series 3 launch and CPU price hike led to short-term rally followed by slight correction; new CrowdStrike security partnership announced.",
+    "weather": "Seoul (Sunday, March 29, 2026: Cloudy with periodically clear skies, 9°C to 20°C, 30% chance of precipitation, humidity around 75%)",
+    "market": "AMZN: Stock down 13% YTD amid investor unease over high AI capital expenditure ($200B projected for 2026), despite strong Q4 2025 sales growth (14% increase to $213.4B). AWS continues AI expansion. INTC: Mixed performance; rallied 8% recently after Core Ultra Series 3 launch, but faces 'Reduce/Sell' consensus ratings due to flat Q1 guidance and ongoing foundry challenges.",
     "art": "Q1 2026 stability persists, focusing on high-end established artists."
   }
 }
