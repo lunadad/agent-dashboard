@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T22:03:00+09:00",
+  "lastUpdated": "2026-03-29T22:10:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Quiet night, 14°C, light wind.)",
-    "market": "Market Update (Mar 29, 22:03): AMZN stability holds; monitoring INTC tech volatility (down 2.2%). Preparing for Monday pre-market analysis.",
-    "art": "Art Market (Mar 29): Digital collections exhibit status stable; focus shifts to upcoming auction preparations."
+    "market": "Market Update (Mar 29): US markets closed the week in correction territory. Dow (-1.7%), S&P 500 (-1.7%), and Nasdaq (-2.1%) reflect investor caution amid geopolitical tensions.",
+    "art": "Art Market (Mar 29): 2026 shows cautious optimism; 2025 growth led by high-end auctions and scarcity-focused collecting."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (10:03 PM): Latest market insights captured.",
-      "ts": "2026-03-29T22:03:00+09:00"
+      "raw": "Dashboard auto-refresh (10:10 PM): Latest market insights captured.",
+      "ts": "2026-03-29T22:10:00+09:00"
     }
   }
 }
