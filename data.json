@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T20:30:00+09:00",
+  "lastUpdated": "2026-03-29T20:40:42+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Clear skies, pleasant spring evening, 15°C.)",
-    "market": "Market Update (Mar 29, 20:30): Global markets closed. Quiet evening; tracking sentiment indicators for AMZN/INTC volatility ahead of Monday morning.",
+    "market": "Market Update (Mar 29, 20:40): Markets closed. Quiet evening; tracking sentiment indicators for AMZN/INTC volatility ahead of Monday morning.",
     "art": "Art Market (Mar 29): Stable, with continued focus on digital art galleries and upcoming April auctions."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (8:30 PM): Markets closed. Quiet evening; tracking sentiment indicators for AMZN/INTC volatility ahead of Monday morning.",
-      "ts": "2026-03-29T20:30:00+09:00"
+      "raw": "Dashboard auto-refresh (8:40 PM): Markets closed. Quiet evening; tracking sentiment indicators for AMZN/INTC volatility ahead of Monday morning.",
+      "ts": "2026-03-29T20:40:42+09:00"
     }
   }
 }
