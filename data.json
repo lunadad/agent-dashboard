@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T00:10:00+09:00",
+  "lastUpdated": "2026-03-30T00:20:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Monday, March 30, 2026: Early morning update, monitoring energy volatility impacts).",
-    "market": "Market Update (Mar 30, 12:10 AM): Markets continue to monitor Iran conflict/energy price pressures. Tech sector (AMZN/INTC) remains focus for Monday pre-market. Asian indices tracking global sentiment.",
-    "art": "Art Market (Mar 30, 12:10 AM): Ongoing shift toward Transvertical Market trends, emphasizing authenticity and long-term asset security."
+    "market": "Market Update (Mar 30, 12:20 AM): Markets continue to monitor Iran conflict/energy price pressures. Tech sector (AMZN/INTC) remains focus for Monday pre-market. Asian indices tracking global sentiment.",
+    "art": "Art Market (Mar 30, 12:20 AM): Ongoing shift toward Transvertical Market trends, emphasizing authenticity and long-term asset security."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (12:10 AM): Markets monitoring geopolitical risks (energy/Iran). Tech sector stability (AMZN/INTC) remains priority for Monday trading. Asian markets sensitive to energy supply chain signals.",
-      "ts": "2026-03-30T00:10:00+09:00"
+      "raw": "Dashboard auto-refresh (12:20 AM): Markets monitoring geopolitical risks (energy/Iran). Tech sector stability (AMZN/INTC) remains priority for Monday trading. Asian markets sensitive to energy supply chain signals.",
+      "ts": "2026-03-30T00:20:00+09:00"
     }
   }
 }
