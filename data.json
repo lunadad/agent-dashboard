@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T18:40:00+09:00",
+  "lastUpdated": "2026-03-29T18:50:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Clear skies, pleasant spring evening, 15°C.)",
-    "market": "Market Update (Mar 29): Markets closed for the weekend. Amazon (AMZN) closed at $199.34 on Friday, down 3.95% amidst macro headwinds and AI capex scrutiny, though analysts maintain a 'Moderate Buy' rating with a $285 target. Intel (INTC) closed at $43.13, reflecting long-term AI potential and Core Ultra Series 3 growth, despite short-term overvaluation concerns.",
-    "art": "Art Market (Mar 29): Continued cautious optimism. 2026 reports highlight a modest recovery led by high-end US sales and a focus on disciplined investment in quality and provenance."
+    "market": "Market Update (Mar 29): S&P 500 down 7.4% for March, marking worst monthly performance in 12 months. Large-cap tech and Mag 7 under pressure due to de-risking and unrealistic AI earnings expectations. Recession probability per Moody's at 49%. Small-cap resilience noted.",
+    "art": "Art Market (Mar 29): Mixed signals. Bonhams' SE Asian auction saw 81% of lots sold above estimate. The Met's Raphael retrospective opened. Controversy persists at Sydney Biennale with major sponsor withdrawals."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (6:40 PM): Weekend period remains quiet; markets holding Friday's close. Preparing for upcoming Monday market opening and volatility assessments.",
-      "ts": "2026-03-29T18:40:00+09:00"
+      "raw": "Dashboard auto-refresh (6:50 PM): Significant market decline for March confirmed. Art sector navigating institutional controversy and auction activity.",
+      "ts": "2026-03-29T18:50:00+09:00"
     }
   }
 }
