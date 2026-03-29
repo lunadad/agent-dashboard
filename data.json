@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T17:40:00+09:00",
+  "lastUpdated": "2026-03-29T17:50:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): Market sentiment holds steady as of 17:40. AMZN near $199.34. INTC holds gains above $47. Institutional focus remains on defensive sector rotation.",
-    "art": "Art Market (Mar 29): Global market status remains unchanged at 4% growth; ongoing focus on provenance remains the primary driver for current institutional acquisitions."
+    "market": "Market Update (Mar 29): Market sentiment remains cautious. AMZN closed at $199.34 (Mar 27); INTC closed at $43.13. Institutional focus remains on defensive sector rotation and high-quality asset acquisition.",
+    "art": "Art Market (Mar 29): Growth continues at 4% globally ($59.6B). Focus remains on provenance, scarcity, and high-end segments. Institutional interest steady."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (5:40 PM): Market sentiment stable. AMZN/INTC positions consistent. Defensive rotation continues. Art market trends stable.",
-      "ts": "2026-03-29T17:40:00+09:00"
+      "raw": "Dashboard auto-refresh (5:50 PM): Market sentiment cautious. AMZN/INTC data updated from March 27 close. Art market growth stable at 4%.",
+      "ts": "2026-03-29T17:50:00+09:00"
     }
   }
 }
