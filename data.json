@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T09:50:00+09:00",
+  "lastUpdated": "2026-03-29T10:00:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (09:50 AM): System stable. Data sync current.",
-      "ts": "2026-03-29T09:50:00+09:00"
+      "raw": "Dashboard auto-refresh (10:00 AM): System stable. Data sync current.",
+      "ts": "2026-03-29T10:00:00+09:00"
     }
   }
 }
