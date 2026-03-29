@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-29T13:00:00+09:00",
+  "lastUpdated": "2026-03-29T13:10:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): Global art sales grew 4% YoY. Stock Focus: AMZN ($199.34, -4.02%) facing macro headwinds; INTC (>$47, +8%) shows recovery signs from Core Ultra Series 3.",
-    "art": "Art Market (Mar 29): Art Basel/UBS report confirms 2026 cautious recovery; high-end and blue-chip art remains stable; online sales declining in favor of in-person."
+    "market": "Market Update (Mar 29): Amazon (AMZN) facing macro headwinds (~$200); Intel (INTC) showing recovery (~$43) driven by Core Ultra Series 3. General market volatility continues.",
+    "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; recovery led by high-end works and return to in-person/fair-based sales."
   },
   "dailyReports": {
     "카리나": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (1:00 PM): Data synchronized. System stable. Market conditions remain steady.",
-      "ts": "2026-03-29T13:00:00+09:00"
+      "raw": "Dashboard auto-refresh (1:10 PM): Data updated with latest market/art insights. AMZN (~$200) facing headwinds; INTC (~$43) showing momentum. Art market report confirms 4% growth.",
+      "ts": "2026-03-29T13:10:00+09:00"
     }
   }
 }
