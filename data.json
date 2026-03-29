@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T14:50:00+09:00",
+  "lastUpdated": "2026-03-29T15:00:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): Amazon (AMZN) macro headwinds persist (~$199.34); Intel (INTC) recovery steady (~$47+).",
+    "market": "Market Update (Mar 29): AMZN declined 4.02% to ~$199.34 (macro headwinds); INTC holding above ~$47 post-rally.",
     "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; recovery led by high-end works."
   },
   "dailyReports": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (2:50 PM): Market volatility stable. INTC maintains gains. AMZN remains under watch for macro headwinds. Art market sentiment positive.",
-      "ts": "2026-03-29T14:50:00+09:00"
+      "raw": "Dashboard auto-refresh (3:00 PM): Stocks updated. AMZN at $199.34 (macro concerns). INTC steady at >$47. Art market sentiment remains positive with recovery signs.",
+      "ts": "2026-03-29T15:00:00+09:00"
     }
   }
 }
