@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-29T16:20:00+09:00",
+  "lastUpdated": "2026-03-29T16:30:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): AMZN continues trading near $200 with persistent AI CAPEX volatility; INTC stable post-launch. Institutional interest in long-term AI infrastructure remains strong.",
-    "art": "Art Market (Mar 29): 2026 update confirms 4% growth in global art market; classical and blue-chip works continue to lead market recovery."
+    "market": "Market Update (Mar 29): 2026 recognized as 'inflection point' for AI. Hut 8 expansion and Silicon Motion enterprise AI SSDs fuel infrastructure growth. AI CAPEX volatility persists but optimism holds.",
+    "art": "Art Market (Mar 29): Emphasis on 'authenticity' and 'human touch' amid digital proliferation. Digital art sustains strong momentum (3rd in spend for HNWIs)."
   },
   "dailyReports": {
     "카리나": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (4:20 PM): AMZN continues trading near $200 with persistent AI CAPEX volatility; INTC stable post-launch. Global art market sentiment remains positive with 4% year-to-date growth.",
-      "ts": "2026-03-29T16:20:00+09:00"
+      "raw": "Dashboard auto-refresh (4:30 PM): 2026 confirmed as AI 'inflection point'. Hut 8 and Silicon Motion lead AI infra narrative. Art market emphasizes 'authenticity' vs 'digital' proliferation.",
+      "ts": "2026-03-29T16:30:00+09:00"
     }
   }
 }
