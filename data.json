@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T18:00:00+09:00",
+  "lastUpdated": "2026-03-29T18:10:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Clear skies, pleasant spring evening, 15°C.)",
-    "market": "Market Update (Mar 29): Markets closed for the weekend. AMZN steady at $199.34 (Mar 27 close); INTC at $43.13. Investors focus on upcoming fiscal outlook and sector stability.",
+    "market": "Market Update (Mar 29): Markets closed for the weekend. AMZN steady at $199.34 (Mar 27 close); INTC at $43.13. Investors focus on upcoming fiscal outlook and sector stability. Key insights: AMZN AWS AI remains key growth driver; INTC focus on AI PC partnerships amidst 'Arrow Lake Refresh' volatility.",
     "art": "Art Market (Mar 29): Continued cautious optimism after March marquee auctions. Renewed interest in long-term stewardship; high-end blue-chip works remain resilient amidst broader geopolitical/economic recalibration."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (6:00 PM): Markets closed. Weekend update reflects steady asset pricing from March 27. Art market highlights recent March auction trends favoring high-quality/blue-chip assets.",
-      "ts": "2026-03-29T18:00:00+09:00"
+      "raw": "Dashboard auto-refresh (6:10 PM): Updated market outlook. AMZN shows resilience via AWS AI; INTC experiencing short-term volatility due to Arrow Lake Refresh news, with long-term AI PC focus.",
+      "ts": "2026-03-29T18:10:00+09:00"
     }
   }
 }
