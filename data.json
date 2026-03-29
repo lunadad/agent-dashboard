@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T21:40:00+09:00",
+  "lastUpdated": "2026-03-29T21:50:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Quiet night, 14°C, light wind.)",
-    "market": "Market Update (Mar 29, 21:40): After-hours sentiment neutral. Checking pre-market trends for Monday.",
+    "market": "Market Update (Mar 29, 21:50): AMZN stability vs. INTC tech volatility (down 2.2%). Monitoring AI growth vs. PC model shifts.",
     "art": "Art Market (Mar 29): Ongoing digital collections exhibit, focus on upcoming auction estimates."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (9:40 PM): Latest market insights captured.",
-      "ts": "2026-03-29T21:40:00+09:00"
+      "raw": "Dashboard auto-refresh (9:50 PM): Latest market insights captured.",
+      "ts": "2026-03-29T21:50:00+09:00"
     }
   }
 }
