@@ -1,10 +1,10 @@
 {
   "date": "2026-03-30",
-  "market": "The KOSPI remains volatile this Monday morning (08:30 AM). Energy and defense sectors are showing resilience due to Middle East tensions, while tech/big tech faces headwinds from recent regulatory rulings and global market corrections.",
-  "art": "Art OnO 2026 preparation continues; galleries are shifting toward sustainable materials and digital-physical hybrids. Speculative art segments are showing caution in light of broader economic volatility.",
+  "market": "AMZN shows positive sentiment around AWS and AI, while INTC is mixed (institutional selling vs. chip optimism). KOSPI remains volatile with energy/defense resilience and tech regulatory headwinds.",
+  "art": "Art OnO 2026 prep shifts to sustainable/digital hybrids. Speculative art caution persists.",
   "status": "active",
-  "updated_at": "2026-03-30T08:40:00+09:00",
+  "updated_at": "2026-03-30T08:50:00+09:00",
   "dailyReports": {
-    "FT": "Market Update 2026-03-30: Middle East energy supply chain concerns and tech regulatory risks (Meta/Google lawsuits) dominating headlines. S&P 500 at 7-month lows."
+    "FT": "Market Update 2026-03-30: Middle East energy supply chain concerns and tech regulatory risks persist. AMZN/INTC divergent signals noted."
   }
 }
