@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T18:10:00+09:00",
+  "lastUpdated": "2026-03-29T18:20:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Clear skies, pleasant spring evening, 15°C.)",
-    "market": "Market Update (Mar 29): Markets closed for the weekend. AMZN steady at $199.34 (Mar 27 close); INTC at $43.13. Investors focus on upcoming fiscal outlook and sector stability. Key insights: AMZN AWS AI remains key growth driver; INTC focus on AI PC partnerships amidst 'Arrow Lake Refresh' volatility.",
-    "art": "Art Market (Mar 29): Continued cautious optimism after March marquee auctions. Renewed interest in long-term stewardship; high-end blue-chip works remain resilient amidst broader geopolitical/economic recalibration."
+    "market": "Market Update (Mar 29): Markets closed for the weekend. Amazon (AMZN) closed at $199.34 on Friday, down 3.95% amidst macro headwinds and AI capex scrutiny, though analysts maintain a 'Moderate Buy' rating with a $285 target. Intel (INTC) closed at $43.13, reflecting long-term AI potential and Core Ultra Series 3 growth, despite short-term overvaluation concerns.",
+    "art": "Art Market (Mar 29): Continued cautious optimism. 2026 reports highlight a modest recovery led by high-end US sales and a focus on disciplined investment in quality and provenance."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (6:10 PM): Updated market outlook. AMZN shows resilience via AWS AI; INTC experiencing short-term volatility due to Arrow Lake Refresh news, with long-term AI PC focus.",
-      "ts": "2026-03-29T18:10:00+09:00"
+      "raw": "Dashboard auto-refresh (6:20 PM): Updated with latest weekend market closing data. AMZN continues to face macro pressure; INTC remains in focus for AI hardware pivot. Art market recovery maintains stability.",
+      "ts": "2026-03-29T18:20:00+09:00"
     }
   }
 }
