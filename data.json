@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T01:30:00+09:00",
+  "lastUpdated": "2026-03-30T01:40:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Monday, March 30, 2026): Clear skies, no precipitation. Temperatures expected to range between 7.7°C (46°F) and 15.5°C (60°F).",
-    "market": "KOSPI faces ongoing volatility due to global risk-off sentiment and tech sector weakness. Despite near-term pressure from geopolitical risks and foreign outflows, Goldman Sachs maintains a positive long-term outlook for 2026 citing AI memory supercycle prospects.",
-    "art": "Seoul Art Scene (March 2026): Highlights include the Kim Yun-shin retrospective at Hoam Museum, Damien Hirst at MMCA, and the \"20!2026 Art Seoul\" digital exhibit featuring an 80% refund guarantee to boost market trust."
+    "market": "KOSPI faces high volatility in March 2026, driven by Middle East geopolitical tensions and AI sector shifts (e.g., 'TurboQuant' algorithm concerns). Foreign investors initiated record sell-offs, absorbed by individual buying. Samsung Electronics ownership hit a 13-year low.",
+    "art": "Seoul Art Scene (March 2026): Key highlights include the Kim Yun-shin retrospective at Hoam Museum, Damien Hirst at MMCA Seoul, and the '20! 2026 Art Seoul' digital exhibit featuring an 80% refund guarantee to enhance market trust."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard refreshed (1:30 AM). Market: Volatility persists, tech sector under pressure, but long-term AI outlook remains robust. Art: Major retrospectives (Kim Yun-shin, Hirst) and trust-building initiatives (refund guarantees) dominate.",
-      "ts": "2026-03-30T01:30:00+09:00"
+      "raw": "Dashboard refreshed (1:40 AM). Market: Volatility persists, semiconductor sector pressured by new AI algorithms. Art: Major retrospectives and digital market innovation (guaranteed liquidity) define the month.",
+      "ts": "2026-03-30T01:40:00+09:00"
     }
   }
 }
