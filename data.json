@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T21:20:00+09:00",
+  "lastUpdated": "2026-03-29T21:30:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Clear skies, pleasant spring evening, 15°C.)",
-    "market": "Market Update (Mar 29, 21:20): Amazon (AMZN) holdings stable with AWS AI demand strong. Intel (INTC) declined 2.2% today amid tech weakness and volatility.",
-    "art": "Art Market (Mar 29): Stable, with continued focus on digital art galleries and upcoming April auctions."
+    "market": "Market Update (Mar 29, 21:30): Amazon (AMZN) holdings stable with AWS AI demand strong. Intel (INTC) down 2.2% today, focus remains on AI PC sentiment.",
+    "art": "Art Market (Mar 29): Stable, digital art galleries and April auctions in focus."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (9:20 PM): Markets update incorporated.",
-      "ts": "2026-03-29T21:20:00+09:00"
+      "raw": "Dashboard auto-refresh (9:30 PM): Latest market insights captured.",
+      "ts": "2026-03-29T21:30:00+09:00"
     }
   }
 }
