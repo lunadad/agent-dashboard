@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T15:20:00+09:00",
+  "lastUpdated": "2026-03-29T15:30:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): AMZN facing pressure from heavy AI CAPEX spending; INTC seeing mixed sentiment post-Q4 with institutional stake shifts.",
+    "market": "Market Update (Mar 29): AMZN declined 4.02% ($199.34) amid AI spending concerns; INTC rallied 8%+ ($47+) following Core Ultra Series 3 success.",
     "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; recovery led by high-end works."
   },
   "dailyReports": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (3:20 PM): AMZN under pressure from AI CAPEX concerns. INTC mixed following Q4; institutional stake shifts noted.",
-      "ts": "2026-03-29T15:20:00+09:00"
+      "raw": "Dashboard auto-refresh (3:30 PM): AMZN (Mar 27) declined 4.02% to $199.34 on AI spending concerns; INTC rally (Mar 25) >8% to $47+ on Core Ultra launch.",
+      "ts": "2026-03-29T15:30:00+09:00"
     }
   }
 }
