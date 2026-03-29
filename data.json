@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T22:30:00+09:00",
+  "lastUpdated": "2026-03-29T22:40:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Quiet night, 14°C, light wind.)",
-    "market": "Market Update (Mar 29): US markets closed lower Friday, hit by geopolitical tension from the Iran conflict and rising oil prices. Monitoring pre-market signals for Monday; tech sector volatility persists.",
+    "market": "Market Update (Mar 29): US markets closed lower Friday, hit by geopolitical tension from the Iran conflict and rising oil prices. Amazon (AMZN) holdings remain stable; AWS AI demand is a key driver. Intel (INTC) declined 2.2% amid volatility over \"Arrow Lake Refresh\" changes; focus remains on AI PC partnerships.",
     "art": "Art Market (Mar 29): Continued focus on the 'Transvertical Market'. Authenticity and emotional depth remain the key drivers for high-end acquisitions."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (10:30 PM): Latest market insights captured.",
-      "ts": "2026-03-29T22:30:00+09:00"
+      "raw": "Dashboard auto-refresh (10:40 PM): Latest market insights captured (AMZN/INTC update).",
+      "ts": "2026-03-29T22:40:00+09:00"
     }
   }
 }
