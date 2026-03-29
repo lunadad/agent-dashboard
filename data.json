@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-29T15:30:00+09:00",
+  "lastUpdated": "2026-03-29T16:00:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): AMZN declined 4.02% ($199.34) amid AI spending concerns; INTC rallied 8%+ ($47+) following Core Ultra Series 3 success.",
-    "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; recovery led by high-end works."
+    "market": "Market Update (Mar 29): AMZN navigating volatility amid high AI CAPEX concerns (trading near $200 level); analysts maintain Moderate Buy rating despite short-term pressure. INTC continues to trade on positive momentum from Core Ultra Series 3 launch.",
+    "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; high-end works continue to lead recovery."
   },
   "dailyReports": {
     "카리나": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (3:30 PM): AMZN (Mar 27) declined 4.02% to $199.34 on AI spending concerns; INTC rally (Mar 25) >8% to $47+ on Core Ultra launch.",
-      "ts": "2026-03-29T15:30:00+09:00"
+      "raw": "Dashboard auto-refresh (4:00 PM): AMZN (Mar 29) navigating volatility amid AI infrastructure spending concerns (trading around $200); analysts hold Moderate Buy with long-term optimism. INTC sentiment remains positive post-launch.",
+      "ts": "2026-03-29T16:00:00+09:00"
     }
   }
 }
