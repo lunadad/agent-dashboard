@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T00:20:00+09:00",
+  "lastUpdated": "2026-03-30T00:30:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (Monday, March 30, 2026: Early morning update, monitoring energy volatility impacts).",
-    "market": "Market Update (Mar 30, 12:20 AM): Markets continue to monitor Iran conflict/energy price pressures. Tech sector (AMZN/INTC) remains focus for Monday pre-market. Asian indices tracking global sentiment.",
-    "art": "Art Market (Mar 30, 12:20 AM): Ongoing shift toward Transvertical Market trends, emphasizing authenticity and long-term asset security."
+    "weather": "Seoul (Monday, March 30, 2026: Clear skies, stable temperatures for start of trading week).",
+    "market": "Market Update (Mar 30, 12:30 AM): Pre-market activity steady. Watching oil futures volatility post-weekend news. Tech/Semiconductors (NVDA/TSM) showing resilience in early Asian session.",
+    "art": "Art Market (Mar 30, 12:30 AM): Increased interest in digital-physical hybrid works ahead of upcoming spring auctions."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (12:20 AM): Markets monitoring geopolitical risks (energy/Iran). Tech sector stability (AMZN/INTC) remains priority for Monday trading. Asian markets sensitive to energy supply chain signals.",
-      "ts": "2026-03-30T00:20:00+09:00"
+      "raw": "Dashboard auto-refresh (12:30 AM): Markets focusing on oil futures and tech resilience (NVDA/TSM). Art market showing hybrid interest.",
+      "ts": "2026-03-30T00:30:00+09:00"
     }
   }
 }
