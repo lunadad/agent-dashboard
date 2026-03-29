@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T16:50:00+09:00",
+  "lastUpdated": "2026-03-29T17:00:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): Turbulent week; major indices declined. Nasdaq in correction territory. AMZN declined 4.02% to $199.34 amid AI spending concerns. INTC rallied >8% to above $47 post-launch. Capital rotating into defensive sectors (energy, materials, utilities) amid inflation concerns.",
-    "art": "Art Market (Mar 29): Global market grew 4% to $59.6B in 2025. Auction sales recovery led by focus on provenance and quality. Highlights: Whitney Biennial 2026 (Even Better Than the Real Thing) and the Met's 'Raphael: Sublime Poetry'."
+    "market": "Market Update (Mar 29): Market sentiment holds steady as of 17:00. AMZN remains volatile near $199.34 due to ongoing AI infrastructure spending concerns. INTC continues to hold recent gains above $47. Institutional focus remains on defensive sector rotation.",
+    "art": "Art Market (Mar 29): Global market status remains unchanged at 4% growth; ongoing focus on provenance remains the primary driver for current institutional acquisitions."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (4:50 PM): Market rotation to defensive sectors. AMZN $199.34 (-4.02%); INTC >$47 (+8%). Art market seeing 4% global recovery; emphasis on high-quality/provenance.",
-      "ts": "2026-03-29T16:50:00+09:00"
+      "raw": "Dashboard auto-refresh (5:00 PM): Market sentiment stable. AMZN/INTC positions unchanged. Defensive rotation continues. Art market trends consistent with earlier reporting.",
+      "ts": "2026-03-29T17:00:00+09:00"
     }
   }
 }
