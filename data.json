@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T23:30:00+09:00",
+  "lastUpdated": "2026-03-29T23:40:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (Sunday, March 29, 2026: Quiet night, 14°C, light wind.)",
-    "market": "Market Update (Mar 29, 11:30 PM): Markets closed. Geopolitical tensions from the Iran conflict remain the primary risk, expected to drive energy volatility Monday. Tech sector (AMZN/INTC) focus: AMZN steady on cloud demand, INTC monitoring Arrow Lake production shifts.",
-    "art": "Art Market (Mar 29, 11:30 PM): Sustained focus on Transvertical Market developments and high-end authenticity."
+    "weather": "Seoul (Sunday, March 29, 2026: Clear, 13°C, calm night.)",
+    "market": "Market Update (Mar 29, 11:40 PM): Markets closed. Stability continues; focus remains on Monday's energy market reaction to Middle East geopolitical shifts and tech sector (AMZN/INTC) momentum.",
+    "art": "Art Market (Mar 29, 11:40 PM): Stable interest in high-end authenticity reports and emerging digital auction trends."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (11:30 PM): Markets closed. Geopolitical risks (Iran/energy) dominate Monday pre-market outlook. Tech focus: AMZN stability vs. INTC volatility (Arrow Lake shifts). Art Market: Transvertical authenticity trending.",
-      "ts": "2026-03-29T23:30:00+09:00"
+      "raw": "Dashboard auto-refresh (11:40 PM): Markets closed. Monday focus: Energy volatility/geopolitics & Tech sector (AMZN stability/INTC). Art: Continued focus on high-end authenticity.",
+      "ts": "2026-03-29T23:40:00+09:00"
     }
   }
 }
