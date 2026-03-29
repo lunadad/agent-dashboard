@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T23:10:00+09:00",
+  "lastUpdated": "2026-03-29T23:20:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Quiet night, 14°C, light wind.)",
-    "market": "Market Update (Mar 29, 11:10 PM): Geopolitical risk factors regarding energy supply chains and Middle East tensions continue to weigh on investor sentiment. Monitoring tech sector stability (AMZN/INTC) ahead of Monday pre-market.",
-    "art": "Art Market (Mar 29, 11:10 PM): Cautious activity; Transvertical Market models are gaining traction."
+    "market": "Market Update (Mar 29, 11:20 PM): Markets closed. Volatility expected Monday due to Iran conflict-related energy supply chain concerns. Tech sector (AMZN/INTC) monitoring remains priority.",
+    "art": "Art Market (Mar 29, 11:20 PM): Consistent focus on Transvertical Market authenticity."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (11:10 PM): Geopolitical risk factors (Middle East/energy) continue to weigh on markets. Monitoring tech sector (AMZN/INTC) ahead of Monday pre-market.",
-      "ts": "2026-03-29T23:10:00+09:00"
+      "raw": "Dashboard auto-refresh (11:20 PM): Markets closed for the weekend. Volatility expected Monday due to Iran conflict-related energy supply chain concerns. Tech sector (AMZN/INTC) monitoring remains priority. Art Market: Consistent focus on Transvertical Market authenticity.",
+      "ts": "2026-03-29T23:20:00+09:00"
     }
   }
 }
