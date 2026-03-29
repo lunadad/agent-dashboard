@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T00:50:00+09:00",
+  "lastUpdated": "2026-03-30T01:00:00+09:00",
   "status": "active",
   "summary": {
-    "weather": "Seoul (Monday, March 30, 2026: Clear skies, stable temperatures for start of trading week).",
-    "market": "Market Update (Mar 30, 12:50 AM): Geopolitical risk from the Middle East continues to impact oil futures and critical supply chains. Semiconductor sector maintains resilience (TSMC leads, strong AI demand) despite broader volatility. Focus remains on energy supply chain stability and tech resilience.",
-    "art": "Art Market (Mar 30, 12:50 AM): Continued growth in digital-physical hybrid works and high-end asset diversification ahead of spring auctions."
+    "weather": "Seoul (Monday, March 30, 2026): Clear skies, no precipitation. Temperatures expected to range between 7°C (44°F) and 14°C (57°F), typical of early spring.",
+    "market": "Global markets are under pressure as of March 30, 2026, due to geopolitical risks, particularly in the Middle East, driving oil prices higher and fueling inflation concerns. U.S. equities are down YTD, though energy sectors are seeing gains. Investors are monitoring upcoming jobs data and potential Federal Reserve rate decisions. Bitcoin has retraced to the $65,000 range.",
+    "art": "Art Market (Mar 30, 2026): High-end segment shows resilience. Recent highlights include a 'white-glove' auction success at Christie's Hong Kong ($83.8M) and robust engagement at Art Basel Hong Kong 2026, which concluded March 29. Despite economic headwinds, there is strong demand for Asia-Pacific artists."
   },
   "dailyReports": {
     "system": {
-      "raw": "Dashboard auto-refresh (12:50 AM): Geopolitical energy risks remain central. Semiconductor resilience (TSMC/AI demand) highlights contrast to broader tech volatility. Art market: hybrid interest persists.",
-      "ts": "2026-03-30T00:50:00+09:00"
+      "raw": "Dashboard refreshed (1:00 AM). Market: Geopolitical headwinds, oil/inflation focus. Art: Strong HK auction results and Art Basel success, indicating high-end market resilience.",
+      "ts": "2026-03-30T01:00:00+09:00"
     }
   }
 }
