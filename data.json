@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T15:10:00+09:00",
+  "lastUpdated": "2026-03-29T15:20:00+09:00",
   "status": "active",
   "summary": {
     "weather": "Seoul (Sunday, March 29, 2026: Comfortable spring weather, 10°C to 21°C.)",
-    "market": "Market Update (Mar 29): AMZN ~$199.34 (macro headwinds); INTC holding above ~$47.",
+    "market": "Market Update (Mar 29): AMZN facing pressure from heavy AI CAPEX spending; INTC seeing mixed sentiment post-Q4 with institutional stake shifts.",
     "art": "Art Market (Mar 29): 2025 Global Art Market Report confirms 4% growth; recovery led by high-end works."
   },
   "dailyReports": {
@@ -12,8 +12,8 @@
       "ts": "2026-03-29T09:10:00+09:00"
     },
     "system": {
-      "raw": "Dashboard auto-refresh (3:10 PM): Market stability continues. INTC >$47, AMZN ~$199.34. No major changes in art market sentiment.",
-      "ts": "2026-03-29T15:10:00+09:00"
+      "raw": "Dashboard auto-refresh (3:20 PM): AMZN under pressure from AI CAPEX concerns. INTC mixed following Q4; institutional stake shifts noted.",
+      "ts": "2026-03-29T15:20:00+09:00"
     }
   }
 }
