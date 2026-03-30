@@ -1,5 +1,17 @@
 {
-  "last_updated": "2026-03-30T18:20:00+09:00",
-  "status": "active",
-  "summary": "Market: AMZN shows positive sentiment around AWS and AI, though with capex concerns. INTC is showing mixed signals with institutional selling but optimism around the new Core Ultra Series 3 chips and 18A process."
+  "updatedAt": "2026-03-30T18:30:00+09:00",
+  "stockMarket": {
+    "kospi": {
+      "index": 5264.32,
+      "change": "-3.2%",
+      "summary": "Declined amid global anxieties over surging oil prices (US crude >$101, Brent >$115) and geopolitical tensions (US-Iran war)."
+    }
+  },
+  "artMarket": {
+    "summary": "Undergoing 'qualitative transformation'. Sentiment is cautious with polarization in auction markets, shifting focus toward mid-to-lower priced segments.",
+    "highlights": [
+      "Art Basel Hong Kong 2026: Notable sales for Lee Bul and Kim Yun-shin.",
+      "Auction trends: Sell-through rates >70% with reordering of market standards."
+    ]
+  }
 }
