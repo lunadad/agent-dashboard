@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T00:50:00+09:00",
+  "timestamp": "2026-03-31T01:00:00+09:00",
   "market_brief": {
-    "AMZN": "AWS focus remains strong as Q1 approaches end; lingering capex concerns vs. AI monetization.",
-    "INTC": "Preparing for April updates on Foundry strategy; institutional sentiment remains watchful of supply chain dynamics.",
-    "AAPL": "Focus shifting toward late Q2 catalysts; hardware cycle sentiment remains steady."
+    "AMZN": "AWS/AI spending efficiency remains the focal point post-Spring Sale; lingering capex-vs-margin debate.",
+    "INTC": "18A process updates key for Foundry; Core Ultra supply chain management remains a critical monitor.",
+    "AAPL": "Services momentum steady; AI infrastructure build-out and early WWDC sentiment shaping the narrative."
   }
 }
