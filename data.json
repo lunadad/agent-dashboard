@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-30T20:30:00+09:00",
+  "timestamp": "2026-03-30T20:40:00+09:00",
   "market_brief": {
-    "AMZN": "Aggressive $200B capex for AWS/AI; stock faces pressure from cash flow concerns.",
-    "INTC": "Mixed; execution challenges in Arrow Lake Refresh vs. AI-driven margin tailwinds.",
+    "AMZN": "Positive sentiment around AWS and AI, though with capex concerns.",
+    "INTC": "Mixed signals with institutional selling but optimism around the new Core Ultra Series 3 chips and 18A process.",
     "AAPL": "Focus on AI hardware/WWDC catalysts; remains strong despite broader sector/antitrust risks."
   }
 }
