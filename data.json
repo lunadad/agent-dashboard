@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-30T20:20:00+09:00",
+  "timestamp": "2026-03-30T20:30:00+09:00",
   "market_brief": {
-    "AMZN": "AWS and AI focus persist; capex concerns remain. Steady outlook.",
-    "INTC": "Core Ultra Series 3 and 18A process optimism tempered by institutional selling. Mixed signal persists.",
-    "AAPL": "Focus on AI-integrated iOS updates. Stable outlook."
+    "AMZN": "Aggressive $200B capex for AWS/AI; stock faces pressure from cash flow concerns.",
+    "INTC": "Mixed; execution challenges in Arrow Lake Refresh vs. AI-driven margin tailwinds.",
+    "AAPL": "Focus on AI hardware/WWDC catalysts; remains strong despite broader sector/antitrust risks."
   }
 }
