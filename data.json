@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T03:50:00+09:00",
+  "timestamp": "2026-03-31T04:00:00+09:00",
   "market_brief": {
-    "AMZN": "System update 03:50: AWS cloud demand stable; capex-heavy sentiment persists but long-term AI play remains strong.",
-    "INTC": "System update 03:50: Monitoring AI PC/foundry. Foundry status remains key metric.",
-    "AAPL": "System update 03:50: Services growth bedrock; post-Q1 market outlook remains stable."
+    "AMZN": "System update 04:00: Cloud infrastructure expansion; positive momentum in AWS data center capacity.",
+    "INTC": "System update 04:00: Foundry efficiency metrics tracking; cautious outlook on upcoming supply chain reports.",
+    "AAPL": "System update 04:00: Strong ecosystem services performance; no significant supply chain changes."
   }
 }
