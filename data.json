@@ -1,10 +1,14 @@
 {
-  "updatedAt": "2026-03-30T18:30:00+09:00",
+  "updatedAt": "2026-03-30T18:40:00+09:00",
   "stockMarket": {
     "kospi": {
       "index": 5264.32,
       "change": "-3.2%",
       "summary": "Declined amid global anxieties over surging oil prices (US crude >$101, Brent >$115) and geopolitical tensions (US-Iran war)."
+    },
+    "tech": {
+      "amzn": "Positive sentiment around AWS and AI, though with capex concerns.",
+      "intc": "Mixed signals: institutional selling, but optimism around Core Ultra Series 3 and 18A process."
     }
   },
   "artMarket": {
