@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-30T23:30:00+09:00",
+  "timestamp": "2026-03-31T00:00:00+09:00",
   "market_brief": {
-    "AMZN": "Positive sentiment around AWS and AI, though with capex concerns.",
-    "INTC": "Mixed signals with institutional selling but optimism around the new Core Ultra Series 3 chips and 18A process.",
-    "AAPL": "Focus on AI hardware/WWDC catalysts; remains strong despite broader sector/antitrust risks."
+    "AMZN": "Focus on $200B AI/AWS capex; growth potential vs sector volatility.",
+    "INTC": "CPU price hikes announced; AI/PC headwinds vs supply constraints.",
+    "AAPL": "Strong Q1 results; record services revenue; focus on AI/WWDC catalysts despite antitrust scrutiny."
   }
 }
