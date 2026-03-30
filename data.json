@@ -1,16 +1,16 @@
 {
   "date": "2026-03-30",
-  "market": "Amazon (AMZN) faces scrutiny over its $200B AI-focused capex plan, despite acquiring Fauna Robotics to bolster its personal robotics division. Market-wide, the S&P 500 is under pressure, nearing correction territory due to geopolitical tensions and rising energy prices (Brent > $100). Intel (INTC) shows mixed signals with institutional selling despite optimism for Core Ultra Series 3 chips.",
+  "market": "Amazon (AMZN) officially integrates Fauna Robotics into its Personal Robotics Group. Market-wide, S&P 500 remains under pressure; Brent crude stays elevated. Intel (INTC) struggles with institutional sell-side pressure despite product momentum.",
   "art": "Market shifting from NFTs toward tangible, handmade works (collages, textiles, oils). Trends include immersive scale, dream-logic surrealism, and a focus on 'the human hand' as a response to AI-generated content. Digital tools remain influential, but collectors increasingly value authenticity and physical engagement.",
   "status": "active",
-  "updated_at": "2026-03-30T14:10:00+09:00",
+  "updated_at": "2026-03-30T14:25:00+09:00",
   "dailyReports": {
-    "FT": "Market Update 2026-03-30: Tech sector (AMZN) faces capex/growth scrutiny. Broad market risk-off sentiment. Art market favoring physical authenticity over digital speculation.",
+    "FT": "Market Update 2026-03-30: AMZN consolidates Fauna Robotics. Market risk-off sentiment prevails. Art market trends continue to favor physical works over digital assets.",
     "카리나": {
-      "raw": "안녕하세요 슬기님, 카리나입니다! 오후 브리핑 전해드려요 💙\n\n오늘 시장이 전반적으로 '리스크 오프(위험 회피)' 분위기라 조금 긴장되는 하루네요. S&P 500이 고점 대비 조정 국면에 진입했다는 소식이 들립니다. \n\n🎨 [오후 아트 & 테크 트렌드]\n1. '진정성'을 찾는 컬렉터들: 이제 NFT의 열풍은 잦아들고, 사람들이 직접 만지고 느낄 수 있는 실물 아트(오일 페인팅, 텍스타일 등)에 엄청난 관심을 보이고 있어요. '인간의 손길'이 닿은 흔적을 찾는 것이 지금의 럭셔리 트렌드입니다.\n\n2. Amazon의 야심찬 행보: 아마존이 휴머노이드 로봇 스타트업인 'Fauna Robotics'를 인수했습니다. 2,000억 달러라는 거대 자본을 AI 인프라에 쏟아붓는 만큼, 당장 수익성보다는 미래 가치에 대한 베팅이 확실해 보이네요. 주가 조정이 있긴 하지만 장기적으로는 기회일지도요.\n\n시장 분위기가 예민하니, 오늘 하루는 관망하면서 신중하게 접근하시는 게 좋을 것 같아요. 맛있는 커피 한 잔 마시면서 여유 갖는 오후 되세요!"
+      "raw": "안녕하세요 슬기님, 카리나입니다! 오후 추가 브리핑 전해드려요 💙\n\n아마존의 Fauna Robotics 인수 소식이 시장에 구체적인 방향성을 제시하고 있습니다. 이제 아마존이 본격적으로 가정용 로봇 시장에 진출한다는 점, 꼭 기억해두세요!\n\n시장 분위기가 여전히 예민하니, 오늘 하루는 관망하면서 신중하게 접근하시는 게 좋을 것 같아요. 맛있는 커피 한 잔 마시면서 여유 갖는 오후 되세요!"
     },
     "머스크": {
-      "raw": "☀️ **[오후 주식 브리핑 - 실시간 현황]**\n날짜: 2026-03-30\n\n**1. 시장 상황**\n*   **Risk-Off 심화:** S&P 500 고점 대비 9% 하락. 중동 이슈와 에너지 가격 상승(Brent $100 돌파)이 시장을 짓누르고 있습니다.\n*   **섹터:** 에너지, 유틸리티, 필수소비재는 강세인 반면, IT와 경기소비재는 압박을 받는 중.\n\n**2. 기업 이슈**\n*   **Amazon (AMZN):** $200B 규모 AI CapEx 발표에 따른 시장의 우려(현금 흐름 압박)와 'Fauna Robotics' 인수 등 공격적 행보가 충돌 중.\n*   **Intel (INTC):** Core Ultra Series 3 모멘텀은 유효하나 기관들의 차익 실현 및 지분 축소 움직임이 포착되고 있어 주의가 필요합니다."
+      "raw": "☀️ **[오후 주식 브리핑 - 실시간 현황]**\n날짜: 2026-03-30\n\n**1. 시장 상황**\n*   **Risk-Off 심화:** S&P 500 하락 지속. 에너지 가격 상승(Brent $100+)이 여전히 부담입니다.\n\n**2. 기업 이슈**\n*   **Amazon (AMZN):** Fauna Robotics 인수가 Personal Robotics Group으로 공식 통합되었습니다. 미래 가치에 대한 베팅이 확실해 보입니다.\n*   **Intel (INTC):** 모멘텀은 유효하나 기관들의 지분 축소 움직임이 계속되고 있습니다."
     }
   }
 }
