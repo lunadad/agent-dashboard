@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T01:10:00+09:00",
+  "timestamp": "2026-03-31T01:30:00+09:00",
   "market_brief": {
-    "AMZN": "AWS/AI spending efficiency remains the focal point post-Spring Sale; lingering capex-vs-margin debate.",
-    "INTC": "18A process updates key for Foundry; Core Ultra supply chain management remains a critical monitor.",
-    "AAPL": "Services momentum steady; AI infrastructure build-out and early WWDC sentiment shaping the narrative."
+    "AMZN": "AWS/AI spending efficiency post-Spring Sale.",
+    "INTC": "18A process/Core Ultra supply chain.",
+    "AAPL": "Services/AI infrastructure catalysts."
   }
 }
