@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T00:30:00+09:00",
+  "timestamp": "2026-03-31T00:40:00+09:00",
   "market_brief": {
-    "AMZN": "Strong momentum around AWS and AI, though capex remains a focal point for institutional investors.",
-    "INTC": "Core Ultra Series 3 seeing demand, focus shifting to 18A process milestone progress.",
-    "AAPL": "Q2 earnings preview optimism; focus on AI services integration and hardware roadmap."
+    "AMZN": "Big Spring Sale concluded; market sentiment balancing AI capex/spending concerns against long-term AWS/AI growth potential.",
+    "INTC": "New Core Ultra Series 3 launch driving OEM (Dell/HP) adoption; ongoing supply constraints leading to CPU price adjustments.",
+    "AAPL": "50th anniversary period; record services revenue; strong Q1 performance with product-heavy 2026 outlook; continued focus on AI/WWDC catalysts."
   }
 }
