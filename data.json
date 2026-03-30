@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-30T19:30:00+09:00",
+  "timestamp": "2026-03-30T19:40:00+09:00",
   "market_brief": {
-    "AMZN": "Positive sentiment regarding AWS and AI, capex concerns remain.",
-    "INTC": "Mixed signals: institutional selling vs. optimism for Core Ultra Series 3 and 18A process.",
-    "AAPL": "Focus on upcoming AI-integrated iOS update and privacy roadmap."
+    "AMZN": "AWS and AI focus persist; capex concerns remain.",
+    "INTC": "Core Ultra Series 3 and 18A process optimism tempered by institutional selling.",
+    "AAPL": "Focus on AI-integrated iOS updates."
   }
 }
