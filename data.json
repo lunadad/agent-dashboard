@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T03:00:00+09:00",
+  "timestamp": "2026-03-31T03:10:00+09:00",
   "market_brief": {
-    "AMZN": "$200B capex pressure vs strong AWS growth; valuation remains historically low.",
-    "INTC": "AI PC push and 18A process node growth vs foundry losses and stiff competition.",
-    "AAPL": "Strong services revenue and AI/Siri catalysts, though facing ongoing China market headwinds."
+    "AMZN": "Facing investor caution over $200B projected 2026 capex for AI/robotics, but AWS growth and custom silicon execution remain key long-term drivers.",
+    "INTC": "Struggling with PC market decline and high foundry operating losses, while facing new ARM-based competition in data centers.",
+    "AAPL": "Navigating China market headwinds while expanding AI integration for Siri and monetizing services through new advertising initiatives."
   }
 }
