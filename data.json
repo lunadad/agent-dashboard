@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-31T04:50:00+09:00",
+  "timestamp": "2026-03-31T05:00:00+09:00",
   "market_brief": {
-    "AMZN": "Market volatility due to aggressive AI capex concerns (approx $200B projected).",
-    "INTC": "18A process node commercial PC launch underway; stock navigating semiconductor sector weakness.",
-    "AAPL": "Services segment remains a core strength; focus on integrating AI services into Siri."
+    "AMZN": "AWS/AI spending efficiency monitored; $200B capex volatility.",
+    "INTC": "18A node launch progress vs semiconductor sector headwinds.",
+    "AAPL": "Services segment strength; AI/Siri integration focus."
   },
-  "art_brief": "Shift towards 'experience-led collecting' and tangible works; Middle East emerging as major art hub."
+  "art_brief": "Continued shift towards 'experience-led collecting'; digital-physical hybrid works gaining traction."
 }
