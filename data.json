@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-31T04:10:00+09:00",
+  "timestamp": "2026-03-31T04:20:00+09:00",
   "market_brief": {
-    "AMZN": "System update 04:10: AWS stability remains high; continued focus on AI efficiency despite capex headwinds.",
-    "INTC": "System update 04:10: Ongoing focus on AI PC hardware integration and 18A process node foundry progress.",
-    "AAPL": "System update 04:10: Sustained services revenue growth; focus on upcoming AI/Siri features for product cycle."
+    "AMZN": "System update 04:20: AWS stability focus continues; evaluating AI capex efficiency vs revenue growth.",
+    "INTC": "System update 04:20: Ongoing monitoring of AI PC market share and 18A process foundry progress.",
+    "AAPL": "System update 04:20: Services revenue sustained; focus remains on AI/Siri features for Q2 cycle."
   }
 }
