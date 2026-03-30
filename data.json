@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-03-31T05:00:00+09:00",
+  "timestamp": "2026-03-31T05:10:00+09:00",
   "market_brief": {
-    "AMZN": "AWS/AI spending efficiency monitored; $200B capex volatility.",
-    "INTC": "18A node launch progress vs semiconductor sector headwinds.",
-    "AAPL": "Services segment strength; AI/Siri integration focus."
+    "AMZN": "AWS infrastructure scaling; AI capex optimization remains key focus.",
+    "INTC": "Semiconductor sector focus on 18A node yields; competition intense.",
+    "AAPL": "Services momentum; AI and Siri integration cycle ongoing."
   },
-  "art_brief": "Continued shift towards 'experience-led collecting'; digital-physical hybrid works gaining traction."
+  "art_brief": "Art market trending towards experiential collecting; strong interest in digital-physical hybrid assets."
 }
