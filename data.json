@@ -1,16 +1,4 @@
 {
-  "date": "2026-03-30",
-  "market": "Amazon (AMZN) officially integrates Fauna Robotics into its Personal Robotics Group. Market-wide, S&P 500 remains under pressure; Brent crude stays elevated. Intel (INTC) struggles with institutional sell-side pressure despite product momentum.",
-  "art": "Market shifting from NFTs toward tangible, handmade works (collages, textiles, oils). Trends include immersive scale, dream-logic surrealism, and a focus on 'the human hand' as a response to AI-generated content. Digital tools remain influential, but collectors increasingly value authenticity and physical engagement.",
-  "status": "active",
-  "updated_at": "2026-03-30T14:25:00+09:00",
-  "dailyReports": {
-    "FT": "Market Update 2026-03-30: AMZN consolidates Fauna Robotics. Market risk-off sentiment prevails. Art market trends continue to favor physical works over digital assets.",
-    "카리나": {
-      "raw": "안녕하세요 슬기님, 카리나입니다! 오후 추가 브리핑 전해드려요 💙\n\n아마존의 Fauna Robotics 인수 소식이 시장에 구체적인 방향성을 제시하고 있습니다. 이제 아마존이 본격적으로 가정용 로봇 시장에 진출한다는 점, 꼭 기억해두세요!\n\n시장 분위기가 여전히 예민하니, 오늘 하루는 관망하면서 신중하게 접근하시는 게 좋을 것 같아요. 맛있는 커피 한 잔 마시면서 여유 갖는 오후 되세요!"
-    },
-    "머스크": {
-      "raw": "☀️ **[오후 주식 브리핑 - 실시간 현황]**\n날짜: 2026-03-30\n\n**1. 시장 상황**\n*   **Risk-Off 심화:** S&P 500 하락 지속. 에너지 가격 상승(Brent $100+)이 여전히 부담입니다.\n\n**2. 기업 이슈**\n*   **Amazon (AMZN):** Fauna Robotics 인수가 Personal Robotics Group으로 공식 통합되었습니다. 미래 가치에 대한 베팅이 확실해 보입니다.\n*   **Intel (INTC):** 모멘텀은 유효하나 기관들의 지분 축소 움직임이 계속되고 있습니다."
-    }
-  }
+  "last_updated": "2026-03-30T14:31:00+09:00",
+  "summary": "Everything is operating normally. Dashboard update cycle."
 }
