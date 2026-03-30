@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-03-31T04:40:00+09:00",
+  "timestamp": "2026-03-31T04:50:00+09:00",
   "market_brief": {
-    "AMZN": "System update 04:40: AWS stability and AI capex efficiency remain the primary metrics; market holding steady.",
-    "INTC": "System update 04:40: Continued monitoring of AI PC market share and foundry node deployment progress.",
-    "AAPL": "System update 04:40: Services revenue strength holding; continuing to track AI/Siri feature rollout progress."
-  }
+    "AMZN": "Market volatility due to aggressive AI capex concerns (approx $200B projected).",
+    "INTC": "18A process node commercial PC launch underway; stock navigating semiconductor sector weakness.",
+    "AAPL": "Services segment remains a core strength; focus on integrating AI services into Siri."
+  },
+  "art_brief": "Shift towards 'experience-led collecting' and tangible works; Middle East emerging as major art hub."
 }
