@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T05:20:00+09:00",
+  "timestamp": "2026-04-01T05:40:00+09:00",
   "stock_market": {
-    "summary": "Q2 kicks off with volatility as tech infrastructure spending concerns meet Q1 earnings anticipation. April seasonality patterns suggest a tactical focus on defensive dividend-paying equities.",
+    "summary": "Global markets navigate April with caution; US equities face pressure from geopolitical tensions and energy price volatility, though some analysts see potential for a relief rally near oversold levels.",
     "key_metrics": {
-      "market_trend": "Tactical defensive rotation",
-      "impact": "Portfolio rebalancing, earnings sensitivity"
+      "market_trend": "Volatile with potential relief rally",
+      "impact": "Portfolio sensitivity to macro/geopolitical headlines"
     }
   },
   "art_market": {
-    "summary": "Spring auction season heating up with high-quality provenance demand. Collectors pivoting towards blue-chip contemporary works following recent market consolidation.",
+    "summary": "Renewed confidence in the art market for 2026; characterized by high selectivity and demand for blue-chip provenance. The US market shows stabilization with significant auction recovery.",
     "key_metrics": {
-      "major_events": "Spring auction season start",
-      "status": "Provenance-driven demand"
+      "major_events": "Spring auction season engagement",
+      "status": "Selectivity-driven recovery"
     }
   }
 }
