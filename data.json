@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T22:00:00+09:00",
+  "timestamp": "2026-03-31T22:10:00+09:00",
   "stock_market": {
-    "summary": "Market consolidation continues with focus on Q2 positioning following the end of March. Investors are monitoring yield movements.",
+    "summary": "US stock futures ticked higher on March 31 amid hopes for Iran conflict de-escalation, despite a volatile March characterized by correction concerns and inflation warnings.",
     "key_metrics": {
-      "market_trend": "Consolidation / Q2 Positioning",
-      "impact": "Volatility in Treasuries and continued tech accumulation; monitoring yield movements."
+      "market_trend": "Volatile recovery; focus on geopolitical impact (Iran).",
+      "impact": "S&P 500, Dow, and Nasdaq faced declines in March; monitoring inflation and rate hike signals."
     }
   },
   "art_market": {
-    "summary": "Art market maintains focus on blue-chip and provenance-heavy assets with Q2 auction preparations underway.",
+    "summary": "The art market shows resilient recovery, with a 4% global growth in 2025 and continued strength in high-end, blue-chip segments despite global geopolitical turmoil.",
     "key_metrics": {
-      "major_events": "Q2 auction preparations; focus on established, high-end works.",
-      "status": "Resilient; focus on provenance-heavy assets."
+      "major_events": "Strong spring auction results in London and NYC; renewed optimism for 2026.",
+      "status": "Resilient; emphasis on discipline, quality, and provenance."
     }
   }
 }
