@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:40:00+09:00",
+  "timestamp": "2026-03-31T20:50:00+09:00",
   "stock_market": {
-    "summary": "U.S. markets remain mixed with cautious optimism on Middle East de-escalation. Gold recovers as a safe haven amid petrodollar uncertainty, while Treasury yields ease slightly as rate hike expectations cool.",
+    "summary": "Market stabilization continues into the evening. Treasury yields show volatility as investors weigh the potential de-escalation news against sustained inflation pressures. Tech sectors remain a focus for institutional accumulation.",
     "key_metrics": {
-      "market_trend": "Cautious stabilization",
-      "impact": "Market rotation into defensive and 'real economy' sectors; geopolitical sensitive."
+      "market_trend": "Stabilization / Cautious Accumulation",
+      "impact": "Portfolio rebalancing favoring tech and defensive assets."
     }
   },
   "art_market": {
-    "summary": "The art market shows resilience in the high-end blue-chip segment, with collectors prioritizing provenance and quality as an inflation hedge amid global geopolitical turmoil.",
+    "summary": "Art market activity remains centered on blue-chip works; significant interest noted in upcoming secondary market auctions for Q2. Provenance continues to be the primary value driver.",
     "key_metrics": {
-      "major_events": "Strong performance in Modern/Contemporary segments; continued focus on quality over quantity.",
-      "status": "Resilient blue-chip, defensive posturing"
+      "major_events": "Secondary market prep for Q2; focus on proven assets.",
+      "status": "Stable demand for high-end assets."
     }
   }
 }
