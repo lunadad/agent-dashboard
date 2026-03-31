@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T03:40:00+09:00",
+  "timestamp": "2026-04-01T03:50:00+09:00",
   "stock_market": {
-    "summary": "Markets eyeing a tactical rebound; focus shifting from policy to productivity (AI/Infra). Defensive sectors like healthcare and consumer staples remain favored amid geopolitical tensions.",
+    "summary": "Q2 markets open with a focus on productivity (AI/Infra) and defensive sectors. Tactical rebound remains a theme, with investors balancing geopolitical stability with growth potential.",
     "key_metrics": {
-      "market_trend": "Tactical rebound/bottoming",
-      "impact": "Rotation to defensive sectors; AI/Infra interest"
+      "market_trend": "Tactical rebound, productivity-focused",
+      "impact": "Defensive sector strength, AI/Infra interest"
     }
   },
   "art_market": {
-    "summary": "April activity accelerating with ART OnO in Seoul (April 3-5) and Christie's 40th anniversary preparations in Asia.",
+    "summary": "April activity is ramping up with ART OnO in Seoul (April 3-5). High-value provenanced works remain the focus for collectors in Q2.",
     "key_metrics": {
-      "major_events": "ART OnO Seoul, Christie's Asia 40th",
-      "status": "Robust high-value segment; focus on provenanced works"
+      "major_events": "ART OnO Seoul, Christie's Asia 40th anniversary",
+      "status": "Robust interest in blue-chip provenance"
     }
   }
 }
