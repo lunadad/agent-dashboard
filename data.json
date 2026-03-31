@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-03-31T14:30:00+09:00",
+  "last_updated": "2026-03-31T14:40:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Focus remains on quality and provenance in 2026. Market indicators stable but selective.",
+      "summary": "Market showing resilience with 4% growth in 2025; shift toward established artists and local buyers in early 2026.",
       "notable_news": [
-        "Art Dubai 2026 rescheduling impacts regional sentiment",
-        "Rising interest in digital provenance tracking for classical works"
+        "Recovery momentum continues after 2025 growth",
+        "Galleries focusing on new collectors and localized buyer pools"
       ]
     },
     "stock_market": {
-      "summary": "Global markets show mixed performance amid geopolitical tensions, specifically Iran conflict. US tech sector showing signs of recovery despite Q1 challenges. Utilities increasingly attractive due to AI/Data center demand.",
-      "resilient_sectors": ["Utilities", "Financials", "Healthcare"],
-      "underperforming_sectors": ["Energy (overvalued)", "Consumer Discretionary"]
+      "summary": "High volatility due to geopolitical tensions and inflation fears. Utilities and Energy sectors outperforming; Tech and Financials under pressure.",
+      "resilient_sectors": ["Utilities", "Energy"],
+      "underperforming_sectors": ["Tech", "Financials", "Consumer Discretionary"]
     }
   }
 }
