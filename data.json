@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T18:10:00+09:00",
+  "timestamp": "2026-03-31T18:20:00+09:00",
   "stock_market": {
-    "summary": "Global markets remain in cautious relief mode. Investors are monitoring energy prices near $113/barrel, while focus shifts to end-of-quarter portfolio rebalancing and upcoming inflation data. Asian markets are exhibiting mixed performance as of the late session.",
+    "summary": "Late session trends show stabilizing energy prices. Markets are closing the month with a defensive posture as investors digest the end-of-quarter volatility and prepare for April’s economic calendar.",
     "key_metrics": {
-      "market_trend": "Cautious consolidation, energy price sensitivity",
-      "impact": "End-of-quarter positioning, geopolitical risk premiums"
+      "market_trend": "Defensive consolidation, quarter-end positioning",
+      "impact": "Energy price sensitivity, anticipation of new month data"
     }
   },
   "art_market": {
-    "summary": "March 2026 confirms a solid rebound for the art market, with high-end segments leading growth. Auction results in London and Hong Kong have outperformed expectations, showing a clear 'flight to quality' toward established blue-chip artists.",
+    "summary": "March 2026 wrap-up: Strong demand for contemporary blue-chip works continues to drive auction house performance. Market sentiment remains positive, with a clear trend toward high-quality assets in uncertain economic conditions.",
     "key_metrics": {
-      "major_events": "Robust London/Hong Kong auction performance, 4% global market growth confirmed",
-      "status": "Resilient, quality-focused, auction market rebound"
+      "major_events": "Strong close for March auctions, consistent blue-chip demand",
+      "status": "Resilient, quality-focused, post-auction momentum"
     }
   }
 }
