@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T08:20:00+09:00",
+  "last_updated": "2026-04-01T08:40:00+09:00",
   "art_market": {
     "summary": "Art market in 2026 shows a cautious reorganization; prioritizing blue-chip quality and mid-market growth.",
     "highlights": [
@@ -9,11 +9,11 @@
     ]
   },
   "stock_market": {
-    "summary": "Indian markets reopen April 1 with volatility, high FII outflows, and new regulatory/tax rules.",
+    "summary": "Indian markets open April 1 with volatility, high FII outflows, and new regulatory/tax rules in effect.",
     "highlights": [
       "STT on Futures increased (0.02% to 0.05%); Options premiums (0.10% to 0.15%).",
-      "Share buybacks now taxed as capital gains (30% for promoters).",
-      "Market sentiment weighed by crude oil uncertainty and settlement holidays."
+      "Share buybacks taxed as capital gains (30% for promoters) effective today.",
+      "Market sentiment weighed by global crude oil uncertainty."
     ]
   }
 }
