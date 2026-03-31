@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-31T23:10:00+09:00",
+  "timestamp": "2026-03-31T23:20:00+09:00",
   "stock_market": {
-    "summary": "Market consolidation following the end of March. Investors are actively monitoring yield movements and positioning for Q2, while geopolitical tensions in the Middle East continue to influence sentiment.",
+    "summary": "End-of-month market consolidation continues with focus on Q2 positioning and yield movements.",
     "key_metrics": {
       "market_trend": "Consolidating; focus shifting to Q2 strategy.",
       "impact": "Yield movements and Q2 positioning are primary drivers."
     }
   },
   "art_market": {
-    "summary": "The art market maintains its focus on blue-chip and provenance-heavy assets heading into Q2 auctions, as collectors seek stability.",
+    "summary": "The art market maintains its focus on blue-chip and provenance-heavy assets for upcoming Q2 auctions.",
     "key_metrics": {
       "major_events": "Q2 auction season preparations.",
       "status": "Resilient, with steady demand for blue-chip provenance."
