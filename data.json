@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-04-01T02:50:00+09:00",
+  "timestamp": "2026-04-01T03:00:00+09:00",
   "stock_market": {
-    "summary": "Q2 market kickoff continues with stable tech rotation and focus on yield movements.",
+    "summary": "Q2 market kickoff continues: Markets focusing on yield stabilization and defensive tech holdings.",
     "key_metrics": {
       "market_trend": "Q2 defensive positioning.",
-      "impact": "Continued focus on yield movements and tech resilience."
+      "impact": "Stable rotation into quality/tech assets."
     }
   },
   "art_market": {
-    "summary": "April 1st Update: Spring auction preparations underway; focus on blue-chip and provenance-heavy assets.",
+    "summary": "April 1st: Early Q2 market trends show continued interest in provenance-verified blue-chip assets for the upcoming auction season.",
     "key_metrics": {
-      "major_events": "Q2 auction season opening.",
+      "major_events": "Q2 auction season ramp-up.",
       "status": "Robust demand for provenanced, high-end works."
     }
   }
