@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T21:10:00+09:00",
+  "timestamp": "2026-03-31T21:20:00+09:00",
   "stock_market": {
-    "summary": "Market consolidation after evening volatility. Investors are positioning for a quiet start to April, monitoring treasury yield fluctuations and corporate guidance updates.",
+    "summary": "Market continues consolidation. Investors are tracking yield stability and corporate guidance for early Q2 signals.",
     "key_metrics": {
-      "market_trend": "Consolidation / Cautious Waiting",
-      "impact": "Stable portfolio holdings; focus on yield stability."
+      "market_trend": "Consolidation / Q2 Positioning",
+      "impact": "Stable portfolio holdings; monitoring treasury yield fluctuations."
     }
   },
   "art_market": {
-    "summary": "End-of-month market quiet. Focus remains on provenance-heavy assets as investors seek reliable value storage entering Q2.",
+    "summary": "End-of-month market quiet. Focus remains on provenance-heavy assets for reliable value storage heading into Q2.",
     "key_metrics": {
-      "major_events": "Month-end portfolio assessment.",
-      "status": "Stable demand for reliable assets."
+      "major_events": "Q2 auction preparation underway.",
+      "status": "Continued focus on blue-chip works."
     }
   }
 }
