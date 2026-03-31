@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T17:50:00+09:00",
+  "timestamp": "2026-03-31T18:10:00+09:00",
   "stock_market": {
-    "summary": "Global markets are mixed as US futures rally on potential de-escalation of the Iran conflict, while Asian markets remain pressured. Oil prices stay elevated near $113/barrel, raising concerns about potential global recessionary impacts.",
+    "summary": "Global markets remain in cautious relief mode. Investors are monitoring energy prices near $113/barrel, while focus shifts to end-of-quarter portfolio rebalancing and upcoming inflation data. Asian markets are exhibiting mixed performance as of the late session.",
     "key_metrics": {
-      "market_trend": "Cautious relief in US, persistent volatility globally",
-      "impact": "Iran geopolitical tension, high energy costs, recession risks"
+      "market_trend": "Cautious consolidation, energy price sensitivity",
+      "impact": "End-of-quarter positioning, geopolitical risk premiums"
     }
   },
   "art_market": {
-    "summary": "The 2026 Global Art Market Report indicates a 4% rebound in 2025, reaching $59.6 billion. The market shows resilience, particularly in high-end segments, despite geopolitical and economic headwinds.",
+    "summary": "March 2026 confirms a solid rebound for the art market, with high-end segments leading growth. Auction results in London and Hong Kong have outperformed expectations, showing a clear 'flight to quality' toward established blue-chip artists.",
     "key_metrics": {
-      "major_events": "2026 Global Art Market Report findings, strong high-end sales",
-      "status": "Cautious recovery, quality-focused collectors"
+      "major_events": "Robust London/Hong Kong auction performance, 4% global market growth confirmed",
+      "status": "Resilient, quality-focused, auction market rebound"
     }
   }
 }
