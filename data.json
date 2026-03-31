@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T16:50:00+09:00",
+  "timestamp": "2026-03-31T17:20:00+09:00",
   "stock_market": {
-    "summary": "Markets show mixed performance on March 31, 2026, driven by Middle East geopolitical tensions. U.S. futures are trending upward due to Powell's inflation comments, while Asian markets trade lower amid ongoing conflict uncertainties. AMZN shows positive sentiment around AWS and AI despite capex concerns, and INTC shows mixed signals with institutional selling but optimism around Core Ultra Series 3 chips and 18A process.",
+    "summary": "As of March 31, 2026, the S&P 500 is in a mild correction (down ~9% from peak), driven by geopolitical tensions in the Middle East and interest rate pressures. Investor fear is elevated with VIX nearing 30. Despite near-term anxieties, corporate fundamentals remain resilient with projected 22% earnings growth for 2026, though labor market signals are slowing.",
     "key_metrics": {
-      "market_trend": "mixed/cautious",
-      "impact": "Middle East geopolitical conflict, U.S. inflation stability"
+      "market_trend": "correction/cautious",
+      "impact": "Geopolitical conflict, interest rate recalibration, earnings growth resilience"
     }
   },
   "art_market": {
-    "summary": "The art scene is vibrant with major events like the Whitney Biennial and the 25th Biennale of Sydney ('Rememory'), though impacted by regional instability (Art Dubai rescheduled). Security concerns rise following notable art thefts in Italy.",
+    "summary": "The 2026 Global Art Market Report confirms a cautious 4% growth in 2025, reaching $59.6 billion. The U.S. remains the dominant market (44% share) with a 23% surge in auction sales. The market is showing heightened selectivity, favoring high-end quality and historical art over speculative contemporary assets.",
     "key_metrics": {
-      "major_events": "Whitney Biennial 2026, 25th Biennale of Sydney",
-      "status": "active but vigilant"
+      "major_events": "2026 Global Art Market Report, U.S. auction rebound",
+      "status": "cautious recovery/quality-focused"
     }
   }
 }
