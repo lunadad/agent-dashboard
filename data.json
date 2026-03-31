@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:00:00+09:00",
+  "timestamp": "2026-03-31T20:10:00+09:00",
   "stock_market": {
-    "summary": "End of Q1 sees market consolidation. Investors are closely watching upcoming interest rate signals for Q2. The tech sector, particularly AI-driven hardware, remains resilient.",
+    "summary": "End-of-month market update: Amazon's AI focus maintains stability while Intel shows some resilience from new chip updates.",
     "key_metrics": {
-      "market_trend": "Consolidation, Q2 guidance focus",
-      "impact": "Stable, tech-led optimism"
+      "market_trend": "Stability in tech/AI sector",
+      "impact": "Resilient, positive outlook for tech"
     }
   },
   "art_market": {
-    "summary": "Q1 auction activity concludes with solid performance. Demand for post-war contemporary works remains strong as we enter the spring art fair season.",
+    "summary": "Art market continues to demonstrate strength in the blue-chip segment.",
     "key_metrics": {
-      "major_events": "Strong performance in blue-chip auctions, spring fair anticipation",
-      "status": "Resilient, seasonal growth"
+      "major_events": "Consistent demand for blue-chip works",
+      "status": "Resilient, stable growth"
     }
   }
 }
