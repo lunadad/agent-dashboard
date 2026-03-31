@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T16:10:00+09:00",
+  "timestamp": "2026-03-31T16:20:00+09:00",
   "stock_market": {
-    "summary": "Escalating Iran conflict has created energy supply shocks and pushed oil prices higher, leading to significant declines across major U.S. stock indices. Brent crude has surged towards $120/bbl due to Strait of Hormuz blockade concerns.",
+    "summary": "Markets are exhibiting cautious optimism as U.S. stock futures show an upward trend following earlier volatility. Geopolitical tensions in the Middle East, particularly regarding Iran and shipping routes, remain the primary driver of uncertainty. S&P 500 faces potential correction risks but analysts remain watchful of earnings resilience.",
     "key_metrics": {
-      "market_trend": "bearish",
-      "impact": "extreme volatility, energy supply shock"
+      "market_trend": "cautiously optimistic/volatile",
+      "impact": "geopolitical risk, energy price fluctuations"
     }
   },
   "art_market": {
-    "summary": "Market is characterized by cautious optimism and strategic reorganization in 2026, with a focus on selective buying and blue-chip artists amid global economic uncertainty.",
+    "summary": "The art market shows a cautiously optimistic recovery trend. Global market expanded by 4% in 2025, with U.S. auction sales notably increasing by 23% year-over-year. Focus remains on high-quality, provenance-backed works.",
     "key_metrics": {
-      "growth_2025": "4%",
-      "outlook": "measured growth"
+      "growth_2025": "4% (Global)",
+      "outlook": "cautiously optimistic recovery"
     }
   }
 }
