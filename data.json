@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-03-31T14:55:00+09:00",
-  "briefing": {
-    "art_market": {
-      "summary": "Global art market expanded by 4% in 2025 to $59.6 billion; U.S. auction sales surged 23%. Current focus is on quality and provenance with strong digital engagement.",
-      "notable_news": [
-        "Global art market growth of 4% in 2025",
-        "U.S. auction sales saw a 23% year-over-year increase",
-        "Strong focus on quality and provenance by collectors"
-      ]
-    },
-    "stock_market": {
-      "summary": "Significant volatility driven by Middle East geopolitical tensions and inflation; Oil prices surged 53%. Investors rotating from large-cap tech to energy and defensive sectors.",
-      "resilient_sectors": ["Energy", "Defensive"],
-      "underperforming_sectors": ["Large-cap Tech", "Financials", "Consumer Discretionary"]
+  "timestamp": "2026-03-31T15:20:00+09:00",
+  "stock_market": {
+    "summary": "Equity futures climbed 0.8% for the S&P 500 following reports of potential de-escalation in the Iran conflict. European shares up 0.3%. Chip stocks (Samsung, SK Hynix) faced pressure. S&P 500 volatility persists with potential dip to 6150.",
+    "key_metrics": {
+      "sp500_outlook_ye": 7750,
+      "treasury_10y_yield": "4.33%"
+    }
+  },
+  "art_market": {
+    "summary": "Global art market showed a 4% recovery in 2025 to $59.6 billion. U.S. art market auction sales jumped 23% in 2025, rebounding for the first time since 2022. Focus on high-end works ($10M+) and quality/provenance.",
+    "key_metrics": {
+      "global_sales_2025": "$59.6B",
+      "us_market_share": "44%"
     }
   }
 }
