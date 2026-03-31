@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-03-31T16:40:00+09:00",
+  "timestamp": "2026-03-31T16:50:00+09:00",
   "stock_market": {
-    "summary": "Markets show mixed performance on March 31, 2026, driven by Middle East geopolitical tensions. U.S. futures are trending upward due to Powell's inflation comments, while Asian markets trade lower amid ongoing conflict uncertainties.",
+    "summary": "Markets show mixed performance on March 31, 2026, driven by Middle East geopolitical tensions. U.S. futures are trending upward due to Powell's inflation comments, while Asian markets trade lower amid ongoing conflict uncertainties. AMZN shows positive sentiment around AWS and AI despite capex concerns, and INTC shows mixed signals with institutional selling but optimism around Core Ultra Series 3 chips and 18A process.",
     "key_metrics": {
       "market_trend": "mixed/cautious",
       "impact": "Middle East geopolitical conflict, U.S. inflation stability"
