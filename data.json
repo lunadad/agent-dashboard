@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-03-31T14:20:00+09:00",
+  "last_updated": "2026-03-31T14:30:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Global art market grew 4% in 2025; US leads with 44% share. 2026 outlook emphasizes quality and provenance over speculation.",
+      "summary": "Focus remains on quality and provenance in 2026. Market indicators stable but selective.",
       "notable_news": [
-        "New Museum: 'New Humans: Memories of the Future'",
-        "Georgetown: Diana Al-Hadid survey",
-        "Art Dubai 2026 rescheduled due to regional conflict"
+        "Art Dubai 2026 rescheduling impacts regional sentiment",
+        "Rising interest in digital provenance tracking for classical works"
       ]
     },
     "stock_market": {
-      "summary": "Markets facing headwinds; Nasdaq and Dow in correction territory (-10% from peaks). Concerns: Middle East tensions, inflation, AI valuation fears.",
-      "resilient_sectors": ["Energy", "Utilities", "Industrials", "Consumer Staples"],
-      "underperforming_sectors": ["Tech", "Financials", "Consumer Discretionary"]
+      "summary": "Global markets show mixed performance amid geopolitical tensions, specifically Iran conflict. US tech sector showing signs of recovery despite Q1 challenges. Utilities increasingly attractive due to AI/Data center demand.",
+      "resilient_sectors": ["Utilities", "Financials", "Healthcare"],
+      "underperforming_sectors": ["Energy (overvalued)", "Consumer Discretionary"]
     }
   }
 }
