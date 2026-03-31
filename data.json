@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:20:00+09:00",
+  "timestamp": "2026-03-31T20:30:00+09:00",
   "stock_market": {
-    "summary": "U.S. stock futures show positive signs on March 31, 2026, following volatile trading, driven by potential Middle East de-escalation; the tech sector continues to be influenced by AI demand and capital expenditure focus.",
+    "summary": "U.S. markets closed on a mixed but optimistic note regarding Middle East de-escalation; tech leaders hold steady, art market continues its blue-chip trajectory into Q2 2026.",
     "key_metrics": {
-      "market_trend": "Cautious recovery in tech/AI",
-      "impact": "Market remains sensitive to geopolitical developments and AI infrastructure investment"
+      "market_trend": "Optimistic stabilization",
+      "impact": "Market remains sensitive to geopolitical developments, specifically Middle East stability"
     }
   },
   "art_market": {
-    "summary": "The U.S. art market has shown a 23% recovery in 2025, with major focus on quality and provenance in blue-chip segments, continuing into early 2026.",
+    "summary": "The art market shows sustained strength in the blue-chip segment, with early Q2 outlooks remaining positive despite broader economic uncertainty.",
     "key_metrics": {
-      "major_events": "Ongoing exhibitions like Claude Lalanne's sculpture at Bristol Paris",
-      "status": "Recovery in blue-chip, discipline in contemporary segment"
+      "major_events": "Continuing strong auction results for modern works.",
+      "status": "Resilient blue-chip, cautious mid-market"
     }
   }
 }
