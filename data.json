@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T04:00:00+09:00",
+  "timestamp": "2026-04-01T04:20:00+09:00",
   "stock_market": {
-    "summary": "Markets face heightened caution on April 1, 2026, due to regulatory changes (STT hike, F&O collateral rules) and global uncertainty. Investors are navigating a settlement holiday and cooling reinsurance renewals.",
+    "summary": "Q2 market focus continues on AI/Infra and defensive sectors. Regulatory headwinds and settlement holiday volatility dominate early April sentiment.",
     "key_metrics": {
-      "market_trend": "Volatile, cautious",
+      "market_trend": "Cautious, defensive rotation",
       "impact": "Regulatory compliance, F&O collateral tightening"
     }
   },
   "art_market": {
-    "summary": "2026 art scene favors authenticity and texture. Tactile mixed media and surrealist revivals are rising. Affordable original art market is thriving.",
+    "summary": "Art market accelerating with ART OnO Seoul and Christie's anniversaries. Shift towards tactile, handmade, and provenanced assets remains the core trend.",
     "key_metrics": {
-      "major_events": "Shift towards human-centric/handmade art",
-      "status": "Shift toward textural/handmade authenticity"
+      "major_events": "ART OnO Seoul, Christie's anniversaries",
+      "status": "Shift toward tactile/handmade authenticity"
     }
   }
 }
