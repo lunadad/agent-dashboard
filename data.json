@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T19:15:00+09:00",
+  "timestamp": "2026-03-31T19:20:00+09:00",
   "stock_market": {
-    "summary": "Futures rally as optimism grows over potential de-escalation in the Iran conflict, despite a difficult end to March for global equities.",
+    "summary": "Futures rally as optimism grows over a potential 4-6 week timeline for de-escalation in the Iran military campaign, providing a relief boost to end March.",
     "key_metrics": {
-      "market_trend": "Optimistic, recovering from geopolitical lows",
-      "impact": "Investors shifting focus to potential conflict resolution"
+      "market_trend": "Cautiously optimistic, relief rally",
+      "impact": "Investors reacting to de-escalation timelines"
     }
   },
   "art_market": {
-    "summary": "2025 showed a 23% rebound in U.S. auction sales, with a clear trend toward blue-chip, established artists.",
+    "summary": "2025 showed a 23% rebound in U.S. auction sales, with a persistent trend toward blue-chip, established artists.",
     "key_metrics": {
-      "major_events": "Claude Lalanne's 'La Pomme de New York' on view at the Bristol Paris",
-      "status": "Resilient, quality-focused"
+      "major_events": "Christie's announces exhibition of Lalanne sculpture; continued interest in provenance-heavy works.",
+      "status": "Resilient, high-end focused"
     }
   }
 }
