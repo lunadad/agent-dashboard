@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-31T15:50:00+09:00",
+  "timestamp": "2026-03-31T16:00:00+09:00",
   "stock_market": {
-    "summary": "Equity futures climbed 0.8% following potential Iran conflict de-escalation reports. Market sentiment improved compared to previous day's decline.",
+    "summary": "Escalating Iran conflict has created energy supply shocks and pushed oil prices higher, leading to significant declines across major U.S. stock indices as investors grapple with uncertainty.",
     "key_metrics": {
-      "futures_movement": "+0.8%",
-      "sentiment": "positive"
+      "market_trend": "bearish",
+      "impact": "energy supply shock"
     }
   },
   "art_market": {
-    "summary": "Art market shows 4% growth in 2025, with a strong 23% rebound in U.S. auction sales.",
+    "summary": "Art market remains resilient following 2025 growth, with the U.S. auction sector showing a strong 23% rebound.",
     "key_metrics": {
       "growth_2025": "4%",
       "us_auction_rebound": "23%"
