@@ -1,17 +1,18 @@
 {
-  "last_updated": "2026-03-31T14:40:00+09:00",
+  "last_updated": "2026-03-31T14:55:00+09:00",
   "briefing": {
     "art_market": {
-      "summary": "Market showing resilience with 4% growth in 2025; shift toward established artists and local buyers in early 2026.",
+      "summary": "Global art market expanded by 4% in 2025 to $59.6 billion; U.S. auction sales surged 23%. Current focus is on quality and provenance with strong digital engagement.",
       "notable_news": [
-        "Recovery momentum continues after 2025 growth",
-        "Galleries focusing on new collectors and localized buyer pools"
+        "Global art market growth of 4% in 2025",
+        "U.S. auction sales saw a 23% year-over-year increase",
+        "Strong focus on quality and provenance by collectors"
       ]
     },
     "stock_market": {
-      "summary": "High volatility due to geopolitical tensions and inflation fears. Utilities and Energy sectors outperforming; Tech and Financials under pressure.",
-      "resilient_sectors": ["Utilities", "Energy"],
-      "underperforming_sectors": ["Tech", "Financials", "Consumer Discretionary"]
+      "summary": "Significant volatility driven by Middle East geopolitical tensions and inflation; Oil prices surged 53%. Investors rotating from large-cap tech to energy and defensive sectors.",
+      "resilient_sectors": ["Energy", "Defensive"],
+      "underperforming_sectors": ["Large-cap Tech", "Financials", "Consumer Discretionary"]
     }
   }
 }
