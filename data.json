@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T04:50:00+09:00",
+  "timestamp": "2026-04-01T05:10:00+09:00",
   "stock_market": {
-    "summary": "Q2 market focus continues on AI/Infra and defensive sectors. Regulatory headwinds, settlement holiday volatility, and potential tactical rebound dominate early April sentiment.",
+    "summary": "Q2 kicks off with volatility as tech infrastructure spending concerns meet Q1 earnings anticipation. April seasonality patterns suggest a tactical focus on defensive dividend-paying equities.",
     "key_metrics": {
-      "market_trend": "Cautious, defensive rotation",
-      "impact": "Regulatory compliance, F&O collateral tightening"
+      "market_trend": "Tactical defensive rotation",
+      "impact": "Portfolio rebalancing, earnings sensitivity"
     }
   },
   "art_market": {
-    "summary": "Art market accelerating with ART OnO Seoul and Christie's anniversaries. Shift towards tactile, handmade, and provenanced assets remains the core trend.",
+    "summary": "Spring auction season heating up with high-quality provenance demand. Collectors pivoting towards blue-chip contemporary works following recent market consolidation.",
     "key_metrics": {
-      "major_events": "ART OnO Seoul, Christie's anniversaries",
-      "status": "Shift toward tactile/handmade authenticity"
+      "major_events": "Spring auction season start",
+      "status": "Provenance-driven demand"
     }
   }
 }
