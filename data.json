@@ -1,14 +1,16 @@
 {
-  "timestamp": "2026-03-31T15:20:00+09:00",
+  "timestamp": "2026-03-31T15:45:00+09:00",
   "stock_market": {
-    "summary": "Equity futures climbed 0.8% for the S&P 500 following reports of potential de-escalation in the Iran conflict. European shares up 0.3%. Chip stocks (Samsung, SK Hynix) faced pressure. S&P 500 volatility persists with potential dip to 6150.",
+    "summary": "Markets ended March 30 under pressure due to escalating Middle East tensions. DJIA closed 45,216.10, Nasdaq at 20,794.60, S&P 500 at 6,343.72. Persistent inflation fears and oil price surge ($100+/bbl) dominate near-term outlook.",
     "key_metrics": {
-      "sp500_outlook_ye": 7750,
-      "treasury_10y_yield": "4.33%"
+      "dow_jones": 45216.10,
+      "sp500": 6343.72,
+      "nasdaq": 20794.60,
+      "oil_crude_usd": 101.80
     }
   },
   "art_market": {
-    "summary": "Global art market showed a 4% recovery in 2025 to $59.6 billion. U.S. art market auction sales jumped 23% in 2025, rebounding for the first time since 2022. Focus on high-end works ($10M+) and quality/provenance.",
+    "summary": "2025 Global art market sales reached $59.6 billion (+4%). U.S. leads with 44% market share. High-end segment ($10M+) remains the primary driver. Market sentiment cautious due to geopolitical instability.",
     "key_metrics": {
       "global_sales_2025": "$59.6B",
       "us_market_share": "44%"
