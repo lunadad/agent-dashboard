@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T17:30:00+09:00",
+  "timestamp": "2026-03-31T17:40:00+09:00",
   "stock_market": {
-    "summary": "As of March 31, 2026, the S&P 500 is in a mild correction (down ~9% from peak), driven by geopolitical tensions in the Middle East and interest rate pressures. Investor fear is elevated with VIX nearing 30. Despite near-term anxieties, corporate fundamentals remain resilient with projected 22% earnings growth for 2026, though labor market signals are slowing.",
+    "summary": "Markets are reacting to geopolitical tensions involving Iran. U.S. stock index futures rose late Monday on news of potential de-escalation, despite a weak session where the S&P 500 fell 0.4% and Nasdaq dropped 0.7%. Analysts warn of a potential correction to 6,150 but view it as a buying opportunity given long-term earnings potential.",
     "key_metrics": {
-      "market_trend": "correction/cautious",
-      "impact": "Geopolitical conflict, interest rate recalibration, earnings growth resilience"
+      "market_trend": "cautious/rebounding on news",
+      "impact": "Iran geopolitical tension, potential de-escalation, tech sector volatility"
     }
   },
   "art_market": {
-    "summary": "The 2026 Global Art Market Report confirms a cautious 4% growth in 2025, reaching $59.6 billion. The U.S. remains the dominant market (44% share) with a 23% surge in auction sales. The market is showing heightened selectivity, favoring high-end quality and historical art over speculative contemporary assets.",
+    "summary": "The 2026 Global Art Market Report shows a 4% growth in 2025, reaching $59.6 billion. The U.S. dominates with 44% market share. The market is showing a cautious recovery with a focus on high-end quality, though facing structural challenges like rising operating costs and selective buying.",
     "key_metrics": {
-      "major_events": "2026 Global Art Market Report, U.S. auction rebound",
-      "status": "cautious recovery/quality-focused"
+      "major_events": "2026 Global Art Market Report, High-end market growth",
+      "status": "cautious recovery/selectivity-focused"
     }
   }
 }
