@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T16:00:00+09:00",
+  "timestamp": "2026-03-31T16:10:00+09:00",
   "stock_market": {
-    "summary": "Escalating Iran conflict has created energy supply shocks and pushed oil prices higher, leading to significant declines across major U.S. stock indices as investors grapple with uncertainty.",
+    "summary": "Escalating Iran conflict has created energy supply shocks and pushed oil prices higher, leading to significant declines across major U.S. stock indices. Brent crude has surged towards $120/bbl due to Strait of Hormuz blockade concerns.",
     "key_metrics": {
       "market_trend": "bearish",
-      "impact": "energy supply shock"
+      "impact": "extreme volatility, energy supply shock"
     }
   },
   "art_market": {
-    "summary": "Art market remains resilient following 2025 growth, with the U.S. auction sector showing a strong 23% rebound.",
+    "summary": "Market is characterized by cautious optimism and strategic reorganization in 2026, with a focus on selective buying and blue-chip artists amid global economic uncertainty.",
     "key_metrics": {
       "growth_2025": "4%",
-      "us_auction_rebound": "23%"
+      "outlook": "measured growth"
     }
   }
 }
