@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T18:55:00+09:00",
+  "timestamp": "2026-03-31T19:00:00+09:00",
   "stock_market": {
-    "summary": "KOSPI plunged 19.1% in March 2026, closing at 5052.46 on March 31st, marking its steepest monthly fall since 2008. The downturn was fueled by geopolitical tensions in the Middle East and record foreign outflows of 35 trillion KRW.",
+    "summary": "End-of-month review shows a defensive stock posture amid ongoing geopolitical concerns.",
     "key_metrics": {
-      "market_trend": "Bearish month-end, impacted by geopolitical risks and currency depreciation",
-      "impact": "Korean won at 17-year low, major index heavyweights (Samsung, SK Hynix) experienced significant losses"
+      "market_trend": "Defensive, cautious due to geopolitical instability",
+      "impact": "Market participants prioritizing asset safety"
     }
   },
   "art_market": {
-    "summary": "The art market enters April 2026 with cautious optimism following 4% growth in 2025. Key upcoming events include the San Francisco Art Fair (April 16–19) and the Ai Lian Tang Collection auctions in Taipei and Hong Kong.",
+    "summary": "Strong blue-chip art demand observed as the market enters April, maintaining a resilient outlook.",
     "key_metrics": {
-      "major_events": "San Francisco Art Fair (April), Ai Lian Tang Collection exhibitions (April)",
-      "status": "Resilient, quality-focused, anticipating key spring events"
+      "major_events": "Spring auctions and seasonal exhibitions approaching",
+      "status": "Resilient, quality-focused"
     }
   }
 }
