@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T01:10:00+09:00",
+  "timestamp": "2026-04-01T01:20:00+09:00",
   "stock_market": {
-    "summary": "Q2 market kickoff with defensive tech rotation and strategic portfolio alignment.",
+    "summary": "Q2 market kickoff: Stable tech rotation and spring auction focus.",
     "key_metrics": {
       "market_trend": "Q2 strategic positioning.",
-      "impact": "Portfolio alignment for April."
+      "impact": "Stable tech rotation for April."
     }
   },
   "art_market": {
-    "summary": "Spring auction season underway with high interest in blue-chip provenance assets.",
+    "summary": "Spring auction trends identified with continued blue-chip demand.",
     "key_metrics": {
-      "major_events": "Spring auction kickoff.",
-      "status": "Robust demand for blue-chip provenance assets."
+      "major_events": "Q2 auction season kickoff.",
+      "status": "Robust demand for blue-chip works."
     }
   }
 }
