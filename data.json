@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T21:55:00+09:00",
+  "timestamp": "2026-03-31T22:00:00+09:00",
   "stock_market": {
-    "summary": "U.S. stock futures are climbing on positive signals regarding the Iran war. Indices show strong gains (Nasdaq +0.89%, S&P 500 +0.94%) following recent volatility.",
+    "summary": "Market consolidation continues with focus on Q2 positioning following the end of March. Investors are monitoring yield movements.",
     "key_metrics": {
-      "market_trend": "Recovery / Geopolitical Optimism",
-      "impact": "Market sentiment shifting from war-induced selloff to cautious optimism; monitoring yields and supply chain stability."
+      "market_trend": "Consolidation / Q2 Positioning",
+      "impact": "Volatility in Treasuries and continued tech accumulation; monitoring yield movements."
     }
   },
   "art_market": {
-    "summary": "Market shows structural recovery with global sales reaching $59.6 billion. Focus remains on provenance-heavy assets and Impressionist/Modern categories.",
+    "summary": "Art market maintains focus on blue-chip and provenance-heavy assets with Q2 auction preparations underway.",
     "key_metrics": {
-      "major_events": "Christie's featuring Claude Lalanne's 'La Pomme de New York'; U.S. auction sales growth of 23% in 2025.",
-      "status": "Continued recovery; shift towards established categories."
+      "major_events": "Q2 auction preparations; focus on established, high-end works.",
+      "status": "Resilient; focus on provenance-heavy assets."
     }
   }
 }
