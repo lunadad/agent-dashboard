@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T00:00:00+09:00",
+  "timestamp": "2026-04-01T12:10:00+09:00",
   "stock_market": {
-    "summary": "Q2 kicks off with optimism; investors are rotating into growth-oriented tech sectors following the end-of-quarter rebalancing.",
+    "summary": "Q2 kicks off with clear rotation into tech; market sentiment remains cautiously optimistic as we enter April.",
     "key_metrics": {
-      "market_trend": "Bullish start to Q2; rotation into tech.",
-      "impact": "Q2 sector rebalancing and tech-heavy focus."
+      "market_trend": "Bullish tech-heavy rotation.",
+      "impact": "Portfolio alignment for Q2 gains."
     }
   },
   "art_market": {
-    "summary": "Spring auction season is heating up; market analysts report renewed interest in contemporary mid-career artists.",
+    "summary": "Spring auction trends are sharpening; strong interest in provenance-heavy assets noted.",
     "key_metrics": {
-      "major_events": "Spring auction season commencement.",
-      "status": "Positive momentum, focus on mid-career contemporary."
+      "major_events": "Spring auction season engagement.",
+      "status": "Robust demand for blue-chip provenance."
     }
   }
 }
