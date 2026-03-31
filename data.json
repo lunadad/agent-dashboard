@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:50:00+09:00",
+  "timestamp": "2026-03-31T21:10:00+09:00",
   "stock_market": {
-    "summary": "Market stabilization continues into the evening. Treasury yields show volatility as investors weigh the potential de-escalation news against sustained inflation pressures. Tech sectors remain a focus for institutional accumulation.",
+    "summary": "Market consolidation after evening volatility. Investors are positioning for a quiet start to April, monitoring treasury yield fluctuations and corporate guidance updates.",
     "key_metrics": {
-      "market_trend": "Stabilization / Cautious Accumulation",
-      "impact": "Portfolio rebalancing favoring tech and defensive assets."
+      "market_trend": "Consolidation / Cautious Waiting",
+      "impact": "Stable portfolio holdings; focus on yield stability."
     }
   },
   "art_market": {
-    "summary": "Art market activity remains centered on blue-chip works; significant interest noted in upcoming secondary market auctions for Q2. Provenance continues to be the primary value driver.",
+    "summary": "End-of-month market quiet. Focus remains on provenance-heavy assets as investors seek reliable value storage entering Q2.",
     "key_metrics": {
-      "major_events": "Secondary market prep for Q2; focus on proven assets.",
-      "status": "Stable demand for high-end assets."
+      "major_events": "Month-end portfolio assessment.",
+      "status": "Stable demand for reliable assets."
     }
   }
 }
