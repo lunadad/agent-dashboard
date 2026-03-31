@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T03:50:00+09:00",
+  "timestamp": "2026-04-01T04:00:00+09:00",
   "stock_market": {
-    "summary": "Q2 markets open with a focus on productivity (AI/Infra) and defensive sectors. Tactical rebound remains a theme, with investors balancing geopolitical stability with growth potential.",
+    "summary": "Markets face heightened caution on April 1, 2026, due to regulatory changes (STT hike, F&O collateral rules) and global uncertainty. Investors are navigating a settlement holiday and cooling reinsurance renewals.",
     "key_metrics": {
-      "market_trend": "Tactical rebound, productivity-focused",
-      "impact": "Defensive sector strength, AI/Infra interest"
+      "market_trend": "Volatile, cautious",
+      "impact": "Regulatory compliance, F&O collateral tightening"
     }
   },
   "art_market": {
-    "summary": "April activity is ramping up with ART OnO in Seoul (April 3-5). High-value provenanced works remain the focus for collectors in Q2.",
+    "summary": "2026 art scene favors authenticity and texture. Tactile mixed media and surrealist revivals are rising. Affordable original art market is thriving.",
     "key_metrics": {
-      "major_events": "ART OnO Seoul, Christie's Asia 40th anniversary",
-      "status": "Robust interest in blue-chip provenance"
+      "major_events": "Shift towards human-centric/handmade art",
+      "status": "Shift toward textural/handmade authenticity"
     }
   }
 }
