@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T16:20:00+09:00",
+  "timestamp": "2026-03-31T16:30:00+09:00",
   "stock_market": {
-    "summary": "Markets are exhibiting cautious optimism as U.S. stock futures show an upward trend following earlier volatility. Geopolitical tensions in the Middle East, particularly regarding Iran and shipping routes, remain the primary driver of uncertainty. S&P 500 faces potential correction risks but analysts remain watchful of earnings resilience.",
+    "summary": "Geopolitical tension continues to pressure global equity markets. Oil prices have surged to $125, driving increased volatility and concerns over energy costs. Indices are struggling to maintain gains as investors weigh recession risks against corporate earnings strength.",
     "key_metrics": {
-      "market_trend": "cautiously optimistic/volatile",
-      "impact": "geopolitical risk, energy price fluctuations"
+      "market_trend": "bearish/volatile",
+      "impact": "oil price surge ($125), geopolitical risk"
     }
   },
   "art_market": {
-    "summary": "The art market shows a cautiously optimistic recovery trend. Global market expanded by 4% in 2025, with U.S. auction sales notably increasing by 23% year-over-year. Focus remains on high-quality, provenance-backed works.",
+    "summary": "The art market is shifting towards a defensive stance, prioritizing 'blue-chip' and high-provenance assets as a hedge against macroeconomic instability. While primary market activity remains selective, the focus is heavily on established names and historically significant works.",
     "key_metrics": {
       "growth_2025": "4% (Global)",
-      "outlook": "cautiously optimistic recovery"
+      "outlook": "defensive / asset-protection"
     }
   }
 }
