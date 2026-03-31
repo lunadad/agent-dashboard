@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T23:00:00+09:00",
+  "timestamp": "2026-03-31T23:10:00+09:00",
   "stock_market": {
-    "summary": "Markets are reacting to potential de-escalation in the Iran conflict, with futures trending higher despite geopolitical volatility and inflation concerns tied to energy prices.",
+    "summary": "Market consolidation following the end of March. Investors are actively monitoring yield movements and positioning for Q2, while geopolitical tensions in the Middle East continue to influence sentiment.",
     "key_metrics": {
-      "market_trend": "Volatile but recovering; eyes on geopolitical de-escalation.",
-      "impact": "Energy costs and inflation remain critical; Fed maintains stable rate stance."
+      "market_trend": "Consolidating; focus shifting to Q2 strategy.",
+      "impact": "Yield movements and Q2 positioning are primary drivers."
     }
   },
   "art_market": {
-    "summary": "The 2026 market shows cautious optimism following a 2025 rebound. Collectors are favoring established blue-chip artists and provenance, rejecting 'AI-perfect' aesthetics for human-centric work.",
+    "summary": "The art market maintains its focus on blue-chip and provenance-heavy assets heading into Q2 auctions, as collectors seek stability.",
     "key_metrics": {
-      "major_events": "Shift toward high-quality scarcity and historical relevance.",
-      "status": "Resilient, with growing Middle Eastern influence and strong performance by female artists."
+      "major_events": "Q2 auction season preparations.",
+      "status": "Resilient, with steady demand for blue-chip provenance."
     }
   }
 }
