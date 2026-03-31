@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T23:50:00+09:00",
+  "timestamp": "2026-04-01T00:00:00+09:00",
   "stock_market": {
-    "summary": "End-of-month market consolidation continues with focus on Q2 positioning and yield movements.",
+    "summary": "Q2 kicks off with optimism; investors are rotating into growth-oriented tech sectors following the end-of-quarter rebalancing.",
     "key_metrics": {
-      "market_trend": "Consolidating; focus shifting to Q2 strategy.",
-      "impact": "Yield movements and Q2 positioning are primary drivers."
+      "market_trend": "Bullish start to Q2; rotation into tech.",
+      "impact": "Q2 sector rebalancing and tech-heavy focus."
     }
   },
   "art_market": {
-    "summary": "The art market maintains its focus on blue-chip and provenance-heavy assets for upcoming Q2 auctions.",
+    "summary": "Spring auction season is heating up; market analysts report renewed interest in contemporary mid-career artists.",
     "key_metrics": {
-      "major_events": "Q2 auction season preparations.",
-      "status": "Resilient, with steady demand for blue-chip provenance."
+      "major_events": "Spring auction season commencement.",
+      "status": "Positive momentum, focus on mid-career contemporary."
     }
   }
 }
