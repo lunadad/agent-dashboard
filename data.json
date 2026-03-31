@@ -1,19 +1,17 @@
 {
-  "timestamp": "2026-03-31T15:45:00+09:00",
+  "timestamp": "2026-03-31T15:50:00+09:00",
   "stock_market": {
-    "summary": "Markets ended March 30 under pressure due to escalating Middle East tensions. DJIA closed 45,216.10, Nasdaq at 20,794.60, S&P 500 at 6,343.72. Persistent inflation fears and oil price surge ($100+/bbl) dominate near-term outlook.",
+    "summary": "Equity futures climbed 0.8% following potential Iran conflict de-escalation reports. Market sentiment improved compared to previous day's decline.",
     "key_metrics": {
-      "dow_jones": 45216.10,
-      "sp500": 6343.72,
-      "nasdaq": 20794.60,
-      "oil_crude_usd": 101.80
+      "futures_movement": "+0.8%",
+      "sentiment": "positive"
     }
   },
   "art_market": {
-    "summary": "2025 Global art market sales reached $59.6 billion (+4%). U.S. leads with 44% market share. High-end segment ($10M+) remains the primary driver. Market sentiment cautious due to geopolitical instability.",
+    "summary": "Art market shows 4% growth in 2025, with a strong 23% rebound in U.S. auction sales.",
     "key_metrics": {
-      "global_sales_2025": "$59.6B",
-      "us_market_share": "44%"
+      "growth_2025": "4%",
+      "us_auction_rebound": "23%"
     }
   }
 }
