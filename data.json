@@ -1,19 +1,21 @@
 {
-  "last_updated": "2026-04-01T08:40:00+09:00",
+  "last_updated": "2026-04-01T08:50:00+09:00",
   "art_market": {
-    "summary": "Art market in 2026 shows a cautious reorganization; prioritizing blue-chip quality and mid-market growth.",
+    "summary": "The April 2026 art market reflects a shift towards stability and established quality, with increasing interest in Middle East cultural hubs and a move away from speculative 'wet paint' art.",
     "highlights": [
-      "Market demand concentrating on established artists and accessible price points.",
-      "Middle East cultural infrastructure (e.g., Guggenheim Abu Dhabi) driving regional interest.",
-      "Global art market growth continuing, though online momentum slows vs in-person."
+      "Collectors favoring established blue-chip artists for financial security.",
+      "Growing influence of Middle East infrastructure (e.g., Qatar/Abu Dhabi) on regional market trends.",
+      "Shift away from minimalism toward ornate, emotional, and textured aesthetics.",
+      "Private sales rivaling traditional auctions in market share."
     ]
   },
   "stock_market": {
-    "summary": "Indian markets open April 1 with volatility, high FII outflows, and new regulatory/tax rules in effect.",
+    "summary": "Indian markets face significant volatility as new financial year begins with major tax and regulatory changes effective today.",
     "highlights": [
-      "STT on Futures increased (0.02% to 0.05%); Options premiums (0.10% to 0.15%).",
-      "Share buybacks taxed as capital gains (30% for promoters) effective today.",
-      "Market sentiment weighed by global crude oil uncertainty."
+      "Securities Transaction Tax (STT) increased on F&O: Futures (0.02% to 0.05%) and Options (0.10% to 0.15%).",
+      "New share buyback taxation (30% for individual promoters) effective April 1.",
+      "Implementation of Income Tax Act 2025 replaces the old 1961 framework.",
+      "Markets pressured by global uncertainties, crude oil volatility, and FII outflows."
     ]
   }
 }
