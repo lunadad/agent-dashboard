@@ -1,17 +1,4 @@
 {
-  "timestamp": "2026-04-01T05:50:00+09:00",
-  "stock_market": {
-    "summary": "April 1st: Global markets navigate April with caution; US equities face pressure from geopolitical tensions and energy price volatility, though some analysts see potential for a relief rally near oversold levels.",
-    "key_metrics": {
-      "market_trend": "Volatile with potential relief rally",
-      "impact": "Portfolio sensitivity to macro/geopolitical headlines"
-    }
-  },
-  "art_market": {
-    "summary": "April 1st: Renewed confidence in the art market for 2026; characterized by high selectivity and demand for blue-chip provenance. The US market shows stabilization with significant auction recovery.",
-    "key_metrics": {
-      "major_events": "Spring auction season engagement",
-      "status": "Selectivity-driven recovery"
-    }
-  }
+  "last_updated": "2026-04-01T06:00:00+09:00",
+  "briefing_summary": "Top art news for April 1, 2026: Major museum openings including LACMA's David Geffen Galleries, V&A East in London, and Refik Anadol's Dataland in LA. Busy month for art fairs with Artexpo New York, miart in Milan, Art Paris, and SP-Arte. Local events include the Pasadena Society of Artists 101st Annual Juried Exhibition and the launch of Timucua Talks."
 }
