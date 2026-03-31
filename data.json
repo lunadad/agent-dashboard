@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-04-01T08:15:00+09:00",
+  "last_updated": "2026-04-01T08:20:00+09:00",
   "art_market": {
-    "summary": "U.S. art market shows recovery with 23% YoY auction sales growth in 2025. Market stabilizing with increased selectivity.",
+    "summary": "Art market in 2026 shows a cautious reorganization; prioritizing blue-chip quality and mid-market growth.",
     "highlights": [
-      "Total 2025 US auction sales reached $3.17 billion.",
-      "New York accounts for 69% of global auction value.",
-      "Impressionist/Modern art leading rebound; Contemporary market repricing."
+      "Market demand concentrating on established artists and accessible price points.",
+      "Middle East cultural infrastructure (e.g., Guggenheim Abu Dhabi) driving regional interest.",
+      "Global art market growth continuing, though online momentum slows vs in-person."
     ]
   },
   "stock_market": {
-    "summary": "Indian markets face volatility and regulatory shifts on April 1, 2026.",
+    "summary": "Indian markets reopen April 1 with volatility, high FII outflows, and new regulatory/tax rules.",
     "highlights": [
-      "Increased Securities Transaction Tax (STT) on F&O trades effective today.",
-      "Share buyback taxation changed from dividends to capital gains.",
-      "Market sentiment weighed by FII outflows and crude oil price uncertainty."
+      "STT on Futures increased (0.02% to 0.05%); Options premiums (0.10% to 0.15%).",
+      "Share buybacks now taxed as capital gains (30% for promoters).",
+      "Market sentiment weighed by crude oil uncertainty and settlement holidays."
     ]
   }
 }
