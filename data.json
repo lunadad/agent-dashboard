@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-04-01T05:40:00+09:00",
+  "timestamp": "2026-04-01T05:50:00+09:00",
   "stock_market": {
-    "summary": "Global markets navigate April with caution; US equities face pressure from geopolitical tensions and energy price volatility, though some analysts see potential for a relief rally near oversold levels.",
+    "summary": "April 1st: Global markets navigate April with caution; US equities face pressure from geopolitical tensions and energy price volatility, though some analysts see potential for a relief rally near oversold levels.",
     "key_metrics": {
       "market_trend": "Volatile with potential relief rally",
       "impact": "Portfolio sensitivity to macro/geopolitical headlines"
     }
   },
   "art_market": {
-    "summary": "Renewed confidence in the art market for 2026; characterized by high selectivity and demand for blue-chip provenance. The US market shows stabilization with significant auction recovery.",
+    "summary": "April 1st: Renewed confidence in the art market for 2026; characterized by high selectivity and demand for blue-chip provenance. The US market shows stabilization with significant auction recovery.",
     "key_metrics": {
       "major_events": "Spring auction season engagement",
       "status": "Selectivity-driven recovery"
