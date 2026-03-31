@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T19:50:00+09:00",
+  "timestamp": "2026-03-31T20:00:00+09:00",
   "stock_market": {
-    "summary": "Market shows moderate stability as investors digest end-of-month indicators. Amazon's AI infrastructure remains a key focus. Intel's latest security partnership provides a minor technical tailwind.",
+    "summary": "End of Q1 sees market consolidation. Investors are closely watching upcoming interest rate signals for Q2. The tech sector, particularly AI-driven hardware, remains resilient.",
     "key_metrics": {
-      "market_trend": "Stable, digesting end-of-month data",
-      "impact": "AI infrastructure focus supporting tech"
+      "market_trend": "Consolidation, Q2 guidance focus",
+      "impact": "Stable, tech-led optimism"
     }
   },
   "art_market": {
-    "summary": "2025 showed a 23% rebound in U.S. auction sales, with continued strength in the blue-chip segment.",
+    "summary": "Q1 auction activity concludes with solid performance. Demand for post-war contemporary works remains strong as we enter the spring art fair season.",
     "key_metrics": {
-      "major_events": "Stable demand for provenance-heavy works; focus remains on established artists.",
-      "status": "Resilient, blue-chip focus"
+      "major_events": "Strong performance in blue-chip auctions, spring fair anticipation",
+      "status": "Resilient, seasonal growth"
     }
   }
 }
