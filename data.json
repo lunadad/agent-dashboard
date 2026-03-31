@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:10:00+09:00",
+  "timestamp": "2026-03-31T20:20:00+09:00",
   "stock_market": {
-    "summary": "End-of-month market update: Amazon's AI focus maintains stability while Intel shows some resilience from new chip updates.",
+    "summary": "U.S. stock futures show positive signs on March 31, 2026, following volatile trading, driven by potential Middle East de-escalation; the tech sector continues to be influenced by AI demand and capital expenditure focus.",
     "key_metrics": {
-      "market_trend": "Stability in tech/AI sector",
-      "impact": "Resilient, positive outlook for tech"
+      "market_trend": "Cautious recovery in tech/AI",
+      "impact": "Market remains sensitive to geopolitical developments and AI infrastructure investment"
     }
   },
   "art_market": {
-    "summary": "Art market continues to demonstrate strength in the blue-chip segment.",
+    "summary": "The U.S. art market has shown a 23% recovery in 2025, with major focus on quality and provenance in blue-chip segments, continuing into early 2026.",
     "key_metrics": {
-      "major_events": "Consistent demand for blue-chip works",
-      "status": "Resilient, stable growth"
+      "major_events": "Ongoing exhibitions like Claude Lalanne's sculpture at Bristol Paris",
+      "status": "Recovery in blue-chip, discipline in contemporary segment"
     }
   }
 }
