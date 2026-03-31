@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T17:40:00+09:00",
+  "timestamp": "2026-03-31T17:50:00+09:00",
   "stock_market": {
-    "summary": "Markets are reacting to geopolitical tensions involving Iran. U.S. stock index futures rose late Monday on news of potential de-escalation, despite a weak session where the S&P 500 fell 0.4% and Nasdaq dropped 0.7%. Analysts warn of a potential correction to 6,150 but view it as a buying opportunity given long-term earnings potential.",
+    "summary": "Global markets are mixed as US futures rally on potential de-escalation of the Iran conflict, while Asian markets remain pressured. Oil prices stay elevated near $113/barrel, raising concerns about potential global recessionary impacts.",
     "key_metrics": {
-      "market_trend": "cautious/rebounding on news",
-      "impact": "Iran geopolitical tension, potential de-escalation, tech sector volatility"
+      "market_trend": "Cautious relief in US, persistent volatility globally",
+      "impact": "Iran geopolitical tension, high energy costs, recession risks"
     }
   },
   "art_market": {
-    "summary": "The 2026 Global Art Market Report shows a 4% growth in 2025, reaching $59.6 billion. The U.S. dominates with 44% market share. The market is showing a cautious recovery with a focus on high-end quality, though facing structural challenges like rising operating costs and selective buying.",
+    "summary": "The 2026 Global Art Market Report indicates a 4% rebound in 2025, reaching $59.6 billion. The market shows resilience, particularly in high-end segments, despite geopolitical and economic headwinds.",
     "key_metrics": {
-      "major_events": "2026 Global Art Market Report, High-end market growth",
-      "status": "cautious recovery/selectivity-focused"
+      "major_events": "2026 Global Art Market Report findings, strong high-end sales",
+      "status": "Cautious recovery, quality-focused collectors"
     }
   }
 }
