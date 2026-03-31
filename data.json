@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-31T18:30:00+09:00",
+  "timestamp": "2026-03-31T18:40:00+09:00",
   "stock_market": {
-    "summary": "KOSPI closed March with a 3.00% decline to 5119, capping a volatile month impacted by Middle East tensions and currency depreciation. Markets are looking toward South Korea's WGBI inclusion on April 1st as a potential catalyst for stability and foreign capital inflow.",
+    "summary": "KOSPI closed March with a 3.00% decline to 5119, capping a volatile month impacted by Middle East tensions and currency depreciation. Markets are looking toward South Korea's WGBI inclusion on April 1st. Current posture is defensive.",
     "key_metrics": {
       "market_trend": "Downbeat quarter-end, volatility driven by geopolitical risks",
       "impact": "Korean won at 17-year low, eyes on April WGBI inclusion"
     }
   },
   "art_market": {
-    "summary": "The art market maintains a quality-focused resilience as it enters April. Despite broader macro uncertainties, blue-chip contemporary works remain in steady demand, with collectors prioritizing liquidity and provenance.",
+    "summary": "The art market maintains a quality-focused resilience as it enters April, with strong blue-chip art demand. Despite broader macro uncertainties, blue-chip contemporary works remain in steady demand, with collectors prioritizing liquidity and provenance.",
     "key_metrics": {
       "major_events": "Consolidation phase post-March auctions, emphasis on asset quality",
       "status": "Resilient, quality-focused, stable"
