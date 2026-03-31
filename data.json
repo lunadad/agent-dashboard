@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T20:30:00+09:00",
+  "timestamp": "2026-03-31T20:40:00+09:00",
   "stock_market": {
-    "summary": "U.S. markets closed on a mixed but optimistic note regarding Middle East de-escalation; tech leaders hold steady, art market continues its blue-chip trajectory into Q2 2026.",
+    "summary": "U.S. markets remain mixed with cautious optimism on Middle East de-escalation. Gold recovers as a safe haven amid petrodollar uncertainty, while Treasury yields ease slightly as rate hike expectations cool.",
     "key_metrics": {
-      "market_trend": "Optimistic stabilization",
-      "impact": "Market remains sensitive to geopolitical developments, specifically Middle East stability"
+      "market_trend": "Cautious stabilization",
+      "impact": "Market rotation into defensive and 'real economy' sectors; geopolitical sensitive."
     }
   },
   "art_market": {
-    "summary": "The art market shows sustained strength in the blue-chip segment, with early Q2 outlooks remaining positive despite broader economic uncertainty.",
+    "summary": "The art market shows resilience in the high-end blue-chip segment, with collectors prioritizing provenance and quality as an inflation hedge amid global geopolitical turmoil.",
     "key_metrics": {
-      "major_events": "Continuing strong auction results for modern works.",
-      "status": "Resilient blue-chip, cautious mid-market"
+      "major_events": "Strong performance in Modern/Contemporary segments; continued focus on quality over quantity.",
+      "status": "Resilient blue-chip, defensive posturing"
     }
   }
 }
