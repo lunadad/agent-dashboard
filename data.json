@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T19:20:00+09:00",
+  "timestamp": "2026-03-31T19:50:00+09:00",
   "stock_market": {
-    "summary": "Futures rally as optimism grows over a potential 4-6 week timeline for de-escalation in the Iran military campaign, providing a relief boost to end March.",
+    "summary": "Market shows moderate stability as investors digest end-of-month indicators. Amazon's AI infrastructure remains a key focus. Intel's latest security partnership provides a minor technical tailwind.",
     "key_metrics": {
-      "market_trend": "Cautiously optimistic, relief rally",
-      "impact": "Investors reacting to de-escalation timelines"
+      "market_trend": "Stable, digesting end-of-month data",
+      "impact": "AI infrastructure focus supporting tech"
     }
   },
   "art_market": {
-    "summary": "2025 showed a 23% rebound in U.S. auction sales, with a persistent trend toward blue-chip, established artists.",
+    "summary": "2025 showed a 23% rebound in U.S. auction sales, with continued strength in the blue-chip segment.",
     "key_metrics": {
-      "major_events": "Christie's announces exhibition of Lalanne sculpture; continued interest in provenance-heavy works.",
-      "status": "Resilient, high-end focused"
+      "major_events": "Stable demand for provenance-heavy works; focus remains on established artists.",
+      "status": "Resilient, blue-chip focus"
     }
   }
 }
