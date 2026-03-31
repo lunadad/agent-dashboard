@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-01T03:30:00+09:00",
+  "timestamp": "2026-04-01T03:40:00+09:00",
   "stock_market": {
-    "summary": "Q2 market kickoff continues: Markets focusing on yield stabilization and defensive tech holdings.",
+    "summary": "Markets eyeing a tactical rebound; focus shifting from policy to productivity (AI/Infra). Defensive sectors like healthcare and consumer staples remain favored amid geopolitical tensions.",
     "key_metrics": {
-      "market_trend": "Q2 defensive positioning.",
-      "impact": "Stable rotation into quality/tech assets."
+      "market_trend": "Tactical rebound/bottoming",
+      "impact": "Rotation to defensive sectors; AI/Infra interest"
     }
   },
   "art_market": {
-    "summary": "April 1st: Early Q2 market trends show continued interest in provenance-verified blue-chip assets for the upcoming auction season.",
+    "summary": "April activity accelerating with ART OnO in Seoul (April 3-5) and Christie's 40th anniversary preparations in Asia.",
     "key_metrics": {
-      "major_events": "Q2 auction season ramp-up.",
-      "status": "Robust demand for provenanced, high-end works."
+      "major_events": "ART OnO Seoul, Christie's Asia 40th",
+      "status": "Robust high-value segment; focus on provenanced works"
     }
   }
 }
