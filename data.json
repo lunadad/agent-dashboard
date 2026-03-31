@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-03-31T19:00:00+09:00",
+  "timestamp": "2026-03-31T19:15:00+09:00",
   "stock_market": {
-    "summary": "End-of-month review shows a defensive stock posture amid ongoing geopolitical concerns.",
+    "summary": "Futures rally as optimism grows over potential de-escalation in the Iran conflict, despite a difficult end to March for global equities.",
     "key_metrics": {
-      "market_trend": "Defensive, cautious due to geopolitical instability",
-      "impact": "Market participants prioritizing asset safety"
+      "market_trend": "Optimistic, recovering from geopolitical lows",
+      "impact": "Investors shifting focus to potential conflict resolution"
     }
   },
   "art_market": {
-    "summary": "Strong blue-chip art demand observed as the market enters April, maintaining a resilient outlook.",
+    "summary": "2025 showed a 23% rebound in U.S. auction sales, with a clear trend toward blue-chip, established artists.",
     "key_metrics": {
-      "major_events": "Spring auctions and seasonal exhibitions approaching",
+      "major_events": "Claude Lalanne's 'La Pomme de New York' on view at the Bristol Paris",
       "status": "Resilient, quality-focused"
     }
   }
