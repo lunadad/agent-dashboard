@@ -1,5 +1,18 @@
 {
-  "last_updated": "2026-03-31T14:10:00+09:00",
-  "summary": "Market Update (March 31, 2026 - Q1 Final): Markets closing Q1 with tech resilience. Prints market continues to surge, with Pop Art and Surrealism anchoring collector interest. Modern British art prints remain resilient despite cooling from 2025 peaks.",
-  "status": "active"
+  "last_updated": "2026-03-31T14:20:00+09:00",
+  "briefing": {
+    "art_market": {
+      "summary": "Global art market grew 4% in 2025; US leads with 44% share. 2026 outlook emphasizes quality and provenance over speculation.",
+      "notable_news": [
+        "New Museum: 'New Humans: Memories of the Future'",
+        "Georgetown: Diana Al-Hadid survey",
+        "Art Dubai 2026 rescheduled due to regional conflict"
+      ]
+    },
+    "stock_market": {
+      "summary": "Markets facing headwinds; Nasdaq and Dow in correction territory (-10% from peaks). Concerns: Middle East tensions, inflation, AI valuation fears.",
+      "resilient_sectors": ["Energy", "Utilities", "Industrials", "Consumer Staples"],
+      "underperforming_sectors": ["Tech", "Financials", "Consumer Discretionary"]
+    }
+  }
 }
