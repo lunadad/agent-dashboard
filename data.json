@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T16:30:00+09:00",
+  "timestamp": "2026-03-31T16:40:00+09:00",
   "stock_market": {
-    "summary": "Geopolitical tension continues to pressure global equity markets. Oil prices have surged to $125, driving increased volatility and concerns over energy costs. Indices are struggling to maintain gains as investors weigh recession risks against corporate earnings strength.",
+    "summary": "Markets show mixed performance on March 31, 2026, driven by Middle East geopolitical tensions. U.S. futures are trending upward due to Powell's inflation comments, while Asian markets trade lower amid ongoing conflict uncertainties.",
     "key_metrics": {
-      "market_trend": "bearish/volatile",
-      "impact": "oil price surge ($125), geopolitical risk"
+      "market_trend": "mixed/cautious",
+      "impact": "Middle East geopolitical conflict, U.S. inflation stability"
     }
   },
   "art_market": {
-    "summary": "The art market is shifting towards a defensive stance, prioritizing 'blue-chip' and high-provenance assets as a hedge against macroeconomic instability. While primary market activity remains selective, the focus is heavily on established names and historically significant works.",
+    "summary": "The art scene is vibrant with major events like the Whitney Biennial and the 25th Biennale of Sydney ('Rememory'), though impacted by regional instability (Art Dubai rescheduled). Security concerns rise following notable art thefts in Italy.",
     "key_metrics": {
-      "growth_2025": "4% (Global)",
-      "outlook": "defensive / asset-protection"
+      "major_events": "Whitney Biennial 2026, 25th Biennale of Sydney",
+      "status": "active but vigilant"
     }
   }
 }
