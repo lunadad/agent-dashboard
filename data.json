@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-03-31T18:20:00+09:00",
+  "timestamp": "2026-03-31T18:30:00+09:00",
   "stock_market": {
-    "summary": "Late session trends show stabilizing energy prices. Markets are closing the month with a defensive posture as investors digest the end-of-quarter volatility and prepare for April’s economic calendar.",
+    "summary": "KOSPI closed March with a 3.00% decline to 5119, capping a volatile month impacted by Middle East tensions and currency depreciation. Markets are looking toward South Korea's WGBI inclusion on April 1st as a potential catalyst for stability and foreign capital inflow.",
     "key_metrics": {
-      "market_trend": "Defensive consolidation, quarter-end positioning",
-      "impact": "Energy price sensitivity, anticipation of new month data"
+      "market_trend": "Downbeat quarter-end, volatility driven by geopolitical risks",
+      "impact": "Korean won at 17-year low, eyes on April WGBI inclusion"
     }
   },
   "art_market": {
-    "summary": "March 2026 wrap-up: Strong demand for contemporary blue-chip works continues to drive auction house performance. Market sentiment remains positive, with a clear trend toward high-quality assets in uncertain economic conditions.",
+    "summary": "The art market maintains a quality-focused resilience as it enters April. Despite broader macro uncertainties, blue-chip contemporary works remain in steady demand, with collectors prioritizing liquidity and provenance.",
     "key_metrics": {
-      "major_events": "Strong close for March auctions, consistent blue-chip demand",
-      "status": "Resilient, quality-focused, post-auction momentum"
+      "major_events": "Consolidation phase post-March auctions, emphasis on asset quality",
+      "status": "Resilient, quality-focused, stable"
     }
   }
 }
