@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T08:50:00+09:00",
+  "last_updated": "2026-04-01T09:00:00+09:00",
   "art_market": {
     "summary": "The April 2026 art market reflects a shift towards stability and established quality, with increasing interest in Middle East cultural hubs and a move away from speculative 'wet paint' art.",
     "highlights": [
@@ -17,5 +17,10 @@
       "Implementation of Income Tax Act 2025 replaces the old 1961 framework.",
       "Markets pressured by global uncertainties, crude oil volatility, and FII outflows."
     ]
+  },
+  "dailyReports": {
+    "머스크": {
+      "raw": "🎨 **오전 주식 브리핑** 📈\n\n**Amazon (AMZN)**\n- Q4 2025 실적 발표 이후 $200B 규모의 2026년 설비 투자(Capex) 계획으로 주가 변동성.\n- AWS에 대한 강력한 수요 및 GenAI, 로봇 공학 등 투자 집중.\n- 광고 및 온라인 스토어 매출 성장세 지속 전망. 2026년 EPS $7.78 예상(전년 대비 8.5%↑).\n\n**Intel (INTC)**\n- 3/31 시장 랠리에 힘입어 6.6% 상승. 4/23 Q1 실적 발표 예정.\n- 인텔 18A 공정 중심의 국내 파운드리 역량 강화 및 Core Ultra Series 3 프로세서 주목.\n- 다만, 높은 밸류에이션(고 PER) 및 파운드리 부문 손실, PC 시장 둔화 우려는 여전한 과제.\n\n#주식 #AMZN #INTC #시장브리핑"
+    }
   }
 }
