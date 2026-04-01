@@ -4,9 +4,9 @@
     "finance": {
       "market_status": "Closed",
       "key_events": [
-        "KOSPI closed up 8.4% at 5,478.70 on April 1, 2026.",
-        "Market sentiment buoyed by renewed hopes for de-escalation of US-Iran conflict.",
-        "Korean Air announced entering 'emergency management' due to soaring jet fuel costs linked to the conflict."
+        "KOSPI closed up 8.44% at 5,478.70 on April 1, 2026, marking a historic rebound.",
+        "Market sentiment bolstered by renewed hopes for a ceasefire in the Middle East.",
+        "Buy-side circuit breaker triggered early in the day due to rapid index rise; Samsung Electronics and SK Hynix saw double-digit gains."
       ]
     },
     "art": {
@@ -15,17 +15,17 @@
         {
           "event": "BAMA (Busan Annual Market of Art)",
           "dates": "April 2–5, 2026",
-          "description": "BEXCO, Busan."
+          "description": "BEXCO Exhibition Center 1, Busan. Features 136 galleries."
         },
         {
           "event": "Galleries Art Fair",
           "dates": "April 8–12, 2026",
-          "description": "Largest edition to date with 169 galleries at Coex."
+          "description": "COEX Hall C&D, Seoul. Longest-running art fair in Korea."
         },
         {
-          "event": "APMA, CHAPTER FIVE",
-          "dates": "April 2026",
-          "description": "Contemporary art collection showcase including David Hockney, Lee Ufan, and more."
+          "event": "APMA, Chapter Five – From the APMA Collection",
+          "dates": "Starts April 2026",
+          "description": "Amorepacific Museum of Art featuring David Hockney, Rose Wylie, Nam June Paik, and Lee Ufan."
         }
       ],
       "policy": "April is 'Science Month' in South Korea."
