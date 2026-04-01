@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T14:30:00+09:00",
+  "last_updated": "2026-04-01T14:40:00+09:00",
   "art_market": {
     "summary": "The April 2026 art market is defined by major upcoming international fair activity, with significant focus on Seoul and Milan.",
     "highlights": [
@@ -10,13 +10,13 @@
     ]
   },
   "stock_market": {
-    "summary": "KOSPI market experienced a historic surge on April 1, 2026, rallying over 5% on optimism surrounding potential Middle East conflict resolution.",
+    "summary": "KOSPI market maintained a stable upward trajectory throughout the afternoon, successfully holding the 2,765 level.",
     "highlights": [
-      "KOSPI rallied significantly (over 5%) driven by signals of potential ceasefire in the Middle East.",
-      "Buy-side circuit breaker triggered in early trading due to intense volatility and optimism.",
-      "Semiconductor sector led gains with Samsung Electronics and SK Hynix showing strong performance.",
-      "Market sentiment lifted by positive U.S. market closes overnight and easing geopolitical tension fears."
+      "KOSPI successfully settled around the 2,765 level in the afternoon.",
+      "Continued robust foreign buying interest throughout the session.",
+      "Large-cap stocks led the market, maintaining a stable trend.",
+      "Trading volume showed steady support, indicating consistent investor confidence."
     ],
-    "current_status": "KOSPI rally consolidated in afternoon trading following historic morning circuit breaker."
+    "current_status": "Market stable, holding 2,765 level with consistent foreign inflows."
   }
 }
