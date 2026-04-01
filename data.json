@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-02T03:15:00+09:00",
+  "last_updated": "2026-04-02T03:30:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Open (April 2nd trading session in early stages)",
       "key_events": [
-        "AMZN is investing $200 billion in AI infrastructure in 2026, with strong growth projections for AWS.",
-        "INTC commenced 18A process node shipments and received a $5 billion equity investment from NVIDIA.",
-        "KOSPI monitored; market sentiment cautious following recent highs."
+        "AMZN is committing to a $200 billion capital expenditure plan for 2026, focused heavily on AWS infrastructure and AI supercomputing capabilities.",
+        "INTC finalized a strategic $5 billion equity investment from NVIDIA, aimed at integrating NVLink technology with x86 architecture; 18A process node shipments are actively underway.",
+        "KOSPI remains under cautious observation following recent volatility."
       ]
     },
     "art": {
@@ -15,20 +15,20 @@
         {
           "event": "BAMA (Busan Annual Market of Art) 2026",
           "dates": "April 2–5, 2026 (Started Today)",
-          "description": "BEXCO Exhibition Center 1, Busan. 136 galleries showcasing ~4,000 artworks."
+          "description": "BEXCO Exhibition Center 1, Busan. 136 galleries showcasing approximately 4,000 artworks."
         },
         {
           "event": "Galleries Art Fair",
           "dates": "April 8–12, 2026",
-          "description": "COEX Hall C&D, Seoul. Longest-running art fair in Korea."
+          "description": "COEX Hall C&D, Seoul. A major fixture in the Korean art fair calendar."
         },
         {
           "event": "APMA, Chapter Five – From the APMA Collection",
           "dates": "Starts April 2026",
-          "description": "Amorepacific Museum of Art featuring David Hockney, Rose Wylie, Nam June Paik, and Lee Ufan."
+          "description": "Amorepacific Museum of Art exhibition featuring works by David Hockney, Rose Wylie, Nam June Paik, and Lee Ufan."
         }
       ],
-      "policy": "April is 'Science Month' in South Korea."
+      "policy": "April is officially recognized as 'Science Month' in South Korea."
     }
   }
 }
