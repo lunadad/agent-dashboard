@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T09:40:00+09:00",
+  "last_updated": "2026-04-01T10:00:00+09:00",
   "art_market": {
     "summary": "The April 2026 art market reflects a shift towards stability and established quality, with increasing interest in Middle East cultural hubs and a move away from speculative 'wet paint' art.",
     "highlights": [
@@ -27,6 +27,9 @@
     },
     "update_0940": {
       "raw": "⏰ **09:40 AM 시장 현황** 📊\n\n- 시장 거래량 소폭 증가하며 방향성 탐색 중.\n- 기술주 중심의 낙폭 과대 종목 반등 시도.\n- 외국인 수급 변동성 주의가 요구되는 시점.\n- 특별한 거시경제 이벤트는 없으나, 오후장 변동성에 대비 필요."
+    },
+    "update_1000": {
+      "raw": "⏰ **10:00 AM 시장 현황** 📊\n\n- 시장 거래량 소폭 증가하며 방향성 탐색 중. 장 초반 차익 실현 매물 출회되었으나, 저가 매수세 유입으로 지수 하방 경직성 확보.\n- 금일은 특별한 거시경제 이벤트 없으나, 오후장 변동성에 대비 필요."
     }
   }
 }
