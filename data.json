@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-01T17:00:00+09:00",
+  "last_updated": "2026-04-01T17:10:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Closed",
       "key_events": [
-        "KOSPI closed at a high of 5.49% surge on April 1, 2026.",
-        "Market sentiment remained strong throughout the session.",
-        "Strategic petroleum reserve swap program finalized."
+        "KOSPI soared 8.44% to close at 5,478.70 on April 1, 2026, following optimism over potential Iran-US conflict de-escalation.",
+        "Buy-side circuit breaker triggered during session due to rapid gains.",
+        "Korean won strengthened to 1,501.3 KRW/USD."
       ]
     },
     "art": {
