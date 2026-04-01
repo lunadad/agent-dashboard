@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-01T18:40:00+09:00",
+  "last_updated": "2026-04-01T19:10:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Closed",
       "key_events": [
-        "KOSPI soared 8.44% to close at 5,478.70 on April 1, 2026, following optimism over potential Iran-US conflict de-escalation.",
-        "Buy-side circuit breaker triggered during session due to rapid gains.",
+        "KOSPI closed up 8.44% at 5,478.70 on April 1, 2026.",
+        "Market sentiment buoyed by potential de-escalation of US-Iran conflict.",
         "Korean won strengthened to 1,501.3 KRW/USD."
       ]
     },
@@ -13,22 +13,22 @@
       "market_outlook": "Vibrant and busy",
       "upcoming_events": [
         {
+          "event": "ART OnO",
+          "dates": "April 3–5, 2026",
+          "description": "International art fair at SETEC."
+        },
+        {
           "event": "Galleries Art Fair",
-          "dates": "April 8, 2026",
+          "dates": "April 8–12, 2026",
           "description": "Largest edition to date with 169 galleries at Coex."
         },
         {
           "event": "Amorepacific Museum of Art Special Exhibition",
           "dates": "April 2026",
-          "description": "Focus on Korean contemporary art."
-        },
-        {
-          "event": "Seoul Museum of Art 2026 Program",
-          "dates": "April 2026",
-          "description": "Themed around 'Creation' and 'Technology'."
+          "description": "Chapter Five: From the APMA Collection featuring international and Korean contemporary art."
         }
       ],
-      "policy": "April is 'Science Month' in South Korea with nationwide events."
+      "policy": "April is 'Science Month' in South Korea."
     }
   }
 }
