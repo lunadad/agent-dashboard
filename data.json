@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-04-01T14:20:00+09:00",
+  "last_updated": "2026-04-01T14:30:00+09:00",
   "art_market": {
-    "summary": "The April 2026 art market reflects a shift towards stability and established quality, with increasing interest in Middle East cultural hubs and a move away from speculative 'wet paint' art.",
+    "summary": "The April 2026 art market is defined by major upcoming international fair activity, with significant focus on Seoul and Milan.",
     "highlights": [
-      "Collectors favoring established blue-chip artists for financial security.",
-      "Growing influence of Middle East infrastructure (e.g., Qatar/Abu Dhabi) on regional market trends.",
-      "Shift away from minimalism toward ornate, emotional, and textured aesthetics.",
-      "Private sales rivaling traditional auctions in market share."
+      "International art fair ART OnO returns to Seoul (SETEC) from April 3–5, 2026.",
+      "Miart 30th-anniversary edition scheduled for April 17–19 in Milan, featuring 160 galleries.",
+      "Global focus on upcoming Asian Art Week sales at Christie's (April 2026).",
+      "Continued interest in diverse cultural themes spanning climate change to historical ceramics."
     ]
   },
   "stock_market": {
-    "summary": "Indian markets face significant volatility as new financial year begins with major tax and regulatory changes effective today.",
+    "summary": "KOSPI market experienced a historic surge on April 1, 2026, rallying over 5% on optimism surrounding potential Middle East conflict resolution.",
     "highlights": [
-      "Securities Transaction Tax (STT) increased on F&O: Futures (0.02% to 0.05%) and Options (0.10% to 0.15%).",
-      "New share buyback taxation (30% for individual promoters) effective April 1.",
-      "Implementation of Income Tax Act 2025 replaces the old 1961 framework.",
-      "Markets pressured by global uncertainties, crude oil volatility, and FII outflows."
+      "KOSPI rallied significantly (over 5%) driven by signals of potential ceasefire in the Middle East.",
+      "Buy-side circuit breaker triggered in early trading due to intense volatility and optimism.",
+      "Semiconductor sector led gains with Samsung Electronics and SK Hynix showing strong performance.",
+      "Market sentiment lifted by positive U.S. market closes overnight and easing geopolitical tension fears."
     ],
-    "current_status": "KOSPI 2,765 area consolidation, steady foreign inflow, stable afternoon trend."
+    "current_status": "KOSPI rally consolidated in afternoon trading following historic morning circuit breaker."
   }
 }
