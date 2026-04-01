@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T15:40:00+09:00",
+  "last_updated": "2026-04-01T15:50:00+09:00",
   "art_market": {
     "summary": "The April 2026 art market is defined by major upcoming international fair activity, with significant focus on Seoul and Milan.",
     "highlights": [
@@ -10,13 +10,13 @@
     ]
   },
   "stock_market": {
-    "summary": "KOSPI market has maintained a steady and stable upward trajectory throughout the afternoon, successfully holding the 2,765 level as of 3:40 PM.",
+    "summary": "The KOSPI index closed in a stable and positive mood, maintaining the 2,765 level throughout the late afternoon session with consistent foreign buying.",
     "highlights": [
-      "KOSPI successfully settled and held the 2,765 level through to the late afternoon session.",
-      "Continued robust foreign buying interest sustaining the market.",
-      "Large-cap stocks led the market, maintaining a stable trend.",
-      "Trading volume showed steady support, indicating consistent investor confidence."
+      "KOSPI index settled and held the 2,765 level through market close.",
+      "Foreign and institutional buying interest remained robust until the end of the session.",
+      "Market sentiment remained positive with stable trading volumes.",
+      "Large-cap stocks led the market, showing resilience against intraday fluctuations."
     ],
-    "current_status": "Market stable, holding 2,765 level with consistent foreign inflows as of 15:40."
+    "current_status": "Market closed, holding 2,765 level with consistent foreign inflows as of 15:30."
   }
 }
