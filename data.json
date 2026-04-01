@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-04-01T21:10:00+09:00",
+  "last_updated": "2026-04-01T21:25:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Closed",
       "key_events": [
-        "KOSPI surged 8.44% to close at 5,478.70 on April 1, 2026, marking a historic rebound.",
-        "Market optimism driven by de-escalation hopes in the Iran-US conflict, snapping a four-day losing streak.",
-        "Buy-side circuit breaker triggered due to extreme market volatility and gains; Samsung Electronics surged 13.4%."
+        "KOSPI surged over 8%, breaking a four-day losing streak and surpassing 5,500 points.",
+        "Market rally driven by de-escalation hopes in the US-Iran conflict.",
+        "Samsung Electronics rose >13.5%, SK Hynix surged >11.5%; circuit breakers triggered.",
+        "March exports reached a record-high of $86.1 billion (+48.3% YoY).",
+        "Ratified Comprehensive Economic Partnership Agreement with UAE."
       ]
     },
     "art": {
