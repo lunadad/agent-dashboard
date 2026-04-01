@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-02T00:00:00+09:00",
+  "last_updated": "2026-04-02T00:20:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Closed",
       "key_events": [
         "KOSPI closed at 5,478.70 on April 1st.",
-        "Market remains closed for the new day (April 2nd).",
+        "Market remains closed for April 2nd.",
         "Awaiting opening for April 2nd trading session."
       ]
     },
     "art": {
-      "market_outlook": "Vibrant; major events begin today, April 2nd.",
+      "market_outlook": "Vibrant; BAMA begins today, April 2nd.",
       "upcoming_events": [
         {
           "event": "BAMA (Busan Annual Market of Art)",
-          "dates": "April 2–5, 2026 (Started Today)",
+          "dates": "April 2–5, 2026 (Starts Today)",
           "description": "BEXCO Exhibition Center 1, Busan. Features 136 galleries."
         },
         {
