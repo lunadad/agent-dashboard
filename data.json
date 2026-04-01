@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-04-02T04:20:00+09:00",
+  "last_updated": "2026-04-02T04:30:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Open (April 2nd trading session in early stages)",
       "key_events": [
         "AMZN is committing to a $200 billion capital expenditure plan for 2026, focused heavily on AWS infrastructure and AI supercomputing capabilities.",
         "INTC finalized a strategic $5 billion equity investment from NVIDIA, aimed at integrating NVLink technology with x86 architecture; 18A process node shipments are actively underway.",
-        "KOSPI remains under cautious observation following recent volatility."
+        "March exports surged 48.3% to a record $86 billion; semiconductor shipments exceeded $30 billion.",
+        "OECD lowered 2026 South Korea growth forecast to 1.7% from 2.1%.",
+        "Goldman Sachs raised KOSPI year-end target to 7,000 from 6,400."
       ]
     },
     "art": {
