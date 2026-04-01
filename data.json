@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T13:20:00+09:00",
+  "last_updated": "2026-04-01T13:40:00+09:00",
   "art_market": {
     "summary": "The April 2026 art market reflects a shift towards stability and established quality, with increasing interest in Middle East cultural hubs and a move away from speculative 'wet paint' art.",
     "highlights": [
@@ -57,6 +57,9 @@
     },
     "update_1320": {
       "raw": "⏰ **13:20 PM 시장 현황** 📊\n\n- 코스피 2,765선 안착 시도 지속.\n- 거래량은 소폭 감소했으나 외국인 매수 기조는 견조.\n- 특별한 변동성 요인 없이 완만한 오후장 흐름 유지 중."
+    },
+    "update_1340": {
+      "raw": "⏰ **13:40 PM 시장 현황** 📊\n\n- 코스피 2,765선 안착 성공. 외국인 수급 지속.\n- 대형주 중심의 완만한 상승세가 오후장 후반까지 이어지는 모습.\n- 큰 변동성 없이 장 마감까지 안정적인 흐름 예상."
     }
   }
 }
