@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-02T01:40:00+09:00",
+  "last_updated": "2026-04-02T01:50:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Closed",
       "key_events": [
         "KOSPI closed at 5,478.70 on April 1st.",
-        "Market remains closed for April 2nd.",
-        "Awaiting opening for April 2nd trading session."
+        "Market closed for April 2nd.",
+        "Monitoring Intel and Amazon developments in AI infrastructure."
       ]
     },
     "art": {
