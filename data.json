@@ -1,22 +1,29 @@
 {
-  "last_updated": "2026-04-01T16:10:00+09:00",
-  "art_market": {
-    "summary": "The April 2026 art market is defined by major upcoming international fair activity, with significant focus on Seoul and Milan.",
-    "highlights": [
-      "International art fair ART OnO returns to Seoul (SETEC) from April 3–5, 2026.",
-      "Miart 30th-anniversary edition scheduled for April 17–19 in Milan, featuring 160 galleries.",
-      "Global focus on upcoming Asian Art Week sales at Christie's (April 2026).",
-      "Continued interest in diverse cultural themes spanning climate change to historical ceramics."
-    ]
-  },
-  "stock_market": {
-    "summary": "The KOSPI index closed in a stable and positive mood, maintaining the 2,765 level throughout the late afternoon session with consistent foreign buying.",
-    "highlights": [
-      "KOSPI index settled and held the 2,765 level through market close.",
-      "Foreign and institutional buying interest remained robust until the end of the session.",
-      "Market sentiment remained positive with stable trading volumes.",
-      "Large-cap stocks led the market, showing resilience against intraday fluctuations."
-    ],
-    "current_status": "Market closed, holding 2,765 level with consistent foreign inflows as of 16:00."
+  "last_updated": "2026-04-01T16:30:00+09:00",
+  "briefing": {
+    "finance": {
+      "market_status": "Bullish",
+      "key_events": [
+        "South Korea officially joins World Government Bond Index (WGBI), projecting $50-60B in foreign inflows.",
+        "Kospi surged on April 1, 2026, due to Iran conflict de-escalation optimism.",
+        "New finance consultation body launched in Seoul to manage macroeconomic response."
+      ]
+    },
+    "art": {
+      "market_outlook": "Renewed vigor, K-shape divide",
+      "upcoming_events": [
+        {
+          "event": "ART OnO",
+          "dates": "April 3-5, 2026",
+          "location": "Gangnam"
+        },
+        {
+          "event": "Galleries Art Fair",
+          "dates": "April 8, 2026",
+          "description": "Largest exhibition to date"
+        }
+      ],
+      "policy": "43.75 billion won loan/guarantee program for arts industry applications opened today."
+    }
   }
 }
