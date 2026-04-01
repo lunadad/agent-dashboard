@@ -1,29 +1,34 @@
 {
-  "last_updated": "2026-04-01T16:30:00+09:00",
+  "last_updated": "2026-04-01T16:40:00+09:00",
   "briefing": {
     "finance": {
       "market_status": "Bullish",
       "key_events": [
-        "South Korea officially joins World Government Bond Index (WGBI), projecting $50-60B in foreign inflows.",
-        "Kospi surged on April 1, 2026, due to Iran conflict de-escalation optimism.",
-        "New finance consultation body launched in Seoul to manage macroeconomic response."
+        "KOSPI surged 5.49% on April 1, 2026, amid optimism for Middle East conflict de-escalation.",
+        "Korea Exchange (KRX) activated a sidecar due to the sharp index rise.",
+        "Strategic petroleum reserve swap program initiated to stabilize supply."
       ]
     },
     "art": {
-      "market_outlook": "Renewed vigor, K-shape divide",
+      "market_outlook": "Vibrant and busy",
       "upcoming_events": [
-        {
-          "event": "ART OnO",
-          "dates": "April 3-5, 2026",
-          "location": "Gangnam"
-        },
         {
           "event": "Galleries Art Fair",
           "dates": "April 8, 2026",
-          "description": "Largest exhibition to date"
+          "description": "Largest edition to date with 169 galleries at Coex."
+        },
+        {
+          "event": "Amorepacific Museum of Art Special Exhibition",
+          "dates": "April 2026",
+          "description": "Focus on Korean contemporary art."
+        },
+        {
+          "event": "Seoul Museum of Art 2026 Program",
+          "dates": "April 2026",
+          "description": "Themed around 'Creation' and 'Technology'."
         }
       ],
-      "policy": "43.75 billion won loan/guarantee program for arts industry applications opened today."
+      "policy": "April is 'Science Month' in South Korea with nationwide events."
     }
   }
 }
