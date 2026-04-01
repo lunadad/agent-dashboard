@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-04-02T05:40:00+09:00",
+  "last_updated": "2026-04-02T06:00:00+09:00",
   "briefing": {
     "finance": {
-      "market_status": "Open (April 2nd trading session in early stages)",
+      "market_status": "Open (April 2nd trading session, significant surge)",
       "key_events": [
-        "AMZN is committing to a $200 billion capital expenditure plan for 2026, focused heavily on AWS infrastructure and AI supercomputing capabilities.",
-        "INTC finalized a strategic $5 billion equity investment from NVIDIA, aimed at integrating NVLink technology with x86 architecture; 18A process node shipments are actively underway.",
-        "March exports surged 48.3% to a record $86 billion; semiconductor shipments exceeded $30 billion.",
-        "OECD lowered 2026 South Korea growth forecast to 1.7% from 2.1%.",
-        "Goldman Sachs raised KOSPI year-end target to 7,000 from 6,400."
+        "KOSPI index jumped 8.4% to 5,478.70, spurred by optimism regarding Iran war de-escalation.",
+        "Global oil prices fell below $100 per barrel, contributing to market recovery.",
+        "Affinity Equity Partners abandoned challenge to Lotte Rental acquisition; strategy shifted to selling SK Rent-a-Car.",
+        "Bank of Korea and Bank Indonesia launched cross-border QR payment system to boost trade and inclusive growth.",
+        "March exports surged 48.3% to a record $86 billion; semiconductor shipments exceeded $30 billion."
       ]
     },
     "art": {
-      "market_outlook": "Vibrant; BAMA 2026 begins today, April 2nd.",
+      "market_outlook": "Vibrant; BAMA 2026 is currently underway.",
       "upcoming_events": [
         {
           "event": "BAMA (Busan Annual Market of Art) 2026",
-          "dates": "April 2–5, 2026 (Started Today)",
-          "description": "BEXCO Exhibition Center 1, Busan. 136 galleries showcasing approximately 4,000 artworks."
+          "dates": "April 2–5, 2026",
+          "description": "BEXCO Exhibition Center 1, Busan. 136 galleries showcasing 4,000 artworks under the theme 'NODE: A Knot of Connection and Expansion'."
         },
         {
           "event": "Galleries Art Fair",
           "dates": "April 8–12, 2026",
-          "description": "COEX Hall C&D, Seoul. A major fixture in the Korean art fair calendar."
+          "description": "COEX Hall C&D, Seoul. Featuring 169 galleries, the largest edition to date."
         },
         {
           "event": "APMA, Chapter Five – From the APMA Collection",
           "dates": "Starts April 2026",
-          "description": "Amorepacific Museum of Art exhibition featuring works by David Hockney, Rose Wylie, Nam June Paik, and Lee Ufan."
+          "description": "Amorepacific Museum of Art exhibition featuring works by David Hockney, Nam June Paik, and Lee Bul."
         }
       ],
       "policy": "April is officially recognized as 'Science Month' in South Korea."
