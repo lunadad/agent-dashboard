@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:40:00+09:00",
+  "lastUpdated": "2026-04-02T19:50:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets are experiencing a downturn on April 2, 2026, driven by renewed geopolitical concerns following signals of potential military escalation against Iran. This uncertainty has dampened recent optimism.",
+      "summary": "Global markets are under pressure on April 2, 2026, as geopolitical tensions with Iran heighten volatility. US futures declined following recent rhetoric, while commodity markets react sharply to potential supply disruptions.",
       "notableMoves": [
-        "Oil prices surged: Brent crude rose 6.6% to nearly $108/barrel.",
-        "Precious metals declined: Gold fell 2% to $4,718.70, Silver dropped 4.9%.",
-        "Asian markets saw broad declines: South Korea's KOSPI dropped 5.2%, Japan's Nikkei 225 fell 2.6%, and Hong Kong's Hang Seng declined 1.4%."
+        "Oil prices: WTI and Brent crude surged over 6% due to supply disruption fears.",
+        "Precious metals: Gold fell nearly 3% to ~$4,630; silver dropped over 5.5% as rate hike expectations rise.",
+        "Market sentiment: US500 index declined 1.02%. Travel, mining, and tech sectors show mixed performance; Nike dropped over 15%."
       ]
     },
     "artNews": {
