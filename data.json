@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-03T00:30:00+09:00",
-  "summary": "KOSPI closed the April 2nd session at 5,234.05, down 4.47%. Market sentiment remains volatile driven by geopolitical tensions in the Middle East. Art market activity remains strong despite equity market weakness.",
+  "last_updated": "2026-04-03T00:40:00+09:00",
+  "summary": "KOSPI closed the April 2nd session at 5,234.05, down 4.47%. Market sentiment remains volatile driven by geopolitical tensions in the Middle East. Art market activity remains strong despite equity market weakness. Overnight stability in KOSPI futures observed.",
   "data": {
     "kospi_value": 5234.05,
     "kospi_change_percent": -4.47,
-    "market_sentiment": "volatile",
+    "market_sentiment": "volatile (stabilizing)",
     "art_market_outlook": "high activity sustained"
   }
 }
