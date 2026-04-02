@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T20:40:00+09:00",
+  "lastUpdated": "2026-04-02T20:50:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "U.S. stock futures declined as geopolitical tensions in Iran escalate following President Trump's hawkish statements, reversing de-escalation hopes. Oil prices surged significantly (WTI +7.65%, Brent +7.63%), while the Nasdaq 100 index officially entered correction territory (down 10% from highs).",
+      "summary": "Global markets face intense volatility as US-Iran tensions escalate. Oil prices surged ~7% (Brent ~$108-109/bbl, WTI ~$107/bbl) following President Trump's hawkish remarks about 'finishing the job' against Iran. Markets are reacting to 'warflation' fears and potential supply chain disruptions due to the Strait of Hormuz closure concerns.",
       "notableMoves": [
-        "Oil surge: WTI crude at $107.80/bbl (+7.65%), Brent at $108.90/bbl (+7.63%).",
-        "Market correction: Nasdaq 100 officially in correction (down 10% from all-time highs).",
-        "Sentiment: US stock futures lower as Middle East conflict concerns deepen."
+        "Oil surge: Brent and WTI rose >7% today.",
+        "Market sentiment: Global stock indices (Nikkei, Kospi, FTSE) are down; US futures pointing lower.",
+        "Economic impact: Inflationary pressures rising ('warflation'); safe-haven demand boosting the US Dollar."
       ]
     },
     "artNews": {
