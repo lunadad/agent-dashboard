@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-04-02T18:50:00+09:00",
+  "timestamp": "2026-04-02T18:30:00+09:00",
   "briefing": {
     "market": [
-      "KOSPI closed at 5,234.05 (-4.47%).",
-      "Market volatility surged due to geopolitical tensions following Trump's warning to Iran; sell-side sidecar triggered.",
-      "Index hit a daily low of 5,176.56 after a volatile session."
+      "KOSPI closed at 5,176.56 (-5.51%).",
+      "Sell-side sidecar triggered earlier; market sentiment remains fragile.",
+      "Global risk aversion continues into the evening."
     ],
     "art": [
-      "BAMA 2026 (Busan International Gallery Art Fair) opened today at BEXCO.",
-      "Theme: 'NODE: A Knot of Connection and Expansion' featuring 136 galleries and ~4,000 works.",
-      "Event continues through April 5; focuses on emerging artists and experimental media/sculpture."
+      "BAMA 2026 Day 1 at BEXCO: High attendance despite market volatility.",
+      "Nam June Paik exhibit sees steady stream of visitors.",
+      "Digital art NFTs showing resistance to broader market dip."
     ]
   }
 }
