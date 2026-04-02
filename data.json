@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T23:45:00+09:00",
-  "summary": "KOSPI plunged 4.47% today to close at 5234.05, driven by geopolitical tensions in the Middle East following U.S. warnings toward Iran. Market sentiment is bearish as investors react to increased instability. On the art front, BAMA (Busan Annual Market of Art) fair is currently underway (April 2-5), while preparations are finalized for the upcoming Galleries Art Fair opening on April 8th at Coex.",
+  "last_updated": "2026-04-02T23:55:00+09:00",
+  "summary": "KOSPI closed at 5234.05 (-4.47%) today amid regional tensions following U.S.-Iran escalations. Market sentiment is deeply bearish. Despite the volatility, the Seoul art market achieved a historic milestone: Yoshitomo Nara's 'Nothing about it' set a domestic record at auction, selling for KRW 15 billion.",
   "data": {
     "kospi_change": -4.47,
     "market_sentiment": "bearish",
-    "art_market_outlook": "cautious activity amid market volatility, with major regional fairs ongoing"
+    "art_market_outlook": "record-breaking auction activity despite macro volatility"
   }
 }
