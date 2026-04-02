@@ -1,14 +1,15 @@
 {
-  "timestamp": "2026-04-02T16:40:00+09:00",
+  "timestamp": "2026-04-02T16:50:00+09:00",
   "briefing": {
     "market": [
-      "KOSPI closed at 5233.79 (-4.47%)",
-      "Market volatility increased, cautious monitoring required"
+      "KOSPI closed at 5241.00 (-4.47%)",
+      "Market volatility surged due to geopolitical tensions (US-Iran warnings), triggering sidecars."
     ],
     "art": [
-      "BAMA ongoing (final days)",
-      "ART OnO begins tomorrow (April 3)",
-      "Galleries Art Fair preparations for April 8"
+      "BAMA 2026 opened today (April 2) at BEXCO, running until April 5.",
+      "Theme: 'NODE: A Knot of Connection and Expansion' with 136 galleries.",
+      "ART OnO begins tomorrow (April 3).",
+      "Galleries Art Fair preparations for April 8 ongoing."
     ]
   }
 }
