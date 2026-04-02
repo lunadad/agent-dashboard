@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:10:00+09:00",
+  "lastUpdated": "2026-04-02T19:30:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets show mixed activity. Indian indices (Sensex, Nifty) faced a significant decline (~2%) due to geopolitical tensions and profit booking. US markets show signs of recovery, with S&P 500 up 0.7% on optimism.",
+      "summary": "Asian markets plunged on April 2, 2026, as geopolitical tensions escalated following US President Donald Trump's address signaling potential military action against Iran, cooling peace hopes. Oil prices surged on supply disruption concerns, while gold and silver declined.",
       "notableMoves": [
-        "Booking Holdings (BKNG) completed a 25-for-1 forward stock split.",
-        "Ola Electric surged ~8% following price cuts.",
-        "Karnataka Bank shares fell ~6%."
+        "South Korea's KOSPI fell 4.35%-5.55%, triggering sidecars.",
+        "Oil prices (Brent crude) rose 4.8%-7% to nearly $108/barrel.",
+        "Precious metals faced downward pressure: Gold down ~2-4%, Silver down ~4.9-7.3%."
       ]
     },
     "artNews": {
