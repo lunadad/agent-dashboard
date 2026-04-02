@@ -1,23 +1,23 @@
 {
-  "lastUpdated": "2026-04-02T22:00:00+09:00",
+  "lastUpdated": "2026-04-02T22:15:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets are under pressure as geopolitical tensions escalate. President Trump's remarks regarding a potential 2-3 week continuation of the Iran conflict and 'extremely hard' strikes have rattled investor sentiment. Major U.S. indices are reacting to this hawkish turn, with the Nasdaq 100 officially entering correction territory (10% down from peak).",
+      "summary": "Global stock markets are experiencing significant volatility following President Trump's statements about a potentially prolonged conflict in Iran. Major U.S. indices are reacting to the hawkish tone, though Indian markets showed resilience with a sharp intraday recovery. Energy markets are particularly reactive, with oil surging significantly.",
       "notableMoves": [
-        "Oil surge: WTI rose ~8.4% to $107.48, Brent jumped ~8% to $111.80.",
-        "Market sentiment: Nasdaq 100 correction (-10%). U.S. stock futures down.",
-        "Precious metals: Gold fell 3.4% to $4,648/oz, Silver down 6.2% to $71.39."
+        "Oil surge: WTI crude up ~7.65% to $107.80, Brent up ~7.63% to $108.90.",
+        "Market sentiment: U.S. stock futures (Nasdaq 100, S&P 500) down as investors weigh geopolitical risks.",
+        "Value buying: Indian Sensex/Nifty50 staged a recovery from early losses."
       ]
     },
     "artNews": {
-      "exhibitions": [
-        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago, through June 1)",
-        "More is More is More: A Melody of Maximalism (Art Center Waco, through April 25)",
-        "Picking Up the Piecework: A Legacy of Creativity Through the Lens of Mary Hartten (Grand Center for Arts and Culture, through April 24)"
+      "events": [
+        "Art Basel Hong Kong 2026 concluded with record 91,500 visitors and robust multi-million dollar sales.",
+        "High-profile heist: Renoir, Cézanne, and Matisse works stolen from Fondazione Magnani Rocca in Italy."
       ],
       "trends": [
-        "Renewed collector interest in figurative art (e.g., David Hockney, Andrew Cooper).",
-        "Upcoming local theater highlights: 'Grumpy Old Men' musical (Minneapolis), 'Ada Lovelace: Bride of Science' (St. Paul)."
+        "Structural reset in art market with focus on experiences over physical objects.",
+        "Rising interest in emotional intensity and psychological depth in art.",
+        "Continued momentum for digital art and hybrid exhibition formats."
       ]
     }
   }
