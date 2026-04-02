@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-04-02T14:20:00",
-  "date": "2026-04-02",
-  "summary": {
-    "finance": "KOSPI continues to trade lower, down ~3.6% at 5,281.6, driven by geopolitical tensions and concerns over Iran-US relations.",
-    "art": "BAMA 2026 in full swing at BEXCO; strong interest reported despite broader market volatility."
-  },
-  "market_highlights": [
-    "KOSPI index remains under pressure, hovering around 5,281.6 (down 3.6%).",
-    "Sell-off triggered by Trump's stern warning regarding Iran tensions.",
-    "Samsung Electronics (-5.17%) and SK Hynix (-5.15%) showing significant declines.",
-    "Foreign and institutional investors remain net sellers in the afternoon session."
-  ],
-  "art_highlights": [
-    "BAMA 2026 (Busan Annual Market of Art) continues its first day at BEXCO.",
-    "Despite market uncertainty, fair attendance is reported to be steady.",
-    "Collectors showing interest in 'NODE' theme sections.",
-    "Runs through April 5, 2026."
-  ]
+  "last_updated": "2026-04-02T14:40:00+09:00",
+  "briefing": {
+    "market_summary": "KOSPI index down 3.6% to 5,281.22 amid geopolitical tensions involving US-Iran relations.",
+    "art_news": "BAMA (Busan Annual Market of Art) is ongoing (April 2-5, 2026). Galleries Art Fair opening scheduled for April 8, 2026."
+  }
 }
