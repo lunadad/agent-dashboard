@@ -1,25 +1,23 @@
 {
-  "lastUpdated": "2026-04-02T21:50:00+09:00",
+  "lastUpdated": "2026-04-02T22:00:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets face intense volatility as US-Iran tensions escalate. Oil prices surged ~7% (Brent ~$108-109/bbl, WTI ~$107/bbl) following President Trump's hawkish remarks about 'finishing the job' against Iran. Markets are reacting to 'warflation' fears and potential supply chain disruptions due to the Strait of Hormuz closure concerns.",
+      "summary": "Global markets are under pressure as geopolitical tensions escalate. President Trump's remarks regarding a potential 2-3 week continuation of the Iran conflict and 'extremely hard' strikes have rattled investor sentiment. Major U.S. indices are reacting to this hawkish turn, with the Nasdaq 100 officially entering correction territory (10% down from peak).",
       "notableMoves": [
-        "Oil surge: Brent and WTI rose >7% today.",
-        "Market sentiment: Global stock indices (Nikkei, Kospi, FTSE) are down; US futures pointing lower.",
-        "Economic impact: Inflationary pressures rising ('warflation'); safe-haven demand boosting the US Dollar."
+        "Oil surge: WTI rose ~8.4% to $107.48, Brent jumped ~8% to $111.80.",
+        "Market sentiment: Nasdaq 100 correction (-10%). U.S. stock futures down.",
+        "Precious metals: Gold fell 3.4% to $4,648/oz, Silver down 6.2% to $71.39."
       ]
     },
     "artNews": {
-      "upcomingFairs": [
-        "EXPO CHICAGO (Apr 9-12)",
-        "Art Paris (Apr 9-12)",
-        "Art Dubai (Apr 17-19)",
-        "Dallas Art Fair (Apr 16-19)"
-      ],
       "exhibitions": [
-        "Several Eternities in a Day (Hammer Museum, Apr 5 - Aug 23)",
-        "An Ode to Things (EMST Athens, through Sept 30)",
-        "The Whitney Biennial 2026 (Whitney Museum, through Aug 23)"
+        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago, through June 1)",
+        "More is More is More: A Melody of Maximalism (Art Center Waco, through April 25)",
+        "Picking Up the Piecework: A Legacy of Creativity Through the Lens of Mary Hartten (Grand Center for Arts and Culture, through April 24)"
+      ],
+      "trends": [
+        "Renewed collector interest in figurative art (e.g., David Hockney, Andrew Cooper).",
+        "Upcoming local theater highlights: 'Grumpy Old Men' musical (Minneapolis), 'Ada Lovelace: Bride of Science' (St. Paul)."
       ]
     }
   }
