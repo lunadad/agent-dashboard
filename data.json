@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-04-03T12:00:00+09:00",
-  "summary": "KOSPI opened higher at 5288.20 (+1.03%) following a tech-led recovery on Wall Street. Market sentiment shifted to cautious optimism. The art market remains resilient with high interest in digital-first collectibles, notably a new exhibition opening at the Leeum Museum featuring Lee Ufan's early works.",
+  "last_updated": "2026-04-03T00:10:00+09:00",
+  "summary": "KOSPI closed at 5234.05 (-4.47%) on April 2nd, reflecting significant market volatility. The art market is vibrant, with Yoshitomo Nara's 'Nothing about it' setting a new record of KRW 15 billion at auction. Preparations are underway for the Galleries Art Fair opening on April 8th.",
   "data": {
-    "kospi_change": 1.03,
-    "market_sentiment": "cautious-optimism",
-    "art_market_outlook": "strong institutional demand for established Korean masters"
+    "kospi_value": 5234.05,
+    "kospi_change_percent": -4.47,
+    "market_sentiment": "volatile",
+    "art_market_outlook": "high activity with record-breaking auction results and upcoming major fair"
   }
 }
