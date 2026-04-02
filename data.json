@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:50:00+09:00",
+  "lastUpdated": "2026-04-02T20:00:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets are under pressure on April 2, 2026, as geopolitical tensions with Iran heighten volatility. US futures declined following recent rhetoric, while commodity markets react sharply to potential supply disruptions.",
+      "summary": "Global markets face intense volatility as US-Iran geopolitical tensions escalate following President Trump's hawkish address, reversing de-escalation hopes. Oil prices spiked significantly on supply disruption fears, while gold retreated from its recent rally amid safe-haven reassessment and rising inflation concerns.",
       "notableMoves": [
-        "Oil prices: WTI and Brent crude surged over 6% due to supply disruption fears.",
-        "Precious metals: Gold fell nearly 3% to ~$4,630; silver dropped over 5.5% as rate hike expectations rise.",
-        "Market sentiment: US500 index declined 1.02%. Travel, mining, and tech sectors show mixed performance; Nike dropped over 15%."
+        "Oil prices: Brent crude rose to $105-$107/bbl; WTI crude trading ~$104-$105/bbl.",
+        "Precious metals: Gold fell ~2.7% to $4,631/oz; silver also dropped as market sentiment soured.",
+        "Market sentiment: US stock futures plunged (Dow, S&P 500, Nasdaq-100 down); US dollar and Treasury yields rose."
       ]
     },
     "artNews": {
