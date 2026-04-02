@@ -1,23 +1,22 @@
 {
-  "lastUpdated": "2026-04-02T22:15:00+09:00",
+  "lastUpdated": "2026-04-02T22:20:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global stock markets are experiencing significant volatility following President Trump's statements about a potentially prolonged conflict in Iran. Major U.S. indices are reacting to the hawkish tone, though Indian markets showed resilience with a sharp intraday recovery. Energy markets are particularly reactive, with oil surging significantly.",
+      "summary": "Global stock markets are tumbling following President Trump's address on the US-Iran conflict, which hinted at escalation. Energy markets are witnessing a sharp surge, while equities across Asia and Europe have faced significant declines.",
       "notableMoves": [
-        "Oil surge: WTI crude up ~7.65% to $107.80, Brent up ~7.63% to $108.90.",
-        "Market sentiment: U.S. stock futures (Nasdaq 100, S&P 500) down as investors weigh geopolitical risks.",
-        "Value buying: Indian Sensex/Nifty50 staged a recovery from early losses."
+        "Oil surge: Brent crude up ~7.6% to ~$108.81/bbl, WTI up ~7.1% to ~$107.18/bbl.",
+        "Market sentiment: U.S. stock futures (S&P 500, Nasdaq) lower; Asian and European indices closed/trading in the red.",
+        "Treasuries: 10-year Treasury yield rose to ~4.37% amid flight to safety/uncertainty."
       ]
     },
     "artNews": {
       "events": [
-        "Art Basel Hong Kong 2026 concluded with record 91,500 visitors and robust multi-million dollar sales.",
-        "High-profile heist: Renoir, Cézanne, and Matisse works stolen from Fondazione Magnani Rocca in Italy."
+        "Major Recovery: Priceless 2,500-year-old golden helmet stolen from Dutch museum in 2025 recovered.",
+        "Tokyo Contemporary Art Award 2026-2028: Recipients Han Ishu and yang02 announced."
       ],
       "trends": [
-        "Structural reset in art market with focus on experiences over physical objects.",
-        "Rising interest in emotional intensity and psychological depth in art.",
-        "Continued momentum for digital art and hybrid exhibition formats."
+        "Ongoing focus on figurative art as collectors prioritize recognizable yet evolving narratives.",
+        "Significant spring exhibition cycle underway with major retrospectives (e.g., Duchamp at MoMA, Whitney Biennial)."
       ]
     }
   }
