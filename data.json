@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-04-02T15:30:00+09:00",
+  "timestamp": "2026-04-02T15:40:00+09:00",
   "briefing": {
-    "market_summary": "KOSPI index down 3.6% to 5,281.22 points on April 2, 2026, amid heightened geopolitical tensions regarding US-Iran relations.",
-    "art_news": "BAMA (Busan Annual Market of Art) is ongoing (April 2-5). ART OnO kicks off tomorrow (April 3-5). Korea's Galleries Art Fair is scheduled for April 8-12 at COEX."
+    "tech": [
+      "AI giants like OpenAI continue explosive growth with $852B valuation",
+      "Microsoft investing heavily in AI infrastructure in Thailand and Singapore",
+      "Salesforce overhauling Slack with 30 new AI features",
+      "Legal scrutiny on social media for addictive design in US courts"
+    ],
+    "art": [
+      "Diverse April exhibitions globally: 'Watering a Black Garden' (Amsterdam), 'The Many Within Her II' (London)",
+      "Christie's celebrating 40th anniversary in Asia with Spring Hong Kong Asian Art Week",
+      "Artexpo New York returns for April"
+    ]
   }
 }
