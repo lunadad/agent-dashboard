@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-02T13:00:00",
+  "updated_at": "2026-04-02T13:30:00",
   "date": "2026-04-02",
   "summary": {
-    "finance": "KOSPI remains at 5,281.6; consolidation observed after sharp drop.",
-    "art": "BAMA 2026 ongoing; heavy afternoon traffic at BEXCO, strong sales in contemporary section."
+    "finance": "KOSPI remains volatile at 5,281.6; afternoon trading shows mixed results following morning sell-off.",
+    "art": "BAMA 2026 crowds peaking at BEXCO; afternoon networking events underway."
   },
   "market_highlights": [
-    "KOSPI index steady at 5,281.6.",
+    "KOSPI index volatile at 5,281.6.",
     "Market consolidating following morning volatility.",
     "Global oil prices remain a concern amid regional instability.",
     "Investor sentiment cautious."
@@ -14,7 +14,7 @@
   "art_highlights": [
     "BAMA 2026 crowds peaking at BEXCO.",
     "Theme: 'NODE: A Knot of Connection and Expansion'.",
-    "Strong activity in contemporary section sales.",
-    "Features include curated programs and international galleries."
+    "Networking events active.",
+    "Strong activity in contemporary section sales."
   ]
 }
