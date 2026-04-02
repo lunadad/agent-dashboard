@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-04-02T17:30:00+09:00",
+  "timestamp": "2026-04-02T17:50:00+09:00",
   "briefing": {
     "market": [
-      "KOSPI closed at 5,234.05 (-4.47%) after a volatile session.",
-      "Global risk aversion deepened following U.S. threats of military action against Iran."
+      "KOSPI closed at 5,176.56 (-5.51%).",
+      "Sell-side sidecar triggered due to market volatility.",
+      "Global risk aversion remains high following U.S.-Iran tension."
     ],
     "art": [
-      "BAMA 2026 is underway at BEXCO (April 2–5).",
-      "Nam June Paik: Rewind / Repeat opened today (April 2) at APMA Cabinet.",
-      "ART OnO VIP preview held today (April 2).",
-      "Record-breaking 17.7 billion won sale of Yoshitomo Nara's work reported."
+      "BAMA 2026 ongoing at BEXCO (April 2–5).",
+      "Nam June Paik: Rewind / Repeat exhibition open.",
+      "Yoshitomo Nara sale (17.7B KRW) continues to make headlines."
     ]
   }
 }
