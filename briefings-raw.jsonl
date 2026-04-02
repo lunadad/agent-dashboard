@@ -5,3 +5,4 @@
 {"timestamp": "2026-04-03T05:00:00+09:00", "event": "cron_sync", "data": "US markets closed Good Friday; volatility high. Art events: South Street Art Festival, Eastern Shore Art Walk open."}
 {"timestamp": "2026-04-03T05:30:00+09:00", "event": "cron_sync", "data": "sync_complete"}
 {"timestamp": "2026-04-03T06:00:00+09:00", "event": "cron_sync", "data": "Market: US markets closed for Good Friday. Art: St. George Art Festival, Ocala First Friday, Play L.A."}
+{"timestamp": "2026-04-03T06:10:00+09:00", "event": "cron_sync", "data": "Market: US markets closed for Good Friday. KOSPI volatile after sharp decline. Art: St. George Art Festival (UT), April Art Stroll (Ogden, UT), ArtWalk Moab (UT)."}
