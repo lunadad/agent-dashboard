@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T23:55:00+09:00",
-  "summary": "KOSPI closed at 5234.05 (-4.47%) today amid regional tensions following U.S.-Iran escalations. Market sentiment is deeply bearish. Despite the volatility, the Seoul art market achieved a historic milestone: Yoshitomo Nara's 'Nothing about it' set a domestic record at auction, selling for KRW 15 billion.",
+  "last_updated": "2026-04-03T12:00:00+09:00",
+  "summary": "KOSPI opened higher at 5288.20 (+1.03%) following a tech-led recovery on Wall Street. Market sentiment shifted to cautious optimism. The art market remains resilient with high interest in digital-first collectibles, notably a new exhibition opening at the Leeum Museum featuring Lee Ufan's early works.",
   "data": {
-    "kospi_change": -4.47,
-    "market_sentiment": "bearish",
-    "art_market_outlook": "record-breaking auction activity despite macro volatility"
+    "kospi_change": 1.03,
+    "market_sentiment": "cautious-optimism",
+    "art_market_outlook": "strong institutional demand for established Korean masters"
   }
 }
