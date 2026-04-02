@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-04-02T17:50:00+09:00",
+  "timestamp": "2026-04-02T18:30:00+09:00",
   "briefing": {
     "market": [
       "KOSPI closed at 5,176.56 (-5.51%).",
-      "Sell-side sidecar triggered due to market volatility.",
-      "Global risk aversion remains high following U.S.-Iran tension."
+      "Sell-side sidecar triggered earlier; market sentiment remains fragile.",
+      "Global risk aversion continues into the evening."
     ],
     "art": [
-      "BAMA 2026 ongoing at BEXCO (April 2–5).",
-      "Nam June Paik: Rewind / Repeat exhibition open.",
-      "Yoshitomo Nara sale (17.7B KRW) continues to make headlines."
+      "BAMA 2026 Day 1 at BEXCO: High attendance despite market volatility.",
+      "Nam June Paik exhibit sees steady stream of visitors.",
+      "Digital art NFTs showing resistance to broader market dip."
     ]
   }
 }
