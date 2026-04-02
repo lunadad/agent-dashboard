@@ -1,15 +1,24 @@
 {
-  "timestamp": "2026-04-02T18:30:00+09:00",
+  "lastUpdated": "2026-04-02T19:10:00+09:00",
   "briefing": {
-    "market": [
-      "KOSPI closed at 5,176.56 (-5.51%).",
-      "Sell-side sidecar triggered earlier; market sentiment remains fragile.",
-      "Global risk aversion continues into the evening."
-    ],
-    "art": [
-      "BAMA 2026 Day 1 at BEXCO: High attendance despite market volatility.",
-      "Nam June Paik exhibit sees steady stream of visitors.",
-      "Digital art NFTs showing resistance to broader market dip."
-    ]
+    "stockMarket": {
+      "summary": "Global markets show mixed activity. Indian indices (Sensex, Nifty) faced a significant decline (~2%) due to geopolitical tensions and profit booking. US markets show signs of recovery, with S&P 500 up 0.7% on optimism.",
+      "notableMoves": [
+        "Booking Holdings (BKNG) completed a 25-for-1 forward stock split.",
+        "Ola Electric surged ~8% following price cuts.",
+        "Karnataka Bank shares fell ~6%."
+      ]
+    },
+    "artNews": {
+      "upcomingFairs": [
+        "Art Paris 2026 (Apr 9-12)",
+        "SP-Arte (Apr 8-12)",
+        "Art Dubai (Apr 17-19)"
+      ],
+      "exhibitions": [
+        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago)",
+        "Marcel Duchamp retrospective (MoMA, opens Apr 16)"
+      ]
+    }
   }
 }
