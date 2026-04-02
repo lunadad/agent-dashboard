@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-03T00:10:00+09:00",
-  "summary": "KOSPI closed at 5234.05 (-4.47%) on April 2nd, reflecting significant market volatility. The art market is vibrant, with Yoshitomo Nara's 'Nothing about it' setting a new record of KRW 15 billion at auction. Preparations are underway for the Galleries Art Fair opening on April 8th.",
+  "last_updated": "2026-04-03T00:20:00+09:00",
+  "summary": "KOSPI market remains volatile following significant drops on April 2nd due to geopolitical tensions (Trump's remarks on Iran). Investors are closely monitoring the impact on major stocks like Samsung and SK Hynix. Art market activity remains strong with recent record-breaking auction results.",
   "data": {
     "kospi_value": 5234.05,
     "kospi_change_percent": -4.47,
     "market_sentiment": "volatile",
-    "art_market_outlook": "high activity with record-breaking auction results and upcoming major fair"
+    "art_market_outlook": "high activity sustained"
   }
 }
