@@ -1,24 +1,25 @@
 {
-  "lastUpdated": "2026-04-02T20:20:00+09:00",
+  "lastUpdated": "2026-04-02T20:40:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Global markets face intense volatility as US-Iran geopolitical tensions escalate following President Trump's hawkish address, reversing de-escalation hopes. Oil prices spiked significantly on supply disruption fears, while gold retreated from its recent rally amid safe-haven reassessment and rising inflation concerns.",
+      "summary": "U.S. stock futures declined as geopolitical tensions in Iran escalate following President Trump's hawkish statements, reversing de-escalation hopes. Oil prices surged significantly (WTI +7.65%, Brent +7.63%), while the Nasdaq 100 index officially entered correction territory (down 10% from highs).",
       "notableMoves": [
-        "Oil prices: Brent crude rose to $105-$107/bbl; WTI crude trading ~$104-$105/bbl.",
-        "Precious metals: Gold fell ~2.7% to $4,631/oz; silver also dropped as market sentiment soured.",
-        "Market sentiment: US stock futures plunged (Dow, S&P 500, Nasdaq-100 down); US dollar and Treasury yields rose."
+        "Oil surge: WTI crude at $107.80/bbl (+7.65%), Brent at $108.90/bbl (+7.63%).",
+        "Market correction: Nasdaq 100 officially in correction (down 10% from all-time highs).",
+        "Sentiment: US stock futures lower as Middle East conflict concerns deepen."
       ]
     },
     "artNews": {
       "upcomingFairs": [
-        "Art Paris 2026 (Apr 9-12)",
-        "SP-Arte (Apr 8-12)",
-        "Art Dubai (Apr 17-19)"
+        "EXPO CHICAGO (Apr 9-12)",
+        "Art Paris (Apr 9-12)",
+        "Art Dubai (Apr 17-19)",
+        "Dallas Art Fair (Apr 16-19)"
       ],
       "exhibitions": [
-        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago, through June 1)",
-        "More is More is More: A Melody of Maximalism (Art Center Waco, through Apr 25)",
-        "Gabriel Orozco Garden: The Three Friends of Winter (Leeum Museum of Art, Seoul)"
+        "Several Eternities in a Day (Hammer Museum, Apr 5 - Aug 23)",
+        "An Ode to Things (EMST Athens, through Sept 30)",
+        "The Whitney Biennial 2026 (Whitney Museum, through Aug 23)"
       ]
     }
   }
