@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-04-02T19:30:00+09:00",
+  "lastUpdated": "2026-04-02T19:40:00+09:00",
   "briefing": {
     "stockMarket": {
-      "summary": "Asian markets plunged on April 2, 2026, as geopolitical tensions escalated following US President Donald Trump's address signaling potential military action against Iran, cooling peace hopes. Oil prices surged on supply disruption concerns, while gold and silver declined.",
+      "summary": "Global markets are experiencing a downturn on April 2, 2026, driven by renewed geopolitical concerns following signals of potential military escalation against Iran. This uncertainty has dampened recent optimism.",
       "notableMoves": [
-        "South Korea's KOSPI fell 4.35%-5.55%, triggering sidecars.",
-        "Oil prices (Brent crude) rose 4.8%-7% to nearly $108/barrel.",
-        "Precious metals faced downward pressure: Gold down ~2-4%, Silver down ~4.9-7.3%."
+        "Oil prices surged: Brent crude rose 6.6% to nearly $108/barrel.",
+        "Precious metals declined: Gold fell 2% to $4,718.70, Silver dropped 4.9%.",
+        "Asian markets saw broad declines: South Korea's KOSPI dropped 5.2%, Japan's Nikkei 225 fell 2.6%, and Hong Kong's Hang Seng declined 1.4%."
       ]
     },
     "artNews": {
@@ -16,8 +16,9 @@
         "Art Dubai (Apr 17-19)"
       ],
       "exhibitions": [
-        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago)",
-        "Marcel Duchamp retrospective (MoMA, opens Apr 16)"
+        "Matisse's Jazz: Rhythms in Color (Art Institute of Chicago, through June 1)",
+        "More is More is More: A Melody of Maximalism (Art Center Waco, through Apr 25)",
+        "Gabriel Orozco Garden: The Three Friends of Winter (Leeum Museum of Art, Seoul)"
       ]
     }
   }
