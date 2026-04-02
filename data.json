@@ -1,10 +1,7 @@
 {
-  "last_updated": "2026-04-03T00:40:00+09:00",
-  "summary": "KOSPI closed the April 2nd session at 5,234.05, down 4.47%. Market sentiment remains volatile driven by geopolitical tensions in the Middle East. Art market activity remains strong despite equity market weakness. Overnight stability in KOSPI futures observed.",
-  "data": {
-    "kospi_value": 5234.05,
-    "kospi_change_percent": -4.47,
-    "market_sentiment": "volatile (stabilizing)",
-    "art_market_outlook": "high activity sustained"
+  "last_updated": "2026-04-03T01:00:00+09:00",
+  "summary": {
+    "art": "April 3 marks the start of the 12th Annual South Street Art Festival in Texas, and First Friday Art Walks nationwide. Notable exhibition at Leeum Seoul.",
+    "market": "US markets closed for Good Friday (April 3). Thursday (April 2) close saw S&P 500 down 1.1% and oil prices surging amid ongoing geopolitical tensions in the Middle East."
   }
 }
