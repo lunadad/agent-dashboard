@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T23:10:00+09:00",
-  "summary": "Market remains bearish following the KOSPI plunge earlier today. Current volatility persists as traders digest the geopolitical news. Seoul art market activity continues, with anticipation building for the ART OnO fair starting tomorrow (April 3).",
+  "last_updated": "2026-04-02T23:20:00+09:00",
+  "summary": "KOSPI closed down 4.47% at 5234.05 amid geopolitical tensions regarding Iran following U.S. warnings. Market sentiment is deeply bearish with sidecars triggered during the day. In contrast, the ART OnO 2026 fair kicked off with a VIP preview showing strong initial sales, public opening starts tomorrow, April 3rd.",
   "data": {
     "kospi_change": -4.47,
     "market_sentiment": "bearish",
-    "art_market_outlook": "cautiously optimistic"
+    "art_market_outlook": "active (ART OnO fair ongoing)"
   }
 }
