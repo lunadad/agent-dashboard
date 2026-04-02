@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-02T23:30:00+09:00",
-  "summary": "KOSPI closed down 4.47% at 5234.05 amid geopolitical tensions. Despite market bearishness, the art market saw a record-breaking auction result at Seoul Auction today with Yoshitomo Nara's work fetching KRW 15 billion. ART OnO 2026 fair continues, with the Galleries Art Fair opening next week.",
+  "last_updated": "2026-04-02T23:45:00+09:00",
+  "summary": "KOSPI plunged 4.47% today to close at 5234.05, driven by geopolitical tensions in the Middle East following U.S. warnings toward Iran. Market sentiment is bearish as investors react to increased instability. On the art front, BAMA (Busan Annual Market of Art) fair is currently underway (April 2-5), while preparations are finalized for the upcoming Galleries Art Fair opening on April 8th at Coex.",
   "data": {
     "kospi_change": -4.47,
     "market_sentiment": "bearish",
-    "art_market_outlook": "record-breaking auction activity despite macro headwinds"
+    "art_market_outlook": "cautious activity amid market volatility, with major regional fairs ongoing"
   }
 }
