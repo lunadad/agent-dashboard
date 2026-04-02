@@ -1,16 +1,17 @@
 {
-  "timestamp": "2026-04-02T15:40:00+09:00",
+  "timestamp": "2026-04-02T15:50:00+09:00",
   "briefing": {
-    "tech": [
-      "AI giants like OpenAI continue explosive growth with $852B valuation",
-      "Microsoft investing heavily in AI infrastructure in Thailand and Singapore",
-      "Salesforce overhauling Slack with 30 new AI features",
-      "Legal scrutiny on social media for addictive design in US courts"
+    "market": [
+      "Global stock markets downturn due to West Asia geopolitical tensions and rising oil prices",
+      "Sensex fell over 1,400 points, Nifty50 dropped below 22,250",
+      "US500 fell 1.11% in current session",
+      "Banking and auto sectors face significant pressure"
     ],
     "art": [
-      "Diverse April exhibitions globally: 'Watering a Black Garden' (Amsterdam), 'The Many Within Her II' (London)",
-      "Christie's celebrating 40th anniversary in Asia with Spring Hong Kong Asian Art Week",
-      "Artexpo New York returns for April"
+      "Han Ishu and yang02 won the 6th Tokyo Contemporary Art Award (TCAA) 2026",
+      "Major exhibitions opening: 'Celebrity Skin' (Tate Modern), 'The Jamaica Project' (Camden Art Centre)",
+      "Art market trend: Renewed commitment to human-made work over AI-perfection",
+      "Growing appreciation for texture and dimension in contemporary painting"
     ]
   }
 }
