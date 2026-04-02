@@ -1,7 +1,1 @@
-{"timestamp": "2026-04-02T19:40:00+09:00", "event": "stock_market_update", "summary": "Global market downturn due to geopolitical tensions with Iran; oil surge, gold/silver drop."}
-{"timestamp": "2026-04-02T19:40:00+09:00", "event": "art_news_update", "summary": "Updates on Matisse, maximalism, and Orozco exhibitions."}
-{"timestamp": "2026-04-02T20:00:00+09:00", "event": "stock_market_update", "summary": "Escalation in US-Iran conflict triggers market volatility; oil jumps, gold/stocks slide."}
-{"timestamp": "2026-04-02T20:00:00+09:00", "event": "art_news_update", "summary": "Art calendar remains unchanged with major April fairs approaching."}
-{"timestamp": "2026-04-02T20:20:00+09:00", "event": "cron_sync", "summary": "Dashboard health check and sync performed."}
-{"timestamp": "2026-04-02T20:40:00+09:00", "event": "cron_sync", "summary": "Dashboard updated with latest market volatility and art fair schedules."}
-{"timestamp": "2026-04-02T20:50:00+09:00", "event": "cron_sync", "summary": "Dashboard updated: Iran-US tensions escalate market volatility; oil up 7%, stocks down, warflation fears."}
+{"timestamp": "2026-04-02T22:30:00+09:00", "briefing": "Kospi tumbled 4.47% to 5234.05 amid Middle East geopolitical tensions following US threats of strikes against Iran. Despite broader market bearishness, Seoul's art market ecosystem remains robust for 2026, with major institutions and fairs (Frieze Seoul, Gwangju Biennale) expected in September."}

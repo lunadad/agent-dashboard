@@ -1,23 +1,9 @@
 {
-  "lastUpdated": "2026-04-02T22:20:00+09:00",
-  "briefing": {
-    "stockMarket": {
-      "summary": "Global stock markets are tumbling following President Trump's address on the US-Iran conflict, which hinted at escalation. Energy markets are witnessing a sharp surge, while equities across Asia and Europe have faced significant declines.",
-      "notableMoves": [
-        "Oil surge: Brent crude up ~7.6% to ~$108.81/bbl, WTI up ~7.1% to ~$107.18/bbl.",
-        "Market sentiment: U.S. stock futures (S&P 500, Nasdaq) lower; Asian and European indices closed/trading in the red.",
-        "Treasuries: 10-year Treasury yield rose to ~4.37% amid flight to safety/uncertainty."
-      ]
-    },
-    "artNews": {
-      "events": [
-        "Major Recovery: Priceless 2,500-year-old golden helmet stolen from Dutch museum in 2025 recovered.",
-        "Tokyo Contemporary Art Award 2026-2028: Recipients Han Ishu and yang02 announced."
-      ],
-      "trends": [
-        "Ongoing focus on figurative art as collectors prioritize recognizable yet evolving narratives.",
-        "Significant spring exhibition cycle underway with major retrospectives (e.g., Duchamp at MoMA, Whitney Biennial)."
-      ]
-    }
+  "last_updated": "2026-04-02T22:30:00+09:00",
+  "summary": "Kospi dropped 4.47% due to geopolitical tensions in the Middle East. Art scene remains vibrant with major events like Frieze Seoul and Gwangju Biennale scheduled for September 2026.",
+  "data": {
+    "kospi_change": -4.47,
+    "market_sentiment": "bearish",
+    "art_market_outlook": "cautiously optimistic"
   }
 }
