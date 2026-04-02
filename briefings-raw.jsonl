@@ -6,3 +6,4 @@
 {"timestamp": "2026-04-03T05:30:00+09:00", "event": "cron_sync", "data": "sync_complete"}
 {"timestamp": "2026-04-03T06:00:00+09:00", "event": "cron_sync", "data": "Market: US markets closed for Good Friday. Art: St. George Art Festival, Ocala First Friday, Play L.A."}
 {"timestamp": "2026-04-03T06:10:00+09:00", "event": "cron_sync", "data": "Market: US markets closed for Good Friday. KOSPI volatile after sharp decline. Art: St. George Art Festival (UT), April Art Stroll (Ogden, UT), ArtWalk Moab (UT)."}
+{"timestamp": "2026-04-03T06:45:00+09:00", "event": "cron_sync", "data": "Market: KOSPI fell 4.47% to 5,234.05 on April 2 due to Iran tensions. Art: ART OnO fair ongoing (April 3-5, SETEC), exhibitions like '如, this is it' at The Page Gallery continue."}
