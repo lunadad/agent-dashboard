@@ -2,3 +2,4 @@
 {"timestamp": "2026-04-03T04:10:00+09:00", "event": "cron_sync", "data": "sync_complete"}
 {"timestamp": "2026-04-03T04:20:00+09:00", "event": "cron_sync", "data": "sync_complete"}
 {"timestamp": "2026-04-03T04:30:00+09:00", "event": "cron_sync", "data": "KOSPI -4.47%, ART OnO fair running"}
+{"timestamp": "2026-04-03T05:00:00+09:00", "event": "cron_sync", "data": "US markets closed Good Friday; volatility high. Art events: South Street Art Festival, Eastern Shore Art Walk open."}
