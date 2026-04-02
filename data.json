@@ -1,13 +1,14 @@
 {
-  "timestamp": "2026-04-02T16:10:00+09:00",
+  "timestamp": "2026-04-02T16:20:00+09:00",
   "briefing": {
     "market": [
-      "KOSPI down 3.6% to 5281.22"
+      "KOSPI holding at 5281.22",
+      "Market stable, watch KOSPI 5300 resistance"
     ],
     "art": [
-      "BAMA ongoing",
-      "ART OnO starts April 3",
-      "Galleries Art Fair starts April 8"
+      "BAMA ongoing (final days)",
+      "ART OnO begins tomorrow (April 3)",
+      "Galleries Art Fair preparations for April 8"
     ]
   }
 }
