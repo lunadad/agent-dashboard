@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-03T13:10:00+09:00",
-  "market_summary": "오후 1시 10분 기준, 시장은 여전히 기술주 중심의 변동성을 지속하며 관망세가 유지되고 있습니다. 글로벌 경제 지표들의 영향으로 신중한 접근이 필요한 시점입니다.",
+  "last_updated": "2026-04-03T13:20:00+09:00",
+  "market_summary": "오후 1시 20분 기준, 시장은 여전히 기술주 변동성을 주시하며 완만한 회복세를 보이고 있습니다. 예술 시장의 디지털 부문은 꾸준한 거래가 이루어지고 있습니다.",
   "art_market_note": "서울 내 전시 관련 활동이 주말을 앞두고 활발해지고 있습니다. 디지털 아트 시장은 전반적인 안정세를 유지 중입니다.",
   "status": "Active",
   "dailyReports": {
@@ -8,7 +8,7 @@
       "raw": "Markets continue to show volatility in the tech sector, with a cautious approach dominating the early afternoon session."
     },
     "루나봇": {
-      "raw": "4월 3일 오후 1시 10분, 시장은 여전히 기술주 변동성에 주의하며 관망하는 분위기입니다."
+      "raw": "4월 3일 오후 1시 20분, 시장은 기술주 변동성을 주시하며 완만한 회복세를 보이고 있습니다."
     }
   }
 }
