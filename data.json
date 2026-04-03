@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-03T10:50:00+09:00",
-  "market_summary": "4월 3일 오전 10시 50분 기준, 시장은 기술주 변동성 속에서도 신중한 회복세를 이어가고 있습니다. 포트폴리오 재조정이 필요한 시점입니다.",
-  "art_market_note": "오늘 휘트니 비엔날레 관련 세미나 소식이 업데이트되었습니다. 4월의 컬렉팅 전략을 다시 점검하세요.",
+  "last_updated": "2026-04-03T11:00:00+09:00",
+  "market_summary": "4월 3일 오전 11시 기준, 시장은 기술주 변동성 속에서도 신중한 관망세를 유지하고 있습니다. 글로벌 경제 지표들은 신중한 시작을 예고하고 있습니다.",
+  "art_market_note": "휘트니 비엔날레의 영향으로 실험적 작품에 대한 관심이 급증하고 있습니다. 4월의 컬렉팅 전략을 점검하세요.",
   "status": "Active",
   "dailyReports": {
     "FT": {
-      "raw": "Markets show resilience; focus remains on tech sector indicators and geopolitical stability. Watch volume levels."
+      "raw": "Markets are opening with a focus on tech sector volatility. Global economic indicators suggest a cautious start."
     },
     "카리나": {
-      "raw": "4월의 예술 시장은 2026 휘트니 비엔날레 개막과 함께 현대 미술의 새로운 담론이 형성 중입니다. 작가들의 정치적 기억과 정체성 탐구가 두드러집니다."
+      "raw": "휘트니 비엔날레의 영향으로 실험적 작품에 대한 관심이 급증하고 있습니다. 4월의 컬렉팅 전략을 점검하세요."
     }
   }
 }
