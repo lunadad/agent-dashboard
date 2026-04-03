@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-03T20:30:00+09:00",
+  "updatedAt": "2026-04-03T20:40:00+09:00",
   "market": {
-    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady with AI-focused growth. No major volatility reported in the last 10 minutes."
+    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady. Emerging digital artists showing increased interest ahead of upcoming art events."
   },
   "art": {
-    "summary": "Preparation for the upcoming Galleries Art Fair continues. Emerging digital artists showing increased interest in local auctions."
+    "summary": "Emerging digital artists showing increased interest ahead of upcoming art events."
   },
   "status": "Updated",
-  "last_update": "2026-04-03T20:30:00+09:00",
+  "last_update": "2026-04-03T20:40:00+09:00",
   "latest_briefing": {
-    "timestamp": "2026-04-03T20:30:00+09:00",
-    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady with AI-focused growth. Emerging digital artists show increased interest in the lead-up to the Galleries Art Fair."
+    "timestamp": "2026-04-03T20:40:00+09:00",
+    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady. Emerging digital artists showing increased interest ahead of upcoming art events."
   }
 }
