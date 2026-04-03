@@ -1,16 +1,13 @@
 {
-  "date": "2026-04-03",
-  "briefing": {
-    "market": {
-      "kospi_change": "2.7% 상승 (5375.50)",
-      "kosdaq_change": "2.16% 상승 (1079.17)",
-      "summary": "호르무즈 해협 정상화 기대감으로 급반등. 기관 매수세 유입."
-    },
-    "art": [
-      "서울문화재단 장애예술 기획전 (신한갤러리, 국립정신건강센터)",
-      "제78주년 4.3미술제 개막 (예술공간 이아, 산지천 갤러리)",
-      "2026 예술의전당 교향악축제 진행 중",
-      "영등포 여의도 봄꽃축제 개최 (4/3~4/7)"
-    ]
+  "timestamp": "2026-04-03T15:00:00+09:00",
+  "art_news": {
+    "summary": "Global art scene is vibrant. Key events: 'Watering a Black Garden' (Amsterdam), Nihaal Faizal's '(video art)' (NY), 'We Others' and 'Celebrity Skin' (London). Local events include Montpelier Art Walk and Knoxville Museum of Art's 'Knoxville Collects: Susanna Navarro'.",
+    "updated": "2026-04-03"
+  },
+  "market_summary": {
+    "status": "Closed (Good Friday)",
+    "last_close": "2026-04-02",
+    "note": "Markets closed for Good Friday holiday. Previous session saw mixed results: Dow -0.13%, S&P 500 and Nasdaq posted modest gains.",
+    "market_sentiment": "Fragile due to oil prices and Iran conflict concerns."
   }
 }
