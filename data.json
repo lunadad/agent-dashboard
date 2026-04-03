@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-03T11:10:00+09:00",
-  "market_summary": "4월 3일 오전 11시 10분 기준, 시장은 기술주 변동성 속에서도 신중한 관망세를 유지하고 있습니다. 글로벌 경제 지표들은 신중한 시작을 예고하고 있습니다.",
-  "art_market_note": "휘트니 비엔날레의 영향으로 실험적 작품에 대한 관심이 급증하고 있습니다. 4월의 컬렉팅 전략을 점검하세요.",
+  "last_updated": "2026-04-03T11:20:00+09:00",
+  "market_summary": "4월 3일 오전 11시 20분 기준, 시장은 여전히 기술주 변동성에 예민하게 반응하고 있습니다. 다만, 미술 시장에서의 고가 작품 거래 활성화와 페어의 흥행이 긍정적인 지표로 작용하고 있습니다.",
+  "art_market_note": "휘트니 비엔날레와 BAMA 부산국제화랑아트페어가 주목받고 있습니다. 실험적인 현대 미술과 판화 시장의 흐름을 체크해보세요.",
   "status": "Active",
   "dailyReports": {
     "FT": {
-      "raw": "Markets are opening with a focus on tech sector volatility. Global economic indicators suggest a cautious start."
+      "raw": "Markets continue to navigate tech volatility with caution, while the art market shows robust activity in high-value segments and fairs."
     },
     "카리나": {
-      "raw": "휘트니 비엔날레의 영향으로 실험적 작품에 대한 관심이 급증하고 있습니다. 4월의 컬렉팅 전략을 점검하세요."
+      "raw": "휘트니 비엔날레와 BAMA 부산국제화랑아트페어가 주목받고 있습니다. 실험적인 현대 미술과 판화 시장의 흐름을 체크해보세요."
     }
   }
 }
