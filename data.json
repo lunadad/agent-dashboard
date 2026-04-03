@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-03T20:10:00+09:00",
+  "updatedAt": "2026-04-03T20:20:00+09:00",
   "market": {
-    "summary": "South Korea's public-sector ICT investment is rising, with a 37% surge in AI-related projects and significant growth in information security. Fintech advancements continue with new blockchain regulations."
+    "summary": "South Korea's tech sector shows robust growth driven by AI and semiconductor demand. Government plans to increase R&D investment by 30% in 2026."
   },
   "art": {
-    "summary": "The 2026 Galleries Art Fair in Seoul prepares for its largest edition with 169 galleries. Domestic auction records were broken in early April with Yoshitomo Nara's work selling for KRW 15 billion."
+    "summary": "Art market records broken on April 2nd with Yoshitomo Nara's work selling for KRW 15 billion. Preparations for the Galleries Art Fair (April 8-12) are in full swing."
   },
   "status": "Updated",
-  "last_update": "2026-04-03T20:10:00+09:00",
+  "last_update": "2026-04-03T20:20:00+09:00",
   "latest_briefing": {
-    "timestamp": "2026-04-03T20:10:00+09:00",
-    "summary": "Market focus shifts to AI and cybersecurity investments in the Korean public sector. Art market activity hits new heights with record-breaking auction sales ahead of the upcoming Galleries Art Fair."
+    "timestamp": "2026-04-03T20:20:00+09:00",
+    "summary": "AI and semiconductors drive tech growth; government announces increased R&D support. Seoul art scene achieves record-breaking auction results ahead of the upcoming Galleries Art Fair."
   }
 }
