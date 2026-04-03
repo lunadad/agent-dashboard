@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-04-03T15:00:00+09:00",
+  "timestamp": "2026-04-03T15:20:00+09:00",
   "art_news": {
-    "summary": "Global art scene is vibrant. Key events: 'Watering a Black Garden' (Amsterdam), Nihaal Faizal's '(video art)' (NY), 'We Others' and 'Celebrity Skin' (London). Local events include Montpelier Art Walk and Knoxville Museum of Art's 'Knoxville Collects: Susanna Navarro'.",
+    "summary": "April 2026 art scene highlights: Prints market boom with IFPDA Print Fair and Artnet sales; Tokyo Contemporary Art Award winners Han Ishu and yang02; Must-see exhibitions include Gabriel Orozco's MIT installation and living material showcases.",
     "updated": "2026-04-03"
   },
   "market_summary": {
     "status": "Closed (Good Friday)",
-    "last_close": "2026-04-02",
-    "note": "Markets closed for Good Friday holiday. Previous session saw mixed results: Dow -0.13%, S&P 500 and Nasdaq posted modest gains.",
-    "market_sentiment": "Fragile due to oil prices and Iran conflict concerns."
+    "last_close": "2026-04-03",
+    "note": "Major U.S. and Indian stock markets are closed today in observance of Good Friday. Markets will reopen on Monday, April 6.",
+    "market_sentiment": "Holiday closure; markets stable."
   }
 }
