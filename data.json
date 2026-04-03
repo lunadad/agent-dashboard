@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-03T19:30:00+09:00",
+  "updatedAt": "2026-04-03T19:40:00+09:00",
   "market": {
     "summary": "Tech sector volatility continues, global economic indicators showing caution."
   },
   "art": {
     "summary": "Seoul exhibitions show growth in engagement, digital art market remains stable."
   },
-  "status": "Ready for updates",
-  "last_update": "2026-04-03T19:30:00+09:00",
+  "status": "Updated",
+  "last_update": "2026-04-03T19:40:00+09:00",
   "latest_briefing": {
-    "timestamp": "2026-04-03T19:30:00+09:00",
-    "summary": "Focus on tech sector volatility, cautious global economic indicators. Active engagement in Seoul art scene, digital art sector stable. Portfolio review and meeting preparations ongoing."
+    "timestamp": "2026-04-03T19:40:00+09:00",
+    "summary": "Tech sector volatility continues, global economic indicators showing caution. Seoul exhibitions show growth in engagement, digital art market remains stable. Portfolio review and meeting preparations ongoing."
   }
 }
