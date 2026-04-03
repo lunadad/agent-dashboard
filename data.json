@@ -1,10 +1,13 @@
 {
-  "updatedAt": "2026-04-03T17:30:00+09:00",
+  "lastUpdate": "2026-04-03T17:40:00+09:00",
   "market": {
-    "status": "Market focused on tech sector volatility; global economic indicators suggest a cautious start.",
-    "outlook": "cautious"
+    "summary": "Tech sector volatility, cautious start."
   },
   "art": {
-    "trends": "New exhibitions in Seoul art galleries gaining traction; digital art market shows stability."
-  }
+    "highlights": "New Seoul exhibitions, stable digital art market."
+  },
+  "todo": [
+    "Check portfolio performance",
+    "Review scheduled meetings"
+  ]
 }
