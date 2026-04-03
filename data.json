@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-04-03T16:00:00+09:00",
+  "updatedAt": "2026-04-03T16:10:00+09:00",
   "market": {
-    "status": "volatility in tech",
-    "outlook": "cautious"
+    "status": "persistent tech volatility",
+    "outlook": "cautious to neutral"
   },
   "art": {
-    "trends": "Seoul exhibitions, digital art stable"
+    "trends": "Seoul exhibitions show growth, digital art demand rising"
   }
 }
