@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-03T20:20:00+09:00",
+  "updatedAt": "2026-04-03T20:30:00+09:00",
   "market": {
-    "summary": "South Korea's tech sector shows robust growth driven by AI and semiconductor demand. Government plans to increase R&D investment by 30% in 2026."
+    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady with AI-focused growth. No major volatility reported in the last 10 minutes."
   },
   "art": {
-    "summary": "Art market records broken on April 2nd with Yoshitomo Nara's work selling for KRW 15 billion. Preparations for the Galleries Art Fair (April 8-12) are in full swing."
+    "summary": "Preparation for the upcoming Galleries Art Fair continues. Emerging digital artists showing increased interest in local auctions."
   },
   "status": "Updated",
-  "last_update": "2026-04-03T20:20:00+09:00",
+  "last_update": "2026-04-03T20:30:00+09:00",
   "latest_briefing": {
-    "timestamp": "2026-04-03T20:20:00+09:00",
-    "summary": "AI and semiconductors drive tech growth; government announces increased R&D support. Seoul art scene achieves record-breaking auction results ahead of the upcoming Galleries Art Fair."
+    "timestamp": "2026-04-03T20:30:00+09:00",
+    "summary": "Market sentiment remains cautiously optimistic; tech sector holding steady with AI-focused growth. Emerging digital artists show increased interest in the lead-up to the Galleries Art Fair."
   }
 }
