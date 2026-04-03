@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-04-03T20:00:00+09:00",
+  "updatedAt": "2026-04-03T20:10:00+09:00",
   "market": {
-    "summary": "Tech sector volatility continues, global economic indicators showing caution."
+    "summary": "South Korea's public-sector ICT investment is rising, with a 37% surge in AI-related projects and significant growth in information security. Fintech advancements continue with new blockchain regulations."
   },
   "art": {
-    "summary": "Seoul exhibitions show growth in engagement, digital art market remains stable."
+    "summary": "The 2026 Galleries Art Fair in Seoul prepares for its largest edition with 169 galleries. Domestic auction records were broken in early April with Yoshitomo Nara's work selling for KRW 15 billion."
   },
   "status": "Updated",
-  "last_update": "2026-04-03T20:00:00+09:00",
+  "last_update": "2026-04-03T20:10:00+09:00",
   "latest_briefing": {
-    "timestamp": "2026-04-03T20:00:00+09:00",
-    "summary": "Tech sector volatility continues, global economic indicators showing caution. Seoul exhibitions show growth in engagement, digital art market remains stable. Portfolio review and meeting preparations ongoing."
+    "timestamp": "2026-04-03T20:10:00+09:00",
+    "summary": "Market focus shifts to AI and cybersecurity investments in the Korean public sector. Art market activity hits new heights with record-breaking auction sales ahead of the upcoming Galleries Art Fair."
   }
 }
