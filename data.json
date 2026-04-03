@@ -1,9 +1,16 @@
 {
-  "timestamp": "2026-04-03T14:30:00+09:00",
-  "summary": "Financial markets (US/India) closed today for Good Friday. Technology sector shows continued volatility. Seoul art scene remains active with various exhibitions.",
-  "highlights": [
-    "Global: US and Indian financial markets closed for Good Friday.",
-    "Market: Technology sector continues to show volatility in afternoon trade.",
-    "Art: Seoul art scene remains vibrant with ongoing exhibitions and events."
-  ]
+  "date": "2026-04-03",
+  "briefing": {
+    "market": {
+      "kospi_change": "2.7% 상승 (5375.50)",
+      "kosdaq_change": "2.16% 상승 (1079.17)",
+      "summary": "호르무즈 해협 정상화 기대감으로 급반등. 기관 매수세 유입."
+    },
+    "art": [
+      "서울문화재단 장애예술 기획전 (신한갤러리, 국립정신건강센터)",
+      "제78주년 4.3미술제 개막 (예술공간 이아, 산지천 갤러리)",
+      "2026 예술의전당 교향악축제 진행 중",
+      "영등포 여의도 봄꽃축제 개최 (4/3~4/7)"
+    ]
+  }
 }
