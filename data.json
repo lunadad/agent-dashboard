@@ -1,5 +1,10 @@
 {
-  "lastUpdate": "2026-04-03T18:40:00+09:00",
-  "summary": "Market tech sector volatility, cautious global economic outlook. Seoul art galleries showing positive engagement, digital art market stable. Checking portfolio performance and scheduled meetings.",
-  "status": "active"
+  "updatedAt": "2026-04-03T18:50:00+09:00",
+  "market": {
+    "summary": "Focus on tech sector volatility, global indicators suggest cautious start."
+  },
+  "art": {
+    "summary": "New exhibitions in Seoul art galleries gaining traction, digital art market stable."
+  },
+  "status": "Ready for updates"
 }
