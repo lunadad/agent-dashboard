@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-03T11:20:00+09:00",
-  "market_summary": "4월 3일 오전 11시 20분 기준, 시장은 여전히 기술주 변동성에 예민하게 반응하고 있습니다. 다만, 미술 시장에서의 고가 작품 거래 활성화와 페어의 흥행이 긍정적인 지표로 작용하고 있습니다.",
-  "art_market_note": "휘트니 비엔날레와 BAMA 부산국제화랑아트페어가 주목받고 있습니다. 실험적인 현대 미술과 판화 시장의 흐름을 체크해보세요.",
+  "last_updated": "2026-04-03T11:30:00+09:00",
+  "market_summary": "4월 3일 오전 11시 30분 기준, 시장은 기술 섹터의 변동성에 주목하며 신중한 흐름을 보이고 있습니다.",
+  "art_market_note": "서울의 신규 전시들이 관심을 끌고 있으며, 디지털 아트 시장은 안정적인 모습을 유지 중입니다.",
   "status": "Active",
   "dailyReports": {
     "FT": {
-      "raw": "Markets continue to navigate tech volatility with caution, while the art market shows robust activity in high-value segments and fairs."
+      "raw": "Markets are opening with a focus on tech sector volatility. Global economic indicators suggest a cautious start."
     },
     "카리나": {
-      "raw": "휘트니 비엔날레와 BAMA 부산국제화랑아트페어가 주목받고 있습니다. 실험적인 현대 미술과 판화 시장의 흐름을 체크해보세요."
+      "raw": "서울의 신규 전시들이 관심을 끌고 있으며, 디지털 아트 시장은 안정적인 모습을 유지 중입니다."
     }
   }
 }
