@@ -1,13 +1,10 @@
 {
-  "timestamp": "2026-04-03T15:40:00+09:00",
-  "art_news": {
-    "summary": "April 2026 art scene highlights: Prints market boom with IFPDA Print Fair and Artnet sales; Tokyo Contemporary Art Award winners Han Ishu and yang02; Must-see exhibitions include Gabriel Orozco's MIT installation and living material showcases.",
-    "updated": "2026-04-03"
+  "updatedAt": "2026-04-03T16:00:00+09:00",
+  "market": {
+    "status": "volatility in tech",
+    "outlook": "cautious"
   },
-  "market_summary": {
-    "status": "Closed (Good Friday)",
-    "last_close": "2026-04-03",
-    "note": "Major U.S. and Indian stock markets are closed today in observance of Good Friday. Markets will reopen on Monday, April 6.",
-    "market_sentiment": "Holiday closure; markets stable."
+  "art": {
+    "trends": "Seoul exhibitions, digital art stable"
   }
 }
