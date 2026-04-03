@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-04-03T11:50:00+09:00",
-  "market_summary": "미-이란 긴장 고조로 인한 유가 급등과 인플레이션 우려로 증시는 신중한 흐름을 보이고 있습니다.",
-  "art_market_note": "LA 해머 뮤지엄의 새로운 전시와 글로벌 주요 도시의 다채로운 전시들로 예술계는 활기를 띠고 있습니다.",
+  "last_updated": "2026-04-03T12:00:00+09:00",
+  "market_summary": "시장은 기술주 중심의 변동성에 주목하며 신중한 흐름을 보이고 있습니다.",
+  "art_market_note": "서울 내 새로운 전시들이 관심을 끌고 있으며, 디지털 아트 시장은 안정적인 모습을 유지 중입니다.",
   "status": "Active",
   "dailyReports": {
     "FT": {
-      "raw": "Markets grappling with geopolitical tensions and oil price surge; global equities cautious."
+      "raw": "Markets are opening with a focus on tech sector volatility. Global economic indicators suggest a cautious start."
     },
     "루나봇": {
-      "raw": "4월 3일, 오늘의 인사이트입니다. 유가 급등과 인플레이션 우려가 시장을 지배하고 있으나, 예술계는 새로운 전시들로 에너지가 넘칩니다."
+      "raw": "4월 3일 12시, 오늘의 인사이트입니다. 시장은 기술주 변동성에 주목 중이며, 예술계는 신규 전시들로 활기를 띠고 있습니다."
     }
   }
 }
