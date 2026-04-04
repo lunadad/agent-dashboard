@@ -19,5 +19,65 @@
   "latest_briefing": {
     "timestamp": "2026-04-03T20:50:00+09:00",
     "summary": "Tech sector showing resilience with modest gains. Steady interest in digital art sectors; preparing for weekend art events and gallery previews."
+  },
+  "costMonitoring": {
+    "currency": "USD",
+    "updatedAt": "2026. 4. 4. AM 9:33:08",
+    "budgetDailyUsd": 1.5,
+    "budgetMonthlyUsd": 35,
+    "budgetDailyTokens": 400000,
+    "budgetMonthlyTokens": 9000000,
+    "byAgent": [
+      {
+        "agent": "루나봇",
+        "dailyUsd": 0.21,
+        "monthlyUsd": 4.23,
+        "dailyTokens": 38000,
+        "monthlyTokens": 786000,
+        "calls": 38,
+        "models": [
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 28000
+          },
+          {
+            "name": "openai-codex/gpt-5.3-codex",
+            "tokens": 10000
+          }
+        ]
+      },
+      {
+        "agent": "카리나",
+        "dailyUsd": 0.2775,
+        "monthlyUsd": 7.8075,
+        "dailyTokens": 52500,
+        "monthlyTokens": 1221500,
+        "calls": 22,
+        "models": [
+          {
+            "name": "google/gemini-3.1-pro",
+            "tokens": 35500
+          },
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 17000
+          }
+        ]
+      },
+      {
+        "agent": "머스크",
+        "dailyUsd": 0.2525,
+        "monthlyUsd": 6.5225,
+        "dailyTokens": 47500,
+        "monthlyTokens": 1014500,
+        "calls": 22,
+        "models": [
+          {
+            "name": "google/gemini-3.1-flash-lite",
+            "tokens": 47500
+          }
+        ]
+      }
+    ]
   }
 }
