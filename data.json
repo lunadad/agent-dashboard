@@ -22,7 +22,7 @@
   },
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026. 4. 4. AM 9:33:08",
+    "updatedAt": "2026. 4. 4. PM 9:04:23",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
@@ -30,15 +30,15 @@
     "byAgent": [
       {
         "agent": "루나봇",
-        "dailyUsd": 0.21,
-        "monthlyUsd": 4.23,
-        "dailyTokens": 38000,
-        "monthlyTokens": 786000,
-        "calls": 38,
+        "dailyUsd": 0.2775,
+        "monthlyUsd": 4.2975,
+        "dailyTokens": 51500,
+        "monthlyTokens": 799500,
+        "calls": 47,
         "models": [
           {
             "name": "google/gemini-3.1-flash-lite",
-            "tokens": 28000
+            "tokens": 41500
           },
           {
             "name": "openai-codex/gpt-5.3-codex",
@@ -48,15 +48,15 @@
       },
       {
         "agent": "카리나",
-        "dailyUsd": 0.2775,
-        "monthlyUsd": 7.8075,
-        "dailyTokens": 52500,
-        "monthlyTokens": 1221500,
-        "calls": 22,
+        "dailyUsd": 0.30750000000000005,
+        "monthlyUsd": 7.8375,
+        "dailyTokens": 58500,
+        "monthlyTokens": 1227500,
+        "calls": 26,
         "models": [
           {
             "name": "google/gemini-3.1-pro",
-            "tokens": 35500
+            "tokens": 41500
           },
           {
             "name": "google/gemini-3.1-flash-lite",
@@ -66,15 +66,15 @@
       },
       {
         "agent": "머스크",
-        "dailyUsd": 0.2525,
-        "monthlyUsd": 6.5225,
-        "dailyTokens": 47500,
-        "monthlyTokens": 1014500,
-        "calls": 22,
+        "dailyUsd": 0.3425000000000001,
+        "monthlyUsd": 6.612500000000001,
+        "dailyTokens": 65500,
+        "monthlyTokens": 1032500,
+        "calls": 34,
         "models": [
           {
             "name": "google/gemini-3.1-flash-lite",
-            "tokens": 47500
+            "tokens": 65500
           }
         ]
       }
