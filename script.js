@@ -161,8 +161,11 @@ async function loadData() {
     const res = await fetch("./data.json", { cache: "no-store" });
     if (!res.ok) return;
     const json = await res.json();
-    if (json?.agents?.length) state = { ...defaultData, ...json };
-  } catch {
+    if (json) {
+      state = { ...defaultData, ...json };
+    }
+  } catch (err) {
+    console.error("데이터 로드 중 에러 발생:", err);
     // fallback to defaultData
   }
 }
@@ -775,12 +778,24 @@ function showContent() {
 
 // ── Render all ──
 
-function renderDailyReports(items) {
+function renderDailyReports(data) {
   const wrap = document.getElementById("dailyReports");
   if (!wrap) return;
   wrap.innerHTML = "";
 
-  (items || []).forEach((r, idx) => {
+  let items = [];
+  if (Array.isArray(data)) {
+    items = data;
+  } else if (data && typeof data === "object") {
+    items = Object.entries(data).map(([agent, info]) => ({
+      agent,
+      title: info.title || `${agent} 브리핑`,
+      time: info.updatedAt ? new Date(info.updatedAt).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) : "09:00",
+      ...info
+    }));
+  }
+
+  items.forEach((r, idx) => {
     const item = document.createElement("div");
     item.className = "report-item";
 
