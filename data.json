@@ -12,7 +12,7 @@
   },
   "costMonitoring": {
     "currency": "USD",
-    "updatedAt": "2026. 4. 11. PM 9:04:34",
+    "updatedAt": "2026. 4. 12. PM 9:04:40",
     "budgetDailyUsd": 1.5,
     "budgetMonthlyUsd": 35,
     "budgetDailyTokens": 400000,
@@ -20,15 +20,15 @@
     "byAgent": [
       {
         "agent": "루나봇",
-        "dailyUsd": 0.7274999999999999,
-        "monthlyUsd": 4.747500000000001,
-        "dailyTokens": 141500,
-        "monthlyTokens": 889500,
-        "calls": 107,
+        "dailyUsd": 0.8024999999999998,
+        "monthlyUsd": 4.822500000000002,
+        "dailyTokens": 156500,
+        "monthlyTokens": 904500,
+        "calls": 117,
         "models": [
           {
             "name": "google/gemini-3.1-flash-lite",
-            "tokens": 131500
+            "tokens": 146500
           },
           {
             "name": "openai-codex/gpt-5.3-codex",
@@ -38,15 +38,15 @@
       },
       {
         "agent": "카리나",
-        "dailyUsd": 0.8325,
-        "monthlyUsd": 8.362500000000008,
-        "dailyTokens": 163500,
-        "monthlyTokens": 1332500,
-        "calls": 96,
+        "dailyUsd": 0.885,
+        "monthlyUsd": 8.41500000000001,
+        "dailyTokens": 174000,
+        "monthlyTokens": 1343000,
+        "calls": 103,
         "models": [
           {
             "name": "google/gemini-3.1-pro",
-            "tokens": 146500
+            "tokens": 157000
           },
           {
             "name": "google/gemini-3.1-flash-lite",
@@ -57,15 +57,15 @@
       {
         "agent": "머스크",
         "derived": "...",
-        "dailyUsd": 0.8525,
-        "monthlyUsd": 7.122500000000001,
-        "dailyTokens": 167500,
-        "monthlyTokens": 1134500,
-        "calls": 102,
+        "dailyUsd": 0.9425,
+        "monthlyUsd": 7.212500000000002,
+        "dailyTokens": 185500,
+        "monthlyTokens": 1152500,
+        "calls": 114,
         "models": [
           {
             "name": "google/gemini-3.1-flash-lite",
-            "tokens": 167500
+            "tokens": 185500
           }
         ]
       }
